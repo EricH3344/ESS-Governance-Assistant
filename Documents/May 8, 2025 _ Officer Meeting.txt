@@ -1,0 +1,280 @@
+﻿Logo.png 
+________________
+
+
+
+ESS Officer Meeting Minutes – Procès-verbal de la réunion des dirigeants de l'AÉG
+Date: 2025-05-08 7:00 PM
+
+
+Location + Link - Lieu et lien: CBY A04, https://meet.google.com/jdq-jhne-rfg 
+
+
+Discussions lead by Aiden McCooeye (he/him) and Eric Hagen (he/him).
+Discussions menées par Aiden McCooeye (il/lui) et Eric Hagen (il/lui).
+
+
+Officers Present - Dirigeants.es Présent.e.s:
+* Co-President/Coprésident – Aiden McCooeye (he/him/il)
+* Co-President/Coprésident – Eric Hagen (he/him/il)
+* VP External/Externe – Ashna Cheverlharan (she/her/elle)
+* VP Finance & Administration – Cyrus Choi (he/him/il)
+* VP Academic/Académique – Nick Mesquita (he/him/il)
+* VP Communications – Hayley Jubinville (she/her/elle)
+* VP Internal/Interne – Daniel Thorp (he/him/il)
+* VP Social – Jake Mol (he/him/il)
+* VP Philanthropic/Philanthropique – Zoe Saunders(she/her/elle)
+* VP Equity/Équité – Maria Hal
+* Manager of IT/Gestionnaire de TI – Adi
+* Manager of Sponsorship/Gestionnaire de parrainage – Daniel K.
+* Manager of Sports – Alper
+* Manager of Translations/Gestionnaire des traductions – Hayden
+* Manager of Student Advocacy/Gestionnaire de la revendication étudiants – Brooke
+* Manager of Marketing/Gestionnaire de marketing – Krish
+* Chair of the Board/Président du CA – Maya (she/they/elle)
+
+
+Officers Absent - Dirigeants.es Absent.e.s: 
+* VP Services – Luke (he/him/il)
+* VP Francophone – Vacant
+* VP Sustainability/Développement durable – Leila
+* Manager of Social Media/Gestionnaire des médias sociaux – Conall (he/him/il)
+* 101 Week Coordinator/Coordinateur.trice de la semaine 101 – Vacant
+* Wine and Cheese Coordinator/Coordinateur.trice de vin et fromage – Vacant
+
+
+Land Acknowledgement - Reconnaissance des terres
+
+
+* We acknowledge that we are gathered on the traditional and unceded territory of the Algonquin Anishinaabe Nation. For generations, they have been the stewards of this land, and their deep connection to it continues to this day. We recognize the enduring presence and contributions of the Algonquin people to this region. We also acknowledge the painful history of colonization and the displacement of Indigenous communities from their ancestral lands. We commit ourselves to learning, understanding, and honoring the Algonquin Nation's history and culture. We recognize the importance of working collaboratively to create a more just and equitable future for all who call this land home.
+* Nous reconnaissons que nous sommes réunis sur le territoire traditionnel et non cédé de la nation algonquine anishinaabe. Depuis des générations, ils sont les gardiens de cette terre et le lien profond qui les unit à elle perdure encore aujourd'hui. Nous reconnaissons la présence et les contributions durables du peuple algonquin dans cette région. Nous reconnaissons également l'histoire douloureuse de la colonisation et du déplacement des communautés autochtones de leurs terres ancestrales. Nous nous engageons à apprendre, à comprendre et à honorer l'histoire et la culture de la nation algonquine. Nous reconnaissons l'importance de travailler en collaboration pour créer un avenir plus juste et plus équitable pour tous ceux qui vivent sur cette terre.
+________________
+Updates - Mises à Jour: 
+Co-Presidents/Coprésidents: 
+   * Transitioned 👍
+   * Met with NBC/BNC and changed signatories as well as started the application process for a credit card
+VP External/Externe: 
+   * Officially transitioned VP Academic (Nick)
+   * Officially transitioned by VP External (Ethan)
+   * Received list of conferences dates and locations
+   * Been brainstorming ideas and initiatives to implement in regards to the conference selection process, marketing strategies (discussion later) etc.
+Manager of Sports/Gestionnaire de sports:
+   * Transitioned!
+VP Finance & Administration: 
+   * Officially transitioned Manager of IT (Adi)
+   * Officially transitioned by VPFA (Dom)
+   * Started working on budget templates
+Manager of Sponsorship/Gestionnaire de parrainage:
+   * Transitioned!
+VP Academic/Académique: 
+   * Transitioned :)
+Wine and Cheese Coordinator/Coordinateur.trice de vin et fromage:
+   * Vacant
+Manager of Student Advocacy/Gestionnaire de la revendication étudiants:
+   * not transitioned :(
+VP Communications:
+   * Transitioned
+   * Transitioned Manager of Social Media
+   * Met with CU Advertising to discuss handbook package and mail outs
+   * We puts ads from them in the handbook 60-40 split on the venue
+   * Promo request form out - new process
+   * The Otis dates have been set with the advertising company, no budging
+   * 6 per semester, once every two weeks on Wednesdays
+   * There will be hard, fixed deadline
+   * Printed copies this year
+Manager of Marketing/Gestionnaire de marketing:
+   * Will reach out to Hayley for transition
+Manager of Social Media/Gestionnaire des médias sociaux:
+   * Transitioned
+Manager of IT/Gestionnaire de TI:
+   * Transitioned by Cryus
+VP Internal/Interne:
+   * Reaching out to Sub-Associations and engineering teams to schedule meetings
+   * Waiting for nanoBrew contact
+   * Jake has found someone for 101 Week Coordinator; no other Manager hiring processes for now
+   * I've been working on some policy changes to propose at the next Board meeting
+   * Reviewed and left comments on Carolina’s French by-laws doc
+Transition
+   * Thanks Aiden for the transition doc!
+   * Sent Maya a transition doc (new) and credentials for email + BoD/CA Instagram
+   * Met with Maya to discuss BoD/CA and transition
+   * Read a lot of old emails, minutes, etc. & compiled a list of previous VP Internals
+   * Met with Viran Daluwatte (VP Internal) and Nick Burgel (President) from 2015-16
+   * Provided context on why they wrote the by-laws and policies manual to replace the constitution
+   * They were seeking to incorporate as a not-for-profit (under the CNCA/LCOBNL):
+   * Recent efforts to defederate from the SFUO/FÉUO (mostly around 2011)
+   * $200k in reserves, Nick received a T5 for his personal income taxes when he was VP Finance in 2014-15 😮
+   * Wanted to indemnify officers & reduce individual legal liability
+   * Getting a credit card & issuing donation receipts were also reasons back then
+   * They made a lot of major changes to ESS/AÉG governance, opened positions to more students (created “Manager” positions)
+   * The previous constitution was missing structure and they wanted to create the policy manual to formalize various policies (such as locker rentals)
+   * Rewrote and structured the EEF Constitution/governance
+   * They helped plan STM and JMTS/ECJM and a lot of the design teams started back then after having been ad hoc previously (so then EEF/FdG started to get tighter on funds because it was created in a context where there were way less teams)
+   * Shared advice on Sub-Association and design team relations
+   * Mentioned that we have honorary members, which have now been verified and added to a list so hopefully we can let them know about our meetings of members going forward
+uOEC
+   * Advertised uOEC/CIuO organizing committee applications
+   * Received 10 applications! 🎉 Sent 6 interview invites.
+   * Conducting interviews and will be appointing the uOEC/CIuO Commissioner very soon
+   * Question from Hayley: is there a theme?
+   * Will be chosen by the committee
+   * Answered question in CFES/FCÉG server from Dal Sexton about organizing engineering competitions
+   * Windsor Prez suggested bonus grades (this was also mentioned at CALE/CPLI ‘25 plenary)
+   * We're looking to create a channel in the ESSCO/CAÉGO server for engineering competition OCs and OEC/CIO OC/CO to coordinate/discuss
+VP Services:
+   * No transition necessary
+VP Social:
+   * Transitioned
+101 Week Coordinator/Coordinateur.trice de la semaine 101:
+   * Vacant
+VP Philanthropic/Philanthropique:
+   * Transitioned! 🫶🏼
+VP Equity/Équité:
+   * Hi
+   * Not transitioned
+VP Francophone: 
+   * Vacant
+Manager of Translations/Gestionnaire des traductions:
+   * Transitioned by Carolina
+VP Sustainability/Développement durable:
+   * ?
+Chair of the Board/Président du CA:
+   * Wooooo! This is new! Hi! 
+   * BOD! 
+   * First meeting will be the 25th at 11am
+   * Plz be there
+   * If you can’t let me know 
+   * Updates! 
+   * Ik it’s early and most of you won’t have many updates so i’m thinking of adding an optional “funny question” / get to know you question that officers and BoD/CA reps can answer that i will share the results of 
+   * Let me know if y’all have any question ideas 
+   * (this is where to put the link if I get the google form done before this meeting but i doubt) 
+   * Accountability 
+   * I’m letting y’all pick your colors for my accountability spreadsheet so fill in below with ur HEX code :) (bold means i put it in :) ) 
+
+
+Aiden
+	
+
+	Hayley
+	#E30B5D
+	Maria
+	
+
+	Luke
+	
+
+	Krish
+	
+
+	Ashna
+	#FC8EAC
+	Daniel T
+	#50276e
+	Leila
+	
+
+	Alper
+	#FDA913
+	Dakota 
+[a]	
+#c63bff
+	Cyrus
+	#20a7db
+	Jake
+	#000000[b]
+	Conall
+	#6aa84f
+	Hayden
+	
+
+	
+
+	
+
+	Nick
+	#002C00
+	Zoe
+	#C8B7E6
+	Adi
+	
+
+	Brooke
+	#08cfaa
+	
+
+	
+
+	Motions
+   * WHEREAS: the 101 Week Coordinator Position is vacant,
+BE IT RESOLVED: that Dakota Squires be appointed as 101 Week Coordinator for the 2025 term
+ATTENDU QUE: le poste de coordonnateur de la Semaine 101 est vacant,
+IL EST RÉSOLU QUE: Dakota Squires soit nommée coordonnateur de la Semaine 101 pour le mandat 2025.
+
+
+Adopted with unanimous consent.
+Discussion Items - Éléments de Discussion:
+   * President: Introductions
+   * Round table where everyone introduced themselves
+   * President: How to write updates
+   * Present anything you’ve done, especially if it relates to your mandate
+   * Don’t include things that you intend to do but have not yet completed
+   * Any questions or discussions should be in the discussion section not updates
+   * Both languages for acronyms e.g. ESS/AÉG
+   * Add updates to both the English and French docs
+   * Mention it if translating with Google Translate or DeepL
+   * President: Brainstorm chat
+   * Won’t be scheduling 1-on-1s with everyone, so reach out if you want to chat/brainstorm with the Co-Presidents
+   * President: Retreat
+   * Will send poll for availability to select a date; poll was already sent to the previous team
+   * We need to find an option that has fun, productivity, and low cost
+   * Looking into cottages as the preferred option
+   * An alternative of doing it on campus with socials around Ottawa was proposed
+   * We might go camping separately, but won’t work for productivity 
+   * President: Officer dashboard and task tracker
+   * Maya will be tracking accountability separately, but this will be used for keeping track of tasks
+   * Contact Eric if you have feedback on the Notion
+   * Show up to events organized by other execs, repost events on Instagram, make yourself aware of what is going on
+   * The more in the loop and involved you are, the more you’ll get out of being on the team
+   * VP External: External Affairs Instagram Account
+   * A lot of students don’t know about ESSCO/CAÉGO and CFES/FCÉG conferences
+   * Started an Instagram account to promote the 9 conferences
+   * Have not done much yet, wanted to run the idea by the team first
+   * VP Internal/Services: Office etiquette
+   * Went through the doc
+   * Don’t share the office passcode with non-officers
+   * VP Internal: Summer office hours
+   * Let Daniel know if you’re interested in hosting office hours during the summer, it’s optional
+   *    * VP Internal: uOEC/CIuO bonus grades
+   * Aiden already attempted to contact profs and they weren’t willing, already contacted Hanan Anis
+   * Being able to provide competitors with grade boosts would help engagement; we have not been sending full delegations to OEC and have not been winning in the past few years because of low engagement
+   * Daniel will send an email to Alain Malette and cc Nick
+   * VP Comms: New promo/instagram post process
+   * Cohesive brand across Instagram, Facebook, website, sponsorship package, handbook, Otis, etc.
+   * Won’t be posting as much on the Instagram
+   * Weekly post with events for the upcoming week
+   * Inspired by Waterloo’s Eng Soc
+   * Only large events will have their own post
+   * Promo requests will require 3 weeks
+   * There will be thread for each promo request in the #promo-requests channel
+   * You can make your own graphics but comms will also be happy to make them
+   * For statements or stances: they need to go through the Co-Presidents, and potentially 
+   * Chair: Office hours! 
+   * Eric, Aiden and Daniel are ok with it but I want to gauge how comfortable the rest of you guys are!
+   * Daniel will present a motion at May BoD to add optional office hours to the Chair’s mandate
+   * Chair: Bod Comms
+   * Let me know when the promo request form is done so we can advertise BoD/CA and secretary applications
+
+
+Varia
+   * Are we supposed to prepare Summer EEF/FdG applications? (Deadline: May 19th)
+   * Might prepare one for uOEC/CIuO
+Reminders - Rappels
+   * President: As we are all getting transitioned, please remember to keep the office clean especially since we lose A04 for the summer and need to know where 101 week contents are 🙂
+   * Chair: Reminder that once you’ve been transitioned plz let me know so we can have a short meeting about my expectations but mostly just to open a line of communication between us 
+   * Managers if you want to meet i would be happy to 
+________________
+Page  of 
+
+
+[a]you're table is weird but can I pretty please have c63bff
+[b]BORING

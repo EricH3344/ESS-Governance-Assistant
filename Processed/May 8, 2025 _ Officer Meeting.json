@@ -1,0 +1,992 @@
+[
+  {
+    "type": "doc_start",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "﻿Logo.png\n________________\nESS Officer Meeting Minutes – Procès-verbal de la réunion des dirigeants de l'AÉG\nDate: 2025-05-08 7:00 PM\nLocation + Link - Lieu et lien: CBY A04, https://meet.google.com/jdq-jhne-rfg\nDiscussions lead by Aiden McCooeye (he/him) and Eric Hagen (he/him).\nDiscussions menées par Aiden McCooeye (il/lui) et Eric Hagen (il/lui).",
+    "sentences": [
+      "﻿Logo.png\n________________",
+      "ESS Officer Meeting Minutes – Procès-verbal de la réunion des dirigeants de l'AÉG\nDate: 2025-05-08 7:00 PM\nLocation + Link - Lieu et lien: CBY",
+      "A04, https://meet.google.com/jdq-jhne-rfg\nDiscussions lead by Aiden McCooeye (he/him) and Eric Hagen (he/him).",
+      "Discussions menées par Aiden McCooeye (il/lui) et",
+      "Eric Hagen (il/lui)."
+    ],
+    "entities": [
+      {
+        "text": "2025-05-08",
+        "label": "DATE"
+      },
+      {
+        "text": "7:00 PM\nLocation + Link - Lieu",
+        "label": "TIME"
+      },
+      {
+        "text": "lien",
+        "label": "PERSON"
+      },
+      {
+        "text": "A04",
+        "label": "PERSON"
+      },
+      {
+        "text": "Aiden McCooeye",
+        "label": "ORG"
+      },
+      {
+        "text": "Eric Hagen",
+        "label": "PERSON"
+      },
+      {
+        "text": "Aiden McCooeye",
+        "label": "ORG"
+      },
+      {
+        "text": "Eric Hagen",
+        "label": "PERSON"
+      }
+    ],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "land_ack",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "* We acknowledge that we are gathered on the traditional and unceded territory of the Algonquin Anishinaabe Nation. For generations, they have been the stewards of this land, and their deep connection to it continues to this day. We recognize the enduring presence and contributions of the Algonquin people to this region. We also acknowledge the painful history of colonization and the displacement of Indigenous communities from their ancestral lands. We commit ourselves to learning, understanding, and honoring the Algonquin Nation's history and culture. We recognize the importance of working collaboratively to create a more just and equitable future for all who call this land home.\n* Nous reconnaissons que nous sommes réunis sur le territoire traditionnel et non cédé de la nation algonquine anishinaabe. Depuis des générations, ils sont les gardiens de cette terre et le lien profond qui les unit à elle perdure encore aujourd'hui. Nous reconnaissons la présence et les contributions durables du peuple algonquin dans cette région. Nous reconnaissons également l'histoire douloureuse de la colonisation et du déplacement des communautés autochtones de leurs terres ancestrales. Nous nous engageons à apprendre, à comprendre et à honorer l'histoire et la culture de la nation algonquine. Nous reconnaissons l'importance de travailler en collaboration pour créer un avenir plus juste et plus équitable pour tous ceux qui vivent sur cette terre.\n________________",
+    "sentences": [
+      "* We acknowledge that we are gathered on the traditional and unceded territory of the Algonquin Anishinaabe Nation.",
+      "For generations, they have been the stewards of this land, and their deep connection to it continues to this day.",
+      "We recognize the enduring presence and contributions of the Algonquin people to this region.",
+      "We also acknowledge the painful history of colonization and the displacement of Indigenous communities from their ancestral lands.",
+      "We commit ourselves to learning, understanding, and honoring the Algonquin Nation's history and culture.",
+      "We recognize the importance of working collaboratively to create a more just and equitable future for all who call this land home.",
+      "* Nous reconnaissons que nous sommes réunis sur le territoire traditionnel et non cédé de la nation algonquine anishinaabe.",
+      "Depuis des générations, ils sont les gardiens de cette terre et le lien profond qui les unit à elle perdure encore aujourd'hui.",
+      "Nous reconnaissons la présence et les contributions durables du peuple algonquin dans cette région.",
+      "Nous reconnaissons également l'histoire douloureuse de la colonisation et du déplacement des communautés autochtones de leurs terres ancestrales.",
+      "Nous nous engageons à apprendre, à comprendre et à honorer l'histoire et la culture de la nation algonquine.",
+      "Nous reconnaissons l'importance de travailler en collaboration pour créer un avenir plus juste et plus équitable pour tous ceux qui vivent sur cette terre.\n________________"
+    ],
+    "entities": [
+      {
+        "text": "the Algonquin Anishinaabe Nation",
+        "label": "ORG"
+      },
+      {
+        "text": "this day",
+        "label": "DATE"
+      },
+      {
+        "text": "Indigenous",
+        "label": "ORG"
+      },
+      {
+        "text": "the Algonquin Nation's",
+        "label": "ORG"
+      },
+      {
+        "text": "Depuis",
+        "label": "PERSON"
+      },
+      {
+        "text": "elle perdure encore aujourd'hui",
+        "label": "ORG"
+      },
+      {
+        "text": "dans",
+        "label": "NORP"
+      },
+      {
+        "text": "un",
+        "label": "ORG"
+      }
+    ],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "minutes_update",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "Co-Presidents",
+    "person": "N/A",
+    "content": "* Transitioned 👍\n* Met with NBC/BNC and changed signatories as well as started the application process for a credit card",
+    "sentences": [
+      "* Transitioned 👍\n*",
+      "Met with NBC/BNC and changed signatories as well as started the application process for a credit card"
+    ],
+    "entities": [
+      {
+        "text": "NBC",
+        "label": "ORG"
+      },
+      {
+        "text": "BNC",
+        "label": "ORG"
+      }
+    ],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "minutes_update",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "VP External",
+    "person": "N/A",
+    "content": "* Officially transitioned VP Academic (Nick)\n* Officially transitioned by VP External (Ethan)\n* Received list of conferences dates and locations\n* Been brainstorming ideas and initiatives to implement in regards to the conference selection process, marketing strategies (discussion later) etc.",
+    "sentences": [
+      "* Officially transitioned VP Academic (Nick)\n* Officially transitioned by VP External (Ethan)\n*",
+      "Received list of conferences dates and locations\n* Been brainstorming ideas and initiatives to implement in regards to the conference selection process, marketing strategies (discussion later) etc."
+    ],
+    "entities": [
+      {
+        "text": "VP Academic",
+        "label": "ORG"
+      },
+      {
+        "text": "VP External",
+        "label": "ORG"
+      },
+      {
+        "text": "Ethan",
+        "label": "PERSON"
+      }
+    ],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "minutes_update",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "Manager of Sports",
+    "person": "N/A",
+    "content": "* Transitioned!",
+    "sentences": [
+      "* Transitioned!"
+    ],
+    "entities": [],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "minutes_update",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "VP Finance & Administration",
+    "person": "N/A",
+    "content": "* Officially transitioned Manager of IT (Adi)\n* Officially transitioned by VPFA (Dom)\n* Started working on budget templates",
+    "sentences": [
+      "* Officially transitioned Manager of IT (Adi)\n* Officially transitioned by VPFA (Dom)\n* Started working on budget templates"
+    ],
+    "entities": [
+      {
+        "text": "Adi",
+        "label": "PERSON"
+      },
+      {
+        "text": "VPFA (Dom",
+        "label": "ORG"
+      }
+    ],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "minutes_update",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "Manager of Sponsorship",
+    "person": "N/A",
+    "content": "* Transitioned!",
+    "sentences": [
+      "* Transitioned!"
+    ],
+    "entities": [],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "minutes_update",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "VP Academic",
+    "person": "N/A",
+    "content": "* Transitioned :)",
+    "sentences": [
+      "* Transitioned :)"
+    ],
+    "entities": [],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "minutes_update",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "Wine and Cheese Coordinator",
+    "person": "N/A",
+    "content": "* Vacant",
+    "sentences": [
+      "* Vacant"
+    ],
+    "entities": [],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "minutes_update",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "Manager of Student Advocacy",
+    "person": "N/A",
+    "content": "* not transitioned :(",
+    "sentences": [
+      "* not transitioned :("
+    ],
+    "entities": [],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "minutes_update",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "VP Communications",
+    "person": "N/A",
+    "content": "* Transitioned\n* Transitioned Manager of Social Media\n* Met with CU Advertising to discuss handbook package and mail outs\n* We puts ads from them in the handbook 60-40 split on the venue\n* Promo request form out - new process\n* The Otis dates have been set with the advertising company, no budging\n* 6 per semester, once every two weeks on Wednesdays\n* There will be hard, fixed deadline\n* Printed copies this year",
+    "sentences": [
+      "* Transitioned\n* Transitioned Manager of Social Media\n*",
+      "Met with CU Advertising to discuss handbook package and mail outs\n*",
+      "We puts ads from them in the handbook 60-40 split on the venue\n*",
+      "Promo request form out - new process\n*",
+      "The Otis dates have been set with the advertising company, no budging\n* 6 per semester, once every two weeks on Wednesdays\n* There will be hard, fixed deadline\n*",
+      "Printed copies this year"
+    ],
+    "entities": [
+      {
+        "text": "CU Advertising",
+        "label": "ORG"
+      },
+      {
+        "text": "60-40",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Otis",
+        "label": "ORG"
+      },
+      {
+        "text": "6",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "every two weeks",
+        "label": "DATE"
+      },
+      {
+        "text": "Wednesdays",
+        "label": "DATE"
+      },
+      {
+        "text": "this year",
+        "label": "DATE"
+      }
+    ],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "minutes_update",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "Manager of Marketing",
+    "person": "N/A",
+    "content": "* Will reach out to Hayley for transition",
+    "sentences": [
+      "* Will reach out to Hayley for transition"
+    ],
+    "entities": [
+      {
+        "text": "Hayley",
+        "label": "PERSON"
+      }
+    ],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "minutes_update",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "Manager of Social Media",
+    "person": "N/A",
+    "content": "* Transitioned",
+    "sentences": [
+      "* Transitioned"
+    ],
+    "entities": [],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "minutes_update",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "Manager of IT",
+    "person": "N/A",
+    "content": "* Transitioned by Cryus",
+    "sentences": [
+      "* Transitioned by Cryus"
+    ],
+    "entities": [
+      {
+        "text": "Cryus",
+        "label": "PERSON"
+      }
+    ],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "minutes_update",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "VP Internal",
+    "person": "N/A",
+    "content": "* Reaching out to Sub-Associations and engineering teams to schedule meetings\n* Waiting for nanoBrew contact\n* Jake has found someone for 101 Week Coordinator; no other Manager hiring processes for now\n* I've been working on some policy changes to propose at the next Board meeting\n* Reviewed and left comments on Carolina’s French by-laws doc\nTransition\n* Thanks Aiden for the transition doc!\n* Sent Maya a transition doc (new) and credentials for email + BoD/CA Instagram\n* Met with Maya to discuss BoD/CA and transition\n* Read a lot of old emails, minutes, etc. & compiled a list of previous VP Internals\n* Met with Viran Daluwatte (VP Internal) and Nick Burgel (President) from 2015-16\n* Provided context on why they wrote the by-laws and policies manual to replace the constitution",
+    "sentences": [
+      "* Reaching out to Sub-Associations and engineering teams to schedule meetings\n*",
+      "Waiting for nanoBrew contact\n*",
+      "Jake has found someone for 101 Week Coordinator; no other Manager hiring processes for now\n* I've been working on some policy changes to propose at the next Board meeting\n*",
+      "Reviewed and left comments on Carolina’s French by-laws doc\nTransition\n*",
+      "Thanks Aiden for the transition doc!",
+      "*",
+      "Sent Maya a transition doc (new) and credentials for email + BoD/CA Instagram\n*",
+      "Met with Maya to discuss BoD/CA and transition\n* Read a lot of old emails, minutes, etc. & compiled a list of previous VP Internals\n*",
+      "Met with Viran Daluwatte (VP Internal) and Nick Burgel (President) from 2015-16\n* Provided context on why they wrote the by-laws and policies manual to replace the constitution"
+    ],
+    "entities": [
+      {
+        "text": "Sub-Associations",
+        "label": "ORG"
+      },
+      {
+        "text": "101 Week Coordinator",
+        "label": "DATE"
+      },
+      {
+        "text": "Carolina",
+        "label": "GPE"
+      },
+      {
+        "text": "French",
+        "label": "NORP"
+      },
+      {
+        "text": "Maya",
+        "label": "PERSON"
+      },
+      {
+        "text": "BoD/CA",
+        "label": "ORG"
+      },
+      {
+        "text": "minutes",
+        "label": "TIME"
+      },
+      {
+        "text": "VP Internals\n*",
+        "label": "ORG"
+      },
+      {
+        "text": "Viran Daluwatte",
+        "label": "ORG"
+      },
+      {
+        "text": "Nick Burgel",
+        "label": "PERSON"
+      },
+      {
+        "text": "2015-16",
+        "label": "DATE"
+      }
+    ],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "minutes_update",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "They were seeking to incorporate as a not-for-profit (under the CNCA",
+    "person": "N/A",
+    "content": "* Recent efforts to defederate from the SFUO/FÉUO (mostly around 2011)\n* $200k in reserves, Nick received a T5 for his personal income taxes when he was VP Finance in 2014-15 😮\n* Wanted to indemnify officers & reduce individual legal liability\n* Getting a credit card & issuing donation receipts were also reasons back then\n* They made a lot of major changes to ESS/AÉG governance, opened positions to more students (created “Manager” positions)\n* The previous constitution was missing structure and they wanted to create the policy manual to formalize various policies (such as locker rentals)\n* Rewrote and structured the EEF Constitution/governance\n* They helped plan STM and JMTS/ECJM and a lot of the design teams started back then after having been ad hoc previously (so then EEF/FdG started to get tighter on funds because it was created in a context where there were way less teams)\n* Shared advice on Sub-Association and design team relations\n* Mentioned that we have honorary members, which have now been verified and added to a list so hopefully we can let them know about our meetings of members going forward\nuOEC\n* Advertised uOEC/CIuO organizing committee applications\n* Received 10 applications! 🎉 Sent 6 interview invites.\n* Conducting interviews and will be appointing the uOEC/CIuO Commissioner very soon\n* Question from Hayley: is there a theme?\n* Will be chosen by the committee\n* Answered question in CFES/FCÉG server from Dal Sexton about organizing engineering competitions\n* Windsor Prez suggested bonus grades (this was also mentioned at CALE/CPLI ‘25 plenary)\n* We're looking to create a channel in the ESSCO/CAÉGO server for engineering competition OCs and OEC/CIO OC/CO to coordinate/discuss",
+    "sentences": [
+      "* Recent efforts to defederate from the SFUO/FÉUO (mostly around 2011)\n* $200k in reserves, Nick received a T5 for his personal income taxes when he was VP Finance in 2014-15 😮\n* Wanted to indemnify officers & reduce individual legal liability\n* Getting a credit card & issuing donation receipts were also reasons back then\n*",
+      "They made a lot of major changes to ESS/AÉG governance, opened positions to more students (created “Manager” positions)\n*",
+      "The previous constitution was missing structure and they wanted to create the policy manual to formalize various policies (such as locker rentals)\n* Rewrote and structured the EEF Constitution/governance\n*",
+      "They helped plan STM and JMTS/ECJM and a lot of the design teams started back then after having been ad hoc previously (so then EEF/FdG started to get tighter on funds because it was created in a context where there were way less teams)\n* Shared advice on Sub-Association and design team relations\n*",
+      "Mentioned that we have honorary members, which have now been verified and added to a list so hopefully we can let them know about our meetings of members going forward\nuOEC\n*",
+      "Advertised uOEC/CIuO organizing committee applications\n*",
+      "Received 10 applications!",
+      "🎉",
+      "Sent 6 interview invites.",
+      "* Conducting interviews and will be appointing the uOEC/CIuO Commissioner very soon\n* Question from Hayley: is there a theme?",
+      "* Will be chosen by the committee\n*",
+      "Answered question in CFES/FCÉG server from Dal Sexton about organizing engineering competitions\n*",
+      "Windsor Prez suggested bonus grades (this was also mentioned at CALE/CPLI",
+      "‘25 plenary)",
+      "* We're looking to create a channel in the ESSCO/CAÉGO server for engineering competition OCs and OEC/CIO OC/CO to coordinate/discuss"
+    ],
+    "entities": [
+      {
+        "text": "200k",
+        "label": "MONEY"
+      },
+      {
+        "text": "Nick",
+        "label": "ORG"
+      },
+      {
+        "text": "T5",
+        "label": "GPE"
+      },
+      {
+        "text": "VP Finance",
+        "label": "ORG"
+      },
+      {
+        "text": "2014-15",
+        "label": "DATE"
+      },
+      {
+        "text": "the EEF Constitution",
+        "label": "LAW"
+      },
+      {
+        "text": "EEF/FdG",
+        "label": "ORG"
+      },
+      {
+        "text": "Sub-Association",
+        "label": "ORG"
+      },
+      {
+        "text": "10",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "6",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Hayley",
+        "label": "PERSON"
+      },
+      {
+        "text": "CFES",
+        "label": "GPE"
+      },
+      {
+        "text": "Dal Sexton",
+        "label": "ORG"
+      },
+      {
+        "text": "CALE/CPLI",
+        "label": "ORG"
+      },
+      {
+        "text": "25",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "OEC/CIO OC/CO",
+        "label": "ORG"
+      }
+    ],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "minutes_update",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "VP Services",
+    "person": "N/A",
+    "content": "* No transition necessary",
+    "sentences": [
+      "*",
+      "No transition necessary"
+    ],
+    "entities": [],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "minutes_update",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "VP Social",
+    "person": "N/A",
+    "content": "* Transitioned",
+    "sentences": [
+      "* Transitioned"
+    ],
+    "entities": [],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "minutes_update",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "101 Week Coordinator",
+    "person": "N/A",
+    "content": "* Vacant",
+    "sentences": [
+      "* Vacant"
+    ],
+    "entities": [],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "minutes_update",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "VP Philanthropic",
+    "person": "N/A",
+    "content": "* Transitioned! 🫶🏼",
+    "sentences": [
+      "* Transitioned!",
+      "🫶🏼"
+    ],
+    "entities": [],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "minutes_update",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "VP Equity",
+    "person": "N/A",
+    "content": "* Hi\n* Not transitioned",
+    "sentences": [
+      "*",
+      "Hi\n* Not transitioned"
+    ],
+    "entities": [],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "minutes_update",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "VP Francophone",
+    "person": "N/A",
+    "content": "* Vacant",
+    "sentences": [
+      "* Vacant"
+    ],
+    "entities": [],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "minutes_update",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "Manager of Translations",
+    "person": "N/A",
+    "content": "* Transitioned by Carolina",
+    "sentences": [
+      "* Transitioned by Carolina"
+    ],
+    "entities": [
+      {
+        "text": "Carolina",
+        "label": "GPE"
+      }
+    ],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "minutes_update",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "VP Sustainability",
+    "person": "N/A",
+    "content": "* ?",
+    "sentences": [
+      "* ?"
+    ],
+    "entities": [],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "minutes_update",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "Chair of the Board",
+    "person": "N/A",
+    "content": "* Wooooo! This is new! Hi!\n* BOD!\n* First meeting will be the 25th at 11am\n* Plz be there\n* If you can’t let me know\n* Updates!\n* Ik it’s early and most of you won’t have many updates so i’m thinking of adding an optional “funny question” / get to know you question that officers and BoD/CA reps can answer that i will share the results of\n* Let me know if y’all have any question ideas\n* (this is where to put the link if I get the google form done before this meeting but i doubt)\n* Accountability\n* I’m letting y’all pick your colors for my accountability spreadsheet so fill in below with ur HEX code :) (bold means i put it in :) )\nAiden\nHayley\n#E30B5D\nMaria\nLuke\nKrish\nAshna\n#FC8EAC\nDaniel T\n#50276e\nLeila\nAlper\n#FDA913\nDakota\n[a]\n#c63bff\nCyrus\n#20a7db\nJake\n#000000[b]\nConall\n#6aa84f\nHayden\nNick\n#002C00\nZoe\n#C8B7E6\nAdi\nBrooke\n#08cfaa",
+    "sentences": [
+      "* Wooooo!",
+      "This is new!",
+      "Hi!",
+      "* BOD!",
+      "*",
+      "First meeting will be the 25th at 11am\n*",
+      "Plz be there\n*",
+      "If you can’t let me know\n* Updates!",
+      "*",
+      "Ik it’s early and most of you won’t have many updates so i’m thinking of adding an optional “funny question” / get to know you question that officers and BoD/CA reps can answer that i will share the results of\n* Let me know if y’all have any question ideas\n*",
+      "(this is where to put the link if I get the google form done before this meeting but i doubt)\n*",
+      "Accountability\n*",
+      "I’m letting y’all pick your colors for my accountability spreadsheet so fill in below with ur HEX code :)",
+      "(bold means i put it in :) )",
+      "Aiden\nHayley\n#E30B5D\nMaria\nLuke\nKrish\nAshna\n#FC8EAC\nDaniel T\n#50276e\nLeila\nAlper\n#FDA913\nDakota\n[a]\n#c63bff\nCyrus\n#20a7db\nJake\n#000000[b]\nConall\n#6aa84f\nHayden\nNick\n#002C00\nZoe\n#C8B7E6\nAdi\nBrooke\n#08cfaa"
+    ],
+    "entities": [
+      {
+        "text": "First",
+        "label": "ORDINAL"
+      },
+      {
+        "text": "the 25th",
+        "label": "DATE"
+      },
+      {
+        "text": "11am",
+        "label": "TIME"
+      },
+      {
+        "text": "BoD/CA",
+        "label": "ORG"
+      },
+      {
+        "text": "Aiden\nHayley",
+        "label": "PERSON"
+      },
+      {
+        "text": "Maria\nLuke\nKrish",
+        "label": "PERSON"
+      },
+      {
+        "text": "Leila\nAlper",
+        "label": "ORG"
+      },
+      {
+        "text": "000000[b",
+        "label": "MONEY"
+      },
+      {
+        "text": "6aa84f",
+        "label": "MONEY"
+      },
+      {
+        "text": "Hayden\nNick\n#002C00",
+        "label": "ORG"
+      },
+      {
+        "text": "08cfaa",
+        "label": "MONEY"
+      }
+    ],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "motion",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "* WHEREAS: the 101 Week Coordinator Position is vacant,\nBE IT RESOLVED: that Dakota Squires be appointed as 101 Week Coordinator for the 2025 term\nATTENDU QUE: le poste de coordonnateur de la Semaine 101 est vacant,\nIL EST RÉSOLU QUE: Dakota Squires soit nommée coordonnateur de la Semaine 101 pour le mandat 2025.\nAdopted with unanimous consent.",
+    "sentences": [
+      "* WHEREAS: the 101 Week Coordinator Position is vacant",
+      ",\nBE IT RESOLVED: that Dakota Squires be appointed as 101 Week Coordinator for the 2025 term\nATTENDU QUE: le poste de coordonnateur de la Semaine 101 est vacant,\nIL EST RÉSOLU QUE:",
+      "Dakota Squires soit nommée coordonnateur de la Semaine 101 pour le mandat 2025.",
+      "Adopted with unanimous consent."
+    ],
+    "entities": [
+      {
+        "text": "Dakota Squires",
+        "label": "ORG"
+      },
+      {
+        "text": "101 Week Coordinator",
+        "label": "EVENT"
+      },
+      {
+        "text": "2025",
+        "label": "DATE"
+      },
+      {
+        "text": "de coordonnateur de la",
+        "label": "PERSON"
+      },
+      {
+        "text": "101",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Dakota Squires",
+        "label": "ORG"
+      },
+      {
+        "text": "nommée coordonnateur de la Semaine",
+        "label": "PERSON"
+      },
+      {
+        "text": "2025",
+        "label": "DATE"
+      }
+    ],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "discussion",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "* President: Introductions\n* Round table where everyone introduced themselves\n* President: How to write updates\n* Present anything you’ve done, especially if it relates to your mandate\n* Don’t include things that you intend to do but have not yet completed\n* Any questions or discussions should be in the discussion section not updates\n* Both languages for acronyms e.g. ESS/AÉG\n* Add updates to both the English and French docs\n* Mention it if translating with Google Translate or DeepL\n* President: Brainstorm chat\n* Won’t be scheduling 1-on-1s with everyone, so reach out if you want to chat/brainstorm with the Co-Presidents\n* President: Retreat\n* Will send poll for availability to select a date; poll was already sent to the previous team\n* We need to find an option that has fun, productivity, and low cost\n* Looking into cottages as the preferred option\n* An alternative of doing it on campus with socials around Ottawa was proposed\n* We might go camping separately, but won’t work for productivity\n* President: Officer dashboard and task tracker\n* Maya will be tracking accountability separately, but this will be used for keeping track of tasks\n* Contact Eric if you have feedback on the Notion\n* Show up to events organized by other execs, repost events on Instagram, make yourself aware of what is going on\n* The more in the loop and involved you are, the more you’ll get out of being on the team\n* VP External: External Affairs Instagram Account\n* A lot of students don’t know about ESSCO/CAÉGO and CFES/FCÉG conferences\n* Started an Instagram account to promote the 9 conferences\n* Have not done much yet, wanted to run the idea by the team first\n* VP Internal/Services: Office etiquette\n* Went through the doc\n* Don’t share the office passcode with non-officers\n* VP Internal: Summer office hours\n* Let Daniel know if you’re interested in hosting office hours during the summer, it’s optional\n*    * VP Internal: uOEC/CIuO bonus grades\n* Aiden already attempted to contact profs and they weren’t willing, already contacted Hanan Anis\n* Being able to provide competitors with grade boosts would help engagement; we have not been sending full delegations to OEC and have not been winning in the past few years because of low engagement\n* Daniel will send an email to Alain Malette and cc Nick\n* VP Comms: New promo/instagram post process\n* Cohesive brand across Instagram, Facebook, website, sponsorship package, handbook, Otis, etc.\n* Won’t be posting as much on the Instagram\n* Weekly post with events for the upcoming week\n* Inspired by Waterloo’s Eng Soc\n* Only large events will have their own post\n* Promo requests will require 3 weeks\n* There will be thread for each promo request in the #promo-requests channel\n* You can make your own graphics but comms will also be happy to make them\n* For statements or stances: they need to go through the Co-Presidents, and potentially\n* Chair: Office hours!\n* Eric, Aiden and Daniel are ok with it but I want to gauge how comfortable the rest of you guys are!\n* Daniel will present a motion at May BoD to add optional office hours to the Chair’s mandate\n* Chair: Bod Comms\n* Let me know when the promo request form is done so we can advertise BoD/CA and secretary applications",
+    "sentences": [
+      "* President: Introductions\n* Round table where everyone introduced themselves\n* President: How to write updates\n*",
+      "Present anything you’ve done, especially if it relates to your mandate\n* Don’t include things that you intend to do but have not yet completed\n*",
+      "Any questions or discussions should be in the discussion section not updates\n* Both languages for acronyms e.g. ESS/AÉG\n*",
+      "Add updates to both the English and French docs\n*",
+      "Mention it if translating with Google Translate or DeepL\n* President: Brainstorm chat\n*",
+      "Won’t be scheduling 1-on-1s with everyone, so reach out if you want to chat/brainstorm with the Co-Presidents\n* President:",
+      "Retreat\n* Will send poll for availability to select a date; poll was already sent to the previous team\n*",
+      "We need to find an option that has fun, productivity, and low cost\n*",
+      "Looking into cottages as the preferred option\n*",
+      "An alternative of doing it on campus with socials around Ottawa was proposed\n*",
+      "We might go camping separately, but won’t work for productivity\n*",
+      "President: Officer dashboard and task tracker\n* Maya will be tracking accountability separately, but this will be used for keeping track of tasks\n*",
+      "Contact",
+      "Eric if you have feedback on the Notion\n* Show up to events organized by other execs, repost events on Instagram, make yourself aware of what is going on\n*",
+      "The more in the loop and involved you are, the more you’ll get out of being on the team\n* VP External: External Affairs Instagram Account\n*",
+      "A lot of students don’t know about ESSCO/CAÉGO and CFES/FCÉG conferences\n*",
+      "Started an Instagram account to promote the 9 conferences\n* Have not done much yet, wanted to run the idea by the team first\n* VP Internal/Services: Office etiquette\n*",
+      "Went through the doc\n*",
+      "Don’t share the office passcode with non-officers\n* VP Internal: Summer office hours\n* Let Daniel know if you’re interested in hosting office hours during the summer, it’s optional\n*    * VP Internal: uOEC/CIuO bonus grades\n* Aiden already attempted to contact profs and they weren’t willing, already contacted Hanan Anis\n* Being able to provide competitors with grade boosts would help engagement; we have not been sending full delegations to OEC and have not been winning in the past few years because of low engagement\n*",
+      "Daniel will send an email to Alain Malette and cc Nick\n* VP Comms: New promo/instagram post process\n* Cohesive brand across Instagram, Facebook, website, sponsorship package, handbook, Otis, etc.\n*",
+      "Won’t be posting as much on the Instagram\n* Weekly post with events for the upcoming week\n*",
+      "Inspired by Waterloo’s Eng Soc\n*",
+      "Only large events will have their own post\n* Promo requests will require 3 weeks\n*",
+      "There will be thread for each promo request in the #promo-requests channel\n*",
+      "You can make your own graphics but comms will also be happy to make them\n*",
+      "For statements or stances: they need to go through the Co-Presidents, and potentially\n* Chair: Office hours!",
+      "*",
+      "Eric, Aiden and Daniel are ok with it",
+      "but I want to gauge how comfortable the rest of you guys are!",
+      "* Daniel will present a motion at May BoD to add optional office hours to the Chair’s mandate\n* Chair: Bod Comms\n* Let me know when the promo request form is done so we can advertise BoD/CA and secretary applications"
+    ],
+    "entities": [
+      {
+        "text": "English",
+        "label": "LANGUAGE"
+      },
+      {
+        "text": "French",
+        "label": "NORP"
+      },
+      {
+        "text": "Google Translate",
+        "label": "ORG"
+      },
+      {
+        "text": "1",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Ottawa",
+        "label": "GPE"
+      },
+      {
+        "text": "Eric",
+        "label": "PERSON"
+      },
+      {
+        "text": "Instagram",
+        "label": "ORG"
+      },
+      {
+        "text": "Instagram Account",
+        "label": "PERSON"
+      },
+      {
+        "text": "ESSCO/CAÉGO",
+        "label": "ORG"
+      },
+      {
+        "text": "Instagram",
+        "label": "ORG"
+      },
+      {
+        "text": "9",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL"
+      },
+      {
+        "text": "Summer office hours",
+        "label": "TIME"
+      },
+      {
+        "text": "hours",
+        "label": "TIME"
+      },
+      {
+        "text": "the summer",
+        "label": "DATE"
+      },
+      {
+        "text": "Hanan Anis",
+        "label": "PERSON"
+      },
+      {
+        "text": "OEC",
+        "label": "ORG"
+      },
+      {
+        "text": "the past few years",
+        "label": "DATE"
+      },
+      {
+        "text": "Alain Malette",
+        "label": "PERSON"
+      },
+      {
+        "text": "Nick\n* VP Comms",
+        "label": "PERSON"
+      },
+      {
+        "text": "Instagram",
+        "label": "ORG"
+      },
+      {
+        "text": "Otis",
+        "label": "ORG"
+      },
+      {
+        "text": "the upcoming week",
+        "label": "DATE"
+      },
+      {
+        "text": "Waterloo’s Eng Soc",
+        "label": "PERSON"
+      },
+      {
+        "text": "3 weeks",
+        "label": "DATE"
+      },
+      {
+        "text": "#",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "comms",
+        "label": "ORG"
+      },
+      {
+        "text": "the Co-Presidents",
+        "label": "ORG"
+      },
+      {
+        "text": "Aiden",
+        "label": "GPE"
+      },
+      {
+        "text": "Daniel",
+        "label": "PERSON"
+      },
+      {
+        "text": "May BoD",
+        "label": "FAC"
+      },
+      {
+        "text": "Chair",
+        "label": "ORG"
+      },
+      {
+        "text": "BoD/CA",
+        "label": "ORG"
+      }
+    ],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "varia",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "* Are we supposed to prepare Summer EEF/FdG applications? (Deadline: May 19th)\n* Might prepare one for uOEC/CIuO",
+    "sentences": [
+      "* Are we supposed to prepare Summer EEF/FdG applications?",
+      "(Deadline: May 19th)\n*",
+      "Might prepare one for uOEC/CIuO"
+    ],
+    "entities": [
+      {
+        "text": "Summer EEF/FdG",
+        "label": "ORG"
+      },
+      {
+        "text": "May 19th",
+        "label": "DATE"
+      },
+      {
+        "text": "uOEC/CIuO",
+        "label": "ORG"
+      }
+    ],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  },
+  {
+    "type": "reminders",
+    "document_type": "minutes",
+    "source_file": "May 8, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "* President: As we are all getting transitioned, please remember to keep the office clean especially since we lose A04 for the summer and need to know where 101 week contents are 🙂\n* Chair: Reminder that once you’ve been transitioned plz let me know so we can have a short meeting about my expectations but mostly just to open a line of communication between us\n* Managers if you want to meet i would be happy to\n________________\nPage  of\n[a]you're table is weird but can I pretty please have c63bff\n[b]BORING",
+    "sentences": [
+      "* President: As we are all getting transitioned, please remember to keep the office clean especially since we lose A04 for the summer and need to know where 101 week contents are 🙂\n* Chair: Reminder that once you’ve been transitioned plz let me know so we can have a short meeting about my expectations but mostly just to open a line of communication between us\n* Managers if you want to meet i would be happy to\n________________",
+      "Page  of\n[a]you're table is weird but can I pretty please have c63bff\n[b]BORING"
+    ],
+    "entities": [
+      {
+        "text": "A04",
+        "label": "PERSON"
+      },
+      {
+        "text": "the summer",
+        "label": "DATE"
+      },
+      {
+        "text": "101 week",
+        "label": "MONEY"
+      }
+    ],
+    "meeting_date": "2025-05-08",
+    "meeting_date_display": "May 8, 2025"
+  }
+]

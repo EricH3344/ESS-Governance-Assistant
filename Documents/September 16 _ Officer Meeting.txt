@@ -1,0 +1,250 @@
+﻿Logo.png 
+________________
+
+
+
+ESS Officer Meeting Minutes – Procès-verbal de la réunion des dirigeants de l'AÉG
+Date: September 16th 2025 7pm
+Location + Link - Lieu et lien: CBY A05 + Virtual, Google Meet 
+
+
+Discussions lead by Aiden McCooeye (he/him/il) and Eric Hagen (he/him/il).
+
+
+Officers Present - Dirigeants.es Présent.e.s:
+* Co-President - Aiden (he/him/il)
+* Co-President - Eric (he/him/il)
+* VP External - Ashna (she/her/elle)
+* VP Social - Magno
+* VP Finance & Administration  - Cyrus (he/him/il) 
+* VP Communications - Hayley
+* VP Internal - Daniel T. (he/him/il)
+* VP Services - Luke (he/him/il) 
+* VP Academic - Nick (he/him/il)
+* VP Equity - Maria (she/her)
+* VP Philanthropic - Zoe
+* Manager of Sports - Alper 
+* Manager of Marketing - Krish
+* Manager of Sponsorship - Henri
+* Manager of Social Media - Conall (he/him/il)
+* Manager of IT - Adi
+* Manager of Translations - Hayden
+* Wine and Cheese Coordinator - Mehar
+* uOEC Commissioner - Reema
+* Charity Commissioner - Zoé
+* Finance Commissioner - Ryn
+* Sponsorship Liaison Commissioner - Kristen Wells
+
+
+Officers Absent - Dirigeants.es Absent.e.s: 
+* 101 Week Coordinator - Dakota - Term Over
+* Manager of Student Advocacy - Brooke - Excused for Fall Semester
+* Chair of the Board - Maya - Excused for Fall Semester
+* VP Sustainability - Leila
+* VP Francophone - Thomas
+* Manager of External Awareness - Rusafi
+
+
+Land Acknowledgement - Reconnaissance des terres
+
+
+* We acknowledge that we are gathered on the traditional and unceded territory of the Algonquin Anishinaabe Nation. For generations, they have been the stewards of this land, and their deep connection to it continues to this day. We recognize the enduring presence and contributions of the Algonquin people to this region. We also acknowledge the painful history of colonization and the displacement of Indigenous communities from their ancestral lands. We commit ourselves to learning, understanding, and honoring the Algonquin Nation's history and culture. We recognize the importance of working collaboratively to create a more just and equitable future for all who call this land home.
+* Nous reconnaissons que nous sommes réunis sur le territoire traditionnel et non cédé de la nation algonquine anishinaabe. Depuis des générations, ils sont les gardiens de cette terre et le lien profond qui les unit à elle perdure encore aujourd'hui. Nous reconnaissons la présence et les contributions durables du peuple algonquin dans cette région. Nous reconnaissons également l'histoire douloureuse de la colonisation et du déplacement des communautés autochtones de leurs terres ancestrales. Nous nous engageons à apprendre, à comprendre et à honorer l'histoire et la culture de la nation algonquine. Nous reconnaissons l'importance de travailler en collaboration pour créer un avenir plus juste et plus équitable pour tous ceux qui vivent sur cette terre.
+________________
+Updates - Mises à Jour: 
+President: 
+   * Paying off 101 week
+   * By-elections started 
+   * Getting Cyrus on the bank
+   * Assisted EEF logistics
+VP External: 
+   * Selected people for PEO-SC //
+   * Pay by Sep 26
+   * FYIC post coming this week
+   * SDES this weekend!
+   * Generally working on posts and promo for external stuff
+Manager of Sports:
+   * Intramural Soccer games will begin next wednesday. (Come support us pls <3 )
+   * Jerseys are in the office, players can pick them up during the office hours. 
+Manager of External Awareness:
+   * Working on posts for external account
+VP Finance: 
+   * Summer levies are being calculated, thank you Ryn [Finance Commissioner]
+   * Monsters are in, we will be restocking the office with 15 per day until we run out, thank you Kristen Wells
+   * Reimbursements are underway, reach out if we still are owing you money
+   * Sneak peak of questions for week 2: Question Bank 2
+   * We will unfortunately be a bit in the negatives for the 101 Week budget 👎👎👎
+   * Appointed Kristen Wells as the new Sponsorship Liaison Commissioner (probationary for the 2025-2026 school year)
+Manager of Sponsorship:
+   * Getting organized with Amani for ERTW outreach. 
+   * Made a general ESS sponsorship package (reworked last years package), will try to keep this spreadsheet as updated and detailed as possible 
+Sponsorship Liaison Commissioner:
+   * Monsters 4 Math started
+   * Obtained gurus for subassociations
+Finance Commissioner:
+   * Calculated levies for subassocations from what was received, waiting to hear back from UOSU about misalignment in number of students from their calculations and ours.
+VP Academic: 
+   * All of my updates have been taken by Mehar, so just read those. Mostly been working on W&C :)
+Wine and Cheese Coordinator:
+   * Reached out to faculty managers of marketing and collected information on Wine and Cheese (date for event, number of attendees, information session, and sign up deadline)
+   * Kellyanne Proulx-Page (dean’s office finance administrator) and Eliane Cayen (eng faculty marketing advisor) were helpful in figuring out this information, Daniel Azzi (guest on the faculty executive committee?) is not the right contact, but directed us to the right people!
+   * VEMS request was filled out successfully after figuring out budgeting with Nick and Ashna
+   * Osmows for catering this term?
+   * EEF application has been filled out and submitted, waiting for date on presentation, 
+   * asking for $15,000 for this term
+   * Next steps: 
+   * Prepare for EEF presentation once date is given 
+   * Should hear back from VEMS for agent within the next two weeks
+Manager of Student Advocacy:
+   * Drafted a new inclusion policy! It's a bit of a WIP, any feedback is welcome: https://docs.google.com/document/d/1ixAhp9xjQcr6AV_1_4goaRZz-v318cHS5RwpvcF25NU/edit?usp=sharing
+   * Have an email ready to send to faculty council student members about engineering club accreditation. Collected all the emails to send it to, just need it to get translated.
+VP Communications: 
+   * Finished the accessibility icons and posted
+   * Weekly post format finalized and started
+   * Started group chat for reposts with all the clubs, teams and subs is going well
+   * First mailout went out + free coffee for the sudoku or the mini crossword
+   * Mailouts go out every 2 weeks, please reach out to me if you want something included but I will send a check every 
+   * Have decided to not promote either hackathon to keep things fair and to stay impartial
+Manager of Social Media
+   * Posted weekly post (Sept 13th - 21st)
+   * Posted accessibility icons post
+   * Reposted promo requests from eng clubs (stories and repost page)
+   * Cyrus’ School Supplies promo post will be going up later this week
+   * By-Elections promo post will be going up next week
+Manager of IT
+   * Migrated website to Cloudflare; still ironing a few issues out but mostly working.
+Manager of Marketing
+   * Working on the banner
+VP Internal: 
+   * Finished SmartServe training
+   * Participated in 101 Week as a guide and attended most events
+   * Ran the Engineering Jeopardy event with Ashna which was very successful
+   * Assisted 101ers by answering various questions
+   * Coordinated the clubs fair tabling and helped print posters for uOEC
+   * Oversaw Messy Day cleanup
+   * Sorted lots of trash/recycling
+   * Worked on cleaning the office at various times throughout 101 Week and did a major cleanup this week
+   * Put into storage the equipment from Messy Day, stuff that was in A04, and from the office
+   * Discussed new TV in A04 with facilities manager and faculty IT, it will display ESS ads
+   * Sent email to request details about painting the office, drafted a budget amendment motion for BoD
+   * Sent email inquiring about installing charging ports in SITE lecture halls
+   * Refactored the website to upgrade it from Gatsby v2 to v5 and host it with Cloudflare Workers
+   * Answering questions and meeting with groups interested in becoming Sub-Associations
+   * Sent follow-up email to the UOSU/SÉUO regarding RSG/GÉR recognition of representative groups 
+   * Requested VEMS credentials for ChESS/AÉGC, CESA/AÉGCI, and IEEE
+   * Was notified that Sub-Associations have had their club status revoked
+   * I’m confused and waiting for info from the UOSU/SÉUO
+   * Spoke with the UOSU’s Sustainable Development Centre’s coordinator regarding sustainability and 101 week, looking to find a solution for disposing of the old t-shirts
+   * Attended the uOEC/CIuO committee meeting and overseeing the committee's work
+   * Spoke to the faculty’s secretary regarding STM 117 availability
+   * Created a uOEC/CIuO Discord server (copied from last year’s)
+   * Attended part of the IEEE meeting where elections were conducted and raised concerns with potential Sub-Association Policy non-compliance
+   * Drafted an email regarding EEF/FdG governance, waiting for the Co-presidents to review it
+   * Met with Andrew Sowinski (Vice-Dean, Programs) to discuss plans for accreditation of experiential learning (JMTS/ECJM, uOEC/CIuO, and other projects)
+   * Submitted an EEF/FdG application for OEC/CIO
+   * Reached out to the Ontario Ambassador of the CFES/FCÉG to ask about multidisciplinary design students’ eligibility to attend CEC/CCI
+   * Coordinated and designed the office hours schedule
+   * Office code was changed (the new code is top secret 🤫), a key will be ready soon
+   * Wrote a motion to call a special general meeting (didn’t reach quorum unfortunately)
+   * Created Community Engagement Navigator posting #259 for recording 101 week volunteer hours
+uOEC Commissioner: 
+   * VP Services: 
+   * Communicating with CREO to produce cult merch
+   * Purchased bread boards & wire strippers
+   * Keurig pods are available for sale
+VP Social: 
+   * Did inventory of 101 Week kits to get items reimbursed, thank you Cyrus Choi
+   * Did 101 week 😎
+101 Week Coordinator:
+   * VP Philanthropic: 
+   * Did shine day !!! lots of money (~$1600!!)  raised this year thanks for your hard work everyone who participated :) <3
+   * LOTS of coupons left over pls reach out if you want to use them for events, I will keep using them throughout the fall/winter campaigns as well
+   * Eng ball sponsorship outreach package complete + outreach started
+   * Fall phil campaign schedule in progress
+   * Took a break last week :)
+Charity Commissioner:
+   * No updates
+VP Equity:
+   * Emailed everyone i needed to
+   * Equity clubs
+   * That 101er
+   * UOSU
+   * Have started on the fall event and submitted a promo request (thank you hayley <333)
+   * Working on updating the links on our linktree
+   * Working on making a list of emails to queer businesses to ask for sponsorship
+   * Have to check the proposed changes on my role policies
+   * Finishing anti oppression slides
+   * Give me your fav song so i can add it to the playlist
+   * ESS Songs List
+   * We should def make a 101 week account, we can outdo carleton
+VP Francophone: 
+   * Franco Karaoke was mad chill
+Manager of Translations:
+   * Translated officer meeting minutes as well as translation requests for 101 week among other things
+VP Sustainability: 
+   * Chair of the Board: 
+   * New term! Good luck with classes everyone! 
+   * September BoD is on the 28th @ 11 am
+   * Remember that all VPs attendance is mandatory! 
+   * Please put your updates in. I am not going to remind you guys so please me aware of the deadlines for updates and motions (thursday before @ 11) 
+   * We have a lot of open positions so please advertise it and get people to run 
+   * Fall one-on-ones
+   * I want to meet with all the execs and get a feeling for the next semester and how mandates are going! 
+   * Interims; we will talk after the by-elections
+   * Managers I would like a meeting with you guys but it’s not as needed
+   * Commissioners, unless you really want to talk to me (i mean who wouldn’t) I don’t need a meeting 
+   * Accountability
+   * I realised mid way through the summer that people have more going on then just school so I was a little bit more relaxed on accountability but not anymore :) 
+   * Updates
+   * Officer meeting: Before the meeting 
+   * BoD: Thursday at 11am 
+   * Attendance
+   * Officer meeting & BoD: Mandatory. Absences need to be communicated in advance to either me or the co-presidents 
+   * Office hours
+   * IF YOU ARE ON THE SCHEDULE SHOW UP plz
+   * If you can’t attend them, try to get them covered! The conversation doesn’t need to be in the #office-hours chat but the conclusion does. 
+   * I.e. If someone is covering your office let me know! Again in advance preferably 
+   * I will be a basement dweller so I will be keeping an eye out 
+
+
+Discussion Items - Éléments de Discussion:
+   * Has the advancement been sent to ChESS? - yes
+   * 101 on how Office Hours work
+   * Advocacy regarding Bill 33
+   * https://actionnetwork.org/letters/students-demand-protect-our-services-remove-section-212-from-bill-33
+   * Organizing VAP in the Fall
+   * No
+   * New equipment for the office — what do we want to buy?
+   * ESS retractable banner purchase
+   * Website update process - add to Notion and ping Adi
+   * Incidental fees issue
+   * Update our logo to use proper title case in French
+   * VPFA: Thoughts on applying for Winter EEF to purchase radios for 101 Week, DUSTED, general logistics (maybe ESS can pay for a portion, but they are roughly $500 each)
+   * VPFA: SSA wants to buy our old Square Register, thoughts? If we are on board, how much do you want to sell it for? Retails for $899.99 + tax
+  
+
+   * New Instagram account for uOEC
+   * Maria: too many accounts that student need to keep up with
+   * Chief Electoral Officer
+   * Wine and Cheese catering 
+   * Maybe include some sort of finance term in inclusion policy
+   * Office painting
+   * no
+
+
+Motions
+   * 
+
+Varia
+   * Youth Leadership for Change info session September 18th
+   * https://www.seuo-uosu.com/student-life/youth-leadership-for-change 
+   * BoD virtual ballot for the first-year rep positions
+
+
+Reminders - Rappels
+   * President: Reach out if you need anything 🙂
+   * President: As much as all work is appreciated, please stay within your mandate! If you need to push your managers then do so
+   * Comms: Promo request form is pinned in the social media channel on discord, please submit as far in advance as possible
+   * Finance/Services: See exec perks page for free lockers
+________________
+Page  of
