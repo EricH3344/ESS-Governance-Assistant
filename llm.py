@@ -1,5 +1,5 @@
 import requests
-from retrieval import retrieve, get_meeting_index, resolve_meeting_date
+from retrieval import retrieve, get_meeting_index, resolve_meeting_date, detect_document_type
 
 # ---------------------------------------------------------
 # 1. Build context from retrieved chunks
@@ -70,7 +70,19 @@ def merge_chunks(chunks_a: list[dict], chunks_b: list[dict], k: int) -> list[dic
     return sorted(seen.values(), key=lambda x: x["score"])[:k]
 
 
-def choose_best_chunks(query: str, hyde: str, meeting_date: str | None, detected_doc_subtype: str | None, k: int) -> tuple[list[dict], str | None]:
+def choose_best_chunks(query: str, hyde: str, detected_doc_type: str | None, meeting_date: str | None, detected_doc_subtype: str | None, k: int) -> tuple[list[dict], str | None]:
+    # If policy/bylaws question, retrieve only from policy/bylaws
+    if detected_doc_type in ("policy", "bylaws"):
+        return (
+            merge_chunks(
+                retrieve(hyde, k=k, document_type=detected_doc_type),
+                retrieve(query, k=k, document_type=detected_doc_type),
+                k,
+            ),
+            detected_doc_type
+        )
+
+    # If minutes question (by date or subtype), retrieve only from minutes
     if meeting_date or detected_doc_subtype:
         return (
             merge_chunks(
@@ -81,6 +93,7 @@ def choose_best_chunks(query: str, hyde: str, meeting_date: str | None, detected
             "minutes"
         )
 
+    # Otherwise, search across all types and pick the best
     candidates = {}
     for doc_type in ["policy", "bylaws", "minutes"]:
         candidates[doc_type] = merge_chunks(
@@ -159,19 +172,21 @@ def answer_question(
     k: int = 20,
     model: str = "llama3.1:8b",
 ) -> str:
-    # 1. Resolve metadata from query
+    # 1. Detect document types (policy/bylaws vs meetings)
+    detected_doc_type = detect_document_type(query)
     meeting_date, detected_doc_subtype = resolve_meeting_date(query)
 
     # 2. Determine search depth based on whether a specific date was found
     effective_k = 50 if meeting_date else k
 
     # 3. Generate HyDE (Hypothetical Document Embeddings) answer for better retrieval
-    hyde = hypothetical_answer(query, model, doc_type=detected_doc_subtype)
+    hyde = hypothetical_answer(query, model, doc_type=detected_doc_type or detected_doc_subtype)
 
     # 4. Retrieve the best chunks from the appropriate document type
     final_chunks, selected_doc_type = choose_best_chunks(
         query,
         hyde,
+        detected_doc_type,
         meeting_date,
         detected_doc_subtype,
         effective_k,

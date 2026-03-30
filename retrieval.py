@@ -40,6 +40,19 @@ def get_meeting_index(doc_subtype_filter: str = None) -> list[str]:
     return sorted(seen, reverse=True)
 
 
+def detect_document_type(query: str) -> str | None:
+    """Detect if query is about policy, bylaws, or meeting types. Returns document type or None."""
+    lower = query.lower()
+
+    # Check for policy/bylaws first (more specific)
+    if "policy" in lower or "procedure" in lower or "process" in lower:
+        return "policy"
+    if "bylaw" in lower or "by-law" in lower or "constitution" in lower:
+        return "bylaws"
+
+    return None
+
+
 def resolve_meeting_date(query: str) -> tuple[str | None, str | None]:
     lower = query.lower()
     doc_subtype = None
