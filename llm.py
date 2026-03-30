@@ -1,4 +1,5 @@
 import requests
+from torch import dtype
 from retrieval import retrieve, get_meeting_index, resolve_meeting_date, detect_document_type
 
 # ---------------------------------------------------------
@@ -17,10 +18,11 @@ def build_context(chunks: list[dict]) -> str:
         role = meta.get("role", "N/A")
         label = (
             f"--- SOURCE: {dtype} {subtype} | DATE: {date or date_display} | "
-            f"TYPE: {stype} | PERSON: {person} | ROLE: {role} ---"
+            f"TYPE: {stype} | PERSON: {person} | ROLE: {role} ---\n"
+            f"CONTENT:\n{c['content']}\n"
         )
-        parts.append(f"{label}\n{c['content']}")
-    return "\n\n".join(parts)
+        parts.append(label)
+    return "\n\n====================\n\n".join(parts)
 
 
 # ---------------------------------------------------------
@@ -34,32 +36,30 @@ Rules:
 1. ALWAYS assume the provided CONTEXT contains the most relevant and recent information \
    requested by the user. If the user asks for the "last" or "most recent" meeting, \
    use the most recent date found in the CONTEXT.
-2. If the user asks what happened in a meeting, summarize in point form:
+2. When the user asks about governance rules prefer policy/bylaw content over meeting minutes.
+3. If the user asks what happened in a meeting, summarize in point form:
    - key discussions
    - decisions made
    - motions passed
    - action items
-3. DO NOT return meeting metadata (date/time) unless explicitly asked.
-4. ALWAYS prioritize substantive content over headers or summaries.
-5. NO INTRODUCTIONS. Output only the answer.
-6. If multiple points exist, present them as bullet points.
-7. NEVER state that information is "not explicitly mentioned" or "not available" if there is relevant data in the CONTEXT. 
-8. Do not assume acronyms or abbreviations unless they are explicitly defined in the CONTEXT.
-9. NO INTRODUCTIONS or FILLER. Get straight to the details.
-10. Names and accents are strict: "Zoe" and "Zoé" are different people.
-11. Map abbreviations: "VP COMMS" -> "VP Communications", etc.
+5. ALWAYS prioritize substantive content over headers or summaries.
+6. NO INTRODUCTIONS. Output only the answer.
+7. If multiple points exist, present them as bullet points.
+8. NEVER state that information is "not explicitly mentioned" or "not available" if there is relevant data in the CONTEXT.
+9. Do not assume acronyms or abbreviations unless they are explicitly defined in the CONTEXT.
+10. NO INTRODUCTIONS or FILLER. Get straight to the details.
+11. Names and accents are strict: "Zoe" and "Zoé" are different people.
+12. Map abbreviations: "VP COMMS" -> "VP Communications", etc.
 """
 
 
 def build_prompt(query: str, context: str) -> str:
     return (
         f"Use the following CONTEXT to answer the QUERY.\n"
-        f"If the information isn't there, say \"Not found in the documents. Please provide more information.\"\n"
         f"Do not invent facts or assume details not present in CONTEXT.\n\n"
         f"CONTEXT:\n{context}\n\n"
         f"QUERY: {query}"
     )
-
 
 def merge_chunks(chunks_a: list[dict], chunks_b: list[dict], k: int) -> list[dict]:
     seen = {}
@@ -71,7 +71,7 @@ def merge_chunks(chunks_a: list[dict], chunks_b: list[dict], k: int) -> list[dic
 
 
 def choose_best_chunks(query: str, hyde: str, detected_doc_type: str | None, meeting_date: str | None, detected_doc_subtype: str | None, k: int) -> tuple[list[dict], str | None]:
-    # If policy/bylaws question, retrieve only from policy/bylaws
+    # If the query appears to be about policy or bylaws, restrict retrieval to that document type.
     if detected_doc_type in ("policy", "bylaws"):
         return (
             merge_chunks(
@@ -79,10 +79,10 @@ def choose_best_chunks(query: str, hyde: str, detected_doc_type: str | None, mee
                 retrieve(query, k=k, document_type=detected_doc_type),
                 k,
             ),
-            detected_doc_type
+            detected_doc_type,
         )
 
-    # If minutes question (by date or subtype), retrieve only from minutes
+    # If the query is about a specific meeting or meeting subtype, restrict retrieval to minutes.
     if meeting_date or detected_doc_subtype:
         return (
             merge_chunks(
@@ -90,10 +90,10 @@ def choose_best_chunks(query: str, hyde: str, detected_doc_type: str | None, mee
                 retrieve(query, k=k, document_type="minutes", document_subtype=detected_doc_subtype, meeting_date=meeting_date),
                 k,
             ),
-            "minutes"
+            "minutes",
         )
 
-    # Otherwise, search across all types and pick the best
+    # Otherwise, search across all document types and choose the best result.
     candidates = {}
     for doc_type in ["policy", "bylaws", "minutes"]:
         candidates[doc_type] = merge_chunks(
@@ -157,7 +157,7 @@ def hypothetical_answer(query: str, model: str, doc_type: str = None) -> str:
                 f"Question: {query}"
             ),
         }],
-        "temperature": 0.2,
+        "temperature": 0.0,
     }
     response = requests.post("http://localhost:11434/v1/chat/completions", json=payload)
     response.raise_for_status()
@@ -172,8 +172,8 @@ def answer_question(
     k: int = 20,
     model: str = "llama3.1:8b",
 ) -> str:
-    # 1. Detect document types (policy/bylaws vs meetings)
-    detected_doc_type = detect_document_type(query)
+    # 1. Detect document types (policy/bylaws vs meetings) using LLM
+    detected_doc_type = detect_document_type(query, model=model)
     meeting_date, detected_doc_subtype = resolve_meeting_date(query)
 
     # 2. Determine search depth based on whether a specific date was found
@@ -194,11 +194,14 @@ def answer_question(
 
     # 5. If a policy document was selected, use the top two policy chunks
     # so the model gets both the section heading and the actual content.
-    if selected_doc_type == "policy":
-        final_chunks = final_chunks[:2]
+    if selected_doc_type == "policy" or selected_doc_type == "bylaws":
+        final_chunks = final_chunks[:10]
 
-    # 6. If no chunks were found, retry without any strict type filtering
+    # 6. If no chunks were found for a policy/bylaws query, avoid broadening to unrelated minutes.
     if not final_chunks:
+        if detected_doc_type in ("policy", "bylaws"):
+            return "I couldn't find relevant policy/bylaw sections for that question. Could you provide more detail or specify which governance area you mean?"
+
         final_chunks = merge_chunks(
             retrieve(hyde, k=effective_k),
             retrieve(query, k=effective_k),
@@ -212,7 +215,7 @@ def answer_question(
     best_score = final_chunks[0]["score"]
     print(f"DEBUG: best_score: {best_score}")
 
-    if best_score > 0.8:
+    if best_score > 0.4:
         return "I'm not confident I found the right information. Could you provide more detail?"
 
     # 8. Generate final response

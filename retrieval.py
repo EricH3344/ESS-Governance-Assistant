@@ -40,45 +40,42 @@ def get_meeting_index(doc_subtype_filter: str = None) -> list[str]:
     return sorted(seen, reverse=True)
 
 
-def detect_document_type(query: str) -> str | None:
-    """Detect if query is about policy, bylaws, or meeting types. Returns document type or None."""
+def detect_document_type(query: str, model: str = "llama3.1:8b") -> str | None:
+    """Detect if query is about policy, bylaws, or meeting types using LLM classification."""
     lower = query.lower()
 
-    # Policy/bylaws keywords are the most specific indicators.
+    # Explicit keyword checks first (most confident)
     if "policy" in lower or "procedure" in lower:
         return "policy"
     if "bylaw" in lower or "by-law" in lower or "constitution" in lower:
         return "bylaws"
 
-    # Implicit policy patterns: questions about governance rules, officer duties, organizational procedures
-    policy_patterns = [
-        # Officer actions and responsibilities
-        ("officer" in lower and ("resign" in lower or "step down" in lower or "leave" in lower or "election" in lower or "elected" in lower or "responsib" in lower or "duties" in lower or "position" in lower)),
-        # Authority/permissions/approvals
-        "approve" in lower,
-        "authority" in lower,
-        "permission" in lower,
-        "allowed" in lower,
-        "can spend" in lower,
-        # Governance structure and roles
-        ("executive" in lower or "committee" in lower) and ("role" in lower or "position" in lower or "member" in lower),
-        # Dues, fees, membership rules
-        "dues" in lower,
-        "fee" in lower,
-        "membership" in lower,
-        # Meeting requirements and quorum
-        "quorum" in lower,
-        ("meeting" in lower and "required" in lower) or "meeting quorum" in lower,
-        # Voting and procedures
-        "motion" in lower and ("pass" in lower or "seconded" in lower or "carried" in lower),
-        # What happens if/then (procedural)
-        "what happens if" in lower and not ("meeting" in lower or "minutes" in lower),
-        "what should" in lower and ("do" in lower or "happen" in lower),
-        "how do" in lower and ("handle" in lower or "deal with" in lower or "address" in lower),
-    ]
+    # Use LLM to classify implicit governance vs. meeting questions
+    import requests
+    payload = {
+        "model": model,
+        "messages": [{
+            "role": "user",
+            "content": (
+                "Classify this question as either 'governance' (asking about rules, procedures, responsibilities, "
+                "authority, approvals, quorum, voting procedures, etc.) or 'meeting' (asking what happened in a specific "
+                "meeting). Reply with only the word 'governance' or 'meeting'.\n\n"
+                f"Question: {query}"
+            ),
+        }],
+        "temperature": 0.0,
+    }
 
-    if any(pattern for pattern in policy_patterns if pattern):
-        return "policy"
+    try:
+        response = requests.post("http://localhost:11434/v1/chat/completions", json=payload, timeout=10)
+        response.raise_for_status()
+        classification = response.json()["choices"][0]["message"]["content"].strip().lower()
+
+        if "governance" in classification:
+            return "policy"
+        # For "meeting" or other, return None (let other logic handle)
+    except Exception:
+        pass
 
     return None
 
