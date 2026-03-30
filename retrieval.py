@@ -1,6 +1,7 @@
 from pathlib import Path
 import chromadb
 from sentence_transformers import SentenceTransformer
+import re
 
 # ---------------------------------------------------------
 # 1. Load vector DB
@@ -20,61 +21,55 @@ model = SentenceTransformer("BAAI/bge-small-en-v1.5")
 # 3. Meeting index + date resolution
 # ---------------------------------------------------------
 
-def get_meeting_index() -> list[dict]:
+def get_meeting_index(doc_subtype_filter: str = None) -> list[str]:
+    """Return a sorted list of known meeting ISO dates, most recent first."""
+    # include=["metadatas"] is correct, but let's ensure we filter strictly
     results = collection.get(include=["metadatas"])
 
-    seen = {}
+    seen = set()
     for meta in results["metadatas"]:
+        # CRITICAL: If the user wants BoD, only look at BoD dates
+        if doc_subtype_filter:
+            if doc_subtype_filter not in meta.get("document_subtype", "").lower():
+                continue
+
         iso = meta.get("meeting_date", "")
-        display = meta.get("meeting_date_display", "")
-        if iso and iso not in seen:
-            seen[iso] = display
+        if iso and iso != "unknown":
+            seen.add(iso)
 
-    return [
-        {"iso": iso, "display": display}
-        for iso, display in sorted(seen.items(), reverse=True)
-    ]
+    return sorted(seen, reverse=True)
 
-def resolve_meeting_date(query: str) -> str | None:
-    """
-    Inspect the query for temporal references and return the matching
-    ISO date string to use as a ChromaDB filter, or None if no specific
-    meeting is referenced (meaning: don't filter, search all meetings).
-    """
-    meetings = get_meeting_index()
-    if not meetings:
-        return None
 
-    query_lower = query.lower()
+def resolve_meeting_date(query: str) -> tuple[str | None, str | None]:
+    lower = query.lower()
+    doc_subtype = None
 
-    # Relative: most recent
-    if any(p in query_lower for p in ["last meeting", "most recent", "latest meeting"]):
-        return meetings[0]["iso"]
+    # Identify which "lane" we are in
+    if "bod" in lower or "board" in lower:
+        doc_subtype = "bod"
+    elif "officer" in lower:
+        doc_subtype = "officer"
 
-    # Relative: second most recent
-    if any(p in query_lower for p in ["previous meeting", "meeting before last"]):
-        return meetings[1]["iso"] if len(meetings) > 1 else meetings[0]["iso"]
+    # Get dates ONLY for that specific type
+    dates = get_meeting_index(doc_subtype)
 
-    # Explicit date mention: match against known display strings and ISO strings
-    # e.g. "february 23", "feb 23", "2026-02-23"
-    for m in meetings:
-        display = m["display"].lower()          # "february 23, 2026"
-        iso = m["iso"]                          # "2026-02-23"
-        month_day = " ".join(display.split()[:2]).rstrip(",")  # "february 23"
-        if month_day in query_lower or iso in query_lower:
-            return iso
+    if ("last" in lower or "recent" in lower) and dates:
+        # This now returns the last BOD date if doc_subtype is bod
+        return dates[0], doc_subtype
 
-    return None  # No meeting reference found — do not filter
-
+    return None, doc_subtype
 
 # ---------------------------------------------------------
 # 4. Build valid Chroma filters
 # ---------------------------------------------------------
-def build_filters(document_type=None, role=None, meeting_date=None):
+def build_filters(document_type=None, document_subtype=None, role=None, meeting_date=None):
     clauses = []
 
     if document_type:
         clauses.append({"document_type": document_type})
+
+    if document_subtype:
+        clauses.append({"document_subtype": document_subtype})
 
     if role:
         clauses.append({"role": role})
@@ -93,8 +88,8 @@ def build_filters(document_type=None, role=None, meeting_date=None):
 # ---------------------------------------------------------
 # 5. Retrieval function
 # ---------------------------------------------------------
-def retrieve(query: str, k: int = 5, document_type: str = None, role: str = None, meeting_date: str = None) -> list:
-    filters = build_filters(document_type, role, meeting_date)
+def retrieve(query: str, k: int = 20, document_type: str = None, document_subtype: str = None, role: str = None, meeting_date: str = None) -> list:
+    filters = build_filters(document_type, document_subtype, role, meeting_date)
 
     BGE_QUERY_PREFIX = "Represent this sentence for searching relevant passages: "
     query_embedding = model.encode(BGE_QUERY_PREFIX + query).tolist()
