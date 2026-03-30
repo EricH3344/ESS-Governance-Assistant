@@ -44,11 +44,41 @@ def detect_document_type(query: str) -> str | None:
     """Detect if query is about policy, bylaws, or meeting types. Returns document type or None."""
     lower = query.lower()
 
-    # Check for policy/bylaws first (more specific)
-    if "policy" in lower or "procedure" in lower or "process" in lower:
+    # Policy/bylaws keywords are the most specific indicators.
+    if "policy" in lower or "procedure" in lower:
         return "policy"
     if "bylaw" in lower or "by-law" in lower or "constitution" in lower:
         return "bylaws"
+
+    # Implicit policy patterns: questions about governance rules, officer duties, organizational procedures
+    policy_patterns = [
+        # Officer actions and responsibilities
+        ("officer" in lower and ("resign" in lower or "step down" in lower or "leave" in lower or "election" in lower or "elected" in lower or "responsib" in lower or "duties" in lower or "position" in lower)),
+        # Authority/permissions/approvals
+        "approve" in lower,
+        "authority" in lower,
+        "permission" in lower,
+        "allowed" in lower,
+        "can spend" in lower,
+        # Governance structure and roles
+        ("executive" in lower or "committee" in lower) and ("role" in lower or "position" in lower or "member" in lower),
+        # Dues, fees, membership rules
+        "dues" in lower,
+        "fee" in lower,
+        "membership" in lower,
+        # Meeting requirements and quorum
+        "quorum" in lower,
+        ("meeting" in lower and "required" in lower) or "meeting quorum" in lower,
+        # Voting and procedures
+        "motion" in lower and ("pass" in lower or "seconded" in lower or "carried" in lower),
+        # What happens if/then (procedural)
+        "what happens if" in lower and not ("meeting" in lower or "minutes" in lower),
+        "what should" in lower and ("do" in lower or "happen" in lower),
+        "how do" in lower and ("handle" in lower or "deal with" in lower or "address" in lower),
+    ]
+
+    if any(pattern for pattern in policy_patterns if pattern):
+        return "policy"
 
     return None
 
