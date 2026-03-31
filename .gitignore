@@ -1,1 +1,43 @@
-/Untitled.txt
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pickle
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# --- VS Code ---
+.vscode/
+
+# --- macOS ---
+.DS_Store
+
+# --- ChromaDB / Vector DB / Embeddings ---
+vectordb/
+*.bin
+*.sqlite3
+*.hnsw
+*.npy
+*.npz
+*.index
+*.jsonl
+
+# --- Processed data ---
+Processed/
+processed/
+PROCESSED/
+
+# --- Logs ---
+*.log
+
+# --- Environment files ---
+.env
+.env.*
