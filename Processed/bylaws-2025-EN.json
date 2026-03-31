@@ -1,1028 +1,7 @@
 [
   {
-    "type": "policy_section",
     "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "1.01",
-    "title": "Definitions\t4 ",
-    "content": "1.01 Definitions\t4",
-    "sentences": [
-      "1.01 Definitions\t4"
-    ],
-    "entities": [
-      {
-        "text": "1.01",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "4",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
     "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "1.02",
-    "title": "Interpretation\t4 ",
-    "content": "1.02 Interpretation\t4",
-    "sentences": [
-      "1.02 Interpretation\t4"
-    ],
-    "entities": [
-      {
-        "text": "1.02",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "1.03",
-    "title": "Corporate Seal\t4 ",
-    "content": "1.03 Corporate Seal\t4",
-    "sentences": [
-      "1.03 Corporate Seal\t4"
-    ],
-    "entities": [
-      {
-        "text": "1.03",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "Corporate Seal",
-        "label": "ORG"
-      },
-      {
-        "text": "4",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "1.04",
-    "title": "Execution of Documents\t5 ",
-    "content": "1.04 Execution of Documents\t5",
-    "sentences": [
-      "1.04 Execution of Documents\t5"
-    ],
-    "entities": [
-      {
-        "text": "1.04",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "5",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "1.05",
-    "title": "Financial Year End\t5 ",
-    "content": "1.05 Financial Year End\t5",
-    "sentences": [
-      "1.05 Financial Year End\t5"
-    ],
-    "entities": [
-      {
-        "text": "1.05",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "Financial Year End",
-        "label": "EVENT"
-      },
-      {
-        "text": "5",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "1.06",
-    "title": "Banking Arrangements\t5 ",
-    "content": "1.06 Banking Arrangements\t5",
-    "sentences": [
-      "1.06 Banking Arrangements\t5"
-    ],
-    "entities": [
-      {
-        "text": "1.06",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "5",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "1.07",
-    "title": "Annual Financial Statements\t5 ",
-    "content": "1.07 Annual Financial Statements\t5",
-    "sentences": [
-      "1.07 Annual Financial Statements\t5"
-    ],
-    "entities": [
-      {
-        "text": "1.07",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "Annual",
-        "label": "DATE"
-      },
-      {
-        "text": "5",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "1.08",
-    "title": "Amendments\t5 ",
-    "content": "1.08 Amendments\t5 \nSECTION 2 - MEMBERSHIP\t6",
-    "sentences": [
-      "1.08 Amendments\t5 \nSECTION 2 - MEMBERSHIP\t6"
-    ],
-    "entities": [
-      {
-        "text": "1.08",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "5",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "6",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "2.01",
-    "title": "Membership Conditions\t6 ",
-    "content": "2.01 Membership Conditions\t6",
-    "sentences": [
-      "2.01 Membership Conditions\t6"
-    ],
-    "entities": [
-      {
-        "text": "2.01",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "6",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "2.02",
-    "title": "Proxies at Meetings\t6 ",
-    "content": "2.02 Proxies at Meetings\t6",
-    "sentences": [
-      "2.02 Proxies at Meetings\t6"
-    ],
-    "entities": [
-      {
-        "text": "2.02",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "Meetings",
-        "label": "GPE"
-      },
-      {
-        "text": "6",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "2.03",
-    "title": "Absentee Voting by Mail Ballot\t6 ",
-    "content": "2.03 Absentee Voting by Mail Ballot\t6 \nSECTION 3 - MEMBERSHIP DUES, TERMINATION AND DISCIPLINE\t8",
-    "sentences": [
-      "2.03 Absentee Voting by Mail Ballot\t6 \nSECTION 3 - MEMBERSHIP DUES, TERMINATION AND DISCIPLINE\t8"
-    ],
-    "entities": [
-      {
-        "text": "2.03",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "6",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "8",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "3.01",
-    "title": "Membership Dues\t8 ",
-    "content": "3.01 Membership Dues\t8",
-    "sentences": [
-      "3.01 Membership Dues\t8"
-    ],
-    "entities": [
-      {
-        "text": "3.01",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "8",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "3.02",
-    "title": "Termination of Membership\t8 ",
-    "content": "3.02 Termination of Membership\t8",
-    "sentences": [
-      "3.02 Termination of Membership\t8"
-    ],
-    "entities": [
-      {
-        "text": "3.02",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "8",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "3.03",
-    "title": "Discipline of Members\t8 ",
-    "content": "3.03 Discipline of Members\t8 \nSECTION 4 - MEETINGS OF MEMBERS\t10",
-    "sentences": [
-      "3.03 Discipline of Members\t8 \nSECTION 4 - MEETINGS OF MEMBERS\t10"
-    ],
-    "entities": [
-      {
-        "text": "3.03",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "Discipline of Members\t",
-        "label": "WORK_OF_ART"
-      },
-      {
-        "text": "8",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "10",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "4.01",
-    "title": "Persons Entitled to be Present\t10 ",
-    "content": "4.01 Persons Entitled to be Present\t10",
-    "sentences": [
-      "4.01 Persons Entitled to be Present\t10"
-    ],
-    "entities": [
-      {
-        "text": "4.01",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "10",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "4.02",
-    "title": "Chair of the Meeting\t10 ",
-    "content": "4.02 Chair of the Meeting\t10",
-    "sentences": [
-      "4.02 Chair of the Meeting\t10"
-    ],
-    "entities": [
-      {
-        "text": "4.02",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "10",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "4.03",
-    "title": "Quorum\t10 ",
-    "content": "4.03 Quorum\t10",
-    "sentences": [
-      "4.03 Quorum\t10"
-    ],
-    "entities": [
-      {
-        "text": "4.03",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "10",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "4.04",
-    "title": "Votes to Govern\t10 ",
-    "content": "4.04 Votes to Govern\t10",
-    "sentences": [
-      "4.04 Votes to Govern\t10"
-    ],
-    "entities": [
-      {
-        "text": "4.04",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "4.05",
-    "title": "Annual General Meeting\t10 ",
-    "content": "4.05 Annual General Meeting\t10",
-    "sentences": [
-      "4.05 Annual General Meeting\t10"
-    ],
-    "entities": [
-      {
-        "text": "4.05",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "Annual",
-        "label": "DATE"
-      },
-      {
-        "text": "10",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "4.06",
-    "title": "Special Meetings of Members\t10 ",
-    "content": "4.06 Special Meetings of Members\t10",
-    "sentences": [
-      "4.06 Special Meetings of Members\t10"
-    ],
-    "entities": [
-      {
-        "text": "4.06",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "10",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "4.07",
-    "title": "Notice of Meetings of Members\t11 ",
-    "content": "4.07 Notice of Meetings of Members\t11 \nSECTION 5 - DIRECTORS AND CHAIR OF THE BOARD\t12",
-    "sentences": [
-      "4.07 Notice of Meetings of Members\t11 \nSECTION 5 - DIRECTORS AND CHAIR OF THE BOARD\t12"
-    ],
-    "entities": [
-      {
-        "text": "4.07",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "11",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "CHAIR OF THE BOARD",
-        "label": "ORG"
-      },
-      {
-        "text": "12",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "5.01",
-    "title": "Description of Directors\t12 ",
-    "content": "5.01 Description of Directors\t12",
-    "sentences": [
-      "5.01 Description of Directors\t12"
-    ],
-    "entities": [
-      {
-        "text": "5.01",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "12",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "5.02",
-    "title": "Description of the Chair of the Board\t12 ",
-    "content": "5.02 Description of the Chair of the Board\t12",
-    "sentences": [
-      "5.02 Description of the Chair of the Board\t12"
-    ],
-    "entities": [
-      {
-        "text": "5.02",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "12",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "5.03",
-    "title": "Election and Term\t12 ",
-    "content": "5.03 Election and Term\t12",
-    "sentences": [
-      "5.03 Election and Term\t12"
-    ],
-    "entities": [
-      {
-        "text": "5.03",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "Election and Term",
-        "label": "WORK_OF_ART"
-      },
-      {
-        "text": "12",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "5.04",
-    "title": "Appointment\t12 ",
-    "content": "5.04 Appointment\t12 \nSECTION 6 - MEETINGS OF DIRECTORS\t13",
-    "sentences": [
-      "5.04 Appointment\t12 \nSECTION 6 - MEETINGS OF DIRECTORS\t13"
-    ],
-    "entities": [
-      {
-        "text": "5.04",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "13",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "6.01",
-    "title": "Calling of Meetings\t13 ",
-    "content": "6.01 Calling of Meetings\t13",
-    "sentences": [
-      "6.01 Calling of Meetings\t13"
-    ],
-    "entities": [
-      {
-        "text": "6.01",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "Meetings",
-        "label": "GPE"
-      },
-      {
-        "text": "13",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "6.02",
-    "title": "Notice of Meeting\t13 ",
-    "content": "6.02 Notice of Meeting\t13",
-    "sentences": [
-      "6.02 Notice of Meeting\t13"
-    ],
-    "entities": [
-      {
-        "text": "6.02",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "13",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "6.03",
-    "title": "Regular Meetings\t13 ",
-    "content": "6.03 Regular Meetings\t13",
-    "sentences": [
-      "6.03 Regular Meetings\t13"
-    ],
-    "entities": [
-      {
-        "text": "6.03",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "13",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "6.04",
-    "title": "Emergency Meetings\t13 ",
-    "content": "6.04 Emergency Meetings\t13",
-    "sentences": [
-      "6.04 Emergency Meetings\t13"
-    ],
-    "entities": [
-      {
-        "text": "6.04",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "13",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "6.04",
-    "title": "Quorum\t13 ",
-    "content": "6.04 Quorum\t13",
-    "sentences": [
-      "6.04 Quorum\t13"
-    ],
-    "entities": [
-      {
-        "text": "6.04",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "13",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "6.05",
-    "title": "Votes to Govern\t14 ",
-    "content": "6.05 Votes to Govern\t14",
-    "sentences": [
-      "6.05 Votes to Govern\t14"
-    ],
-    "entities": [
-      {
-        "text": "6.05",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "14",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "6.06",
-    "title": "Committees\t14 ",
-    "content": "6.06 Committees\t14 \nSECTION 7 - OFFICERS\t15",
-    "sentences": [
-      "6.06 Committees\t14 \nSECTION 7 - OFFICERS\t15"
-    ],
-    "entities": [
-      {
-        "text": "6.06",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "14",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "15",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "7.01",
-    "title": "Description of Officers\t15 ",
-    "content": "7.01 Description of Officers\t15",
-    "sentences": [
-      "7.01 Description of Officers\t15"
-    ],
-    "entities": [
-      {
-        "text": "15",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "7.02",
-    "title": "Election and Beginning of Term\t17 ",
-    "content": "7.02 Election and Beginning of Term\t17",
-    "sentences": [
-      "7.02 Election and Beginning of Term\t17"
-    ],
-    "entities": [
-      {
-        "text": "7.02",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "Election and Beginning of Term",
-        "label": "WORK_OF_ART"
-      },
-      {
-        "text": "17",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "7.03",
-    "title": "Vacancy in Office\t17 ",
-    "content": "7.03 Vacancy in Office\t17 \nSECTION 8 - SUB-ASSOCIATIONS\t18",
-    "sentences": [
-      "7.03 Vacancy in Office\t17 \nSECTION 8 - SUB-ASSOCIATIONS\t18"
-    ],
-    "entities": [
-      {
-        "text": "7.03",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "Office",
-        "label": "GPE"
-      },
-      {
-        "text": "17",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "18",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "8.01",
-    "title": "Application for Sub-Association Status\t18 ",
-    "content": "8.01 Application for Sub-Association Status\t18",
-    "sentences": [
-      "8.01 Application for Sub-Association Status\t18"
-    ],
-    "entities": [
-      {
-        "text": "18",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "8.02",
-    "title": "Compatibility of Sub-Associations\t18 ",
-    "content": "8.02 Compatibility of Sub-Associations\t18",
-    "sentences": [
-      "8.02 Compatibility of Sub-Associations\t18"
-    ],
-    "entities": [
-      {
-        "text": "8.02",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "Compatibility of Sub-Associations",
-        "label": "WORK_OF_ART"
-      },
-      {
-        "text": "18",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "8.03",
-    "title": "Dissolution of Sub-Associations\t18 ",
-    "content": "8.03 Dissolution of Sub-Associations\t18 \nSECTION 9 - NOTICES\t19",
-    "sentences": [
-      "8.03 Dissolution of Sub-Associations\t18 \nSECTION 9 - NOTICES\t19"
-    ],
-    "entities": [
-      {
-        "text": "8.03 Dissolution",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "Sub-Associations",
-        "label": "ORG"
-      },
-      {
-        "text": "18",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "19",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "9.01",
-    "title": "Method of Giving Notices\t19 ",
-    "content": "9.01 Method of Giving Notices\t19",
-    "sentences": [
-      "9.01 Method of Giving Notices\t19"
-    ],
-    "entities": [
-      {
-        "text": "9.01",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "19",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "9.02",
-    "title": "Invalidity of any Provisions of this By-Law\t19 ",
-    "content": "9.02 Invalidity of any Provisions of this By-Law\t19",
-    "sentences": [
-      "9.02 Invalidity of any Provisions of this By-Law\t19"
-    ],
-    "entities": [
-      {
-        "text": "9.02",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "19",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "9.03",
-    "title": "Omissions and Errors\t19 ",
-    "content": "9.03 Omissions and Errors\t19 \nSECTION 10 - DISPUTE RESOLUTION\t20",
-    "sentences": [
-      "9.03 Omissions and Errors\t19 \nSECTION 10 - DISPUTE RESOLUTION\t20"
-    ],
-    "entities": [
-      {
-        "text": "9.03",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "Omissions and Errors",
-        "label": "ORG"
-      },
-      {
-        "text": "19",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "20",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "10.01",
-    "title": "Mediation and Arbitration\t20 ",
-    "content": "10.01 Mediation and Arbitration\t20",
-    "sentences": [
-      "10.01 Mediation and Arbitration\t20"
-    ],
-    "entities": [
-      {
-        "text": "10.01",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "Mediation and Arbitration",
-        "label": "WORK_OF_ART"
-      },
-      {
-        "text": "20",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "10.02",
-    "title": "Dispute Resolution Mechanism\t20 ",
-    "content": "10.02 Dispute Resolution Mechanism\t20 \nSECTION 11 - EFFECTIVE DATE\t21",
-    "sentences": [
-      "10.02 Dispute Resolution Mechanism\t20 \nSECTION 11 - EFFECTIVE DATE\t21"
-    ],
-    "entities": [
-      {
-        "text": "10.02",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "20",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "21",
-        "label": "CARDINAL"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
-    "source_file": "bylaws-2025-EN.txt",
-    "section_id": "11.01",
-    "title": "Effective Date\t21 ",
-    "content": "11.01 Effective Date\t21 \n\n \nBy-Laws  \nBY-LAW NO. 1  \nA By-Law relating generally to the conduct of the affairs of The Engineering Students' Society of \nthe University of Ottawa. \n \nBE IT ENACTED as a By-Law of the Society as follows:  \nSECTION 1 - GENERAL",
-    "sentences": [
-      "11.01 Effective Date\t21 \n\n \nBy-Laws  \nBY-LAW NO. 1  \nA By-Law relating generally to the conduct of the affairs of The Engineering Students' Society of \nthe University of Ottawa.",
-      "BE IT ENACTED as a By-Law of the Society as follows:  \nSECTION 1 - GENERAL"
-    ],
-    "entities": [
-      {
-        "text": "11.01",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "21",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "1  \n",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "The Engineering Students'",
-        "label": "ORG"
-      },
-      {
-        "text": "the University of Ottawa",
-        "label": "ORG"
-      },
-      {
-        "text": "Society",
-        "label": "ORG"
-      }
-    ]
-  },
-  {
-    "type": "policy_section",
-    "document_type": "bylaws",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "1.01",
     "title": "Definitions  ",
@@ -1124,8 +103,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "1.02",
     "title": "Interpretation  ",
@@ -1145,8 +124,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "1.03",
     "title": "Corporate Seal  ",
@@ -1179,8 +158,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "1.04",
     "title": "Execution of Documents  ",
@@ -1218,8 +197,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "1.05",
     "title": "Financial Year End  ",
@@ -1251,8 +230,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "1.06",
     "title": "Banking Arrangements  ",
@@ -1289,8 +268,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "1.07",
     "title": "Annual Financial Statements  ",
@@ -1323,20 +302,19 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "1.08",
     "title": "Amendments  ",
-    "content": "1.08 Amendments  \nThe Board of Directors may, by special resolution, enact, amend, or repeal any By-Law of the \nSociety. Such enactment, amendment, or repeal shall take effect provisionally upon approval by \nthe Board and shall remain in effect unless and until it is confirmed, amended, or repealed by \nspecial resolution at the next meeting of Members. If the Members reject the amendment, the \nprevious By-Law remains in effect as if the amendment had never been made. \n \nThe Board of Directors may, by special resolution, enact, amend, or repeal any policy of the \nSociety. Such enactment, amendment, or repeal shall take effect provisionally upon approval by \nthe Board and shall remain in effect unless and until it is confirmed, amended, or repealed by \nresolution at the next meeting of Members. If the Members reject the amendment, the previous \npolicy remains in effect as if the amendment had never been made.\"\t \n\n\n2\tMEMBERSHIP",
+    "content": "1.08 Amendments  \nThe Board of Directors may, by special resolution, enact, amend, or repeal any By-Law of the \nSociety. Such enactment, amendment, or repeal shall take effect provisionally upon approval by \nthe Board and shall remain in effect unless and until it is confirmed, amended, or repealed by \nspecial resolution at the next meeting of Members. If the Members reject the amendment, the \nprevious By-Law remains in effect as if the amendment had never been made. \n \nThe Board of Directors may, by special resolution, enact, amend, or repeal any policy of the \nSociety. Such enactment, amendment, or repeal shall take effect provisionally upon approval by \nthe Board and shall remain in effect unless and until it is confirmed, amended, or repealed by \nresolution at the next meeting of Members. If the Members reject the amendment, the previous \npolicy remains in effect as if the amendment had never been made.\"",
     "sentences": [
       "1.08 Amendments  \nThe Board of Directors may, by special resolution, enact, amend, or repeal any By-Law of the \nSociety.",
       "Such enactment, amendment, or repeal shall take effect provisionally upon approval by \nthe Board and shall remain in effect unless and until it is confirmed, amended, or repealed by \nspecial resolution at the next meeting of Members.",
       "If the Members reject the amendment, the \nprevious By-Law remains in effect as if the amendment had never been made.",
       "The Board of Directors may, by special resolution, enact, amend, or repeal any policy of the \nSociety.",
       "Such enactment, amendment, or repeal shall take effect provisionally upon approval by \nthe Board and shall remain in effect unless and until it is confirmed, amended, or repealed by \nresolution at the next meeting of Members.",
-      "If the Members reject the amendment, the previous \npolicy remains in effect as if the amendment had never been made.",
-      "\"\t \n\n\n2\tMEMBERSHIP"
+      "If the Members reject the amendment, the previous \npolicy remains in effect as if the amendment had never been made.\""
     ],
     "entities": [
       {
@@ -1354,7 +332,20 @@
       {
         "text": "Board",
         "label": "ORG"
-      },
+      }
+    ]
+  },
+  {
+    "document_type": "bylaws",
+    "type": "policy_section",
+    "source_file": "bylaws-2025-EN.txt",
+    "section_id": "2",
+    "title": "MEMBERSHIP",
+    "content": "2\tMEMBERSHIP",
+    "sentences": [
+      "2\tMEMBERSHIP"
+    ],
+    "entities": [
       {
         "text": "2",
         "label": "CARDINAL"
@@ -1366,8 +357,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "2.01",
     "title": "Membership Conditions  ",
@@ -1493,8 +484,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "2.02",
     "title": "Proxies at Meetings ",
@@ -1528,15 +519,14 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "2.03",
     "title": "Absentee Voting by Mail Ballot  ",
-    "content": "2.03 Absentee Voting by Mail Ballot  \nA Member entitled to vote at a meeting of Members or Directors may vote by mailed-in ballot if \nthe Society has a system that:  \n \t \t \t \t \nBy-Laws \na.\tenables the votes to be gathered in a manner that permits their subsequent verification, \nand  \nb.\tpermits the tallied votes to be presented to the Society without it being possible for the \n\tSociety to identify how each Member voted.\t  \n3\tMEMBERSHIP DUES, TERMINATION AND DISCIPLINE",
+    "content": "2.03 Absentee Voting by Mail Ballot  \nA Member entitled to vote at a meeting of Members or Directors may vote by mailed-in ballot if \nthe Society has a system that:  \n \t \t \t \t \nBy-Laws \na.\tenables the votes to be gathered in a manner that permits their subsequent verification, \nand  \nb.\tpermits the tallied votes to be presented to the Society without it being possible for the \n\tSociety to identify how each Member voted.",
     "sentences": [
-      "2.03 Absentee Voting by Mail Ballot  \nA Member entitled to vote at a meeting of Members or Directors may vote by mailed-in ballot if \nthe Society has a system that:  \n \t \t \t \t \nBy-Laws \na.\tenables the votes to be gathered in a manner that permits their subsequent verification, \nand  \nb.\tpermits the tallied votes to be presented to the Society without it being possible for the \n\tSociety to identify how each Member voted.",
-      "3\tMEMBERSHIP DUES, TERMINATION AND DISCIPLINE"
+      "2.03 Absentee Voting by Mail Ballot  \nA Member entitled to vote at a meeting of Members or Directors may vote by mailed-in ballot if \nthe Society has a system that:  \n \t \t \t \t \nBy-Laws \na.\tenables the votes to be gathered in a manner that permits their subsequent verification, \nand  \nb.\tpermits the tallied votes to be presented to the Society without it being possible for the \n\tSociety to identify how each Member voted."
     ],
     "entities": [
       {
@@ -1558,7 +548,20 @@
       {
         "text": "the \n\tSociety",
         "label": "ORG"
-      },
+      }
+    ]
+  },
+  {
+    "document_type": "bylaws",
+    "type": "policy_section",
+    "source_file": "bylaws-2025-EN.txt",
+    "section_id": "3",
+    "title": "MEMBERSHIP DUES, TERMINATION AND DISCIPLINE  ",
+    "content": "3\tMEMBERSHIP DUES, TERMINATION AND DISCIPLINE",
+    "sentences": [
+      "3\tMEMBERSHIP DUES, TERMINATION AND DISCIPLINE"
+    ],
+    "entities": [
       {
         "text": "3",
         "label": "CARDINAL"
@@ -1566,8 +569,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "3.01",
     "title": "Membership Dues  ",
@@ -1613,8 +616,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "3.02",
     "title": "Termination of Membership  ",
@@ -1686,19 +689,18 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "3.03",
     "title": "Discipline of Members  ",
-    "content": "3.03 Discipline of Members  \nThe Board shall have authority to suspend or expel any Member from the Society for any one or \nmore of the following grounds:  \na.\tviolating any provision of the By-Laws, or written policies of the Society;  \nb.\tcarrying out any conduct which may be detrimental to the Society as determined by the \nBoard in its sole discretion;  \nc.\tfor any other reason that the Board in its sole and absolute discretion considers to be \nreasonable, having regard to the purpose of the Society.  \nIn the event that the Board determines that a Member should be expelled or suspended from \nMembership in the Society, the president, or such other Officer as may be designated by the \nBoard, shall provide fifteen (15) business days notice of suspension or expulsion to the Member \nand shall provide reasons for the proposed suspension or expulsion. The Member may make \nwritten submissions to the President, or such other Officer as may be designated by the Board, \nin response to the notice within a fifteen (15) business days period. In the event that no written \nBy-Laws \nsubmissions are received by the President, the President, or such other Officer as may be \ndesignated by the Board, may proceed to notify the Member that the Member is suspended or \nexpelled from Membership in the Society. If written submissions are received in accordance with \nthis section, the Board will consider such submissions in arriving at a final decision and shall \nnotify the Member concerning such final decision after the next meeting of the Board including a \nspecial meeting of the Board The Board's decision shall be final and binding on the Member, \nwithout any further right of appeal.\t  \n4\tMEETINGS OF MEMBERS",
+    "content": "3.03 Discipline of Members  \nThe Board shall have authority to suspend or expel any Member from the Society for any one or \nmore of the following grounds:  \na.\tviolating any provision of the By-Laws, or written policies of the Society;  \nb.\tcarrying out any conduct which may be detrimental to the Society as determined by the \nBoard in its sole discretion;  \nc.\tfor any other reason that the Board in its sole and absolute discretion considers to be \nreasonable, having regard to the purpose of the Society.  \nIn the event that the Board determines that a Member should be expelled or suspended from \nMembership in the Society, the president, or such other Officer as may be designated by the \nBoard, shall provide fifteen (15) business days notice of suspension or expulsion to the Member \nand shall provide reasons for the proposed suspension or expulsion. The Member may make \nwritten submissions to the President, or such other Officer as may be designated by the Board, \nin response to the notice within a fifteen (15) business days period. In the event that no written \nBy-Laws \nsubmissions are received by the President, the President, or such other Officer as may be \ndesignated by the Board, may proceed to notify the Member that the Member is suspended or \nexpelled from Membership in the Society. If written submissions are received in accordance with \nthis section, the Board will consider such submissions in arriving at a final decision and shall \nnotify the Member concerning such final decision after the next meeting of the Board including a \nspecial meeting of the Board The Board's decision shall be final and binding on the Member, \nwithout any further right of appeal.",
     "sentences": [
       "3.03 Discipline of Members  \nThe Board shall have authority to suspend or expel any Member from the Society for any one or \nmore of the following grounds:  \na.\tviolating any provision of the By-Laws, or written policies of the Society;  \nb.\tcarrying out any conduct which may be detrimental to the Society as determined by the \nBoard in its sole discretion;  \nc.\tfor any other reason that the Board in its sole and absolute discretion considers to be \nreasonable, having regard to the purpose of the Society.",
       "In the event that the Board determines that a Member should be expelled or suspended from \nMembership in the Society, the president, or such other Officer as may be designated by the \nBoard, shall provide fifteen (15) business days notice of suspension or expulsion to the Member \nand shall provide reasons for the proposed suspension or expulsion.",
       "The Member may make \nwritten submissions to the President, or such other Officer as may be designated by the Board, \nin response to the notice within a fifteen (15) business days period.",
       "In the event that no written \nBy-Laws \nsubmissions are received by the President, the President, or such other Officer as may be \ndesignated by the Board, may proceed to notify the Member that the Member is suspended or \nexpelled from Membership in the Society.",
-      "If written submissions are received in accordance with \nthis section, the Board will consider such submissions in arriving at a final decision and shall \nnotify the Member concerning such final decision after the next meeting of the Board including a \nspecial meeting of the Board The Board's decision shall be final and binding on the Member, \nwithout any further right of appeal.",
-      "4\tMEETINGS OF MEMBERS"
+      "If written submissions are received in accordance with \nthis section, the Board will consider such submissions in arriving at a final decision and shall \nnotify the Member concerning such final decision after the next meeting of the Board including a \nspecial meeting of the Board The Board's decision shall be final and binding on the Member, \nwithout any further right of appeal."
     ],
     "entities": [
       {
@@ -1780,7 +782,20 @@
       {
         "text": "the Board The Board's",
         "label": "ORG"
-      },
+      }
+    ]
+  },
+  {
+    "document_type": "bylaws",
+    "type": "policy_section",
+    "source_file": "bylaws-2025-EN.txt",
+    "section_id": "4",
+    "title": "MEETINGS OF MEMBERS  ",
+    "content": "4\tMEETINGS OF MEMBERS",
+    "sentences": [
+      "4\tMEETINGS OF MEMBERS"
+    ],
+    "entities": [
       {
         "text": "4",
         "label": "CARDINAL"
@@ -1788,8 +803,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "4.01",
     "title": "Persons Entitled to be Present  ",
@@ -1814,8 +829,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "4.02",
     "title": "Chair of the Meeting  ",
@@ -1843,8 +858,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "4.03",
     "title": "Quorum  ",
@@ -1869,8 +884,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "4.04",
     "title": "Votes to Govern  ",
@@ -1892,8 +907,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "4.05",
     "title": "Annual General Meeting ",
@@ -1970,8 +985,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "4.06",
     "title": "Special Meetings of Members ",
@@ -2017,8 +1032,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "4.07",
     "title": "Notice of Meetings of Members ",
@@ -2053,8 +1068,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "5.01",
     "title": "Description of Directors ",
@@ -2083,8 +1098,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "5.02",
     "title": "Description of the Chair of the Board ",
@@ -2126,8 +1141,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "5.03",
     "title": "Election and Term  ",
@@ -2164,8 +1179,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "5.04",
     "title": "Appointment  ",
@@ -2212,8 +1227,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "6.01",
     "title": "Calling of Meetings  ",
@@ -2254,8 +1269,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "6.02",
     "title": "Notice of Meeting  ",
@@ -2286,8 +1301,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "6.03",
     "title": "Regular Meetings  ",
@@ -2332,8 +1347,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "6.04",
     "title": "Emergency Meetings  ",
@@ -2371,8 +1386,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "6.04",
     "title": "Quorum  ",
@@ -2423,8 +1438,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "6.05",
     "title": "Votes to Govern ",
@@ -2449,8 +1464,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "6.06",
     "title": "Committees  ",
@@ -2493,8 +1508,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "7.01",
     "title": "Description of Officers ",
@@ -2772,8 +1787,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "7.02",
     "title": "Election and Beginning of Term  ",
@@ -2811,8 +1826,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "7.03",
     "title": "Vacancy in Office  ",
@@ -2876,8 +1891,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "8.01",
     "title": "Application for Sub-Association Status  ",
@@ -2940,8 +1955,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "8.02",
     "title": "Compatibility of Sub-Associations  ",
@@ -2978,8 +1993,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "8.03",
     "title": "Dissolution of Sub-Associations ",
@@ -3051,8 +2066,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "9.01",
     "title": "Method of Giving Notices  ",
@@ -3082,8 +2097,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "9.02",
     "title": "Invalidity of any Provisions of this By-Law  ",
@@ -3099,8 +2114,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "9.03",
     "title": "Omissions and Errors  ",
@@ -3137,8 +2152,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "10.01",
     "title": "Mediation and Arbitration  ",
@@ -3170,8 +2185,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "10.02",
     "title": "Dispute Resolution Mechanism  ",
@@ -3279,8 +2294,8 @@
     ]
   },
   {
-    "type": "policy_section",
     "document_type": "bylaws",
+    "type": "policy_section",
     "source_file": "bylaws-2025-EN.txt",
     "section_id": "11.01",
     "title": "Effective Date  ",

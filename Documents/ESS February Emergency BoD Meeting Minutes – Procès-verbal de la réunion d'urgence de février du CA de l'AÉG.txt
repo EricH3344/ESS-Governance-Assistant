@@ -1,0 +1,131 @@
+﻿ESS February Emergency BoD Meeting Minutes – Procès-verbal de la réunion d'urgence de février du CA de l'AÉG
+1.  Call to Order – Appel à l'ordre
+Date: Feb 15, 2026 2:00 PM EST
+Location – Lieu: Google Meet
+The meeting was called to order at 2:04 pm with Maya Benhamou as Chair and with Krystian as Secretary.
+La réunion est ouverte à 14h04 , sous la présidence de Maya Benhamou et le secrétariat de Krystian.
+2. Land Acknowledgement – Reconnaissance des Terres
+We acknowledge that we are gathered on the traditional and unceded territory of the Algonquin Anishinaabe Nation. For generations, they have been the stewards of this land, and their deep connection to it continues to this day. We recognize the enduring presence and contributions of the Algonquin people to this region. We also acknowledge the painful history of colonization and the displacement of Indigenous communities from their ancestral lands. We commit ourselves to learning, understanding, and honoring the Algonquin Nation's history and culture. We recognize the importance of working collaboratively to create a more just and equitable future for all who call this land home.
+________________
+
+
+Nous reconnaissons que nous sommes réunis sur le territoire traditionnel et non cédé de la nation algonquine anishinaabe. Depuis des générations, ils sont les gardiens de cette terre et le lien profond qui les unit à elle perdure encore aujourd'hui. Nous reconnaissons la présence et les contributions durables du peuple algonquin dans cette région. Nous reconnaissons également l'histoire douloureuse de la colonisation et du déplacement des communautés autochtones de leurs terres ancestrales. Nous nous engageons à apprendre, à comprendre et à honorer l'histoire et la culture de la nation algonquine. Nous reconnaissons l'importance de travailler en collaboration pour créer un avenir plus juste et plus équitable pour tous ceux qui vivent sur cette terre.
+3. Roll Call – Appel nominal
+Present – Présent.e.s: 
+* Co-President – Présidente: Aiden McCooeye (he/him/il)
+* Co-President – Présidente: Eric Hagen (he/him/il)
+* VP External – Externe: Ashna Cheverlharan (she/her/elle)
+* VPFA: Cyrus Choi (he/him/il)
+* VP Academic – Académique: Nick Mesquita (he/him/il)
+* VP Communications: Hayley Jubinville (she/her/elle)
+* VP Services: Luke Ballinger (he/him/il)
+* VP Social: Magno Melo Martins (he/him/il)
+* VP Equity – Équité: Maria Hal (she/her/elle)
+* VP Sustainability – Développement durable: Sydney Ruberto (she/her/elle)
+* VP Francophone: Yann Giffaux (he/him/il)
+* IEEE: Jad Mghabghab (he/him/il)
+* CESA – AÉGCi: Rumony Chhom (she/her/elle)
+* ChESS – AÉGC: Nour Akremi (she/her/elle)
+* MESS – SÉGM: Farah El Siss (she/her/elle)
+* MESS – SÉGM: Ryan Langley (she/her/elle)
+* GNG 1105 A: Jayden Ireland (he/him/il)
+* GNG 1105 B: Calvin Smith (he/him/il)
+* GNG 1105 D: Katelyn Saper (she/her/elle)
+* GNG 1505 B: Sofia Jadal (she/her/elle)
+* 2nd year Chemical – 2e année chimique: Emilia Wesolkowski (she/her/elle)
+* 2nd year Electrical – 2e année électrique: Rory McCulloch (he/him/il)
+* 2nd year Mechanical – 2e année mécanique: Rocco De Oliveira (he/him/il)
+* 3rd year Electrical – 3e année électrique: Aditya Baindur (he/him/il)
+* 3rd year Mechanical – 3e année mécanique: Dakota Squires (he/him/il)
+* 3rd year Software – 3e année logiciel: Jamie Watson (she/her/elle)
+* 3rd year Computer – 3e année informatique: Somana Debnath (she/her/elle)
+* 4th year Mechanical – 4e année mécanique: Giovanni Abbruzzo (he/him/il)
+* 4th year Computer – 4e année informatique: Stuti Pandya (she/her/elle)
+* CO-OP Chemical – Chimique CO-OP: Rayan Ben Kadi (he/him/il)
+* CO-OP Electrical – Électrique CO-OP: Samuel Li (he/him/il)
+* CO-OP Mechanical – Mécanique CO-OP: Conor Waldron (he/him/il)
+* 2nd year French – 2e année français: Meltem Selin Çetin (she/her/elle)
+* VP Philanthropic – Philanthropique: Zoe Saunders (she/her/elle)
+* Absent – Absent.e.s:
+* CESA – AÉGCi: Claire Durand (she/her/elle)
+* CO-OP Computer – Informatique CO-OP: Brooke MacQuarrie (she/her/elle)
+* 2nd year Computer – 2e année informatique: Pradyumna Uppalapati (she/her/elle)
+* VP Internal – Interne: Steffen Zylstra (he/him/il)
+* 4. Comments from the Chair – Commentaires de la présidence
+   1. Robert’s Rules Overview – Aperçu des règles de procédure Robert
+1: New idea
+2: Replying to current idea
+p: Point of privilege, interrupts current discussion (ex: can't hear the microphone)
+c: Point of clarity, confused about current discussion and needs clarification, interrupts current discussion (ex what does an acronym mean)
+t: Requesting a translation
+5. Administrative Motions – Motions administratives
+   1. Adoption of Agenda – Adoption de l'ordre du jour
+Title
+Titre
+	Adoption of Agenda
+Adoption de l'ordre du jour
+	Mover
+Proposé
+	Calvin
+	Seconder
+Appuyé
+	Presidents
+	BE IT RESOLVED THAT the agenda be adopted as presented.
+IL EST RÉSOLU QUE l'ordre du jour est adopté tel que présenté.
+	Discussion
+	
+
+	Result
+Résultat
+	Adopted with unanimous consent.
+	6. New Business – Nouvelles affaires
+   1. Motion to Appeal an Election Disqualification
+Title
+Titre
+	Motion to Appeal an Election Disqualification
+Requête en appel d'une disqualification électorale
+	Mover
+Proposé
+	Presidents
+	Seconder
+Appuyé
+	Calvin
+	WHEREAS Alper was disqualified from the VP elections by the CEO due to missing the candidates meeting at 7pm.
+WHEREAS Alper has made a formal appeal that is attached below.
+WHEREAS the communication from the CEO is also attached below. 
+BE IT RESOLVED that Alper be able to continue to run in the election.
+________________
+
+
+ATTENDU QUE Alper a été disqualifié des élections à la vice-présidence par le PDG pour avoir manqué la réunion des candidats à 19 h.
+ATTENDU QUE Alper a déposé un recours officiel, joint ci-dessous.
+ATTENDU QUE la communication du PDG est également jointe ci-dessous.
+IL EST RÉSOLU que Alper puisse continuer à se présenter aux élections.
+	Documents
+	Formal Appeal.webpCEO Communication_1.webpCEO Communication_2.webp
+	Discussion
+	Meltem: He is currently in Turkey and there is an 8 hour difference. It’s hard for him to stay awake to come to this meeting. So if he can show up here it would be harder to show up to a later one
+
+Cyrus: Motion to go in camera. Seconded: Presidents
+For: 18 votes
+Against: 0 votes
+Abstain: 0 votes
+
+
+	Result
+Résultat
+	For: 7 votes
+Against: 6 votes
+Abstain: 4 votes
+	7. Varia
+
+
+8. Notice of Motions – Avis de motion
+
+
+9. Adjournment – Ajournement
+With no further business, the meeting adjourned at 2:39 PM EDT.
+L'ordre du jour étant épuisé, la réunion est levée à 14h39 PM HAE.
+10. Next Meeting – Prochaine réunion
+The next Board meeting will be scheduled for March 1st 2026 at 11 AM. 
+La prochaine réunion du conseil d'administration sera programmée le 1 mars à 11h00.

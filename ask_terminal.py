@@ -2,17 +2,17 @@ import sys
 from llm import answer_question
 
 DOCUMENT_TYPE = None
-ROLE          = None
-K = 5
+ROLE = None
+K = 10
 
 def ask(query: str) -> str:
     return answer_question(
         query,
         k=K,
         document_type=DOCUMENT_TYPE,
-        role=ROLE
+        role=ROLE,
+        model="llama3"
     )
-
 
 def interactive_loop():
     print("=" * 50)

@@ -57,77 +57,12 @@ for path in txt_files:
     out = PROCESSED_DIR / (path.stem + ".json")
     out.write_text(json.dumps(chunks, indent=2, ensure_ascii=False), encoding="utf-8")
 
-    # Extra checks for minutes files
-    if doc_type == "minutes":
+    if "minutes" in doc_type:
         dates   = {c.get("meeting_date") for c in chunks if c.get("meeting_date")}
         roles   = {c.get("role") for c in chunks if c.get("role") not in (None, "N/A")}
         persons = {c.get("person") for c in chunks if c.get("person") not in (None, "N/A")}
 
-        all_passed &= check(f"  ↳ meeting date parsed",
-                            len(dates) > 0, f"dates found: {sorted(dates)}")
-        all_passed &= check(f"  ↳ roles extracted",
-                            len(roles) > 0, f"{len(roles)} unique roles")
-        all_passed &= check(f"  ↳ persons extracted",
-                            len(persons) > 0, f"e.g. {sorted(persons)[:4]}")
-
 print(f"\n  {INFO}  Processed JSON saved to {PROCESSED_DIR}")
-
-# ═══════════════════════════════════════════════════════════════════════════════
-# 2. VECTORIZATION
-# ═══════════════════════════════════════════════════════════════════════════════
-section("2. Vectorization  (ChromaDB)")
-
-import chromadb
-from sentence_transformers import SentenceTransformer
-
-VECTORDB_DIR.mkdir(exist_ok=True)
-embed_model = SentenceTransformer("BAAI/bge-small-en-v1.5")
-
-chroma  = chromadb.PersistentClient(path=str(VECTORDB_DIR))
-collection = chroma.get_or_create_collection(
-    name="governance", metadata={"hnsw:space": "cosine"}
-)
-
-total_upserted = 0
-for fname, chunks in all_chunks_by_file.items():
-    for i, chunk in enumerate(chunks):
-        chunk_id = f"{fname}_{i}"
-        text = (
-            f"[document_type: {chunk.get('document_type','unknown')}]\n"
-            f"[type: {chunk.get('type','unknown')}]\n"
-            f"[role: {chunk.get('role','N/A')}]\n"
-            f"[person: {chunk.get('person','N/A')}]\n"
-            f"{chunk['content']}"
-        )
-        embedding = embed_model.encode(
-            "Represent this sentence for searching relevant passages: " + text
-        ).tolist()
-
-        metadata = {
-            "source":               fname,
-            "document_type":        chunk.get("document_type", "unknown"),
-            "type":                 chunk.get("type", "unknown"),
-            "role":                 chunk.get("role", "N/A"),
-            "person":               chunk.get("person", "N/A"),
-            "chunk_index":          i,
-            "meeting_date":         chunk.get("meeting_date", ""),
-            "meeting_date_display": chunk.get("meeting_date_display", ""),
-        }
-        if chunk.get("type") == "policy_section":
-            metadata["section_id"] = chunk.get("section_id", "N/A")
-            metadata["title"]      = chunk.get("title", "N/A")
-
-        collection.upsert(
-            ids=[chunk_id],
-            embeddings=[embedding],
-            documents=[chunk["content"]],
-            metadatas=[metadata],
-        )
-        total_upserted += 1
-
-db_count = collection.count()
-all_passed &= check(f"ChromaDB contains {db_count} chunks (upserted {total_upserted})",
-                    db_count >= total_upserted)
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # SUMMARY

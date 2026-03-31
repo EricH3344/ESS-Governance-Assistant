@@ -1,0 +1,510 @@
+﻿ESS January BoD Meeting Minutes – Procès verbal de la réunion de janvier du CA de l'AÉG
+1. Call to Order – Appel à l'ordre
+Date: Jan 25, 2026 11:00 AM
+Location – Lieu: CBY A707 & Google Meet
+The meeting was called to order at 11:05 am with Maya Benhamou as Chair and with Krystian as Secretary.
+La réunion est ouverte à 11h05 , sous la présidence de Maya Benhamou et le secrétariat de Krystian.
+2. Land Acknowledgement – Reconnaissance des Terres
+We acknowledge that we are gathered on the traditional and unceded territory of the Algonquin Anishinaabe Nation. For generations, they have been the stewards of this land, and their deep connection to it continues to this day. We recognize the enduring presence and contributions of the Algonquin people to this region. We also acknowledge the painful history of colonization and the displacement of Indigenous communities from their ancestral lands. We commit ourselves to learning, understanding, and honoring the Algonquin Nation's history and culture. We recognize the importance of working collaboratively to create a more just and equitable future for all who call this land home.
+________________
+
+
+Nous reconnaissons que nous sommes réunis sur le territoire traditionnel et non cédé de la nation algonquine anishinaabe. Depuis des générations, ils sont les gardiens de cette terre et le lien profond qui les unit à elle perdure encore aujourd'hui. Nous reconnaissons la présence et les contributions durables du peuple algonquin dans cette région. Nous reconnaissons également l'histoire douloureuse de la colonisation et du déplacement des communautés autochtones de leurs terres ancestrales. Nous nous engageons à apprendre, à comprendre et à honorer l'histoire et la culture de la nation algonquine. Nous reconnaissons l'importance de travailler en collaboration pour créer un avenir plus juste et plus équitable pour tous ceux qui vivent sur cette terre.
+3. Roll Call – Appel nominal
+Present – Présent.e.s: 
+* Co-President – Présidente: Aiden McCooeye (he/him/il)
+* Co-President – Présidente: Eric Hagen (he/him/il)
+* VP External – Externe: Ashna Cheverlharan (she/her/elle)
+* VPFA: Cyrus Choi (he/him/il)
+* VP Academic – Académique: Nick Mesquita (he/him/il)
+* VP Communications: Hayley Jubinville (she/her/elle) (?)
+* VP Internal – Interne: Steffen Zylstra (he/him/il)
+* VP Social: Magno Melo Martins (he/him/il)
+* VP Philanthropic – Philanthropique: Zoe Saunders (she/her/elle)
+* VP Equity – Équité: Maria Hal (she/her/elle)
+* VP Sustainability – Développement durable: Sydney Ruberto (she/her/elle)
+* VP Francophone: Yann Giffaux (he/him/il)
+* IEEE: Jad Mghabghab (he/him/il) - Late
+* CESA – AÉGCi: Claire Durand (she/her/elle)
+* CESA – AÉGCi: Rumony Chhom (she/her/elle)
+* ChESS – AÉGC: Ryanne Butler (she/her/elle)
+* MESS – SÉGM: Farah El Siss (she/her/elle)
+* MESS – SÉGM: Ryan Langley  (she/her/elle)
+* GNG 1105 A: Jayden Ireland (he/him/il)
+* GNG 1105 B: Calvin Smith (he/him/il)
+* GNG 1105 D: Katelyn Saper (she/her/elle)
+* 2nd year Chemical – 2e année chimique: Emilia Wesolkowski (she/her/elle)
+* 2nd year Mechanical – 2e année mécanique: Rocco De Oliveira (he/him/il)
+* 2nd year Computer – 2e année informatique: Pradyumna Uppalapati (she/her/elle)
+* 3rd year Mechanical – 3e année mécanique: Dakota Squires (he/him/il)
+* 3rd year Software – 3e année logiciel: Jamie Watson (she/her/elle)
+* CO-OP Chemical – Chimique CO-OP: Rayan Ben Kadi (he/him/il)
+* CO-OP Electrical – Électrique CO-OP: Samuel Li (he/him/il)
+* CO-OP Mechanical – Mécanique CO-OP: Conor Waldron (he/him/il)
+* CO-OP Computer – Informatique CO-OP: Brooke MacQuarrie (she/her/elle)
+* Absent – Absent.e.s:
+* GNG 1505 B: Sofia Jadal (she/her/elle) - Excused
+* 2nd year French – 2e année français: Meltem Selin Çetin (she/her/elle) - Excused
+* EEF Chair – Président du FdG: Mark Uchanski (he/him/il)*
+* UOSU BoD – CA du SÉUO: Matias Suxo-Salinas (he/him/il)*
+* VP Services: Luke Ballinger (he/him/il)
+* 2nd year Electrical – 2e année électrique: Rory McCulloch (he/him/il)
+* 3rd year Computer – 3e année informatique: Somana Debnath (she/her/elle)
+* 4th year Mechanical – 4e année mécanique: Giovanni Abbruzzo (he/him/il)
+* 4th year Computer – 4e année informatique: Stuti Pandya (she/her/elle)
+* * Non-voting – Sans droit de vote
+4. Comments from the Chair – Commentaires de la présidence
+   1. Robert’s Rules Overview – Aperçu des règles de procédure Robert
+Special Rules of Order
+1: New idea
+2: Replying to current idea
+p: Point of privilege, interrupts current discussion (ex: can't hear the microphone)
+c: Point of clarity, confused about current discussion and needs clarification, interrupts current discussion (ex what does an acronym mean)
+t: Requesting a translation 
+   2. Notes
+      * Communication is KEY. There should be an open line of communication at all times! 
+      * Proxies! Best if they are part of the student population that you represent not just a friend 
+5. Administrative Motions – Motions administratives
+Title
+Titre
+	Adoption of Agenda
+Adoption de l'ordre du jour
+	Mover
+Proposé
+	Dakota
+	Seconder
+Appuyé
+	Calvin
+	BE IT RESOLVED THAT the agenda be adopted as presented.
+IL EST RÉSOLU QUE l'ordre du jour est adopté tel que présenté.
+	Discussion
+	VPFA: Motion to add another motion at the end of the current ones. Seconder: Magno
+Passes unanimously
+	Result
+Résultat
+	Passes unanimously
+	6. Elections – Élections
+Title
+Titre
+	Election of Year Representatives 
+Élection des représentants d'année
+	Mover
+Proposé
+	Calvin
+	Seconder
+Appuyé
+	Jamie
+	Nominations
+	* Aditya Baindur - 3rd year Electrical Eng
+	WHEREAS several Year Representative positions are currently vacant;
+WHEREAS Year Representatives must be elected by ordinary resolution of the Members in accordance with Section 1.3.3.2 of the Policy and Procedure Manual;
+BE IT RESOLVED THAT the following Members be elected as Year Representatives for their respective programs and years, as detailed below:
+* 1st year
+   * GNG 1105 C: 
+   * GNG 1105 D: 
+   * GNG 1505 A
+   * SEG 2900: 
+   * PHY 1121/1521
+* 2nd year
+   * Civil:  
+   * Biomedical mechanical: 
+   * Software: 
+* 3rd year
+   * Chemical: 
+   * Civil: 
+   * Electrical: Aditya Baindur
+   * Biomedical mechanical: 
+   * French: 
+* 4th year or higher
+   * Chemical: 
+   * Civil: 
+   * Electrical: 
+   * Biomedical mechanical: 
+   * Software: 
+   * French: 
+* CO-OP
+   * Civil: 
+   * Biomedical mechanical: 
+   * Software: 
+* Student Academic Success Service (SASS):
+* Multidisciplinary Design: 
+________________
+
+
+ATTENDU QUE plusieurs postes de représentants d'année sont actuellement vacants;
+ATTENDU QUE les représentants annuels doivent être élus par une résolution ordinaire des membres conformément à la section 1.3.3.2 du Manuel des politiques et procédures;
+IL EST RÉSOLU QUE les Membres suivants de la Société soient élus en tant que représentants annuels pour leurs programmes et années respectifs, comme détaillé ci-dessous: 
+* 1ère année
+   * GNG 1105 C
+   * GNG 1105 D: 
+   * GNG 1505 A
+   * SEG 2900: 
+   * PHY 1121/1521
+* 2ème année
+   * Génie civil: 
+   * Génie biomédical mécanique: 
+   * Génie logiciel: 
+* 3ème année
+   * Chimie: 
+   * Génie civil: 
+   * Génie électrique: Aditya Baindur
+   * Génie biomédical mécanique: 
+   * Français: 
+* 4ème année ou plus
+   * Chimie: 
+   * Génie civil: 
+   * Génie électrique: 
+   * Génie biomédical mécanique: 
+   * Génie logiciel: 
+   * Français: 
+* CO-OP
+   * Génie civil: 
+   * Génie biomédical mécanique: 
+   * Génie logiciel: 
+* Service de réussite académique des étudiants (SASS): 
+* Design multidisciplinaire:
+	Questions
+	
+
+	Answers
+Réponses
+	Aditya: I have been in previous student societies. I want to join ESS BoD if important since governance and having a good structure of people being accountable is very very important. I am also familiar with Robert’s Rule.
+Favorite Study Spot: I like coming to CBY 707 around sunset. SITE is also really pretty
+	Discussion
+	Calvin: Keep 1 minute serious question and 30 second funny. Funny question being “What’s ur favorite study space?” and serious could be “Why do you want to join BoD?”
+Passes unanimously
+Rocco: I like him. He seems sweet 
+Calvin: I agree, him being knowledgeable with robert’s rules is also huge. He is also very well spoken 
+Dakota: like the passion for student governance
+	Result
+Résultat
+	For: 18 votes
+Against: 0 votes
+Abstain: 0 votes
+	
+
+7. Executive Updates – Mises à jour de l'exécutif
+* Co-Presidents – Coprésidents: Aiden McCooeye (he/him/il) & Eric Hagen (he/him/il)
+   * President elections completed!
+   * Pushing for sub-association recognition/benefits at PRT
+   * Got Cyrus on the bank
+   * Scheduled biweekly meetings
+   * Verified OEC attendees
+   * Hosted the Fall team bonding
+* VP External – Externe: Ashna Cheverlharan (she/her/elle) - Late
+   * Attended Canadian Engineering Leadership Conference (CELC) 2026 at Western University with four delegates, reimbursements being processed, invoice paid and delegates will provide their take backs at BOD
+   * Preparations in place to attend the Conference on Advocacy and Leadership in Engineering (CALE) 2026 at McMaster University, delegates selected and registered, transportation booked, delegate meeting planned
+   * Delegates selected and registered for the Conference on Sustainability in Engineering (CSE) 2026, need to host delegate meeting and book transportation soon
+   * Planning the Carleton x uOttawa hockey event - dates finalized, planning in progress
+   * Prepared bid for PM 2027 to be presented at CALE
+   * Had a meeting with Manager of External Awareness and ESSCO Ambassador to discuss plans for upcoming semester
+* VPFA: Cyrus Choi (he/him/il)
+   * ERTW and Manager of Sponsorships resigned, in the process of hiring someone new
+   * I got onto the bank! Working on opening a credit card for the society
+   * Ski trip turned out to be cheaper than expected
+   * Working on finances for the general operations of the society
+   * Attended CELC 2026
+   * Onboarded Ipek as Manager of Sponsorships
+   * December Financial update:
+  
+
+   * January Financial update:
+  
+
+* VP Academic – Académique: Nick Mesquita (he/him/il) - Late
+   * Working on resources doc with some other folks, added a few already
+   * Planning class talks with Sydney
+   * Waiting on Consulting Club marketing materials to repost their event (check that out when it's up!)
+   * UofT reached out to us w/ an invite to their virtual career fair (thanks to Sydney again for letting me know about that), will be following up on that
+   * Met with Ashna to determine course of action on a bunch of emails we got about different events from the break (Timber bridge competition, etc.)
+* VP Communications: Hayley Jubinville (she/her/elle)
+   * Mailouts come out every other Wednesday regularly
+   * Trying to gain access to the linkedIn
+   * Website Rehaul in the works
+* VP Internal – Interne:  Steffen Zylstra (he/him/il)
+   * OEC delegation organization, including EEF application
+   * Manager of sponsorships hiring
+   * Office hours
+   * Office Renovations
+   * Discussing NEM collaborations with Carleton ENGSOC, open to event ideas
+   * uOEC 2026 Sponsorship Packet and outline created
+   * Currently organizing meetings with Subassociations and Design teams
+* VP Services: Luke Ballinger (he/him/il)
+   * new patch
+   * leather jackets here
+* VP Social: Magno Melo Martins (he/him/il)  
+   * Currently planning STAGED to be a crossover RSG karaoke. Might merge the event with VP Equity's event as well. Just looking for a venue with a tentative date of early March
+   * DUSTED is also being planned, theme and patch are locked in, tentative for March 21st, just need to confirm venue and busses.
+   * Tremblant Ski Trip was a great success! Lots of fun!
+   * Spirit Commissioner has been added to work under me this winter semester on a trial basis
+* VP Philanthropic – Philanthropique: Zoe Saunders (she/her/elle)
+   * Eng ball early bird tix sold out
+   * Regular ticket prices lowered since sales were very slow
+   * Phil events for this sem to be scheduled this coming week
+   * Sponsors/auction items are still a work in progress but are coming in
+* VP Equity – Équité: Maria Hal (she/her/elle)
+   * working on winter event
+   * working on equity clubs event
+   * SSA collab
+* VP Sustainability – Développement durable: Sydney Ruberto (she/her/elle)
+   * Upcycled patch event went well
+   * planning potential collab events with clubs
+* VP Francophone: Yann Giffaux (he/him/il) - Late
+   * Planning a champions league watchparty for February between the 23-25th, awaiting current tournament result to pick the day with most francophone teams.
+   * Discussing with VP Services to get Francophone merch out by reading week.
+   * Attended Franco Roundtable and notified them of current event planning.
+   * Translated a few prompts with Manager of Translations
+8. Sub-association updates –  Mise à jour des sous-associations
+* IEEE
+   * Intro to C workshop and CTF this week!
+   * Lot of events planned for the semester, including a bunch of tech workshops.
+   * Working of EEF application
+   * Wine & Cheese 17 and Battle Royale 17 are biggest events coming soon
+   * New branch counsellor for the semester
+* CESA
+   * planning events for the winter term
+   * Prof bar night on the 30th
+   * Preparing new merch (finally 🙏)
+* CHESS
+   * Heat press and sticker-making workshop planned with CEED on jan 30th
+   * AGM is set for feb 1st (location TBD)
+   * New merch is expected to come out mid feb
+   * Started early planning for CSChE 2026
+* MESS
+   * Welcome back tiki bar night w/ CESA was fire! Lots of people attended.
+   * Merch coming in 3 weeks. Best merch designs yet!
+   * All events are planned and budgeted for the semester. ( all are in the ESS Calendar) Upcoming Pre-reading week: Resume help workshop w/ Career corner Jan 30th, Annual MESS Galentines Feb 9th w/ MDSC, MESS Valentines Social Feb 13th.
+   * New patch designs incoming
+   * Office revamp and office services announcement soon!
+   * new co- director for bod: Ryan Langley alongside Farah
+9. Motions
+Title
+Titre
+	Motion to Move Wine and Cheese Money
+
+
+	Mover
+Proposé
+	VPFA
+	Seconder
+	Magno
+	WHEREAS the Fall Wine and Cheese ended up going over the initial budget on top of $13000 from EEF.
+WHEREAS overall this would lead to a $1570.27 deficit on the event.
+BE IT RESOLVED that C&R fees gets increased to $ (7,000.00) and Catering gets increased to $ (7,573.48)
+________________
+
+
+ATTENDU QUE le budget initial de 13 000 $ alloué par l'EEF pour la soirée « Automne Vin et Fromage » a finalement été dépassé.
+ATTENDU QUE cela entraînerait globalement un déficit de 1 570,27 $ pour l'événement.
+IL EST RÉSOLU QUE les frais C&R soient augmentés à 7,000.00 $ et que les frais de restauration soient augmentés à 7 573,48 $.
+	Documents
+	  
+
+	Discussion
+	Dakota: Do we have an outstanding fee
+Cyrus: No. Accounting for extra plates; ~$500 in reimbursements
+	Result
+Résultat
+	Passes unanimously
+	Title
+Titre
+	Motion to Put EEF Surplus into TMU Bug Push Transportation
+Motion visant à affecter l'excédent du FDG au Bug Push de TMU
+	Mover
+Proposé
+	VPFA
+	Seconder
+	Magno
+	WHEREAS we are splitting the BBQ in half with the Faculty of Engineering
+WHEREAS we wish to send a delegation to TMU for Bug Push 2026. 
+BE IT RESOLVED a new line be added to the VP Phil budget to account for the transportation costs to send a delegation from Ottawa to Toronto.
+________________
+ATTENDU QUE nous partageons le barbecue à parts égales avec la Faculté de génie
+ATTENDU QUE nous souhaitons envoyer une délégation à TMU  pour le Bug Push 2026
+IL EST RÉSOLU qu'une nouvelle ligne soit ajoutée au budget du VP Philanthropique afin de couvrir les frais de transport pour envoyer une délégation d'Ottawa à Toronto.
+	Discussion
+	Cyrus: bought bbq paid by EEF money, faculty wanted to split it to use for their events; we get extra $400 to send delegation to Bug Push in March
+	Result
+Résultat
+	For: 19
+Against: 0
+Abstain: 2
+	Title
+Titre
+	Motion to Correct Missing Sub Association 2024 Summer Levies
+Motion visant à corriger les cotisations estivales 2024 manquantes des sous-associations
+	Mover
+Proposé
+	VP Internal
+	Seconder
+	VP Social
+	WHEREAS subassociations did not receive their summer 2024 levies
+WHEREAS the total levies were $19,019.64, with 15% ($2,852.95) standardly designated for subassociations
+WHEREAS this amount, split accordingly based on the summer 2024 UOSU student list, is as follows:      
+    51.06% IEEE ($1,456.70)
+    26.25% MESS ($748.91)
+    11.7% CESA ($333.80)
+    10.99% ChESS ($313.54)
+WHEREAS ChESS has an advance on their levies which is greater than their associated amount.
+BE IT RESOLVED THAT remedial payouts based on our received levies during summer 2024 and the UOSU student list be made to the subassociations, with the exception of ChESS, where the money will go towards paying off their advance.
+________________
+
+
+ATTENDU QUE les sous-associations n'ont pas reçu leurs cotisations estivales 2024
+ATTENDU QUE le montant total des cotisations s'élevait à 19 019,64 $, dont 15 % (2 852,95 $) étaient normalement destinés aux sous-associations
+ATTENDU QUE ce montant, réparti en fonction de la liste des étudiants de l'UOSU pour l'été 2024, se présente comme suit : 
+    51,06 % IEEE (1 456,70 $)
+    26,25 % MESS (748,91 $)
+    11,7 % CESA (333,80 $)
+    10,99 % ChESS (313,54 $)
+ATTENDU QUE ChESS dispose d'une avance sur ses cotisations qui est supérieure au montant qui lui est associé.
+IL EST RÉSOLU QUE des paiements compensatoires basés sur les cotisations reçues au cours de l'été 2024 et sur la liste des étudiants de l'UOSU soient versés aux sous-associations, à l'exception de ChESS, où l'argent servira à rembourser son avance.
+	Discussion
+	Dakota: does ESS currently have the money
+Cyrus: Yes
+Brooke: Would this money be based off of current of previous policy
+Cyrus: current 2025 policy
+Brooke: should it?
+Aiden: Should be current since it would be distributed now
+Farah: The money was supposed to be in the account 2 years ago and thus should be based off of the previous policy to be fair
+Dakota: Previous makes more sense since that it the amount of money owed
+Steffen: What is the change in policy?
+Farah: The Comptech students now pay a IEEE a fee, wasn’t a thing in the previous policy. Accounts for a big amount of student
+Jad: It was never 100:0 it was 50:50
+Jayden: Do we know the difference in the amount of money between the two policies 
+Cyrus: in new policy, for the comptech students, main subassociation should get 80% of levies whereas IEEE would get 20%; whereas for previous policy it would be 50/50
+Jad: everyone knew it used to be 50:50 so it was decided to be 80:20; 100:0 is definitely unfair as it was never done and never written down. In favour of 80:20 as a fair split and 100:0 is not reasonable
+Cyrus: Motion is currently written in accordance to current 80:20 policy
+Farah: breakdown provided by prev VPFA did not take into account 50:50 comptech
+Rocco: Could we look at how levies were divided before the summer in question?
+Cyrus: Yes, but if that would be the case would like to motion this until next BOD
+Rocco: Feel like this could give info on the VPFA’s judgement at that time
+Cyrus: This was received really late in January and the bank account was very low
+Farah: Fall amount was accidentally transferred to MESS and had to send it back to ESS in chunks. So I have the exact amount and at least have the mechanical student list 
+Jad: 100:0 split would be very unfair if that did happen; 80:20 was clear and fair based on the courseload
+Maya: the question on if we are going back to previous numbers or current numbers
+Brooke: What are these numbers based on
+Cyrus: Operations commissioner from UOSU
+Jamie: Farah said she was waiting on this money from two years ago. WHy are we doing recalculations
+Co-Presidents: More about getting information to do the calculations. At time that it was first asked, there was no money to give
+Ryn: There are two different types of student lists: one for students that have an account and one for students that paid
+Jayden: If we are giving money from 2024, it’s more of a debt situation and changing the money that is owed would be unfair
+Conor: What are we currently voting on
+Maya: Motion as it is presented, using more recent subassociation policy (80:20) split
+Conor: So if BOD decided to use other numbers we would have to vote against, create a new motion and then vote again
+Maya: or motion to change this one
+Rocco: Motion to table this motion until we have all the calculations (100:0, 80:20 & 50:50), and the knowledge of how the previous VPFA split the comptech students. Seconder: Dakota
+Cyrus: So to clarify: How predecessor did it before and after and then we can compare? 
+Rocco: Would like to see all the different options. Just to be able to do it equitably 
+Conor: Don’t personally think we should go back to look at prev calculations as it was up to discretion of prev VPFA. We should go with what was in writing, even if it was 100:0. THis is about the money not going to MESS when it should have, not about splitting the money. Was the VPFA to pick a percentage in head? 
+Maya: depended on the VPFA’s interpretation
+Ryn: It would be very difficult to find information in the records
+Dakota: If it’s hard to find the info, how did Finance calculate the info?
+Ryn: Whole process of looking at amounts given in prev summer and summer 2024, checking with UOSU; used student list
+Steffen: This is the most fair numbers we can get for distribution of funds that were not made yet
+Cyrus: Prev VPFA sent a transition document from ~10 years ago where each student received $12. Nothing was recorded well
+Farah: Was following up on this for the past year and a half; posted snippet of how winter levies were broken down with timestamps to show calculations at the time
+Ryn: could we clarify what we are hoping to achieve by tabling
+Rocco: I could make a list of what I’d want to see. 100:0, 50:50, and 80:20 issue as well as f there is any way we could see how prev VPFA was splitting the numbers
+Maya: current motion for tabling is with current policy using 80:20 split
+Rocco: reason that we are looking for what the prev VPFA is that the policy stated that the distribution would be at the VPFA’s discretion
+For: 15 votes
+Against: 5 votes
+Abstain: 1 vote
+	Result
+Résultat
+	
+
+	Title
+Titre
+	Motion to Raise Office Equipment Budget
+Motion visant à augmenter le budget consacré au matériel de bureau
+	Mover
+Proposé
+	VP Internal
+	Seconder
+	Cyrus
+	WHEREAS the office is currently undergoing renovations for an improved workspace, noting that the Squarespace POS system was sold for $600
+BE IT RESOLVED the office equipment budget be increased by $600 to invest in the ability of ESS officers to complete mandated work during office hours. 
+________________
+
+
+ATTENDU QUE que le bureau fait actuellement l'objet de travaux de rénovation visant à améliorer l'espace de travail, et notant que le système de point de vente Squarespace a été vendu pour 600 dollars
+IL EST RÉSOLU que le budget consacré au matériel de bureau soit augmenté de 600 dollars afin d'investir dans la capacité des agents ESS à accomplir le travail qui leur est confié pendant les heures de bureau. 
+	Discussion
+	Sydney: I am all for renovating the office but also keeping in mind that we are for the students. I think we should look into second hand monitors and things like that just to save money using students money
+Dakota: Not right that we give the officers a dedicated working space when the Eng Lounge is not getting changed
+Steffen: Contacted the Faculty about monitors they’d be willing to give away and the ones we are looking at are already at half the cost. This is a comparatively small budget line and will allow Finance to work on spreadsheets, etc; second monitor is very helpful to work during office hours. Will allow officers to better complete their duties.
+Rayan: Is motion about only increasing budget or about what they will spend it on.
+Maya: both
+Magno: most of the time no one is at the front working and instead at the back. The new monitors wouldn’t be used much. 
+Dakota: How many monitors were you thinking of buying
+Steffen: two monitors; would bring people to the front of the office. They would be about $100 each
+Cyrus: When we sold Square, we were under impression that the money would be used towards office upkeep. This budget line change is to show that
+Rocco: Really good idea. We should think about productivity and how this would increase the amount of work they could get done. Two monitors would function as a nice advertisement to joining ESS
+Conor: the way to get more people to join is the make it a more social space. The question to think about is whether the the monitors will increase the buzz around ESS or lower the social aspect as more people will just be separate doing their own work on the monitors.
+Co-presidents: monitors at the front invites a more social environment as it makes the people at office hours a lot more approachable as someone is always at the front able to help students. Office should be more work and office hours; party in the back work in the front
+Magno: we have $1000 on office snacks that we could use for the monitors
+Rocco: if we are using the money from Square, isn’t that money earned by the officers and thus we should put it towards them?
+Dakota: can we make a rule saying that the person on office hours gets priority, otherwise it would have to be used for ESS work
+Maya: Would not be on this motion
+Magno: we should remove monitors from the NB (Friendly)
+	Result
+Résultat
+	For: 16 votes
+Against: 1 vote
+Abstain: 3 votes
+	Title
+Titre
+	Motion to Move Engineering Ball Budget
+Motion visant à déplacer le budget consacré au ballon d'ingénierie
+	Mover
+Proposé
+	VPFA
+	Seconder
+	Calvin
+	WHEREAS Studio44 is handling all catering, venue, security and staffing costs associated to the venue, further relieving the burden from the ESS team. 
+WHEREAS the money can be reallocated and spent elsewhere. 
+WHEREAS we will now pay a lump sum to Studio44 because of the contract and pay per head. 
+BE IT RESOLVED that the VP Phil Budget for Engineering Charity Ball gets replaced to the following.
+________________
+
+
+ATTENDU QUE Studio44 prend en charge tous les frais liés à la restauration, au lieu, à la sécurité et au personnel associés au lieu, allégeant ainsi davantage la charge de travail de l'équipe ESS.
+ATTENDU QUE l'argent peut être réaffecté et dépensé ailleurs.
+ATTENDU QUE nous allons désormais verser une somme forfaitaire à Studio44 en raison du contrat et du paiement par personne.
+IL EST RÉSOLU que le budget du VP Philanthropique pour le bal de charité de l'ingénierie soit remplacé par ce qui suit. 
+	Documents
+	  
+
+	Discussion
+	Cyrus: damages and extra costs are contingency. Cleaning and coat check is free. 
+For: 20
+Against: 0
+Abstain: 1
+	Result
+Résultat
+	Passes
+	10. UOSU BoD Updates – Mises à jour du CA du SÉUO
+* UOSU BoD at 2pm today
+11. Varia
+* CELC Takeback - VP X 
+   * Since VP X was busy in different meetings and a motion passed at the last meeting, all 4 delegates did submit their takebacks (what delegates have learned/taken from the events they attended). These will be shared with BoD and hopefully on the website. 
+* PM 2027 Bid - VP X 
+   * It has been about 2 years since we have hosted a conference so it is about time that we bid, ie put our name/school up to host a conference. We have decided to put up the bid for the Presidents Meeting where ~50 delegates of the presidents and VP X’s of Ontario’s engineering student societies. 
+   * Part of putting in a bid is presenting a powerpoint of which VP X is mandated to show BoD before putting it up as an official bid: (link to ppt) 
+   * Next Steps: Will send out a message to BoD with a poll to see if BoD supports this choice 
+* UOSU Events - Rocco (2nd year Mechanical)
+   * Beaver Tail Event & UOShow 2 
+   * People are saying that these events aren’t really for engineering students 
+   * Presidents: These are school events not UOSU events so your tuition 
+Rocco: Motion to go back to Election Motion. Seconder: Jayden
+Passes unanimously
+12. Notice of Motions – Avis de motion
+   1. JMTS BoD Rep
+13. Adjournment – Ajournement
+With no further business, the meeting adjourned at 1:27 PM EDT.
+L'ordre du jour étant épuisé, la réunion est levée à 13h27 PM HAE.
+14. Next Meeting – Prochaine réunion
+The next Board meeting will be scheduled for March 1st 2026 at 11 AM. 
+La prochaine réunion du conseil d'administration sera programmée le 1 mars à 11h00.

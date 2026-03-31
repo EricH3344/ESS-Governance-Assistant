@@ -1,0 +1,555 @@
+﻿ESS July BoD Meeting Minutes – Procès verbal de la réunion de juillet du CA de l'AÉG
+1. Call to Order – Appel à l'ordre
+Date: Jul 20, 2025 11:00 AM
+Location – Lieu: STM 117 & Google Meet
+The meeting was called to order at 11:05 am with Maya Benhamou as Chair.
+La réunion est ouverte à 11h05 , sous la présidence de Maya Benhamou.
+2. Land Acknowledgement – Reconnaissance des Terres
+We acknowledge that we are gathered on the traditional and unceded territory of the Algonquin Anishinaabe Nation. For generations, they have been the stewards of this land, and their deep connection to it continues to this day. We recognize the enduring presence and contributions of the Algonquin people to this region. We also acknowledge the painful history of colonization and the displacement of Indigenous communities from their ancestral lands. We commit ourselves to learning, understanding, and honoring the Algonquin Nation's history and culture. We recognize the importance of working collaboratively to create a more just and equitable future for all who call this land home.
+________________
+
+
+Nous reconnaissons que nous sommes réunis sur le territoire traditionnel et non cédé de la nation algonquine anishinaabe. Depuis des générations, ils sont les gardiens de cette terre et le lien profond qui les unit à elle perdure encore aujourd'hui. Nous reconnaissons la présence et les contributions durables du peuple algonquin dans cette région. Nous reconnaissons également l'histoire douloureuse de la colonisation et du déplacement des communautés autochtones de leurs terres ancestrales. Nous nous engageons à apprendre, à comprendre et à honorer l'histoire et la culture de la nation algonquine. Nous reconnaissons l'importance de travailler en collaboration pour créer un avenir plus juste et plus équitable pour tous ceux qui vivent sur cette terre.
+3. Roll Call – Appel nominal
+Present – Présent.e.s: 
+* Co-President – Présidente: Aiden McCooeye (he/him/il)
+* Co-President – Présidente: Eric Hagen (he/him/il)
+* VP External – Externe: Ashna Cheverlharan (she/her/elle)
+* VPFA: Cyrus Choi (he/him/il) - Proxied by Ryn
+* VP Academic – Académique: Nick Mesquita (he/him/il)
+* VP Communications: Hayley Jubinville (she/her/elle)
+* Interim VP Internal – Interne: Daniel Thorpe (he/him/il)
+* VP Services: Luke Ballinger (he/him/il)
+* VP Philanthropic – Philanthropique: Zoe Saunders (she/her/elle)
+* VP Equity – Équité: Maria Hal (she/her/elle)
+* VP Francophone: Thomas Boyle (he/him/il) - Proxed by Victoria
+* IEEE: Jad Mghabghab (he/him/il)
+* CESA – AÉGCi: Claire Durand (she/her/elle)
+* ChESS – AÉGCi: Nour Akremi (she/her/elle)
+* MESS – SÉGM: Farah El Siss (she/her/elle)
+* MESS – SÉGM: Kristen Wells (she/her/elle)
+* 2nd year Computer – 2e année informatique: Pradyumna Uppalapati (she/her/elle)
+* 3rd year Mechanical – 3e année mécanique: Dakota Squires (he/him/il)
+* 3rd year Software – 3e année logiciel: Jamie Watson (she/her/elle)
+* 3rd year Computer – 3e année informatique: Somana Debnath (she/her/elle)
+* CO-OP Mechanical – Mécanique CO-OP: Conor Waldron (he/him/il)
+* CO-OP Computer – Informatique CO-OP: Brooke MacQuarrie (she/her/elle)
+* Multidisciplinary Design – Design multidisciplinaire: Abby Wilson (she/her/elle)
+Absent – Absent.e.s:
+* CESA – AÉGCi: Rumony Chhom (she/her/elle) - Excused
+* VP Sustainability – Développement durable: Leila Smaili (she/her/elle)
+* 4th year Mechanical – 4e année mécanique: Giovanni Abbruzzo (he/him/il)
+* CO-OP Electrical – Électrique CO-OP: Samuel Li (he/him/il)
+* EEF Chair – Président du FdG: Mark Uchanski (he/him/il)*
+* UOSU BoD – CA du SÉUO: Matias Suxo-Salinas (he/him/il)*
+* 2nd year Electrical – 2e année électrique: Rory McCulloch (he/him/il)
+* 2nd year Mechanical – 2e année mécanique: Rocco De Oliveira (he/him/il)
+* 4th year Computer – 4e année informatique: Stuti Pandya (she/her/elle)
+* * Non-voting – Sans droit de vote
+4. Comments from the Chair – Commentaires de la présidence
+   1. Robert’s Rules Overview – Aperçu des règles de procédure Robert
+1: New idea
+2: Replying to current idea
+p: Point of privilege, interrupts current discussion (ex: can't hear the microphone)
+c: Point of clarity, confused about current discussion and needs clarification, interrupts current discussion (ex what does an acronym mean)
+t: Requesting a translation 
+   2. Notes
+      * Communication is KEY. There should be an open line of communication at all times! 
+      * Proxies! Best if they are part of the student population that you represent not just a friend 
+5. Administrative Motions – Motions administratives
+Title
+Titre
+	Adoption of Agenda
+Adoption de l'ordre du jour
+	Mover
+Proposé
+	Brooke
+	Seconder
+Appuyé
+	Zoe
+	BE IT RESOLVED THAT the agenda be adopted as presented.
+IL EST RÉSOLU QUE l'ordre du jour est adopté tel que présenté.
+	Discussion
+	Brooke: Amendment to by-laws erase the words
+Daniel: Submitted in order they were submitted
+Motion to move both of the motions that were not passed last meeting to the beginning of the motion section. Seconder: Dakota
+Passes unanimously
+	Result
+Résultat
+	Passes unanimously
+	6. Elections – Élections
+Title
+Titre
+	Election of Year Representatives 
+Élection des représentants d'année
+	Mover
+Proposé
+	Brooke
+	Seconder
+Appuyé
+	Zoe
+	Nominations
+	* Emilia Wesolkowski - 2nd Year Chemical Engineering
+	WHEREAS Year Representatives must be elected by ordinary resolution of the Members in accordance with Section 1.3.3.2 of the Policy and Procedure Manual;
+BE IT RESOLVED THAT the following Members be elected as Year Representatives for their respective programs and years, as detailed below:
+* 2nd year
+   * Chemical: Emilia Wesolkowski
+   * Civil:  
+   * Biomedical mechanical: 
+   * Software: 
+   * French: 
+* 3rd year
+   * Chemical: 
+   * Civil: 
+   * Electrical: 
+   * Biomedical mechanical: 
+   * French: 
+* 4th year or higher
+   * Chemical: 
+   * Civil: 
+   * Electrical: 
+   * Biomedical mechanical: 
+   * Software: 
+   * French: 
+* CO-OP
+   * Chemical: 
+   * Civil: 
+   * Biomedical mechanical: 
+   * Software: 
+* Student Academic Success Service (SASS):
+________________
+
+
+ATTENDU QUE les représentants annuels doivent être élus par une résolution ordinaire des membres conformément à la section 1.3.3.2 du Manuel des politiques et procédures;
+ATTENDU QUE la motion à cet effet a été reportée lors de l'Assemblée générale annuelle tenue le 7 avril;
+IL EST RÉSOLU QUE les Membres suivants de la Société soient élus en tant que représentants annuels pour leurs programmes et années respectifs, comme détaillé ci-dessous: 
+* 2ème année
+   * Génie chimie: Emilia Wesolkowski
+   * Génie civil: 
+   * Génie électrique: 
+   * Génie biomédical mécanique: 
+   * Génie logiciel: 
+   * Français: 
+* 3ème année
+   * Chimie: 
+   * Génie civil: 
+   * Génie électrique: 
+   * Génie biomédical mécanique: 
+   * Français: 
+* 4ème année ou plus
+   * Chimie: 
+   * Génie civil: 
+   * Génie électrique: 
+   * Génie biomédical mécanique: 
+   * Génie logiciel: 
+   * Français: 
+* CO-OP
+   * Chimie: 
+   * Génie civil: 
+   * Génie biomédical mécanique: 
+   * Génie logiciel: 
+* Service de réussite académique des étudiants (SASS): 
+	Questions
+	Serious: Why do you want to be in this position?
+Silly: What does BoD stand for? (wrong answers only)
+	Answers
+Réponses
+	Serious: I want to get more involved in engineering. Participated in uoec. I have experience in clubs and leadership positions. I want to get to know more people in engineering at uOttawa
+Silly: Bear of Desk
+	Discussion
+	Daniel: 1 serious question (60 sec) & 1 silly question (30 sec)
+Ryn: Serious: Why do you want to be in this position? 
+Silly: How do you make beer? 
+Zoe: Silly: What does BoD stand for? (wrong answers only) *friendly
+Seconder: Abby 
+
+
+Brooke: She seemed nice and interested in participating. I believe she would be a good choice. 
+Daniel: She seems to want to get engaged. The bar is low and there is no reason to not appoint someone to the position. This could be something we could look into in the future. 
+	Result
+Résultat
+	Passes uninamously
+	
+
+Title
+Titre
+	Appointment of Interim Vice President(s)
+Nomination d'un.e/des vice-président.e(s) intérimaire(s)
+	Mover
+Proposé
+	Zoe
+	Seconder
+	Aiden
+	Nominations
+	* Magno Melo Martins
+	WHEREAS the position of Vice-President of Social Affairs is now vacant following the resignation of the person that previously held the position; 
+WHEREAS Section 7.03 of the By-Laws grants the Board of Directors the authority to appoint individuals to fill vacant Executive positions on an interim basis until a By-Election is conducted and the results are ratified;
+BE IT RESOLVED THAT Magno Melo Martins be appointed as Interim Vice President of Social Affairs of the Society, effective July 20th, 2025, to serve until a By-Election is held and the results ratified;
+	Questions
+	If a crisis were to happen during 101 week, why should the board trust that you would be able to handle the situation maturely, efficiently and responsibly?
+
+
+	Discussion
+	Daniel: I appreciate we have someone for the position. But I would like to express some concern that before the person that got the position was acting like he had gotten the position before this meeting. I don’t think we should have had an interim of the interim position. In the future, we should either rush a board meeting if it needed to be done fast and not give people roles and tasks before they get appointed to keep impartiality. Or get in the way 
+Conor: I was confused because in the 101 week chat it was written as he was already appointed. If someone wanted to run it could’ve discouraged that and I agree with Daniel in that sense. Also mentioning that Magno could be a great VP Social nonetheless but to just keep it in mind for next time. 
+Daniel: He is not in the position. He is running for it right now. We had a vacancy and needed more support so Magno stepped up and helped. There was a mention in a meeting that we would appoint an interim VP Social. There was a discussion it seems of who would be appointed. Instead of calling an emergency meeting and giving them responsibilities, they waited for this meeting. 
+Aiden: He doesn’t have any responsibilities. He just stepped up and showed up to help as much. The only part would be his name in the 101 week discord but he doesn’t have any other role or access. 
+Daniel: In the discord server, does he have access to channels that he shouldn’t? 
+Aiden: No, he has committee channels and in the ESS he doesn’t have any access to officer channels . 
+Daniel: I think we should ask him questions. I think he could be good for the position. 
+Format: 3 serious questions (60 sec each) and 1 silly question (30 sec)
+Hayley: I think we should ask 1 serious question because he has proved himself and stepped up. *not friendly
+Daniel: My reasoning is that even if he is contributing it isn’t a good enough reason to lessen the questions since we are not all aware of the work he has been doing and it would be good to hear about it. Due diligence should always be taken into account. 
+3 serious question: 7 votes
+1 serious question: 9 votes
+Abstentions: 4 votes - Dakota notable
+Format: 1 serious (60 secs) and 1 silly question (30 sec) 
+Eric: Serious: 1. Do you have what it takes to step up from a committee member to VP social?
+Daniel: Serious: 2. If a crisis happens during at 101 week, why should the board trust that you would be able to handle the situation maturely, efficiently and responsibly? 
+Jad:  Funny question: give us your 101 week chant (or any chant)
+1. Do you have what it takes to step up from a committee member to VP social? -> 2 votes
+2. If a crisis were to happen during 101 week, why should the board trust that you would be able to handle the situation maturely, efficiently and responsibly? ->  12 votes
+Abstentions: 1 vote
+
+
+Motion: 1 serious question (2.) for (60 seconds) and 1 silly question (give us your 101 week chant (or any chant)) for (30 seconds) Seconder: Luke
+Passes uninamously
+
+
+Dakota: *Conflict of interest* I apoligize for the interim of interim situation. He has been doing a great job and I don’t see why he shouldn’t get this position
+Daniel: His answer and knowing who to contact is great. But the VP social is to be the person to get contacted and take responsibility of anything that were to go wrong. I mean there is UOSU or the Co-presidents but in that answer it didn’t seem that we would know if he would take responsibility. 
+Abby: My interpretation was that he was only given 60 seconds and it was his way of saying that he would know who to speak to help solve. People have already put in that trust that he would be able to handle the situation. 
+Eric: There wasn’t a concrete example. I don’t think we would only contact people. There were things that were to happen I didn’t have to but it really depends on the situation 
+Brooke: In response to abby, the 60 seconds should not really be considered since that is what we asked and if we wanted to know more about it and the time we should have asked. I agree with Daniel that he may not have answered the question about the actual steps that he could take 
+Luke: Since there was no situation exactly explained. If we want his role to be taking charge, we can make it clear to him about the expectations of the role. 
+Daniel: I agree with brooke. If the answer wasn’t enough, we could just ask him to come back and ask him more questions with more specificity or with more time.
+Conor: I trust everyone that has spoken. I do not know Magno but I know he has the experience but would think he could be a good fit. I think we do need in the future to make things a lot more clearer. Not many people know him and the work he has done but we have only 60 seconds to judge him. It does seem a little bit that it has been "pre-selected" since there was only 1 question and 60 seconds. But that role does handle a lot of money and like seen at the winter dusted 
+It seems that even if it’s only interim, it seems to be a charade since going into the election most of the time that person would get the position. 
+Daniel: Even if co-presidents are taking dusted in hands it’s still his responsibility
+
+
+Motion: Re-open the interview process with another 2 serious questions. Seconder: Conor
+Hayley: I think his answer was good for what he was given and I don’t think we need to ask more questions
+Abby: I think everyone has made good points. No matter what question we give him the time limit can make it that not everyone will have questions about him in this position. Every position has a learning curve to it 
+Farah: Most of the questions have been about the procedure and not about the character of the person. I think it’s getting circular and more questions will probably not change most of the answers. 
+Daniel: I went back to the march board meetings. And they were multiple questions of multiple long. I think we should be asking longer questions 
+Conor: We can say it won’t change how people are voting. I think it should be less about this one candidate and more about the principle of doing it right every time. The one question is now into a 15 minute conversation. So using it should take less time, is now making it even longer. If we give the candidate what they are running on and give them time for this. We should be able to find someone we are all comfortable in 
+Brooke: Calling Circular 
+For: 7 votes
+Against: 9 votes
+Abstention: 1 votes
+
+
+Eric: He has been a great guide for the last couple years. He has been doing a great job in his role on the 101 week committee and doing all the tasks he has been given 
+Daniel: I was in good faith ready to give him a fair chance but the procedure will be making me vote against because we were not able to get that confidence in him. 
+Nick: It feels a little strange that a majority of us have confidence that his skill to be in the role is somehow a negative against him. 
+Eric: I don’t agree since it was a board vote to do one question. I don’t understand why we are trying to go back on it. 
+Farah: If we want to take about procedure that should be a discussion point or a motion since this motion is about our confidence of him in the role not of how ESS does things. 
+Conor: I don’t think it is completely different since ESS procedure does impact this. Nick is a little flawed since “if we trust him you can trust him”. What Daniel meant is we had a shot of making him the “perfect candidate" but we lost that opportunity by only having one question / having a flawed procedure. I will be voting for him but I support what Daniel is saying and the point he is trying to make. 
+Abby: I think some things that are being said make it seems like some people are in a rush but we are the majority voting so there shouldn’t be a negative connotation towards that. 
+	Answers 
+	I know my way around. I have been a guide, head guide and I have been helping to plan. I know who to contact and know the right people to help. Make sure no one is panicking. I know how to not panic and figure out a back up plan if needed. 
+My name is Mango, unchained like Django, yo soy latino entonces ven conmigo, and I'll show you how I get dow
+	Result
+Résultat
+	For: 14 votes
+Against: 1 vote
+Abstention: 1 vote 
+	7. Executive Updates – Mises à jour de l'exécutif
+* Co-Presidents – Coprésidents: Aiden McCooeye (he/him/il) & Eric Hagen (he/him/il)
+   * Retreat happened
+   * Processing reimbursements
+   * Helping with 101 week
+   * Liaison for sub-association policy review
+   * Assisted Henri with sponsorship info as needed
+   * Attending SRT/TRS, PRT/TRP
+   * Coordinated and received hard hat order for 101 week
+   * DUSTÉ(D) is planned for August 16th 8pm
+   * Promoting eng-games (JDG) event day of DUSTED in return for promotion and increased attendance of DUSTED. (Pre / Post party vibes)
+   * Completed VP Social budget
+* VP External – Externe: Ashna Cheverlharan (she/her/elle)
+   * Transitioned Manager of External Awareness
+   * Pre-delegate registration and travel booking for SDES CFES logistics
+   * Finalized 2025/26 budget
+   * Sent out acceptance emails to my selection committee and commissioner
+   * Planning the external event for 101 week
+   * Assisting with planning DUSTED (bar basically secured)
+      * Daniel: Are we doing a written contract?
+      * Eric: We are experimenting with it based on the one we use for Chez Putters during 101 week
+* VPFA: Cyrus Choi (he/him/il)
+   * July Financial Report:
+  
+
+   * Don’t have bank access, need to wait until I am back in Ottawa
+   * Found out that previous VP Finance forgot to pay for 2024 handbook’s that cost us ~$5000, working with Hayley, Eric and Aiden to sort it out [maybe no physical handbooks this year :( ]
+   * Working with Dakota, Eric, Adi and 101 Committee to get payment page for 101 Week live
+   * Do not use our old square online store, no longer valid. You may use essaeg.ca/store for the time being
+   * 3 sponsors are confirmed for 101 week: Ross Video, PEO and Prep101
+* VP Academic – Académique: Nick Mesquita (he/him/il)
+   * Finalized 2025/26 budget
+* VP Communications: Hayley (she/her/elle)
+   * Budget complete
+   * Handbooks in progress 
+      * Potentially will be online this year because of budget issues, we found out the handbooks from last year were not paid for, instagram templates almost done.
+* Interim VP Internal – Interne: Daniel Thorp (he/him/il)
+   * Met with the Sub-Associations to discuss the Sub-Association policy
+   * Met with the UOSU Student Life Commissioner to discuss Sub-Associations
+      * Meeting scheduled for Monday to discuss engineering-related clubs and associations with the Student Life Commissioner and Deputy Student Life Commissioner
+   * Working on setting up 101er contract electronic signing
+   * uOEC planning is underway
+   * Attended retreat and contributed to discussions regarding a revision of positions within the ESS
+   * Sent meeting minutes for the JMTS teams meeting last month
+   * Did some office cleanup
+   * Small proposed budget updates and brainstorming of potential events for my mandate of 4 events
+   * Finished officer meeting minutes from May and June (May meetings are posted on the website now, June are still being translated)
+   * Not a lot of updates because I've been very busy and working overtime at my job for the past 2 weeks
+* VP Services: Luke Ballinger (he/him/il)
+   * finalized budget for fall 2025
+   * 101 week merch: - everything sorted (ready to pull the trigger)
+      * guide shirts
+      * 101er shirts
+      * exec shirts
+      * Lanyards
+      * beer steins
+      * shot glasses
+      * Coveralls
+      * Bandanas
+      * need official colours/files:
+      * 101 week patch
+   * Ordered bags with loot (pw leopard)
+* VP Social: N/A (101 week updates from Dakota) 
+   * 116 guides including 18 head guides have been chosen and been invited to discord (check your email's spam if you didn't see it)
+   * UOSU has approved all events
+   * buses are in the works
+   * Hard hats are on their way and UOSU has received their kit stuff that they are giving to all the RSGs
+   * Kit sales go live on Monday!! Need y'all ready for those reposts!
+   * I will be taking a step back the next two weeks so I can pass my 75% final (pray for me)
+* VP Philanthropic – Philanthropique: Zoe Saunders (she/her/elle)
+   * Attended PhilRTs
+   * Onboarded charity team members
+   * Finalized budget
+   * Continued planning Shine Day (sponsorship outreach, breakfast, locations, etc)
+   * Chose fall and winter phil campaigns (cat rescue yay!)
+* VP Equity – Équité: Maria Hal (she/her/elle)
+   * * VP Sustainability – Développement durable: Leila Smaili (she/her/elle)
+   * * VP Francophone: Thomas Boyle (he/him/il)
+   * 8. Sub-association updates –  Mise à jour des sous-associations
+* IEEE
+   * IEEE SPAC 2026 (Student Professional Awareness Conference) team working in full force (collab with carleton and algonquinn)
+   * Helping out with IEEE Ottawa Robotics Competition (also looking for volunteers)
+   * Planning events for fall
+   * Expanded our hardware inventory that students can take out
+* CESA
+   * Starting to plan events for the fall
+   * Working on budget
+   * Planning merch for the fall
+* CHESS
+   * Currently working with VP Internal to coordinate participation in the CSChE (Canadian Chemical Engineering Conference)
+* MESS
+   * First team meeting held
+   * planning events for the fall has started
+   * CHEO/CESO x mess event in planning phase
+   * merch coming soon ( for real this time )
+   * Hiring vp social and rest of directors of team
+9. Motions
+Title
+Titre
+	Adoption of Special Rules of Order for the Board of Directors
+Adoption des Règles spéciales de procédure du Conseil d’administration
+	Mover
+Proposé
+	VP Internal – Interne
+	Seconder
+	Brooke
+	WHEREAS the Board of Directors would benefit from the adoption of clear and consistent internal rules of procedure;
+WHEREAS § 2:14–22 of Robert’s Rules of Order Newly Revised (12th Edition) authorize the adoption of Special Rules of Order to supplement and, where explicitly stated, supersede its default provisions;
+WHEREAS the proposed Special Rules of Order have been developed to reflect the current needs, practices, and values of the Engineering Students’ Society and its Board of Directors;
+BE IT RESOLVED THAT the Board of Directors adopts the attached Special Rules of Order, effective immediately;
+BE IT FURTHER RESOLVED THAT these Special Rules of Order may only be amended, rescinded, or suspended in accordance with the procedures set out in the Preamble thereof.
+________________
+
+
+ATTENDU QUE le Conseil d’administration bénéficierait de l’adoption de règles de procédure internes claires et cohérentes ;
+ATTENDU QUE les § 2:14 à 2:22 de L’édition révisée des Règles de procédure de Robert (12e édition) permettent l’adoption de règles spéciales de procédure pour compléter et, lorsque cela est expressément indiqué, remplacer ses dispositions par défaut ;
+ATTENDU QUE les règles spéciales de procédure proposées ont été élaborées pour refléter les besoins, les pratiques et les valeurs actuels de la Société des étudiants en génie et de son Conseil d’administration ;
+IL EST RÉSOLU QUE le Conseil d’administration adopte les règles spéciales de procédure ci-jointes, avec effet immédiat ;
+IL EST EN OUTRE RÉSOLU QUE ces règles spéciales de procédure ne peuvent être modifiées, abrogées ou suspendues que conformément aux procédures prévues dans leur préambule.
+	
+Documents
+	Special Rules of Order Draft
+	Discussion
+	Daniel: These were based off UOSU standing orders and roberts rules. 
+Brooke: I read through the whole thing. It looks good but the only sure i wasn’t sure about is the externalization part. How much are things that we do that aren’t in Robert's rules. Like the max 10 minutes and can only speak twice? 
+Daniel: That is taken and since not everyone reads the huge book, I thought that even “duplicating” it, it makes it easier then to read the huge book. 
+For externalization is based off of UOSU, this is regarding at AGM or when budget to take certain lines out. We just didn’t have a name for it. This also allows another step of going down to allow it to make it happen.
+	Result
+Résultat
+	For: 14 votes
+Against: 0 votes
+Abstention: 1 vote
+	
+
+Title
+Titre
+	Amendments to the By-Laws
+Modifications aux Règlements administratifs
+	Mover
+Proposé
+	VP Internal – Interne
+	Seconder
+	MESS
+	WHEREAS key provisions concerning the Society’s name, mission, and governance structure were previously included in its Constitution, but were removed in 2015 in anticipation of incorporation and the adoption of articles of incorporation;
+WHEREAS the Society did not proceed with incorporation, and these foundational provisions must therefore be reinstated within the by-laws;
+WHEREAS the current by-laws lack a dedicated section outlining the Society’s name, mission, and objectives, and omit essential information regarding the Society’s office, record-keeping, and membership registers;
+WHEREAS the by-laws contain gaps or ambiguities in relation to proxies, meeting procedures, and the conduct of virtual ballots;
+WHEREAS the by-laws do not contain a provision for the handling of assets or funds should the Society dissolve;
+________________
+
+
+ATTENDU QUE certaines dispositions clés concernant le nom, la mission et la structure de gouvernance de l'Association figuraient auparavant dans sa Constitution, mais ont été supprimées en 2015 en prévision d'une incorporation et de l'adoption de statuts constitutifs;
+ATTENDU QUE l'Association n'a pas procédé à son incorporation et que ces dispositions fondamentales doivent donc être rétablies dans les règlements;
+ATTENDU QUE les règlements actuels ne prévoient pas de section distincte énonçant le nom, la mission et les objectifs de l'Association, et omettent des informations essentielles concernant le bureau, la tenue de dossiers et les registres des membres;
+ATTENDU QUE les règlements contiennent des lacunes ou des ambiguïtés concernant les procurations, les procédures de réunion et le recours aux votes virtuels;
+ATTENDU QUE les règlements ne contiennent aucune disposition relative à la gestion des actifs ou des fonds advenant la dissolution de l'Association;
+	Documents
+	Amendments to the By-Laws
+	Discussion
+	Daniel: Had a discussion with Nick Burgel
+Aiden: Question about the virtual ballots? I don’t understand what this is for. 
+Daniel: Someone who is supposed to be attending the meeting can let us know how they would be voting. It’s easier to remove the mail in ballots and just have a clear section. So it would help with things that are not appropriate for an emergency meeting but could have been done in the discord if it would have been done properly. Making sure that everyone is being respected in their position 
+Brooke: Proxies. This would mean that we don’t do proxies for the board meetings. Would officers still need proxies? Or is this just for directors? 
+Daniel: If I will be able, having an amendment to add it to both the special rules and by-laws but if they can’t vote then i don’t see why not. 
+
+
+	Result
+Résultat
+	For: 17 votes
+Against: 0 votes
+Abstention: 0 votes
+	10. Title
+Titre
+	Adoption of a Revised Sub-Association Policy
+Adoption d'une politique de sous-association révisée
+	Mover
+Proposé
+	MESS
+	Seconder
+	Claire
+	WHEREAS the Society recognizes the importance of establishing clear governance, financial, and operational standards for all Sub-Associations;
+WHEREAS the revised Sub-Association Policy was developed to promote consistency, accountability, and equitable support across all recognized Sub-Associations;
+BE IT RESOLVED THAT the Board of Directors hereby adopts the revised Sub-Association Policy, as presented, effective immediately.
+________________
+
+
+ATTENDU QUE la Société reconnaît l’importance d’établir des normes claires en matière de gouvernance, de finances et d’opérations pour toutes les Sous-associations ;
+ATTENDU QUE la Politique révisée sur les Sous-associations a été élaborée afin de promouvoir la cohérence, la reddition de comptes et un soutien équitable entre toutes les Sous-associations reconnues ;
+IL EST RÉSOLU QUE le Conseil d’administration adopte par la présente la Politique révisée sur les Sous-associations, telle que présentée, avec effet immédiat.
+	Documents
+	[Final]Sub Association Policy Document
+	Discussion
+	Daniel:  I would like to thank and appreciate the work that all the sub-associations have been put in to this. Objectively, this has been improving. All the changes that were made we most of the time agreed to those but there are some things that we still do not agree with. I would like to put out some of these changes up to a vote for the board.
+First amendment: Change “It must include a structured process for the removal of Executives and if applicable, Members.” Under UOSU for clubs.
+“It must include a fair and transparent process for the removal of Executives and Members” 
+Making sure that this is just the membership of this sub-association and not a bigger body. And this is also not including the bigger body removing this membership. 
+Farah: Fair and transparent can have certain biases and can make it harder to change the constitution. The removal process is different which is why “if applicable” is there. 
+Jad: Fair and transparent can be seen and interpreted differently. So we thought that structured would be less subjective. We get that members can have IEEE memberships but i agree that we should have a way to remove it under the sub-association 
+Daniel: There are plenty of opportunities to appeal so there is very little chance a single person can declare what is fair and transparent since a lot has to go through the board or other people. The branch can be made a fair and transparent process if it isn’t already. It could be an opportunity to go to the branch manager to clarify what the structure is. I understand the commitment to add to the constitution of which we can’t penalize for just yet. I understand that we took out a little bit of the president based but this does mirror UOSU’s policies which should be followed. I also let UOSU know that we make sure the accountability for sub-associations is the same or greater then clubs. I think this is a status-quo and would not feel comfortable to go to the student union to have less oversight and hand it over to it us. They may have some issues if we don’t make it as “fair and transparent” 
+Jad: I agree that if UOSU has it I understand that it could be a friendly amendment 
+For * the change “fair and transparent” and remove “if applicable” * : 14 votes
+Against *stays the same*: 0 votes
+Abstention: 0 votes
+
+
+Farah: Can you put them as suggestions or in comments? 
+Daniel: I would prefer to do it one at a time. 
+Second amendment: 6.6.1.b “undergraduates” 6.6.2.e “students of Uni…” change to “UOSU members” 
+Whether or not they are UOSU is a direct correlation on if they are paying their dues. This would not affect being in the faculty. I also don’t know how we would implement this if they aren’t in that list if we are to send it to them
+Jad: It may not be relevant to our elections. We are expecting that we send you a list. The whole thing was to make one document that we all agreed to. If these are all discussions we’ve already had then I don’t really want to go through it line by line again 
+Farah: The whole reason for the meetings in the last month. This amendment is a little weird seeing as we made this to provide you with the list. But since directors can be graduates which aren’t represented under UOSU. I spent a lot of time and asked for comments from VP Internal even if busy I took the time to do it to make sure we can here with a proper document 
+Daniel: I didn’t have any more time this month. I took the time as before. I put them in a different document and I am sorry that you may not have seen it. I understand but I think these changes whether or not there is a lot of discussion I think we can come to a better policy. I can also reach out to the grad student association. This means that if they don’t help we won’t be able to do 6.6.2.e if there are people on there if we don’t have a way of making it work. 
+Jad: I disagree with that since this is a bod meeting and everyone should have the full picture and the context for all of the amendments. I don’t want to sit and let have all these changes let it slide as if these changes don’t affect the sub-associations. 
+Brooke: Can I call circular? 
+For: 1 vote
+Against: 11 votes
+Abstain: 1 vote
+Daniel: 
+Third amendment: Remove “if prepared” from 6.6.3.c.iii.ii
+Jad: Call for a vote
+For: 2 votes
+Against: 10 votes
+Abstain: 4 votes
+Jad: Calling for a vote on the entire motion Seconder: Brooke 
+For: 11 votes
+Against: 2 votes
+Abstain: 3 votes
+	Result
+Résultat
+	For: 13 votes
+Against: 0 votes
+Abstention: 4 votes
+	
+
+Title
+Titre
+	Approval of the annual budget for the 2025-2026 fiscal year
+Approbation du budget annuel pour l'exercice 2025-2026
+	Mover
+Proposé
+	Co-pres
+	Seconder
+Appuyé
+	Ashna
+	WHEREAS the Society requires a comprehensive budget to effectively manage its financial resources and support its activities for the 2025-2026 fiscal year;
+WHEREAS the Vice-President of Finance and Administration, after consulting with the relevant Executives and Officers, has prepared a detailed budget that encompasses all projected revenues and expenditures for the 2025-2026 fiscal year, ensuring alignment with the organization’s strategic objectives and operational needs;
+WHEREAS the budget includes provisions for all planned events, initiatives, and administrative expenses necessary for the organization to fulfill its mission and objectives;
+BE IT RESOLVED that the Board of Directors hereby approves the full 2025-2026 fiscal year budget as presented. 
+________________
+ATTENDU QUE l'Association a besoin d'un budget complet pour gérer efficacement ses ressources financières et soutenir ses activités pour l'exercice financier 2025-2026;
+ATTENDU QUE le vice-président des finances et de l'administration, après avoir consulté les exécutifs et les officiers concernés, a préparé un budget détaillé qui englobe tous les revenus et toutes les dépenses prévus pour l'exercice 2025-2026, en veillant à l'harmonisation avec les objectifs stratégiques et les besoins opérationnels de l'organisation;
+ATTENDU QUE le budget comprend des dispositions pour tous les événements prévus, les initiatives et les dépenses administratives nécessaires pour que l'organisation remplisse sa mission et ses objectifs;
+IL EST RÉSOLU que le conseil d'administration approuve par la présente le budget complet de l'exercice 2025-2026 tel que présenté.
+	Documents
+	Budgets 2025-2026 [MASTER]
+	Discussion
+	Copy of Budgets 2025-2026 [MASTER]
+	Result
+Résultat
+	For: 10 votes
+Against: 0 votes
+Abstain: 0 votes
+	
+
+
+
+11. UOSU BoD Updates – Mises à jour du CA du SÉUO
+* Consultation for clubs and their policies 
+12. Varia
+* VP External: Selection Committee
+* VP Internal: Re: Procurement Processes
+   * Last year had purchases with “mistakes” or typos. Wanted to know if anyone had any thoughts. Execs can spend money once it has been approved. Re-allocation of budget lines was also a big issue last year. Did put forward a motion for a finance committee but that was not put forward. I think there should be a committee of some sort or a process to have a little bit more oversight. That is the only way I can see to avoid these issues in the future. 
+   * Brooke: I agree there should be financial oversight. The budget lines are pretty clear but i don’t feel this is a conversation for this meeting. 
+   * Aiden: The main thing should be how it represents us/that we sell. The previous motion was a bit too comprehensive and didn’t include the everything that could happen 
+   * Eric: I can’t get quotes for busses because even if i ask they won’t give it to me 
+   * Daniel: Ok, so I should bring forward a policy proposal that is similar to last time but differentiates between stuff to be sold vs event expenses, and generally try to keep it simple
+* VP Internal: Return on Motion from June Bod
+   * I didn’t think the virtual ballots were going to cause confusion. The more requirements of the context of the budget missing brought up more requirements. It does seem like the line was missed or mis-interpretated since the money was spent which I don't understand how that could have happened. How does the board keep the officers accountable when a motion that was passed was not followed as stated?
+   * Spending on behalf of ESS is a privilege. I am not okay with having the people that have overlooked this and do not feel comfortable with letting this keep happening 
+   * Dakota: Clarification? 
+   * Chair: Misunderstanding of the motion that was put forth and money being spent 
+   * Eric: There was a misunderstanding that the Be it resolved clause that the money was being allocated to ESS to spend within the numbers. And the next clause going back on it. Plus the budget being approved today. 
+   * Daniel: I don’t want to be overly punitive. I acknowledge that you took responsibility and it’s something that we should commit to be better about it. It is enough from my perspective and I just wanted to get an apology. 
+   * Eric: The only other reason was the resignation of the VP Social and this was an exigent circumstance which rushed all of our spendings. I wanted to approve last years numbers but that was shut down 
+* Chair: July Funny Question Answers 
+  
+
+13. Notice of Motions – Avis de motion
+Daniel - VP Internal: 
+1. Potential revision of VP Positions 
+2. Procurement Policy 
+3. Removal of office: VP Sustainability 
+14. Adjournment – Ajournement
+With no further business, the meeting adjourned at 4:58 PM EDT.
+L'ordre du jour étant épuisé, la réunion est levée à 16h58 PM HAE.
+15. Next Meeting – Prochaine réunion
+The next Board meeting will be scheduled for August 24th 2025 at 11 AM. 
+La prochaine réunion du conseil d'administration sera programmée le 24 août à 11h00.

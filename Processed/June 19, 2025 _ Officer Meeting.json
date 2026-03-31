@@ -1,1441 +1,969 @@
 [
   {
-    "type": "doc_start",
+    "section_type": "doc_start",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "June 19, 2025 _ Officer Meeting.txt",
     "role": "N/A",
     "person": "N/A",
-    "content": "﻿Logo.png\n________________\nESS Officer Meeting Minutes – Procès-verbal de la réunion des dirigeants de l'AÉG\nDate: Jun 19, 2025 7:00 PM\nLocation + Link - Lieu et lien: CBY A05, Google Meet\nDiscussions lead by Aiden McCooeye and Eric Hagen (he/him/il).",
-    "sentences": [
-      "﻿Logo.png\n________________",
-      "ESS Officer Meeting Minutes – Procès-verbal de la réunion des dirigeants de l'AÉG\nDate: Jun 19, 2025 7:00 PM\nLocation + Link - Lieu et lien: CBY A05,",
-      "Google Meet\nDiscussions lead by Aiden McCooeye and Eric Hagen (he/him/il)."
-    ],
-    "entities": [
-      {
-        "text": "19, 2025",
-        "label": "DATE"
-      },
-      {
-        "text": "7:00 PM\nLocation + Link - Lieu",
-        "label": "TIME"
-      },
-      {
-        "text": "lien",
-        "label": "PERSON"
-      },
-      {
-        "text": "Google Meet\nDiscussions",
-        "label": "FAC"
-      },
-      {
-        "text": "Aiden McCooeye",
-        "label": "ORG"
-      },
-      {
-        "text": "Eric Hagen",
-        "label": "PERSON"
-      }
-    ],
+    "content": "﻿Logo.png\n________________",
     "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
+    "meeting_date_display": "Jun 19, 2025"
   },
   {
-    "type": "land_ack",
+    "section_type": "doc_start",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "June 19, 2025 _ Officer Meeting.txt",
     "role": "N/A",
     "person": "N/A",
-    "content": "* We acknowledge that we are gathered on the traditional and unceded territory of the Algonquin Anishinaabe Nation. For generations, they have been the stewards of this land, and their deep connection to it continues to this day. We recognize the enduring presence and contributions of the Algonquin people to this region. We also acknowledge the painful history of colonization and the displacement of Indigenous communities from their ancestral lands. We commit ourselves to learning, understanding, and honoring the Algonquin Nation's history and culture. We recognize the importance of working collaboratively to create a more just and equitable future for all who call this land home.\n* Nous reconnaissons que nous sommes réunis sur le territoire traditionnel et non cédé de la nation algonquine anishinaabe. Depuis des générations, ils sont les gardiens de cette terre et le lien profond qui les unit à elle perdure encore aujourd'hui. Nous reconnaissons la présence et les contributions durables du peuple algonquin dans cette région. Nous reconnaissons également l'histoire douloureuse de la colonisation et du déplacement des communautés autochtones de leurs terres ancestrales. Nous nous engageons à apprendre, à comprendre et à honorer l'histoire et la culture de la nation algonquine. Nous reconnaissons l'importance de travailler en collaboration pour créer un avenir plus juste et plus équitable pour tous ceux qui vivent sur cette terre.\n________________",
-    "sentences": [
-      "* We acknowledge that we are gathered on the traditional and unceded territory of the Algonquin Anishinaabe Nation.",
-      "For generations, they have been the stewards of this land, and their deep connection to it continues to this day.",
-      "We recognize the enduring presence and contributions of the Algonquin people to this region.",
-      "We also acknowledge the painful history of colonization and the displacement of Indigenous communities from their ancestral lands.",
-      "We commit ourselves to learning, understanding, and honoring the Algonquin Nation's history and culture.",
-      "We recognize the importance of working collaboratively to create a more just and equitable future for all who call this land home.",
-      "* Nous reconnaissons que nous sommes réunis sur le territoire traditionnel et non cédé de la nation algonquine anishinaabe.",
-      "Depuis des générations, ils sont les gardiens de cette terre et le lien profond qui les unit à elle perdure encore aujourd'hui.",
-      "Nous reconnaissons la présence et les contributions durables du peuple algonquin dans cette région.",
-      "Nous reconnaissons également l'histoire douloureuse de la colonisation et du déplacement des communautés autochtones de leurs terres ancestrales.",
-      "Nous nous engageons à apprendre, à comprendre et à honorer l'histoire et la culture de la nation algonquine.",
-      "Nous reconnaissons l'importance de travailler en collaboration pour créer un avenir plus juste et plus équitable pour tous ceux qui vivent sur cette terre.\n________________"
-    ],
-    "entities": [
-      {
-        "text": "the Algonquin Anishinaabe Nation",
-        "label": "ORG"
-      },
-      {
-        "text": "this day",
-        "label": "DATE"
-      },
-      {
-        "text": "Indigenous",
-        "label": "ORG"
-      },
-      {
-        "text": "the Algonquin Nation's",
-        "label": "ORG"
-      },
-      {
-        "text": "Depuis",
-        "label": "PERSON"
-      },
-      {
-        "text": "elle perdure encore aujourd'hui",
-        "label": "ORG"
-      },
-      {
-        "text": "dans",
-        "label": "NORP"
-      },
-      {
-        "text": "un",
-        "label": "ORG"
-      }
-    ],
+    "content": "ESS Officer Meeting Minutes – Procès-verbal de la réunion des dirigeants de l'AÉG\nDate: Jun 19, 2025 7:00 PM\nLocation + Link - Lieu et lien: CBY A05,",
     "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
+    "meeting_date_display": "Jun 19, 2025"
   },
   {
-    "type": "minutes_update",
+    "section_type": "doc_start",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "Google Meet\nDiscussions lead by Aiden McCooeye and Eric Hagen (he/him/il).",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "land_ack",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "* We acknowledge that we are gathered on the traditional and unceded territory of the Algonquin Anishinaabe Nation.",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "land_ack",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "For generations, they have been the stewards of this land, and their deep connection to it continues to this day.",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "land_ack",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "We recognize the enduring presence and contributions of the Algonquin people to this region.",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "land_ack",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "We also acknowledge the painful history of colonization and the displacement of Indigenous communities from their ancestral lands.",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "land_ack",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "We commit ourselves to learning, understanding, and honoring the Algonquin Nation's history and culture.",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "land_ack",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "We recognize the importance of working collaboratively to create a more just and equitable future for all who call this land home.",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "land_ack",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "* Nous reconnaissons que nous sommes réunis sur le territoire traditionnel et non cédé de la nation algonquine anishinaabe.",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "land_ack",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "Depuis des générations, ils sont les gardiens de cette terre et le lien profond qui les unit à elle perdure encore aujourd'hui.",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "land_ack",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "Nous reconnaissons la présence et les contributions durables du peuple algonquin dans cette région.",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "land_ack",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "Nous reconnaissons également l'histoire douloureuse de la colonisation et du déplacement des communautés autochtones de leurs terres ancestrales.",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "land_ack",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "Nous nous engageons à apprendre, à comprendre et à honorer l'histoire et la culture de la nation algonquine.",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "land_ack",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "Nous reconnaissons l'importance de travailler en collaboration pour créer un avenir plus juste et plus équitable pour tous ceux qui vivent sur cette terre.\n________________",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "June 19, 2025 _ Officer Meeting.txt",
     "role": "President",
     "person": "Aiden, Eric",
-    "content": "* Attended PM/RP with Ashna, met lot’s of presidents and externals.\n* Received bank access today\n* Attending round tables\n* Retreat logistics 99% complete\n* Counted shine day shirts for Zoe\n* Sponsorship outreach has been slow due to exams and lack of bank access. Will get back ok this next week.\n* Attended faculty health and safety meeting in preparations for 101 week",
-    "sentences": [
-      "*",
-      "Attended PM/RP with Ashna, met lot’s of presidents and externals.",
-      "* Received bank access today\n*",
-      "Attending round tables\n*",
-      "Retreat logistics 99% complete\n* Counted shine day shirts for Zoe\n*",
-      "Sponsorship outreach has been slow due to exams and lack of bank access.",
-      "Will get back ok this next week.",
-      "*",
-      "Attended faculty health and safety meeting in preparations for 101 week"
-    ],
-    "entities": [
-      {
-        "text": "today",
-        "label": "DATE"
-      },
-      {
-        "text": "99%",
-        "label": "PERCENT"
-      },
-      {
-        "text": "shine day",
-        "label": "DATE"
-      },
-      {
-        "text": "Zoe",
-        "label": "PERSON"
-      },
-      {
-        "text": "this next week",
-        "label": "DATE"
-      },
-      {
-        "text": "101 week",
-        "label": "DATE"
-      }
-    ],
+    "content": "Attended PM/RP with Ashna, met lot’s of presidents and externals.",
     "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
+    "meeting_date_display": "Jun 19, 2025"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "President",
+    "person": "Aiden, Eric",
+    "content": "* Received bank access today\n*",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "President",
+    "person": "Aiden, Eric",
+    "content": "Attending round tables\n*",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "President",
+    "person": "Aiden, Eric",
+    "content": "Retreat logistics 99% complete\n* Counted shine day shirts for Zoe\n*",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "President",
+    "person": "Aiden, Eric",
+    "content": "Sponsorship outreach has been slow due to exams and lack of bank access.",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "President",
+    "person": "Aiden, Eric",
+    "content": "Will get back ok this next week.",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "President",
+    "person": "Aiden, Eric",
+    "content": "Attended faculty health and safety meeting in preparations for 101 week",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "June 19, 2025 _ Officer Meeting.txt",
     "role": "VP External",
     "person": "Ashna",
-    "content": "* Attended PM/RP with Eric last weekend, learned a lot about other engsocs and looking forward to building those connections for the year ahead\n* Coordinating with Carleton VPX and President to book flight tickets to CFES SDES in September\n* Finalizing posts for external awareness account (been saying that for a while but I swear I’m getting there)\n* Finalizing selection committee and commissioner (they are going to need discord roles)",
-    "sentences": [
-      "*",
-      "Attended PM/RP with Eric last weekend, learned a lot about other engsocs and looking forward to building those connections for the year ahead\n*",
-      "Coordinating with Carleton VPX and President to book flight tickets to CFES SDES in September\n*",
-      "Finalizing posts for external awareness account (been saying that for a while",
-      "but I swear I’m getting there)",
-      "*",
-      "Finalizing selection committee and commissioner (they are going to need discord roles)"
-    ],
-    "entities": [
-      {
-        "text": "Eric",
-        "label": "ORG"
-      },
-      {
-        "text": "last weekend",
-        "label": "DATE"
-      },
-      {
-        "text": "the year ahead",
-        "label": "DATE"
-      },
-      {
-        "text": "Carleton VPX",
-        "label": "PERSON"
-      },
-      {
-        "text": "September",
-        "label": "DATE"
-      }
-    ],
+    "content": "Attended PM/RP with Eric last weekend, learned a lot about other engsocs and looking forward to building those connections for the year ahead\n*",
     "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
+    "meeting_date_display": "Jun 19, 2025"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "Manager of Sports",
-    "person": "Alper for Spring/Summer",
-    "content": "* No updates",
-    "sentences": [
-      "*",
-      "No updates"
-    ],
-    "entities": [],
+    "role": "VP External",
+    "person": "Ashna",
+    "content": "Coordinating with Carleton VPX and President to book flight tickets to CFES SDES in September\n*",
     "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
+    "meeting_date_display": "Jun 19, 2025"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "VP External",
+    "person": "Ashna",
+    "content": "Finalizing posts for external awareness account (been saying that for a while",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "VP External",
+    "person": "Ashna",
+    "content": "but I swear I’m getting there)",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "VP External",
+    "person": "Ashna",
+    "content": "Finalizing selection committee and commissioner (they are going to need discord roles)",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "June 19, 2025 _ Officer Meeting.txt",
     "role": "VP Finance & Administration",
     "person": "Cyrus",
     "content": "* Working with Daniel + Ryn to sort out owed subassociation levies - should have an update by June BOD",
-    "sentences": [
-      "* Working with Daniel + Ryn to sort out owed subassociation levies - should have an update by June BOD"
-    ],
-    "entities": [
-      {
-        "text": "Daniel + Ryn",
-        "label": "PERSON"
-      },
-      {
-        "text": "June",
-        "label": "DATE"
-      }
-    ],
     "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
+    "meeting_date_display": "Jun 19, 2025"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "Manager of Sponsorship",
-    "person": "Vacant",
-    "content": "* N/A",
-    "sentences": [
-      "* N/A"
-    ],
-    "entities": [],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "minutes_update",
-    "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "June 19, 2025 _ Officer Meeting.txt",
     "role": "Finance Commissioner",
     "person": "Ryn",
-    "content": "* Worked out the total number of part time students for all the semesters since the percentage change from part time students. (Which also means I have data about what percentage of Eng Students are in each program if anyone is interested)",
-    "sentences": [
-      "* Worked out the total number of part time students for all the semesters since the percentage change from part time students.",
-      "(Which also means I have data about what percentage of Eng Students are in each program if anyone is interested)"
-    ],
-    "entities": [
-      {
-        "text": "Eng Students",
-        "label": "ORG"
-      }
-    ],
+    "content": "* Worked out the total number of part time students for all the semesters since the percentage change from part time students.",
     "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
+    "meeting_date_display": "Jun 19, 2025"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "VP Academic",
-    "person": "Nick",
-    "content": "* No updates",
-    "sentences": [
-      "*",
-      "No updates"
-    ],
-    "entities": [],
+    "role": "Finance Commissioner",
+    "person": "Ryn",
+    "content": "(Which also means I have data about what percentage of Eng Students are in each program if anyone is interested)",
     "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
+    "meeting_date_display": "Jun 19, 2025"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "Wine and Cheese Coordinator",
-    "person": "Vacant",
-    "content": "* N/A",
-    "sentences": [
-      "* N/A"
-    ],
-    "entities": [],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "minutes_update",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "Manager of Student Advocacy",
-    "person": "Brooke",
-    "content": "* No Updates",
-    "sentences": [
-      "*",
-      "No Updates"
-    ],
-    "entities": [],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "minutes_update",
-    "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "June 19, 2025 _ Officer Meeting.txt",
     "role": "VP Communications",
     "person": "Hayley",
     "content": "* Got in touch with the handbook company\n* Reached out to the sub-associations for feedback about their blurbs in the handbook - few responses.",
-    "sentences": [
-      "* Got in touch with the handbook company\n* Reached out to the sub-associations for feedback about their blurbs in the handbook - few responses."
-    ],
-    "entities": [],
     "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
+    "meeting_date_display": "Jun 19, 2025"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "June 19, 2025 _ Officer Meeting.txt",
     "role": "Manager of Social Media",
     "person": "Conall",
-    "content": "* Posted 2 stories about the locker removals\n* Posted a promotional story for the \"Breaking Ground: Empowering the Next Generation of Women in Mining\" webinar happening next week",
-    "sentences": [
-      "*",
-      "Posted 2 stories about the locker removals\n*",
-      "Posted a promotional story for the \"Breaking Ground: Empowering the Next Generation of Women in Mining\" webinar happening next week"
-    ],
-    "entities": [
-      {
-        "text": "2",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "the \"Breaking Ground: Empowering the Next Generation of Women in Mining",
-        "label": "WORK_OF_ART"
-      },
-      {
-        "text": "next week",
-        "label": "DATE"
-      }
-    ],
+    "content": "Posted 2 stories about the locker removals\n*",
     "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
+    "meeting_date_display": "Jun 19, 2025"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "Manager of IT",
-    "person": "Adi",
-    "content": "* No updates",
-    "sentences": [
-      "*",
-      "No updates"
-    ],
-    "entities": [],
+    "role": "Manager of Social Media",
+    "person": "Conall",
+    "content": "Posted a promotional story for the \"Breaking Ground: Empowering the Next Generation of Women in Mining\" webinar happening next week",
     "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
+    "meeting_date_display": "Jun 19, 2025"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "June 19, 2025 _ Officer Meeting.txt",
     "role": "VP Internal",
     "person": "Daniel T.",
-    "content": "* Held meetings with Sub-Association presidents to review the proposed Sub-Association Policy revision and worked on the Sub-Association policy\n* Attended first uOEC committee meeting\n* Conducted interviews for the manager selection process\n* Discussed Sub-Association/External trivia event for 101 week with Jake, Ashna, and Dakota",
-    "sentences": [
-      "*",
-      "Held meetings with Sub-Association presidents to review the proposed Sub-Association Policy revision and worked on the Sub-Association policy\n*",
-      "Attended first uOEC committee meeting\n*",
-      "Conducted interviews for the manager selection process\n*",
-      "Discussed Sub-Association/External trivia event for 101 week with Jake, Ashna, and Dakota"
-    ],
-    "entities": [
-      {
-        "text": "Sub-Association",
-        "label": "ORG"
-      },
-      {
-        "text": "Sub-Association Policy",
-        "label": "ORG"
-      },
-      {
-        "text": "the Sub-Association",
-        "label": "ORG"
-      },
-      {
-        "text": "first",
-        "label": "ORDINAL"
-      },
-      {
-        "text": "101 week",
-        "label": "DATE"
-      },
-      {
-        "text": "Jake",
-        "label": "PERSON"
-      },
-      {
-        "text": "Dakota",
-        "label": "GPE"
-      }
-    ],
+    "content": "Held meetings with Sub-Association presidents to review the proposed Sub-Association Policy revision and worked on the Sub-Association policy\n*",
     "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
+    "meeting_date_display": "Jun 19, 2025"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "VP Internal",
+    "person": "Daniel T.",
+    "content": "Attended first uOEC committee meeting\n*",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "VP Internal",
+    "person": "Daniel T.",
+    "content": "Conducted interviews for the manager selection process\n*",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "VP Internal",
+    "person": "Daniel T.",
+    "content": "Discussed Sub-Association/External trivia event for 101 week with Jake, Ashna, and Dakota",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "June 19, 2025 _ Officer Meeting.txt",
     "role": "uOEC Commissioner",
     "person": "Reema",
-    "content": "* Had first meeting with team, clarified roles and responsibilities\n* Set up notion teamspace + made sure everyone had accesses\n* Reviewed budget line items\n* Gave out initial tasking, everyone is currently defining their milestones",
-    "sentences": [
-      "* Had first meeting with team, clarified roles and responsibilities\n* Set up notion teamspace + made sure everyone had accesses\n*",
-      "Reviewed budget line items\n* Gave out initial tasking, everyone is currently defining their milestones"
-    ],
-    "entities": [
-      {
-        "text": "first",
-        "label": "ORDINAL"
-      }
-    ],
+    "content": "* Had first meeting with team, clarified roles and responsibilities\n* Set up notion teamspace + made sure everyone had accesses\n*",
     "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
+    "meeting_date_display": "Jun 19, 2025"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "VP Social",
-    "person": "Jake",
-    "content": "* Organizing colab events and booking venues and rooms\n* Developing budget for 101 week",
-    "sentences": [
-      "* Organizing colab events and booking venues and rooms\n* Developing budget for 101 week"
-    ],
-    "entities": [
-      {
-        "text": "101 week",
-        "label": "DATE"
-      }
-    ],
+    "role": "uOEC Commissioner",
+    "person": "Reema",
+    "content": "Reviewed budget line items\n* Gave out initial tasking, everyone is currently defining their milestones",
     "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
+    "meeting_date_display": "Jun 19, 2025"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "VP Services",
+    "person": "Luke",
+    "content": "* VP Social:\n* Organizing colab events and booking venues and rooms\n* Developing budget for 101 week",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "June 19, 2025 _ Officer Meeting.txt",
     "role": "101 Week Coordinator",
     "person": "Dakota",
-    "content": "* Meet with Engiqueers, Daniel and Ashna, and JMTS team Captains to talk about each of their events. Some great ideas, everyone seems excited!\n* Booking rooms for events with Jake. UOSU wants this done by the 24th so Jake is taking care of it while I am away. Only issue right now is getting a bowling alley for a dry night which is an accessible venue, still searching!\n* Faculty is being confusing about the replacement room for A04 and are now saying that it will be finished renos in time for 101 week\n* Attended Social Round tables and Joint Round tables",
+    "content": "* Meet with Engiqueers, Daniel and Ashna, and JMTS team Captains to talk about each of their events.",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "101 Week Coordinator",
+    "person": "Dakota",
+    "content": "Some great ideas, everyone seems excited!",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "101 Week Coordinator",
+    "person": "Dakota",
+    "content": "* Booking rooms for events with Jake.",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "101 Week Coordinator",
+    "person": "Dakota",
+    "content": "UOSU wants this done by the 24th",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "101 Week Coordinator",
+    "person": "Dakota",
+    "content": "so Jake is taking care of it while I am away.",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "101 Week Coordinator",
+    "person": "Dakota",
+    "content": "Only issue right now is getting a bowling alley for a dry night which is an accessible venue, still searching!",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "101 Week Coordinator",
+    "person": "Dakota",
+    "content": "* Faculty is being confusing about the replacement room for A04 and are now saying that it will be finished renos in time for 101 week\n*",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "101 Week Coordinator",
+    "person": "Dakota",
+    "content": "Attended Social Round tables and Joint Round tables",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "VP Philanthropic",
+    "person": "Zoe",
+    "content": "Met w/ Jake and Dakota for Shine day, now aiming to have the breakfast be a bigger deal, so reaching out to sponsors for food\n*",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "VP Philanthropic",
+    "person": "Zoe",
+    "content": "Attended PhilRTs → rejected participation in carnival & colour run, although UOSU mentioned wanting non 101ers to be able to participate as well, so would like to promote it regardless (even a little would be nice :) )",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "VP Philanthropic",
+    "person": "Zoe",
+    "content": "* Summer events roughly planned.",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "VP Philanthropic",
+    "person": "Zoe",
+    "content": "Need a commissioner + committee asap to finalize budget!",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "VP Equity",
+    "person": "Maria",
+    "content": "* Decided to plan hostility training rather than going with an external source because of costs.",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "VP Equity",
+    "person": "Maria",
+    "content": "* Is a hide and seek tag/ manhunt type event doable\n*",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "VP Sustainability",
+    "person": "Leila",
+    "content": "* Chair of the Board:\n* Had 1-on-1 meetings with two/four sub-associations\n*",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "VP Sustainability",
+    "person": "Leila",
+    "content": "Attended as a third party the internal and IEEE meeting\n*",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "VP Sustainability",
+    "person": "Leila",
+    "content": "The next BOD meeting is this weekend!",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "VP Sustainability",
+    "person": "Leila",
+    "content": "Pls put ur updates in/ attendance / proxies\n________________",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "discussion",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "* President: A04 - Let’s move forward with the assumption that we will be able to use the space and make sure we have clear communication with the faculty to stay updated.\n* Maria: it’s been cleared out by eng outreach and should be good to use now\n* I understand UOSU has their deadlines from C&R but we will be able to work something out as long as we have made attempts to coordinate properly\n* It should be ready by the fall, but we can get a paper trail for this so that we can take it to them and ask for another room\n* We’re going to track the timeline for this\n* There aren’t any other rooms available that we can use for the whole week so we’re not sure what we’ll do if CBY A04 can’t be used\n* Internal: hiring\n* Just to clarify for those waiting to hire commissioners, you’ve already been sent the information of those who applied to be commissioners and you’re expected to conduct the hiring process for that\n* I’m only doing the Manager selection process\n* There’s two people who are interested in Secretary\n* Let me know if you need any clarification\n* We’re going to wait for next meeting for the Manager of External Awareness, because someone replied today with interest in doing an interview (the email had gone to spam)",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "motion",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "* BE IT RESOLVED THAT the Officers hereby appoint Mehar Mohal as Wine & Cheese Coordinator for the 2025-2026 term.",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "motion",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "* BE IT RESOLVED THAT the Officers hereby appoint Henri Pigeon as Manager of Sponsorships for the 2025-2026 term.",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "motion",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "Adopted with unanimous consent.",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "discussion",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "* VP External - Should we bid for PM 2027?\n* The bid would either be placed at FYIC or CALE\n* The main expense would be accomodation\n* This can be mostly covered with delegate fees\n* We need to consider whether we have enough engagement as a society\n* 101 week will be a good opportunity to gauge this\n* We need to look for first and second year students who might be interested in joining the organizing committee, since they will still be around when this conference is held\n* We need a dedicated team to avoid the issues we’ve had with organising previous conferences, this is more important than the finances of the society as a determining factor as to whether this is feasible\n* President: Finish your budgets soon\n* President: Retreat\n* Next week!\n* Fill out the spreadsheet in advance so that we’re not scrambling last minute\n* Chair: VP Social is not in Ottawa which is a violation of the requirements for the position\n* This will be raised at the BoD meeting on Sunday\n* Received advice that it’s especially important for the VP Social to be there for August\n* The Presidents knew about this but did not raise it with the team\n* We need to be more open about these things in the future\n* Internal: absent officers at meetings\n* Some officers have been excused\n* One of the VPs hasn’t showed up to any meetings so far\n* President will follow up with a warning\n* Internal: My emails are going to spam\n* Maybe reach out to uOttawa Engineering IT helpdesk or look into our DNS config",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "varia",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "* Can I please have the contact info for the clubs (EWB, NSBE) and comp teams?\n* Sent via Discord\n* Phil - Can I have access to the current sponsorship outreach list for 101 week so I don’t overlap with searching for breakfast sponsors? (and eng ball sponsors when I start doing that …very soon…)",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "reminders",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "* President: Reach out if you need anything 🙂\n________________",
+    "meeting_date": "2025-06-19",
+    "meeting_date_display": "Jun 19, 2025"
+  },
+  {
+    "section_type": "attendance",
+    "type": "attendance_summary",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "June 19, 2025 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "From the meeting attendance, the officers include:\nAiden is the Co-President.\nEric is the Co-President.\nAiden is the President.\nEric is the President.\nCyrus is the VP Finance & Administration.\nAshna is the VP External.\nNick is the VP Academic.\nHayley is the VP Communications.\nZoe is the VP Philanthropic.\nDaniel T. is the VP Internal.\nMaria is the VP Equity.\nThomas is the VP Francophone.\nBrooke is the Manager of Student Advocacy.\nAdi is the Manager of IT.\nMaya is the Chair of the Board.\nReema is the uOEC Commissioner.\nRyn is the Finance Commissioner.\nLeila is the VP Sustainability.\nKrish is the Manager of Marketing.\nVacant is the Wine and Cheese Coordinator.\nVacant is the Manager of Sponsorship.\nConall is the Manager of Social Media.\nAlper is the Manager of Sports.\nLuke is the VP Services.\nDakota is the 101 Week Coordinator.\nHayden is the Manager of Translations.\nJake is the VP Social.",
     "sentences": [
-      "* Meet with Engiqueers, Daniel and Ashna, and JMTS team Captains to talk about each of their events.",
-      "Some great ideas, everyone seems excited!",
-      "* Booking rooms for events with Jake.",
-      "UOSU wants this done by the 24th",
-      "so Jake is taking care of it while I am away.",
-      "Only issue right now is getting a bowling alley for a dry night which is an accessible venue, still searching!",
-      "* Faculty is being confusing about the replacement room for A04 and are now saying that it will be finished renos in time for 101 week\n*",
-      "Attended Social Round tables and Joint Round tables"
+      "From the meeting attendance, the officers include:\nAiden is the Co-President.",
+      "Eric is the Co-President.",
+      "Aiden is the President.",
+      "Eric is the President.",
+      "Cyrus is the VP Finance & Administration.",
+      "Ashna is the VP External.",
+      "Nick is the VP Academic.",
+      "Hayley is the VP Communications.",
+      "Zoe is the VP Philanthropic.",
+      "Daniel T. is the VP Internal.",
+      "Maria is the VP Equity.",
+      "Thomas is the VP Francophone.",
+      "Brooke is the Manager of Student Advocacy.",
+      "Adi is the Manager of IT.",
+      "Maya is the Chair of the Board.",
+      "Reema is the uOEC Commissioner.",
+      "Ryn is the Finance Commissioner.",
+      "Leila is the VP Sustainability.",
+      "Krish is the Manager of Marketing.",
+      "Vacant is the Wine and Cheese Coordinator.",
+      "Vacant is the Manager of Sponsorship.",
+      "Conall is the Manager of Social Media.",
+      "Alper is the Manager of Sports.",
+      "Luke is the VP Services.",
+      "Dakota is the 101 Week Coordinator.",
+      "Hayden is the Manager of Translations.",
+      "Jake is the VP Social."
     ],
     "entities": [
       {
-        "text": "Daniel",
+        "text": "Aiden",
         "label": "PERSON"
+      },
+      {
+        "text": "Eric",
+        "label": "PERSON"
+      },
+      {
+        "text": "Aiden",
+        "label": "PERSON"
+      },
+      {
+        "text": "Eric",
+        "label": "PERSON"
+      },
+      {
+        "text": "the VP Finance & Administration",
+        "label": "ORG"
       },
       {
         "text": "Ashna",
         "label": "PERSON"
       },
       {
-        "text": "Captains",
-        "label": "PERSON"
-      },
-      {
-        "text": "Jake",
-        "label": "NORP"
-      },
-      {
-        "text": "UOSU",
+        "text": "the VP External",
         "label": "ORG"
       },
-      {
-        "text": "24th",
-        "label": "ORDINAL"
-      },
-      {
-        "text": "Jake",
-        "label": "PERSON"
-      },
-      {
-        "text": "A04",
-        "label": "ORG"
-      },
-      {
-        "text": "101 week",
-        "label": "DATE"
-      },
-      {
-        "text": "Joint Round",
-        "label": "LOC"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "minutes_update",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "VP Philanthropic",
-    "person": "Zoe",
-    "content": "* Met w/ Jake and Dakota for Shine day, now aiming to have the breakfast be a bigger deal, so reaching out to sponsors for food\n* Attended PhilRTs → rejected participation in carnival & colour run, although UOSU mentioned wanting non 101ers to be able to participate as well, so would like to promote it regardless (even a little would be nice :) )\n* Summer events roughly planned. Need a commissioner + committee asap to finalize budget!",
-    "sentences": [
-      "*",
-      "Met w/ Jake and Dakota for Shine day, now aiming to have the breakfast be a bigger deal, so reaching out to sponsors for food\n*",
-      "Attended PhilRTs → rejected participation in carnival & colour run, although UOSU mentioned wanting non 101ers to be able to participate as well, so would like to promote it regardless (even a little would be nice :) )",
-      "* Summer events roughly planned.",
-      "Need a commissioner + committee asap to finalize budget!"
-    ],
-    "entities": [
-      {
-        "text": "Dakota",
-        "label": "GPE"
-      },
-      {
-        "text": "Shine day",
-        "label": "DATE"
-      },
-      {
-        "text": "carnival & colour",
-        "label": "ORG"
-      },
-      {
-        "text": "UOSU",
-        "label": "ORG"
-      },
-      {
-        "text": "101ers",
-        "label": "DATE"
-      },
-      {
-        "text": "Summer",
-        "label": "DATE"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "minutes_update",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "VP Equity",
-    "person": "Maria",
-    "content": "* Decided to plan hostility training rather than going with an external source because of costs.\n* Is a hide and seek tag/ manhunt type event doable\n* I just think itd be fun lol",
-    "sentences": [
-      "* Decided to plan hostility training rather than going with an external source because of costs.",
-      "* Is a hide and seek tag/ manhunt type event doable\n*",
-      "I just think it",
-      "d be fun lol"
-    ],
-    "entities": [],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "minutes_update",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "VP Francophone",
-    "person": "Thomas",
-    "content": "* No updates",
-    "sentences": [
-      "*",
-      "No updates"
-    ],
-    "entities": [],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "minutes_update",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "Manager of Translations",
-    "person": "Hayden",
-    "content": "* N/A",
-    "sentences": [
-      "* N/A"
-    ],
-    "entities": [],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "minutes_update",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "Chair of the Board",
-    "person": "Maya",
-    "content": "* Had 1-on-1 meetings with two/four sub-associations\n* Attended as a third party the internal and IEEE meeting\n* The next BOD meeting is this weekend! Pls put ur updates in/ attendance / proxies\n________________",
-    "sentences": [
-      "* Had 1-on-1 meetings with two/four sub-associations\n*",
-      "Attended as a third party the internal and IEEE meeting\n*",
-      "The next BOD meeting is this weekend!",
-      "Pls put ur updates in/ attendance / proxies\n________________"
-    ],
-    "entities": [
-      {
-        "text": "1",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "two/four",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "third",
-        "label": "ORDINAL"
-      },
-      {
-        "text": "IEEE",
-        "label": "ORG"
-      },
-      {
-        "text": "BOD",
-        "label": "ORG"
-      },
-      {
-        "text": "this weekend",
-        "label": "DATE"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "minutes_update",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "President",
-    "person": "Aiden, Eric",
-    "content": "* Maria: it’s been cleared out by eng outreach and should be good to use now\n* I understand UOSU has their deadlines from C&R but we will be able to work something out as long as we have made attempts to coordinate properly\n* It should be ready by the fall, but we can get a paper trail for this so that we can take it to them and ask for another room\n* We’re going to track the timeline for this\n* There aren’t any other rooms available that we can use for the whole week so we’re not sure what we’ll do if CBY A04 can’t be used\n* Internal: hiring\n* Just to clarify for those waiting to hire commissioners, you’ve already been sent the information of those who applied to be commissioners and you’re expected to conduct the hiring process for that\n* I’m only doing the Manager selection process\n* There’s two people who are interested in Secretary\n* Let me know if you need any clarification\n* We’re going to wait for next meeting for the Manager of External Awareness, because someone replied today with interest in doing an interview (the email had gone to spam)",
-    "sentences": [
-      "* Maria: it’s been cleared out by eng outreach and should be good to use now\n*",
-      "I understand UOSU has their deadlines from C&R",
-      "but we will be able to work something out as long as we have made attempts to coordinate properly\n*",
-      "It should be ready by the fall, but we can get a paper trail for this so that we can take it to them and ask for another room\n*",
-      "We’re going to track the timeline for this\n*",
-      "There aren’t any other rooms available that we can use for the whole week",
-      "so we’re not sure what we’ll do if CBY A04 can’t be used\n*",
-      "Internal: hiring\n*",
-      "Just to clarify for those waiting to hire commissioners, you’ve already been sent the information of those who applied to be commissioners and you’re expected to conduct the hiring process for that\n* I’m only doing the Manager selection process\n*",
-      "There’s two people who are interested in Secretary\n* Let me know if you need any clarification\n*",
-      "We’re going to wait for next meeting for the Manager of External Awareness, because someone replied today with interest in doing an interview (the email had gone to spam)"
-    ],
-    "entities": [
-      {
-        "text": "eng outreach",
-        "label": "PERSON"
-      },
-      {
-        "text": "UOSU",
-        "label": "ORG"
-      },
-      {
-        "text": "C&R",
-        "label": "ORG"
-      },
-      {
-        "text": "the whole week",
-        "label": "DATE"
-      },
-      {
-        "text": "A04",
-        "label": "PERSON"
-      },
-      {
-        "text": "two",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "External Awareness",
-        "label": "ORG"
-      },
-      {
-        "text": "today",
-        "label": "DATE"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "motion",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "N/A",
-    "person": "N/A",
-    "content": "* BE IT RESOLVED THAT the Officers hereby appoint Mehar Mohal as Wine & Cheese Coordinator for the 2025-2026 term.\n* BE IT RESOLVED THAT the Officers hereby appoint Henri Pigeon as Manager of Sponsorships for the 2025-2026 term.\nAdopted with unanimous consent.",
-    "sentences": [
-      "* BE IT RESOLVED THAT the Officers hereby appoint Mehar Mohal as Wine & Cheese Coordinator for the 2025-2026 term.",
-      "* BE IT RESOLVED THAT the Officers hereby appoint Henri Pigeon as Manager of Sponsorships for the 2025-2026 term.",
-      "Adopted with unanimous consent."
-    ],
-    "entities": [
-      {
-        "text": "Officers",
-        "label": "WORK_OF_ART"
-      },
-      {
-        "text": "Mehar Mohal as",
-        "label": "PERSON"
-      },
-      {
-        "text": "2025-2026",
-        "label": "DATE"
-      },
-      {
-        "text": "Officers",
-        "label": "WORK_OF_ART"
-      },
-      {
-        "text": "Henri Pigeon",
-        "label": "PERSON"
-      },
-      {
-        "text": "Sponsorships",
-        "label": "PERSON"
-      },
-      {
-        "text": "2025-2026",
-        "label": "DATE"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "discussion",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "VP External",
-    "person": "Ashna",
-    "content": "* The bid would either be placed at FYIC or CALE\n* The main expense would be accomodation\n* This can be mostly covered with delegate fees\n* We need to consider whether we have enough engagement as a society\n* 101 week will be a good opportunity to gauge this\n* We need to look for first and second year students who might be interested in joining the organizing committee, since they will still be around when this conference is held\n* We need a dedicated team to avoid the issues we’ve had with organising previous conferences, this is more important than the finances of the society as a determining factor as to whether this is feasible",
-    "sentences": [
-      "*",
-      "The bid would either be placed at FYIC or CALE\n*",
-      "The main expense would be accomodation\n*",
-      "This can be mostly covered with delegate fees\n*",
-      "We need to consider whether we have enough engagement as a society\n* 101 week will be a good opportunity to gauge this\n*",
-      "We need to look for first and second year students who might be interested in joining the organizing committee, since they will still be around when this conference is held\n*",
-      "We need a dedicated team to avoid the issues we’ve had with organising previous conferences, this is more important than the finances of the society as a determining factor as to whether this is feasible"
-    ],
-    "entities": [
-      {
-        "text": "FYIC",
-        "label": "ORG"
-      },
-      {
-        "text": "101 week",
-        "label": "DATE"
-      },
-      {
-        "text": "first",
-        "label": "ORDINAL"
-      },
-      {
-        "text": "second",
-        "label": "ORDINAL"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "discussion",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "President",
-    "person": "Aiden, Eric",
-    "content": "* Next week!\n* Fill out the spreadsheet in advance so that we’re not scrambling last minute\n* Chair: VP Social is not in Ottawa which is a violation of the requirements for the position\n* This will be raised at the BoD meeting on Sunday\n* Received advice that it’s especially important for the VP Social to be there for August\n* The Presidents knew about this but did not raise it with the team\n* We need to be more open about these things in the future\n* Internal: absent officers at meetings\n* Some officers have been excused\n* One of the VPs hasn’t showed up to any meetings so far",
-    "sentences": [
-      "* Next week!",
-      "* Fill out the spreadsheet in advance so that we’re not scrambling last minute\n* Chair: VP Social is not in Ottawa which is a violation of the requirements for the position\n*",
-      "This will be raised at the BoD meeting on Sunday\n*",
-      "Received advice that it’s especially important for the VP Social to be there for August\n*",
-      "The Presidents knew about this but did not raise it with the team\n*",
-      "We need to be more open about these things in the future\n*",
-      "Internal: absent officers at meetings\n*",
-      "Some officers have been excused\n*",
-      "One of the VPs hasn’t showed up to any meetings so far"
-    ],
-    "entities": [
-      {
-        "text": "Next week",
-        "label": "DATE"
-      },
-      {
-        "text": "last minute",
-        "label": "TIME"
-      },
-      {
-        "text": "Ottawa",
-        "label": "GPE"
-      },
-      {
-        "text": "BoD",
-        "label": "ORG"
-      },
-      {
-        "text": "Sunday",
-        "label": "DATE"
-      },
-      {
-        "text": "the VP Social",
-        "label": "ORG"
-      },
-      {
-        "text": "August",
-        "label": "DATE"
-      },
-      {
-        "text": "One",
-        "label": "CARDINAL"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "discussion",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "President",
-    "person": "Aiden, Eric",
-    "content": "* Internal: My emails are going to spam\n* Maybe reach out to uOttawa Engineering IT helpdesk or look into our DNS config",
-    "sentences": [
-      "* Internal:",
-      "My emails are going to spam\n* Maybe reach out to uOttawa Engineering IT helpdesk or look into our DNS config"
-    ],
-    "entities": [
-      {
-        "text": "uOttawa Engineering",
-        "label": "ORG"
-      },
-      {
-        "text": "DNS",
-        "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "varia",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "N/A",
-    "person": "N/A",
-    "content": "* Can I please have the contact info for the clubs (EWB, NSBE) and comp teams?\n* Sent via Discord\n* Phil - Can I have access to the current sponsorship outreach list for 101 week so I don’t overlap with searching for breakfast sponsors? (and eng ball sponsors when I start doing that …very soon…)",
-    "sentences": [
-      "* Can I please have the contact info for the clubs (EWB, NSBE) and comp teams?",
-      "* Sent via Discord\n* Phil - Can I have access to the current sponsorship outreach list for 101 week so I don’t overlap with searching for breakfast sponsors?",
-      "(and eng ball sponsors when I start doing that …very soon…)"
-    ],
-    "entities": [
-      {
-        "text": "EWB",
-        "label": "ORG"
-      },
-      {
-        "text": "NSBE",
-        "label": "ORG"
-      },
-      {
-        "text": "101 week",
-        "label": "DATE"
-      },
-      {
-        "text": "eng ball",
-        "label": "PERSON"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "minutes_update",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "President",
-    "person": "Aiden, Eric",
-    "content": "________________\nPage  of",
-    "sentences": [
-      "________________",
-      "Page  of"
-    ],
-    "entities": [],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "Co-President",
-    "person": "Aiden",
-    "content": "Aiden holds the role of Co-President.",
-    "sentences": [
-      "Aiden holds the role of Co-President."
-    ],
-    "entities": [],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "Co-President",
-    "person": "Eric",
-    "content": "Eric holds the role of Co-President.",
-    "sentences": [
-      "Eric holds the role of Co-President."
-    ],
-    "entities": [
-      {
-        "text": "Eric",
-        "label": "PERSON"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "President",
-    "person": "Aiden",
-    "content": "Aiden holds the role of President.",
-    "sentences": [
-      "Aiden holds the role of President."
-    ],
-    "entities": [],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "President",
-    "person": "Eric",
-    "content": "Eric holds the role of President.",
-    "sentences": [
-      "Eric holds the role of President."
-    ],
-    "entities": [
-      {
-        "text": "Eric",
-        "label": "PERSON"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "VP Finance & Administration",
-    "person": "Cyrus",
-    "content": "Cyrus holds the role of VP Finance & Administration.",
-    "sentences": [
-      "Cyrus holds the role of VP Finance & Administration."
-    ],
-    "entities": [
-      {
-        "text": "VP Finance & Administration",
-        "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "VP External",
-    "person": "Ashna",
-    "content": "Ashna holds the role of VP External.",
-    "sentences": [
-      "Ashna holds the role of VP External."
-    ],
-    "entities": [
-      {
-        "text": "VP External",
-        "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "VP Academic",
-    "person": "Nick",
-    "content": "Nick holds the role of VP Academic.",
-    "sentences": [
-      "Nick holds the role of VP Academic."
-    ],
-    "entities": [
       {
         "text": "Nick",
-        "label": "ORG"
+        "label": "PERSON"
       },
       {
-        "text": "VP Academic",
+        "text": "the VP Academic",
         "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "VP Communications",
-    "person": "Hayley",
-    "content": "Hayley holds the role of VP Communications.",
-    "sentences": [
-      "Hayley holds the role of VP Communications."
-    ],
-    "entities": [
+      },
       {
         "text": "Hayley",
         "label": "PERSON"
       },
       {
-        "text": "VP Communications",
-        "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "VP Philanthropic",
-    "person": "Zoe",
-    "content": "Zoe holds the role of VP Philanthropic.",
-    "sentences": [
-      "Zoe holds the role of VP Philanthropic."
-    ],
-    "entities": [
-      {
-        "text": "Zoe",
+        "text": "the VP Communications",
         "label": "ORG"
       },
       {
-        "text": "VP Philanthropic",
+        "text": "Zoe",
+        "label": "PERSON"
+      },
+      {
+        "text": "the VP Philanthropic",
         "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "VP Internal",
-    "person": "Daniel T.",
-    "content": "Daniel T. holds the role of VP Internal.",
-    "sentences": [
-      "Daniel T. holds the role of VP Internal."
-    ],
-    "entities": [
+      },
       {
         "text": "Daniel T.",
         "label": "PERSON"
       },
       {
-        "text": "VP Internal",
-        "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "VP Equity",
-    "person": "Maria",
-    "content": "Maria holds the role of VP Equity.",
-    "sentences": [
-      "Maria holds the role of VP Equity."
-    ],
-    "entities": [
-      {
-        "text": "Maria",
+        "text": "the VP Internal",
         "label": "ORG"
       },
       {
-        "text": "VP Equity",
+        "text": "Maria",
+        "label": "PERSON"
+      },
+      {
+        "text": "the VP Equity",
         "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "VP Francophone",
-    "person": "Thomas",
-    "content": "Thomas holds the role of VP Francophone.",
-    "sentences": [
-      "Thomas holds the role of VP Francophone."
-    ],
-    "entities": [
+      },
       {
         "text": "Thomas",
         "label": "PERSON"
       },
       {
-        "text": "VP Francophone",
+        "text": "the VP Francophone",
         "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "Manager of Student Advocacy",
-    "person": "Brooke",
-    "content": "Brooke holds the role of Manager of Student Advocacy.",
-    "sentences": [
-      "Brooke holds the role of Manager of Student Advocacy."
-    ],
-    "entities": [
+      },
       {
         "text": "Brooke",
-        "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "Manager of IT",
-    "person": "Adi",
-    "content": "Adi holds the role of Manager of IT.",
-    "sentences": [
-      "Adi holds the role of Manager of IT."
-    ],
-    "entities": [
+        "label": "GPE"
+      },
       {
         "text": "Adi",
-        "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "Chair of the Board",
-    "person": "Maya",
-    "content": "Maya holds the role of Chair of the Board.",
-    "sentences": [
-      "Maya holds the role of Chair of the Board."
-    ],
-    "entities": [
+        "label": "PERSON"
+      },
       {
-        "text": "Chair of the Board",
-        "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "uOEC Commissioner",
-    "person": "Reema",
-    "content": "Reema holds the role of uOEC Commissioner.",
-    "sentences": [
-      "Reema holds the role of uOEC Commissioner."
-    ],
-    "entities": [
+        "text": "Maya",
+        "label": "PERSON"
+      },
       {
         "text": "Reema",
         "label": "PERSON"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "Finance Commissioner",
-    "person": "Ryn",
-    "content": "Ryn holds the role of Finance Commissioner.",
-    "sentences": [
-      "Ryn holds the role of Finance Commissioner."
-    ],
-    "entities": [
+      },
       {
         "text": "Finance",
         "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "VP Sustainability",
-    "person": "Leila",
-    "content": "Leila holds the role of VP Sustainability.",
-    "sentences": [
-      "Leila holds the role of VP Sustainability."
-    ],
-    "entities": [
+      },
       {
         "text": "Leila",
         "label": "PERSON"
       },
       {
-        "text": "VP Sustainability",
+        "text": "the VP Sustainability",
         "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "Manager of Marketing",
-    "person": "Krish",
-    "content": "Krish holds the role of Manager of Marketing.",
-    "sentences": [
-      "Krish holds the role of Manager of Marketing."
-    ],
-    "entities": [
+      },
       {
         "text": "Krish",
         "label": "NORP"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "Wine and Cheese Coordinator",
-    "person": "Vacant",
-    "content": "Vacant holds the role of Wine and Cheese Coordinator.",
-    "sentences": [
-      "Vacant holds the role of Wine and Cheese Coordinator."
-    ],
-    "entities": [
+      },
       {
-        "text": "Wine and Cheese Coordinator",
-        "label": "WORK_OF_ART"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "Manager of Sponsorship",
-    "person": "Vacant",
-    "content": "Vacant holds the role of Manager of Sponsorship.",
-    "sentences": [
-      "Vacant holds the role of Manager of Sponsorship."
-    ],
-    "entities": [],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "Manager of Social Media",
-    "person": "Conall",
-    "content": "Conall holds the role of Manager of Social Media.",
-    "sentences": [
-      "Conall holds the role of Manager of Social Media."
-    ],
-    "entities": [
+        "text": "Conall",
+        "label": "PERSON"
+      },
       {
         "text": "Social Media",
         "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "Manager of Sports",
-    "person": "Alper for Spring/Summer",
-    "content": "Alper for Spring/Summer holds the role of Manager of Sports.",
-    "sentences": [
-      "Alper for Spring/Summer holds the role of Manager of Sports."
-    ],
-    "entities": [
-      {
-        "text": "Spring/Summer",
-        "label": "DATE"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "VP Services",
-    "person": "Luke",
-    "content": "Luke holds the role of VP Services.",
-    "sentences": [
-      "Luke holds the role of VP Services."
-    ],
-    "entities": [
+      },
       {
         "text": "Luke",
         "label": "PERSON"
       },
       {
-        "text": "VP Services",
+        "text": "the VP Services",
         "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "101 Week Coordinator",
-    "person": "Dakota",
-    "content": "Dakota holds the role of 101 Week Coordinator.",
-    "sentences": [
-      "Dakota holds the role of 101 Week Coordinator."
-    ],
-    "entities": [
+      },
       {
         "text": "Dakota",
         "label": "GPE"
       },
       {
-        "text": "101 Week Coordinator",
+        "text": "the 101 Week Coordinator",
         "label": "EVENT"
-      }
-    ],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "Manager of Translations",
-    "person": "Hayden",
-    "content": "Hayden holds the role of Manager of Translations.",
-    "sentences": [
-      "Hayden holds the role of Manager of Translations."
-    ],
-    "entities": [],
-    "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "June 19, 2025 _ Officer Meeting.txt",
-    "role": "VP Social",
-    "person": "Jake",
-    "content": "Jake holds the role of VP Social.",
-    "sentences": [
-      "Jake holds the role of VP Social."
-    ],
-    "entities": [
-      {
-        "text": "Jake",
-        "label": "ORG"
       },
       {
-        "text": "VP Social",
+        "text": "Hayden",
+        "label": "PERSON"
+      },
+      {
+        "text": "Jake",
+        "label": "PERSON"
+      },
+      {
+        "text": "the VP Social",
         "label": "ORG"
       }
     ],
     "meeting_date": "2025-06-19",
-    "meeting_date_display": "June 19, 2025"
+    "meeting_date_display": "Jun 19, 2025"
   }
 ]

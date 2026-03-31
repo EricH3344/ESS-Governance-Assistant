@@ -1,0 +1,880 @@
+﻿ESS November BoD Meeting Minutes – Procès verbal de la réunion de septembre du CA de l'AÉG
+1. Call to Order – Appel à l'ordre
+Date: Nov 23, 2025 11:00 AM
+Location – Lieu: CBY A605 & Google Meet
+The meeting was called to order at 11:06 am with Maya Benhamou as Chair and with Krystian as Secretary.
+La réunion est ouverte à 11h06 , sous la présidence de Maya Benhamou et le secrétariat de Krystian.
+2. Land Acknowledgement – Reconnaissance des Terres
+We acknowledge that we are gathered on the traditional and unceded territory of the Algonquin Anishinaabe Nation. For generations, they have been the stewards of this land, and their deep connection to it continues to this day. We recognize the enduring presence and contributions of the Algonquin people to this region. We also acknowledge the painful history of colonization and the displacement of Indigenous communities from their ancestral lands. We commit ourselves to learning, understanding, and honoring the Algonquin Nation's history and culture. We recognize the importance of working collaboratively to create a more just and equitable future for all who call this land home.
+________________
+
+
+Nous reconnaissons que nous sommes réunis sur le territoire traditionnel et non cédé de la nation algonquine anishinaabe. Depuis des générations, ils sont les gardiens de cette terre et le lien profond qui les unit à elle perdure encore aujourd'hui. Nous reconnaissons la présence et les contributions durables du peuple algonquin dans cette région. Nous reconnaissons également l'histoire douloureuse de la colonisation et du déplacement des communautés autochtones de leurs terres ancestrales. Nous nous engageons à apprendre, à comprendre et à honorer l'histoire et la culture de la nation algonquine. Nous reconnaissons l'importance de travailler en collaboration pour créer un avenir plus juste et plus équitable pour tous ceux qui vivent sur cette terre.
+3. Roll Call – Appel nominal
+Present – Présent.e.s: 
+* Co-President – Présidente: Aiden McCooeye (he/him/il)
+* Co-President – Présidente: Eric Hagen (he/him/il)
+* VP External – Externe: Ashna Cheverlharan (she/her/elle) - Excused
+* VPFA: Cyrus Choi (he/him/il)
+* VP Internal – Interne: Steffen Zylstra (he/him/il)
+* VP Social: Magno Melo Martins (he/him/il)
+* VP Sustainability – Développement durable: Sydney Ruberto (she/her/elle)
+* VP Francophone: Yann Giffaux (he/him/il)
+* VP Philanthropic – Philanthropique: Zoe Saunders (she/her/elle)
+* IEEE: Jad Mghabghab (he/him/il)
+* CESA – AÉGCi: Claire Durand (she/her/elle) 
+* CESA – AÉGCi: Rumony Chhom (she/her/elle)
+* ChESS – AÉGC: Nour Akremi (she/her/elle) (late) - Ryanne 
+* MESS – SÉGM: Farah El Siss (she/her/elle) & Kristen Wells (she/her/elle) - Proxied by Magno
+* GNG 1105 B: Calvin Smith (he/him/il)
+* GNG 1505 B: Sofia Jadal (she/her/elle)
+* 2nd year Chemical – 2e année chimique: Emilia Wesolkowski (she/her/elle)
+* 2nd year Mechanical – 2e année mécanique: Rocco De Oliveira (he/him/il) (will be either late or early)
+* 2nd year Computer – 2e année informatique: Pradyumna Uppalapati (she/her/elle)
+* 2nd year French – 2e année français: Meltem Selin Çetin (she/her/elle)
+* 3rd year Mechanical – 3e année mécanique: Dakota Squires (he/him/il)
+* 3rd year Software – 3e année logiciel: Jamie Watson (she/her/elle)
+* 3rd year Computer – 3e année informatique: Somana Debnath (she/her/elle)
+* CO-OP Electrical – Électrique CO-OP: Samuel Li (he/him/il)
+* CO-OP Mechanical – Mécanique CO-OP: Conor Waldron (he/him/il)
+* Multidisciplinary Design – Design multidisciplinaire: Abby Wilson (she/her/elle)
+* Absent – Absent.e.s:
+* CO-OP Computer – Informatique CO-OP: Brooke MacQuarrie (she/her/elle) - Excused
+* VP Communications: Hayley Jubinville (she/her/elle) - Excused
+* VP Academic – Académique: Nick Mesquita (he/him/il) - Excused
+* VP Equity – Équité: Maria Hal (she/her/elle) - Excused  - Proxied by Magno
+* EEF Chair – Président du FdG: Mark Uchanski (he/him/il)*
+* UOSU BoD – CA du SÉUO: Matias Suxo-Salinas (he/him/il)*
+* VP Services: Luke Ballinger (he/him/il)
+* GNG 1105 A: Jayden Ireland (he/him/il)
+* 2nd year Electrical – 2e année électrique: Rory McCulloch (he/him/il)
+* 4th year Mechanical – 4e année mécanique: Giovanni Abbruzzo (he/him/il)
+* 4th year Computer – 4e année informatique: Stuti Pandya (she/her/elle)
+* * Non-voting – Sans droit de vote
+4. Comments from the Chair – Commentaires de la présidence
+   1. Robert’s Rules Overview – Aperçu des règles de procédure Robert
+Special Rules of Order
+1: New idea
+2: Replying to current idea
+p: Point of privilege, interrupts current discussion (ex: can't hear the microphone)
+c: Point of clarity, confused about current discussion and needs clarification, interrupts current discussion (ex what does an acronym mean)
+t: Requesting a translation 
+   2. Notes
+      * Communication is KEY. There should be an open line of communication at all times! 
+      * Proxies! Best if they are part of the student population that you represent not just a friend 
+5. Administrative Motions – Motions administratives
+Title
+Titre
+	Adoption of Agenda
+Adoption de l'ordre du jour
+	Mover
+Proposé
+	Calvin
+	Seconder
+Appuyé
+	Eric
+	BE IT RESOLVED THAT the agenda be adopted as presented.
+IL EST RÉSOLU QUE l'ordre du jour est adopté tel que présenté.
+	Discussion
+	VP X: Motion to amend to vp X motions before elections because she is at a conference and would like to get back. Seconded by Calvin
+Eric: If she needs to go 
+For:  13 votes
+Against: 0 votes
+Abstain: 3 votes
+Cyrus: Motion to add a motion about VP Sus budget. Seconder Eric
+For: 15 votes
+Against: 0 votes 
+Abstain: 1 votes
+	Result
+Résultat
+	Passes unanimously
+	6. Motions pt 1
+VP X’s Motions
+7. Elections – Élections
+Title
+Titre
+	Election of Year Representatives 
+Élection des représentants d'année
+	Mover
+Proposé
+	Eric
+	Seconder
+Appuyé
+	Calvin
+	Nominations
+	* Katelyn Saper GNG1105 E representative
+* Rayan Ben Kadi Chemical Engineering COOP representative
+	WHEREAS several Year Representative positions are currently vacant;
+WHEREAS Year Representatives must be elected by ordinary resolution of the Members in accordance with Section 1.3.3.2 of the Policy and Procedure Manual;
+BE IT RESOLVED THAT the following Members be elected as Year Representatives for their respective programs and years, as detailed below:
+* 1st year
+   * GNG 1105 C: 
+   * GNG 1105 D: 
+   * GNG 1105 E: Katelyn Saper
+   * GNG 1505 A
+   * SEG 2900: 
+   * PHY 1121/1521
+* 2nd year
+   * Civil:  
+   * Biomedical mechanical: 
+   * Software: 
+* 3rd year
+   * Chemical: 
+   * Civil: 
+   * Electrical: 
+   * Biomedical mechanical: 
+   * French: 
+* 4th year or higher
+   * Chemical: 
+   * Civil: 
+   * Electrical: 
+   * Biomedical mechanical: 
+   * Software: 
+   * French: 
+* CO-OP
+   * Chemical: Rayan Ben Kadi
+   * Civil: 
+   * Biomedical mechanical: 
+   * Software: 
+* Student Academic Success Service (SASS):
+________________
+
+
+ATTENDU QUE plusieurs postes de représentants d'année sont actuellement vacants;
+ATTENDU QUE les représentants annuels doivent être élus par une résolution ordinaire des membres conformément à la section 1.3.3.2 du Manuel des politiques et procédures;
+IL EST RÉSOLU QUE les Membres suivants de la Société soient élus en tant que représentants annuels pour leurs programmes et années respectifs, comme détaillé ci-dessous: 
+* 1ère année
+   * GNG 1105 A: 
+   * GNG 1105 C
+   * GNG 1105 D: 
+   * GNG 1105 E: 
+   * GNG 1505 A
+   * GNG 1505 B
+   * SEG 2900: 
+   * PHY 1121/1521
+* 2ème année
+   * Génie civil: 
+   * Génie biomédical mécanique: 
+   * Génie logiciel: 
+* 3ème année
+   * Chimie: 
+   * Génie civil: 
+   * Génie électrique: 
+   * Génie biomédical mécanique: 
+   * Français: 
+* 4ème année ou plus
+   * Chimie: 
+   * Génie civil: 
+   * Génie électrique: 
+   * Génie biomédical mécanique: 
+   * Génie logiciel: 
+   * Français: 
+* CO-OP
+   * Chimie: 
+   * Génie civil: 
+   * Génie biomédical mécanique: 
+   * Génie logiciel: 
+* Service de réussite académique des étudiants (SASS): 
+	Questions
+	
+
+	Answers
+Réponses
+	Katelyn:
+Why do you want to join BOD?:
+Went to FYIC conference and found out more about ESS; already wanted to get involved and BOD seemed like a great opportunity
+Kiss Marry Kill Eng Buildings:
+Kill CBY;
+
+
+Rayan Ben Kadi
+Why do you want to join BOD?:
+Wants to be involved and give back to student community
+Bond:
+Triple bond because hard to make but very strong; takes a long time to bond with others but that connection is then very strong
+	Discussion
+	Calvin: I like the serious question and one silly question to keep it light hearted. Serious question being along the lines of why do you want to join BoD 
+Aiden: 30 seconds each
+Rocco: I feel like for the chemical rep we should ask “what bond do you associate yourself with and why?”
+
+
+Motion: 30 second serious question of “Why do you want to join BoD” and 30 second funny question. For GNG 1105 rep: Kiss Marry Kill Eng building ; For Chemical Co-op rep: What bond do you associate with and why? Seconder: Co-Pres
+Passes unanimously
+Calvin: I thought they both were great and showed genuine interest. I went to FYIC with Kate and I saw a lot of initiation. 
+	Result
+Résultat
+	Kate: 
+For: 16 votes
+Against: 0 votes
+Abstain: 0 votes
+Rayan:
+For: 11 votes
+Against: 0 votes
+Abstain: 0 votes
+	
+
+8. Executive Updates – Mises à jour de l'exécutif
+* Co-Presidents – Coprésidents: Aiden McCooeye (he/him/il) & Eric Hagen (he/him/il)
+   * president elections
+   * officer meetings
+   * PRT
+   * payments/reimbursements
+   * faculty deliberation
+   * submitted camp leaders
+* VP External – Externe: Ashna Cheverlharan (she/her/elle)
+   * Attended FYIC (First-Year Integration Conference) at Queen’s University and the recap is posted on the external account! Did not get our mascot stolen 🙂
+      *  (take that haters)
+   * Attending CDE (Conference on Diversity in Engineering) at McGill University right now! Had a pre-delegate meeting with delegates and sent out required conference waivers. Invoice has been paid as well.
+   * Applications for CELC (Canadian Engineering Leadership Conference) are being reviewed by selection committee. Need to submit delegate registration for 5 people once applicants selected and finalize travel plans to Western University
+   * External Awareness Night happened on Thursday! Thanks to Rusafi (Manager of External Awareness) for all your help in planning this event.
+   * Working on my end-of-year reports and PM 2027 presentation to be presented at December BOD
+   * Planning for Carleton x uOttawa hockey game underway with Alper (Manager of Sports), next step is to put up a post to form a uOttawa Engineering Hockey Team
+* VPFA: Cyrus Choi (he/him/il)
+   * Finance report for October and November (forgot to submit at last bod):
+  
+
+  
+
+   * Getting the first audit done and submitted so we can receive our levies by the end of the month - reach out if you have questions
+   * Met with ERTW team and is looking into discounts for engineers
+   * Successfully BBQed for uOEC both days of the week
+   * If anyone wants to buy some frozen beyond meat patties, let me know
+* VP Academic – Académique: Nick Mesquita (he/him/il)
+   * W&C went relatively well, save for some guests showing up early.
+   * Collab event with IEEE and CSSA academics on Nov 28th, "Hot Choco-Late Night Study" is the name, keep an eye out on the ours and the CSSA/IEEE instagrams for that post whenever it goes out.
+   * Waiting for more reponses on the OHRI trip interest form, only 5 responses so far.
+* VP Communications: Hayley Jubinville (she/her/elle)
+   * Comms going well
+   * Multiple posts gone out
+   * Mailout came out
+   * Couple updates brought to the website
+   * Marketing Manager working on promo for the merch
+* VP Internal – Interne:  Steffen Zylstra (he/him/il)
+   * uOEC Completed, currently working on OEC preparation.
+   * Met with leadership from each subcommittee, all of which succesfully completed their governance deliverables and provided valuable feedback for ESS
+   * Acquired office phone chargers, feel free to use the ones labelled ESS!
+   * Continued to take meeting minutes for officer meetings
+* VP Services: Luke Ballinger (he/him/il)
+   * ESSCO pathces arrived
+   * ESS patches arrived
+   * All merch units counted for UOSU audit
+* VP Social: Magno Melo Martins (he/him/il)  
+   * Did DUSTED, went great, expecting a cleaning fee invoice which would make it slightly over budget, but if not we’re under budget
+   * Having meetings for FROST, more specifically for Guerre des Tuques, hopefully that moves fast and smooth
+   * Will start planning GOAT soon
+   * Winter 2025 DUSTED refunds have been sent out, returning the money to ESS of the unsent refunds by end of month
+* VP Philanthropic – Philanthropique: Zoe Saunders (she/her/elle)
+   * Beer Olympics this saturday, ESS is donating $250
+   * Eng ball is Feb 7th 6pm-12 at NAC, venue tour taken on thursday, menu will be selected this week & CSSA is buying 50 tickets from us
+   * Charity committee emails sent out
+   * Early bird tix starting before end of the month ($67), regular tix will be $85
+   * On track to break even for Eng ball budget
+   * formal clothing drive in motion, coordinating with other RSGs
+   * Poppies fundraiser donation sent for remembrance day
+   * Cookie decor event this week for cat rescue
+* VP Equity – Équité: Maria Hal (she/her/elle)
+   * Helped with W&C, photos given to VP Academic
+   * Finding judges for winter fashion show event
+* VP Sustainability – Développement durable: Sydney Ruberto (she/her/elle)
+   * Had a meeting with UofT’s Sustainable Engineers’ Association
+   * Reached out to ESSCO, gonna join their sustainability working group
+   * Still trying to plan upcycling event, but I am being ghosted - might do it without them
+* VP Francophone: Yann Giffaux (he/him/il)
+   * Franco Event 22nd at 8pm. Will update the details as it gets figured out today.
+   * Traducted all papers for uOEC with help from Manager of Translation and VP Comms
+   * Could not attend Franco Roundtable, awaiting meeting minutes currently.
+      * Not received by time of BoD but will send follow up
+9. Sub-association updates –  Mise à jour des sous-associations
+* IEEE
+   * special general meeting, with elections for student chapters
+   * constitution updated, translation updates in progress
+   * McNaughton grant application for new hardware in the office including an nvidia jetson board, 2 FPGAs, more microcomputers, ect...
+   * Audit submitted
+   * events sitll ongoing and big planning for cookies & cram
+* CESA
+   * hosted gingerbread holiday event, good turn out, may become an annual thing
+   * preparing for study n stacks event on Nov. 30th
+   * Hosting collab event with CSCE chapter to network and talk about Centre Block project, Nov. 26th
+   * planning for troitsky bridge building competition
+* CHESS
+   * Submitted the audit
+   * Starting merch pre order in the next two weeks
+   * Hosting a study session on the 27th
+   * Signed contract with guru
+* MESS
+   * CESO networking event went really well! All companies that came loved it and will want to do this again.
+   * Chill w/ MESS every week has been gaining traction.
+   * AGM went well. Constitution is updated, just waiting for translations.
+   * audit sent and website is almost fully up to date. Just need to update our sponsorships section and upload the updated Constitution translated and meeting minutes.
+   * Byelection and hiring of new positions created happening Nov 23rd complying to our 2 week notice for a byelection.
+   * All office services are now in the office, just need to advertise it.
+10. Motions
+Title
+Titre
+	New Inclusion Policy 
+	Mover
+Proposé
+	Brooke
+	Seconder
+	Eric 
+	WHEREAS resolving conflicts involving harassment and discrimination requires clear and extensive policies and procedures such that all disputes may be handled equally and fairly.
+WHEREAS the Engineering Student’s Society seeks to promote inclusivity and diversity, as well as protect against harassment and discrimination.
+WHEREAS the current Policies and Procedures of ESS does not outline any definitions or actions regarding instances of harassment and discrimination. 
+WHEREAS the currently adopted inclusivity policy, section 13.0, is difficult to enforce and ineffective due to lack of detail and vague language.
+BE IT RESOLVED THAT the current Inclusivity Policy be updated and replaced by a new Harassment & Inclusivity Policy
+________________
+
+
+ATTENDU QUE la résolution des conflits liés au harcèlement et à la discrimination nécessite des politiques et des procédures claires et exhaustives afin que tous les litiges puissent être traités de manière équitable et impartiale.
+ATTENDU QUE l'Association des étudiants en génie cherche à promouvoir l'inclusion et la diversité, ainsi qu'à protéger contre le harcèlement et la discrimination.
+ATTENDU QUE les politiques et procédures actuelles de l'ESS ne fournissent aucune définition ni mesure concernant les cas de harcèlement et de discrimination. 
+ATTENDU QUE la politique d'inclusion actuellement adoptée, section 13.0, est difficile à appliquer et inefficace en raison de son manque de détails et de son libellé vague.
+IL EST RÉSOLU QUE la politique d'inclusion actuelle soit mise à jour et remplacée par une nouvelle politique en matière de harcèlement et d'inclusion.
+	Documents
+	New Inclusion Policy
+	Discussion
+	No discussion
+	Result
+Résultat
+	For: 16
+Against: 0
+Abstain: 0
+	Title
+Titre
+	Interim VP Internal Impeachment Appeal
+	Mover
+Proposé
+	Presidents
+	Seconder
+	Calvin
+	WHEREAS the impeachment of Daniel Thorp at the previous BoD was requested to be appealed by him. 
+WHEREAS since the allegations of harassment were not investigated or confirmed by any neutral third party.
+WHEREAS any decision from the BoD can be appealed or reconsidered. 
+BE IT RESOLVED THAT the impeachment motion be reconsidered as follows with the amendment of omitting the WHEREAS clause of: “WHEREAS he harassed executives within ESS and sub-associations, thereby creating a hostile and unprofessional working environment;”
+“WHEREAS he has repeatedly miscommunicated important information during meetings;
+WHEREAS he undermined 101 Week programming by unilaterally removing the only event dedicated to introducing first-year students to sub-associations, without consultation or notice;
+WHEREAS he failed in his core responsibility to maintain clear and accurate communication with sub-associations, including altering the Sub-Association Trivia event to focus on external awareness and effectively cancelling the sub-association component without warning;
+
+WHEREAS, additional concerns have been reported regarding the consistency and clarity of communications…
+WHEREAS he provided conflicting information during the drafting of the Sub-Association Policy to each stakeholder, creating confusion andD delaying progress;
+WHEREAS he abused his position of power by repeatedly threatening to cut sub-association levies and using such threats as leverage to pressure executives;
+WHEREAS he falsely claimed that sub-associations must go through only ESS or himself to obtain funding, thereby misrepresenting his authority and discouraging sub-associations from exercising their independence to receive funding from UOSU;
+WHEREAS he attempted to override the democratic process by reintroducing failed motions to Council in order to force outcomes contrary to the will of Council;
+
+
+WHEREAS, members have expressed concerns regarding attempts to reintroduce motions previously defeated...
+WHEREAS he explicitly stated that ESS votes outnumber those of the sub-associations, signalling an intent to dominate rather than collaborate in good faith;
+WHEREAS, concerns have been raised that comments regarding voting distribution of the sub-associations were perceived as dismissive of collaborative governance.
+WHEREAS he is interfering with the proper formation of a  BMDES student body ( MDSA ) and harassing them if its not done his way ;
+BE IT RESOLVED THAT Daniel Thorp be immediately removed from his position as Interim Vice President Internal.”
+________________
+
+
+ATTENDU QUE Daniel Thorp a demandé à faire appel de sa destitution lors de la précédente réunion du conseil d'administration. 
+ATTENDU QUE les allégations de harcèlement n'ont fait l'objet d'aucune enquête ni confirmation par un tiers neutre.
+ATTENDU QUE que toute décision du conseil d'administration peut faire l'objet d'un appel ou d'un réexamen. 
+IL EST RÉSOLU QUE la motion de destitution soit réexaminée comme suit, avec la modification consistant à supprimer la clause « ATTENDU QUE » : “ATTENDU QU’ il a harcelé des membres de l’exécutif au sein de l’AÉG et des sous-associations, créant ainsi un environnement de travail hostile et non professionnel;”
+“ATTENDU QUE il a à plusieurs reprises mal communiqué des informations importantes lors des réunions;
+ATTENDU QU' il a compromis la programmation de la Semaine 101 en supprimant unilatéralement le seul événement dédié à l’introduction des étudiants de première année aux sous-associations, sans consultation ni préavis;
+ATTENDU QU’ il a failli à sa responsabilité fondamentale de maintenir une communication claire et exacte avec les sous-associations, notamment en modifiant l’événement « Trivia des sous-associations » afin de le centrer sur la sensibilisation externe, ce qui a effectivement annulé la composante liée aux sous-associations sans avertissement;
+ATTENDU QU' il a fourni des informations contradictoires lors de la rédaction de la politique des sous-associations à chacun des intervenants, créant ainsi de la confusion et retardant les progrès;
+ATTENDU QU’ il a abusé de sa position de pouvoir en menaçant à plusieurs reprises de couper les cotisations des sous-associations et en utilisant de telles menaces comme levier pour faire pression sur des exécutifs;
+ATTENDU QU' il a faussement affirmé que les sous-associations devaient passer uniquement par l’AÉG ou par lui-même pour obtenir du financement, déformant ainsi son autorité et décourageant les sous-associations d’exercer leur indépendance afin de recevoir du financement du SÉUO;
+ATTENDU QU’ il a tenté de contourner le processus démocratique en réintroduisant des motions rejetées au Conseil dans le but de forcer des résultats contraires à la volonté du Conseil;
+ATTENDU QU’ il a explicitement déclaré que les votes de l’AÉG surpassent ceux des sous-associations, signalant ainsi une intention de dominer plutôt que de collaborer de bonne foi;
+ATTENDU QU' il interfère dans la bonne formation d’un corps étudiant en BMDes (AÉCM) et les harcèle si ce n’est pas fait selon sa manière;
+Il EST RÉSOLU QUE Daniel Thorp soit immédiatement destitué de son poste de vice-président interne intérimaire.”
+	Discussion
+	Daniel: Done to be fair and objective. Important to ensure wording is not biased and presents facts. What is included should be certain, shouldn’t be inflammatory. Original motion was one sided, while Whereas clauses should not be biased.
+
+
+Regarding reconsideration
+Daniel: If harassment is removed, nothing that remains is problematic . Please conduct investigation about allegations for reputation and to hear others’ concerns.
+Farah: At time of motion there was no policy about complaints from external people.
+
+
+Final Remarks
+Daniel: Motion has only been about reconsidering and not redoing decision. Would allow for additional context; rejection doesn’t allow for that opportunity. Felt like it was important to have him in the room. Didn’t have the opportunity to defend himself against the points raised. Only hearing one side is not fair to the procedure. Would be important for him to express himself. Some thing brought forth were serious allegations. Decision was not taken fairly.
+
+
+Dakota: Motions by BOD can be repealed, but we are not even giving him the chance. There should be re-vote. Seconder Zoe
+Rocco: Couldn’t find minutes
+Conor: Agree with Daniel. Harassment allegations were made while he wasn’t in the room. UOSU rep had to defend Daniel on things he didn’t have enough background on. Left meeting with confusion regarding Daniel’s actions. Daniel’s allegations not corresponding to policy issues
+	Result
+Résultat
+	Clause 1
+WHEREAS he failed in his core responsibility to maintain clear and accurate communication with sub-associations, including altering the Sub-Association Trivia event to focus on external awareness and effectively cancelling the sub-association component without warning;
+WHEREAS, additional concerns have been reported regarding the consistency and clarity of communications…
+For: 8
+Against: 0
+Abstain: 8
+Clause 2
+WHEREAS he attempted to override the democratic process by reintroducing failed motions to Council in order to force outcomes contrary to the will of Council;
+WHEREAS, members have expressed concerns regarding attempts to reintroduce motions previously defeated…
+For: 7
+Against: 1
+Abstain: 10
+
+
+Reconsideration
+For: 8
+Against: 9
+Abstain: 5
+Revote of Reconsideration
+For: 10 votes
+Against: 11 votes
+Abstain: 3 votes
+	Title
+Titre
+	Hailey membership 
+	Mover
+Proposé
+	Calvin
+	Seconder
+	Dakota
+	WHEREAS according to section 2.01 of our bylaws, any undergraduate student can apply to be an Associate non-voting Member of the ESS to the BoD.
+WHEREAS Hailey Owen has applied for this status and has submitted the following as to her reasoning: 
+“Dear Board Members,
+I am writing this letter as an application for Associate Membership within the Engineering Student Society. Although I am in a computer science program, I have an interest in joining and contributing to the larger engineering community at the University of Ottawa. I currently attend several events hosted by the Society and spend significant time with other members and officers of the Society. By gaining membership within the Society, I will be able to further participate in and contribute to engineering activities that are not accessible to non-members.
+Thank you for your consideration,
+Hailey Owen (300417572)”
+BE IT RESOLVED THAT Associated non-voting Membership be granted to Hailey.
+BE IT FURTHER RESOLVED THAT on the consideration that the student be granted full Membership shall not represent the ESS at ESSCO or CFES conderences
+________________
+
+
+ATTENDU QUE, conformément à l'article 2.01 de nos statuts, tout étudiant de premier cycle peut demander à devenir membre associé sans droit de vote de l'ESS auprès du conseil d'administration.
+ATTENDU QUE Hailey Owen a demandé ce statut et a présenté les raisons suivantes pour justifier sa demande : 
+«Dear Board Members,
+I am writing this letter as an application for Associate Membership within the Engineering Student Society. Although I am in a computer science program, I have an interest in joining and contributing to the larger engineering community at the University of Ottawa. I currently attend several events hosted by the Society and spend significant time with other members and officers of the Society. By gaining membership within the Society, I will be able to further participate in and contribute to engineering activities that are not accessible to non-members.
+Thank you for your consideration,
+Hailey Owen (300417572) »
+IL EST RÉSOLU QUE le statut de membre associé sans droit de vote soit accordé à Hailey.
+	Discussion
+	Eric: If they want to pay to be a member it’s fine. Shouldn’t be able to represent at conferences. They aren’t representing ESS as good as actual engineering students. 
+Cyrus: Eric mentioned fee; would that be UOSU fee
+Maya: yes; $25 membership fee
+Magno: what would they gain from this?
+Maya: 101 week guide; ESS positions, can attend AGMs. If someone is granted non-voting membership and pay fees, can then become a regular member. Can become officers, managers, commissioners.
+Eric: Don’t think they should be able to run for positions and conferences.
+Dakota: doesn’t understand their inability to run for positions. Point about not being able to go to conferences feels redundant.
+Sydney: if we restrict many things, what is the point of allowing the person to become a member?
+Aiden: Thinks we should value membership higher than giving them away when people are not engineering student. Can’t simply pay your way into ESS.
+Cyrus: Feel like RSGs should represent the program. CS students should join CSSA. Eng students should aim for ESS.
+Zoe: CS is under the Faculty of Engineering. If the person wants to be part of ESS, we should make a special exemption for someone already under the Faculty of Engineering
+Dakota: What is the procedural bylaw point of having non-voting members if we don’t use it?
+Jamie: doesn’t understand point of not letting them go to conferences. If they are willing to pay fees and support ESS, why should we lock them out of conferences if they have the same to gain. 
+Rocco: Science takes a lot of the same classes, but we would not want Faculty of Science students to be in ESS.
+Conor: aren’t non-ESS students allowed to go to Dusted? What events are exclusive to ESS members? What determines if it is exclusive?
+Aiden: conferences are more than $25 per student, typically $400. uOEC changed rules last year so then we used associate member status. Typically everyone is welcome to ESS events, except for voting.
+Calvin: this would set precedent for opening up ESS to non-eng students.
+Zoe: Response to Rocco: Science only takes first year chem and math courses with eng, while CS is still under the Faculty of Engineering. They are more similar to eng students. If they have associate membership and are paying, we could have additional fees for them to be able to attend conferences. Wouldn’t set precedent since not many other non-eng students are looking to join ESS.
+Magno: does make sense not wanting them to participate in conferences. CS is still not eng. We are sending people to represent engineering students, which CS students do not.
+Conor: agrees with Calvin on precedent point. Any other student can apply and point to this case. Would impact our relationship with CSSA. If their students join ESS, as we have more ressources, how would that affect our relationship with CSSA if we are poaching their students?
+Maya: they would still be paying CSSA fees but ESS fees on top of that.
+Steffen: there are still things in ESS that are not done to necessarily represent engineers but to help the society. Those positions would be areas in which CS or even students from other faculties can get involved.  without taking away representation from engineering student,
+Rocco: worried about representation
+Sydney: in response to precedent – if already in bylaws, can’t set precedent as already in the lawbook. Can’t say that being an engineering student must be a requirement to represent engineering students. People in dual programs (Faculty of Engineering + other Faculty) should still be able to represent engineering students
+Rocco: would be smart for someone to draft criteria for non-engineering students. Hayley might be disappointed. If non-engineering student wanted to join for the conferences and then finds out afterwards that the student would not be able to then could cause problems. 
+
+
+	Result
+Résultat
+	For: 3
+Against: 9
+Abstain: 7
+	Title
+Titre
+	Delegate Takeback System for Conferences
+Système de compte rendu des délégués pour les conférences
+	Mover
+Proposé
+	VP X
+	Seconder
+	Calvin
+	WHEREAS the VP External is mandated to write a report about each conference attended during the semester to be posted on the website and provide a summary to the Board of Directors
+WHEREAS attending other conferences has led to the inspiration of starting a formal delegate takeback system, similar to other engineering societies, so that the Board of Directors can hear about the conference directly from the delegates that attended
+WHEREAS this would allow for more perspectives coming from delegates that attended the conference
+BE IT RESOLVED THAT under the VP External mandate, a point is added under point g as follows: "ensure that each delegate that attended the conference presents a takeback at the following Board of Directors meeting in the form of a report, presentation or video"
+BE IT FURTHER RESOLVED that point h is updated as follows: "write a report about each conference attended during the semester to be posted on the website, referencing the delegate takebacks if needed, and provide a summary to the Board of Directors
+________________
+
+
+ATTENDU QUE le vice-président aux relations extérieures est chargé de rédiger un rapport sur chaque conférence à laquelle il a assisté au cours du semestre, qui sera publié sur le site web, et d'en fournir un résumé au conseil d'administration
+ATTENDU QUE la participation à d'autres conférences a inspiré la mise en place d'un système officiel de compte rendu des délégués, similaire à celui d'autres associations d'ingénieurs, afin que le conseil d'administration puisse entendre directement les délégués qui ont assisté à la conférence
+ATTENDU QUE cela permettrait d'obtenir plus de points de vue de la part des délégués ayant assisté à la conférence
+IL EST RÉSOLU QUE, dans le cadre du mandat du vice-président aux relations extérieures, un point soit ajouté sous le point g comme suit : « veiller à ce que chaque délégué ayant assisté à la conférence présente un compte rendu lors de la réunion suivante du conseil d'administration sous la forme d'un rapport, d'une présentation ou d'une vidéo »
+IL EST DE PLUS RÉSOLU QUE le point h soit mis à jour comme suit : « rédiger un rapport sur chaque conférence à laquelle il a assisté au cours du semestre, qui sera publié sur le site web, en faisant référence aux comptes rendus des délégués si nécessaire, et fournir un résumé au conseil d'administration.
+	Discussion
+	Magno: Are you forcing the delegates to do this? 
+Ashna: It’s less forcing but they shouldn’t be going if they don’t have any take backs to bring back to uottawa. I didn’t want to add a way to ensure this. The delegates aren’t mandated but it is the VP X’s mandate. If you go to a conference you should have to do this. This is what other schools do. 
+Calvin: The way Ashna is doing now is making us take notes then to give it to ashna. I think it gives different points of view. Plus it is all free so it a great way to give back to students and ESS 
+Magno: I think this is something that I think it’s more something that should be up to the delegate. I think it’s something that they should WANT to do and not HAVE to do. It may discourage people from going to conferences 
+Ashna: I see what you are saying but I am seeing a high number of applicants and i’m fairly confident that we will have enough people. The take back is not much more then what they have been doing. It is mostly just taking their notes that they have been taking and making it more presentable. 
+Eric: I think it’s fine to say that VP X can enforce it but maybe get them to sign a contract or something to make sure. It would be on the external if a delegate doesn’t bring back a take back. After the selection make sure they knnow what they are getting themselves into. Because if it doesn’t happen then it would be on the VP X and board would get you in trouble and not the delegates
+Ashna: I would also be making it included in the application process. I know we mentioned a deposit and only way they get it back is if they give a takeback. 
+Eric: If you think that for you and the future would be willing to take on this extra risk then it’s fine but making sure that your delegates know what is expected of them. 
+	Result
+Résultat
+	For: 11 votes
+Against: 2 votes
+Abstain: 8 votes
+	Title
+Titre
+	ESSCO and CFES 101
+CAÉGO et FCÉG 101
+	Mover
+Proposé
+	VP X
+	Seconder
+	Calvin
+	WHEREAS the ESS team should have a general understanding of ESSCO and CFES and what goes on in the external scene
+WHEREAS this knowledge is crucial to be able to answer any basic questions and provide assistance 
+BE IT RESOLVED THAT under the VP External mandate, a point is added as follows: "provide ESSCO and CFES 101 training to the incoming ESS team at the start of the term for more context on the external aspect"
+________________
+
+
+ATTENDU QUE l'équipe AÉG doit avoir une compréhension générale du CAÉGO et du FCÉG et de ce qui se passe sur la scène externe.
+ATTENDU QUE ces connaissances sont essentielles pour pouvoir répondre à toute question de base et fournir une assistance 
+IL EST RÉSOLU QUE, dans le cadre du mandat du vice-président externe, un point soit ajouté comme suit : « fournir une formation CAÉGO et FCÉG 101 à la nouvelle équipe AÉG au début du mandat afin de mieux comprendre le contexte externe ».
+	Discussion
+	Aiden: This is just a discussion that should be happening and not having to be mandated. Kinda like 101 week talk during retreat 
+Ashna: I don’t care where it is being said and the presentation can be shared 
+Co-Pres: I don’t think we should be asking. EDI training is easier to find then to find CFES training. It’s just making your mandate longer and more accountability 
+Ashna: CFES and ESSCO information can be found online. And will add to the transition document to talk about at retrear
+Removing motion
+	Result
+Résultat
+	
+
+	Title
+Titre
+	Maintenance of VPX Instagram Account
+Maintenance du compte Instagram VPX
+	Mover
+Proposé
+	VP X
+	Seconder
+	Calvin
+	WHEREAS the current VP External started an Instagram account to bring awareness to conferences
+WHEREAS this account should be maintained in order to bring engagement towards the external engineering scene 
+BE IT RESOLVED THAT under the VP External mandate, a point is added as follows: "maintain the external awareness account (@uottawavpx) and promote its engagement"
+________________
+
+
+ATTENDU QUE le vice-président externe actuel a créé un compte Instagram afin de faire connaître les conférences
+ATTENDU QUE ce compte doit être maintenu afin de susciter l'intérêt pour le milieu de l'ingénierie externe 
+IL EST RÉSOLU QUE, dans le cadre du mandat du vice-président externe, un point soit ajouté comme suit : « maintenir le compte de sensibilisation externe (@uottawavpx) et promouvoir son engagement ».
+	Discussion
+	Pres: I just think should be up to communications and the future VP X’s. I also don’t think it should be mandated. Very similar to communication passing on the instagram or the presidents passing on the discord. I think it depends on what it comms looks like and what people in the future have a view of 
+Ashna: I agree that it can be left to the discretion but with all the effort I would hate to see it not continue. I would like to see this being a regular thing and I don’t know how else to make sure it does then putting it into the mandate. 
+	Result
+Résultat
+	For: 1 vote
+Against: 5 votes
+Abstain: 9 votes
+	Title
+Titre
+	Procurement Policy Update
+Changements à la politique d’approvisionnement
+	Mover
+Proposé
+	VP Franco
+	Seconder
+	Calvin
+	WHEREAS the procurement policy is to be streamlined and making the process of translation easy.
+WHEREAS the nature of events requiring last minute and fast responses.
+BE IT RESOLVED THAT the following policy be updated as follow to allow only one of VP Franco or Manager of Translation to handle translation and to give a 48h window for translation to be started, to push a faster process.
+
+
+“13.3.1 Translation Verification
+For any procurement involving text content:
+a. *Either* the Vice-president of Francophone Affairs and the Manager of Translations must verify and approve the text before an order is placed, *if no answer is given within 48h of being notified the procurement process can go ahead.*
+
+
+d. If no answer is given by the Vice-president of Francophone Affairs and/or the Manager of Translations within 48h of being notified, an additional window of 24 hours will be provided to the Vice-president of Communications to verify and approve the text before an order is placed.”
+________________
+
+
+ATTENDU QUE la politique d’approvisionnement est supposée maintenir un simple et efficace processus de traduction.
+ATTENDU QUE la nature de l’événementiel requiert des réponses rapides et de dernières minutes.
+IL EST RÉSOLU QUE la politique suivant soit changée comme suivant, afin de permettre à seulement le VP Franco ou le Responsable de Traduction de gérer la traduction, et de donner une fenêtre de 48h pour les traducteurs d'interagir, afin de pousser un processus rapide
+
+
+13.3.1 Vérification des traductions
+Pour tout achat comportant du contenu textuel :
+a. Le vice-président aux affaires francophones et *ou* le responsable des traductions doivent être notifier de vérifier et approuver le texte avant toute commande* si aucune réponse n'est donnée par le deux (2) 48h après avoir été contacté, le processus de procurement peut continuer*.
+b. Les commandes comportant du texte bilingue doivent être relues par deux (2) personnes au moment de la soumission afin de réduire le risque d’erreurs typographiques.
+c. En cas d’erreur typographique ou de traduction identifiée après la commande, celle-ci doit être signalée dans les 48 heures suivant sa découverte et des mesures correctives (retours, remplacements ou rabais) doivent être prises.
+
+
+	Discussion
+	Aiden: Would it be friendly to add VP Comms? 
+Yann: separate job from VP comms. Should stay VP Franco
+Aiden: would want to hear from someone that is French within 48h
+Yann: would like for it to be VP Comms after 48h
+
+
+	Result
+Résultat
+	For: 15
+Against: 0
+Abstain: 0
+	Title
+Titre
+	Linguistic Test Update
+Changements au test linguistique
+	Mover
+Proposé
+	VP Franco
+	Seconder
+	Calvin
+	WHEREAS the language test for VP Franco and Manager of Translation are too thorough, they are difficult to execute.
+BE IT RESOLVED THAT the writing test be removed to simplify the process as shown below.
+BE IT FURTHER RESOLVED THAT appendix B removes all mentions of written test in accordance with above.
+14.3 Policy
+Candidates for positions who are subject to this policy must demonstrate French-English bilingualism with the following:
+
+
+a) Completing the ESS Language Test, administered unbiasedly by both the VP Francophone Affairs and Manager of Translations—or one of them if either position is vacant. The test consists of:
+
+
+   i) Part 1: Oral Comprehension & Production
+      Candidates will participate in an in-person interview designed to verify their ability to:
+      1) Follow and participate in discussions in French/English, including debates or role-play scenarios relevant to the position.
+      2) Engage in live interpretation (oral translation), such as reformulating a short English message into French and vice versa.
+      3) Communicate effectively, ensuring clarity and professionalism in interactions as well as the ability to adopt a more colloquial tone when needed.
+
+
+   ii) Part 2: Writing Comprehension & Production
+      Candidates will complete tasks, in-person, assessing their ability to:
+      1) Write context-appropriate communications in French, including formal and informal messages.
+      2) Translate short documents, ensuring the message is clear and suitable for its intended audience (e.g., emails, public announcements).
+      3) The evaluation will include materials related to Board of Directors activities, formal communications, and informal social media interactions.
+
+
+   iii) Minimum Proficiency Requirement
+      1) Candidates must obtain satisfactory results in all required evaluations to be eligible for the position.
+      2) The judging panel will assess candidates using the guide in Appendix B.
+      3) This guide will be provided to candidates in advance.
+      4) Results of the ESS language test will be valid for two (2) years *indefinitely* following the completion of the test and may be used to fulfill language requirements in future elections.
+
+
+
+
+Update Appendix B to remove notions of the written test.
+________________
+
+
+ATTENDU QUE le test de linguistique pour VP Franco et Responsable des Traductions est trop rigoureux et ainsi difficile à exécuter.
+IL EST RÉSOLU QUE le test écrit soit retiré pour simplifier le processus tel que montré ci-dessous.
+IL EST RÉSOLU QUE toute mention de test écrit soit retirée de l’appendice B suivant les actions présentées ci-dessous.
+14.3 Politique
+Les candidats et candidates visés par cette politique doivent démontrer leur bilinguisme français-anglais de l’une des manières suivantes :
+a) En complétant le test linguistique de l’AÉG :  
+Ce test est administré de manière impartiale par la VP aux affaires francophones et la Responsable des traductions — ou par l’une d’elles si l’autre poste est vacant. Le test *est le suivant* comprend deux parties :
+
+
+   i) Partie 1 : Compréhension et production orales  
+      Les candidats participeront à une entrevue en personne visant à évaluer leur capacité à :  
+      1) Suivre et participer à des discussions en français et en anglais, y compris des débats ou des mises en situation liées au poste.  
+      2) Réaliser une interprétation orale en direct (traduction orale), par exemple reformuler un court message de l’anglais vers le français et vice versa.  
+      3) Communiquer efficacement, avec clarté et professionnalisme, tout en étant capable d’adopter un ton plus familier lorsque requis.
+
+
+   ii) Partie 2 : Compréhension et production écrites  
+      Les candidats effectueront des tâches en personne visant à évaluer leur capacité à :  
+      1) Rédiger des communications appropriées en français, tant formelles qu’informelles.  
+      2) Traduire de courts documents, en assurant la clarté et l’adaptation du message à son public cible (par exemple : courriels, annonces publiques).  
+      3) L’évaluation comprendra des documents liés aux activités du Conseil d’administration, aux communications formelles ainsi qu’aux publications sur les médias sociaux.
+ 
+	Discussion
+	
+
+	Result
+Résultat
+	For: 16
+Against: 
+Abstain: 
+	Title
+Titre
+	Removal of Iron Ring After Party from Policy
+Suppression de l’anneu de fer après la fête
+	Mover
+Proposé
+	VP Social
+	Seconder
+	Co-Pres
+	WHEREAS attendance for Iron Ring After Party has been very low the previous semesters
+WHEREAS the event itself is not worth the time and effort it takes to organize
+BE IT RESOLVED THAT ESS no longer holds Iron Ring After Party
+________________
+
+
+ATTENDU QUE la participation à l'anneu de fer après la fête a été très faible au cours des semestres précédents
+ATTENDU QUE l'événement en lui-même ne vaut pas le temps et les efforts nécessaires à son organisation
+IL EST RÉSOLU QUE l’AÉG n'organise plus l'anneu de fer après la fête.
+	Discussion
+	
+
+	Result
+Résultat
+	For: 9 
+Against: 1
+Abstain: 3
+	Title
+Titre
+	Insurance Assurance for Sub-Associations
+Assurance pour les sous-associations
+	Mover
+Proposé
+	VP Internal
+	Seconder
+	Calvin
+	WHEREAS Sub associations currently do not have, in writing, insurance since their UOSU club status loss
+WHEREAS ESS has insurance that is not explicitly extended to the sub-associations
+WHEREAS Sub-associations run external events that have the potential to require insurance
+BE IT RESOLVED THAT a section covering insurance be added to the sub-association policy.
+This section reads as follows:
+6.x.x Insurance
+For internal and external events, the sub-associations have insurance coverage as entities under the ESS organization
+________________
+
+
+ATTENDU QUE Les sous-associations ne disposent actuellement d'aucune assurance écrite depuis la perte de leur statut de club UOSU.
+ATTENDU QUE L’AÉG dispose d'une assurance qui ne s'étend pas explicitement aux sous-associations.
+ATTENDU QUE Les sous-associations organisent des événements externes qui peuvent nécessiter une assurance.
+IL EST RÉSOLU QUE Qu'une section couvrant l'assurance soit ajoutée à la politique des sous-associations.
+Cette section se lit comme suit :
+6.x.x Assurance
+Pour les événements internes et externes, les sous-associations bénéficient d'une couverture d'assurance en tant qu'entités relevant de l'organisation AÉG.
+	Discussion
+	Conor: Does UOSU do insurance or ESS
+Pres: UOSU fee goes to insurance, which then splits to RSGs and clubs. Sub-associations are neither so this allows us to extend it to them by association
+	Result
+Résultat
+	For: 13
+Against: 0
+Abstain: 0
+	Title
+Titre
+	Election Information Updates to Governance Deliverables
+Mises à jour des informations électorales relatives aux résultats attendus en matière de gouvernance
+	Mover
+Proposé
+	VP Internal
+	Seconder
+	Calvin
+	WHEREAS The current iteration of the governance deliverables do not accurately reflect the goals of the ESS for all sub associations
+WHEREAS Elections currently have potential to be under-advertised
+BE IT RESOLVED THAT The governance requirements for sub associations be updated as follows:
+Each item is worth 5% of the total assessment:
+● (5%) Maintain and publish a bilingual constitution on their website
+● (5%) Hold at least one General Meeting per academic year. с.
+● (5%) Hold General Elections annually as per their constitution
+● (5%) Advertising available positions and their respective mandates at least seven days in
+advance of elections.
+● (5%) Publicize General Meetings at least seven days in advance and allow motions from
+members.
+● (5%) Publish meeting minutes and annual budget on their website.
+● (5%) Publish actual financial results for each semester.
+● (5%) Submit a full list of executives with contact info to the VP Internal.
+● (5%) Designate two signing officers by May 30.
+● (5%) Ensure representation at each Board meeting by appointing a director through the process of this policy.
+Each item not completed results in a 5% deduction from the semester's total possible disbursement.
+________________
+
+
+ATTENDU QUE La version actuelle des objectifs de gouvernance ne reflète pas fidèlement les objectifs de l'AÉG pour toutes les sous-associations.
+ATTENDU QUE Les élections risquent actuellement d'être sous-médiatisées.
+IL EST RÉSOLU QUE les exigences en matière de gouvernance pour les sous-associations soient mises à jour comme suit :
+Chaque élément représente 5 % de l'évaluation totale :
+* (5 %) Maintenir et publier une constitution bilingue sur leur site web
+* (5 %) Tenir au moins une assemblée générale par année universitaire. с.
+* (5 %) Tenir des élections générales chaque année, conformément à leur constitution
+* (5 %) Publier les postes disponibles et leurs mandats respectifs au moins sept jours avant les élections.
+* (5 %) Annoncer les assemblées générales au moins sept jours à l'avance et permettre aux membres de présenter des motions.
+* (5 %) Publier les procès-verbaux des réunions et le budget annuel sur leur site web.
+* (5 %) Publier les résultats financiers réels pour chaque semestre.
+* (5 %) Soumettre une liste complète des dirigeants avec leurs coordonnées au vice-président interne.
+* (5 %) Désigner deux signataires autorisés avant le 30 mai.
+* (5 %) Assurer une représentation à chaque réunion du conseil d'administration en nommant un directeur conformément à la présente politique.
+Chaque élément non rempli entraîne une déduction de 5 % du montant total pouvant être versé pour le semestre.
+
+
+	Discussion
+	
+
+	Result
+Résultat
+	For: 13
+Against: 0
+Abstain: 0
+	Title
+Titre
+	Clarification of Sub-Association Director Voting Rights
+Clarification des droits de vote des directeurs des sous-associations
+	Mover
+Proposé
+	VP Internal
+	Seconder
+	Calvin
+	WHEREAS There is ambiguity in the director policy for sub associations on the number of votes each set of 2 directors receive.
+WHEREAS This ambiguity affects the total number of votes at meetings.
+BE IT RESOLVED THAT The board of directors vote on a more precise definition of the policy, specifying the number votes and directors required to be present at board of director meetings.
+BE IT RESOLVED THAT “Each Sub-Association shall be represented by up to two (2) Directors that share one (1) vote at the Society’s Board of Directors, who must be:”
+________________
+
+
+ATTENDU QU’ Il existe une ambiguïté dans la politique relative aux administrateurs des sous-associations quant au nombre de voix attribuées à chaque groupe de deux administrateurs.
+ATTENDU QUE Cette ambiguïté a une incidence sur le nombre total de voix lors des réunions.
+IL EST RÉSOLU QUE Le conseil d'administration vote une définition plus précise de la politique, précisant le nombre de voix et d'administrateurs requis pour être présent aux réunions du conseil d'administration
+	Discussion
+	Kushal: IEEE should have 3 votes since IEEE represents a large group of students
+Calvin: Are we voting on 1 vote or 2 votes?
+Maya: Whatever BOD brings up. Up to BOD
+Pres: sub associations should have 2 people that can vote but only 1 vote is counted 
+	Result
+Résultat
+	For: 13
+Against: 0
+Abstain: 2
+	Title
+Titre
+	Motion visant à ajouter le budget du vice-président chargé du développement durable 
+Motion to add the VP Sustainability Budget
+	Mover
+Proposé
+	VP Finance
+	Seconder
+	Sydney
+	WHEREAS the previous VP Sustainability did not complete a budget for the 2025-2026 school year. 
+WHEREAS ESS is projected to make $ 1,918.49 CAD at the end of this school year, thus proving we can allocate a small amount of that to the VP Sustainability Budget. 
+BE IT RESOLVED THAT we create 2 budget lines under VP Sustainability: Fall Sustainability Event and Winter Sustainability Event, where both will have an expense of $500.00 CAD.
+________________
+
+
+ATTENDU QUE le précédent vice-président aux initiatives durables n'a pas établi de budget pour l'année scolaire 2025-2026.
+ATTENDU QUE l'AÉGdevrait générer 1 918,49 $ CAD d'ici la fin de cette année scolaire, prouvant que nous pouvons allouer une petite partie de cette somme au budget du vice-président aux initiatives durables.
+IL EST RÉSOLU QUE nous créons deux lignes budgétaires sous la responsabilité du vice-président chargé du développement durable : Événement automnal sur le développement durable et Événement hivernal sur le développement durable, qui auront chacun un budget de 500,00 $ CAD. 
+	Discussion
+	Rocco: Is there no money there? 
+Cyrus: There is no money in the current budget. Once this is added it will hopefully bring up to about 900$ ish
+
+
+	Result
+Résultat
+	For: 15
+Against: 0
+Abstain: 2
+	11. UOSU BoD Updates – Mises à jour du CA du SÉUO
+* Going to re-discuss the club status for the sub-associations
+12. Varia
+13. Notice of Motions – Avis de motion
+* Clarify impeachment policy so that "Cannot be a member of a sub association" to "cannot be an officer/executive/equivalent on a sub association"
+14. Adjournment – Ajournement
+With no further business, the meeting adjourned at 2:14 PM EDT.
+L'ordre du jour étant épuisé, la réunion est levée à 14h14 HAE.
+15. Next Meeting – Prochaine réunion
+The next Board meeting will be scheduled for January 25th 2026 at 11 AM. 
+La prochaine réunion du conseil d'administration sera programmée le 25 janvier à 11h00.

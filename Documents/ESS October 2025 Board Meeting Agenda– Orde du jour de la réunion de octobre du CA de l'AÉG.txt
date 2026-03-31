@@ -1,0 +1,453 @@
+﻿ESS October BoD Meeting Minutes – Procès verbal de la réunion de septembre du CA de l'AÉG
+1.  Call to Order – Appel à l'ordre
+Date: Oct 26, 2025 11:00 AM EDT
+Location – Lieu: CBY A04 & Google Meet
+The meeting was called to order at 11:09 AM EDT with Aiden McCooeye as Chair and with Krystian as Secretary.
+La réunion est ouverte à 11h09 HAE, sous la présidence de Aiden McCooeye et le secrétariat de Krystian.
+2. Land Acknowledgement – Reconnaissance des Terres
+We acknowledge that we are gathered on the traditional and unceded territory of the Algonquin Anishinaabe Nation. For generations, they have been the stewards of this land, and their deep connection to it continues to this day. We recognize the enduring presence and contributions of the Algonquin people to this region. We also acknowledge the painful history of colonization and the displacement of Indigenous communities from their ancestral lands. We commit ourselves to learning, understanding, and honoring the Algonquin Nation's history and culture. We recognize the importance of working collaboratively to create a more just and equitable future for all who call this land home.
+________________
+
+
+Nous reconnaissons que nous sommes réunis sur le territoire traditionnel et non cédé de la nation algonquine anishinaabe. Depuis des générations, ils sont les gardiens de cette terre et le lien profond qui les unit à elle perdure encore aujourd'hui. Nous reconnaissons la présence et les contributions durables du peuple algonquin dans cette région. Nous reconnaissons également l'histoire douloureuse de la colonisation et du déplacement des communautés autochtones de leurs terres ancestrales. Nous nous engageons à apprendre, à comprendre et à honorer l'histoire et la culture de la nation algonquine. Nous reconnaissons l'importance de travailler en collaboration pour créer un avenir plus juste et plus équitable pour tous ceux qui vivent sur cette terre.
+3. Roll Call – Appel nominal
+Present – Présent.e.s: 
+* Co-President – Présidente: Aiden McCooeye (he/him/il)
+* Co-President – Présidente: Eric Hagen (he/him/il)
+* VP External – Externe: Ashna Cheverlharan (she/her/elle)
+* VP Communications: Hayley Jubinville (she/her/elle)
+* VP Social: Magno Melo Martins (he/him/il)
+* VP Internal – Interne: Steffen Zylstra (he/him/il)
+* VP Philanthropic – Philanthropique: Zoe Saunders (she/her/elle)
+* VP Equity – Équité: Maria Hal (she/her/elle)
+* VP Academic – Académique: Nick Mesquita (he/him/il) 
+* VPFA: Cyrus Choi (he/him/il) 
+* VP Sustainability – Développement durable: Sydney Ruberto (she/her/elle)
+* VP Francophone: Yann Giffaux (he/him/il)
+* IEEE: Jad Mghabghab (he/him/il)
+* CESA – AÉGCi: Claire Durand (she/her/elle)
+* CESA – AÉGCi: Rumony Chhom (she/her/elle)
+* ChESS – AÉGC: Nour Akremi (she/her/elle)
+* MESS – SÉGM: Kristen Wells (she/her/elle)
+* MESS – SÉGM: Farah El Siss (she/her/elle)
+* 2nd year Computer – 2e année informatique: Pradyumna Uppalapati (he/him/il)
+* CO-OP Electrical – Électrique CO-OP: Samuel Li (he/him/il)
+* CO-OP Computer – Informatique CO-OP: Brooke MacQuarrie (she/her/elle)
+* 1st year - GNG 1105B : Calvin Smith (he/him/il)
+* Non-voting – Sans droit de vote
+Absent – Absent.e.s:
+* VP Services: Luke Ballinger (he/him/il)
+* 2nd year Chemical – 2e année chimique: Emilia Wesolkowski (she/her/elle)
+* 2nd year Electrical – 2e année électrique: Rory McCulloch (he/him/il)
+* 2nd year Mechanical – 2e année mécanique: Rocco De Oliveira (he/him/il) - Midterm
+* 3rd year Mechanical – 3e année mécanique: Dakota Squires (he/him/il)
+* 3rd year Software – 3e année logiciel: Jamie Watson (she/her/elle) - Midterm
+* 3rd year Computer – 3e année informatique: Somana Debnath (she/her/elle)
+* 4th year Computer – 4e année informatique: Stuti Pandya (she/her/elle)
+* 4th year Mechanical – 4e année mécanique: Giovanni Abbruzzo (he/him/il)
+* Multidisciplinary Design – Design multidisciplinaire: Abby Wilson (she/her/elle)
+* CO-OP Mechanical – Mécanique CO-OP: Conor Waldron (he/him/il)
+* EEF Chair – Président du FdG: Mark Uchanski (he/him/il)*
+* UOSU BoD – CA du SÉUO: Matias Suxo-Salinas (he/him/il)*
+
+
+
+
+4. Comments from the Chair – Commentaires de la présidence
+   * Robert’s Rules Overview – Aperçu des règles de procédure Robert
+Special Rules of Order
+1: New idea
+2: Replying to current idea
+p: Point of privilege, interrupts current discussion (ex: can't hear the microphone)
+c: Point of clarity, confused about current discussion and needs clarification, interrupts current discussion (ex what does an acronym mean)
+t: Requesting a translation
+5. Administrative Motions – Motions administratives
+   * Adoption of Agenda – Adoption de l'ordre du jour
+Title
+Titre
+	Adoption of Agenda
+Adoption de l'ordre du jour
+	Mover
+Proposé
+	Comms
+	Seconder
+Appuyé
+	IEEE Chair
+	BE IT RESOLVED THAT the agenda be adopted as presented.
+IL EST RÉSOLU QUE l'ordre du jour est adopté tel que présenté.
+	Discussion
+	Comms: Is the appeal motion being added
+
+
+Eric: Yes, one second, I’ll add it.
+	Result
+Résultat
+	Passes unanimously
+	6. Elections – Élections
+   * Election of Year Representatives – Élection des représentants d'année
+Title
+Titre
+	Election of Year Representatives
+Élection des représentants d'année
+	Mover
+Proposé
+	Comms
+	Seconder
+Appuyé
+	GNG 1105 B Rep
+	Nominations
+	* 	WHEREAS several Year Representative positions are currently vacant;
+WHEREAS Year Representatives must be elected by ordinary resolution of the Members in accordance with Section 1.3.3.2 of the Policy and Procedure Manual;
+BE IT RESOLVED THAT the following Members be elected as Year Representatives for their respective programs and years, as detailed below:
+* 1st year
+   * GNG 1105 A: Jayden Ireland
+   * GNG 1105 C: 
+   * GNG 1105 D: 
+   * GNG 1105 E: 
+   * GNG 1505 A
+   * GNG 1505 B: Sofia Jadal
+   * SEG 2900: 
+   * PHY 1121/1521
+* 2nd year
+   * Civil:  
+   * Biomedical mechanical: 
+   * Software: 
+* 3rd year
+   * Chemical: 
+   * Civil: 
+   * Electrical: 
+   * Biomedical mechanical: 
+   * French: 
+* 4th year or higher
+   * Chemical: 
+   * Civil: 
+   * Electrical: 
+   * Biomedical mechanical: 
+   * Software: 
+   * French: 
+* CO-OP
+   * Chemical: 
+   * Civil: 
+   * Biomedical mechanical: 
+   * Software: 
+* Student Academic Success Service (SASS):
+________________
+
+
+ATTENDU QUE plusieurs postes de représentants d'année sont actuellement vacants;
+ATTENDU QUE les représentants annuels doivent être élus par une résolution ordinaire des membres conformément à la section 1.3.3.2 du Manuel des politiques et procédures;
+IL EST RÉSOLU QUE les Membres suivants de la Société soient élus en tant que représentants annuels pour leurs programmes et années respectifs, comme détaillé ci-dessous: 
+* 1ère année
+   * GNG 1105 A: 
+   * GNG 1105 C
+   * GNG 1105 D: 
+   * GNG 1105 E: 
+   * GNG 1505 A
+   * GNG 1505 B
+   * SEG 2900: 
+   * PHY 1121/1521
+* 2ème année
+   * Génie civil: 
+   * Génie biomédical mécanique: 
+   * Génie logiciel: 
+* 3ème année
+   * Chimie: 
+   * Génie civil: 
+   * Génie électrique: 
+   * Génie biomédical mécanique: 
+   * Français: 
+* 4ème année ou plus
+   * Chimie: 
+   * Génie civil: 
+   * Génie électrique: 
+   * Génie biomédical mécanique: 
+   * Génie logiciel: 
+   * Français: 
+* CO-OP
+   * Chimie: 
+   * Génie civil: 
+   * Génie biomédical mécanique: 
+   * Génie logiciel: 
+* Service de réussite académique des étudiants (SASS): 
+	Questions
+	Comms: 1 serious question 30s, 1 funny question 30s
+Comms: Serious question: What motivated you to run for BOD?
+IEEE: Funny question, Kiss Marry Kill Eng buildings
+
+
+1:30pm
+Jad: Re ask the same question, calvin second
+	Answers
+Réponses
+	Jayden
+Serious: More active leadership outside of school, my current workload isn’t enough to keep me interested, this would put more work on me and I prefer leadership.
+Funny: Kiss Site, Kill CBY, Marry STEM
+
+
+Sofia
+Serious: Represents the students, and be more aware of what’s going on regarding engineering and stay informed, it concerns ever
+Funny: Kill cby, kiss site, marry stem
+	Discussion
+	President: He was good
+
+
+1:30pm
+Cyrus: I like the funny question
+Jad: Nobody wants to marry site
+Calvin: I think more first year french representation a good thing
+	Result
+Résultat
+	Jayden Ireland Passes unanimously
+Sofia Jadal For: 17, Against: 0, Abstain: 1
+	________________
+7. Motions
+Title
+Titre
+	Inclusivity Policy Update
+	Mover
+Proposé
+	Brooke
+	Seconder
+	VP Phil
+	WHEREAS resolving conflicts involving harassment and discrimination requires clear and extensive policies and procedures such that all disputes may be handled equally and fairly.
+WHEREAS the Engineering Student’s Society seeks to promote inclusivity and diversity, as well as protect against harassment and discrimination.
+WHEREAS the current Policies and Procedures of ESS does not outline any definitions or actions regarding instances of harassment and discrimination. 
+WHEREAS the currently adopted inclusivity policy, section 13.0, is difficult to enforce and ineffective due to lack of detail and vague language.
+BE IT RESOLVED THAT the current Inclusivity Policy be updated and replaced by a new Harassment & Inclusivity Policy (https://docs.google.com/document/d/1ixAhp9xjQcr6AV_1_4goaRZz-v318cHS5RwpvcF25NU/edit?tab=t.0)
+	Discussion
+	Sydney: I read the policy a few weeks ago, not sure if it’s been updated since then, it’s a lot more co it mprehensive than our previous one and definitely something that needs to be updated.
+Brooke: Looking through, the old one was very short and did not explain much at all, I hope most people have read through it already. If anyone has any last minute things out of place please let me know.
+Maria: It all looked really good, a lot less up to interpretation now, this is a really good update to the policy. 
+Farah: Can I ask that you add something regarding confidentiality? We can vote on it now as it is but if we can amend something later with that then that would be good.
+Brooke: I think I’ve covered formal complaints, I think that would be what you’re looking for.
+Farah: I think the part where it says “confidentiality might not be possible…” then I feel like I may not submit my complaint because it could just be not subject to confidentiality. Could that part be removed?
+Brooke: that line is specific to BoD because if we are doing a complaint with BoD then it would all be public meeting minutes. I could add a line that could specify that if a motion is going to BoD then we may not be able to remain confidential. BoD is the final step of the process so it would be unlikely to remain completely confidential.
+Hayley: I want to say that for CELC events and conferences, there is always a policy at every conference. They have something like they promise anonymity but once it goes in front of their committee then some things will be brought forward.
+Ashna: That would work because we would have an incident response committee and if they don't have a conclusion then it would be brought to the board.
+Hayley: Just change wording that if it has to be brought to the board then we can’t promise anonymity.
+Farah: If it could be brought to the board as anonymous without name
+Hayley: I think we could keep it as confidential as long as we can, if it can’t be resolved, then it could be brought to the board.
+Brooke: I was gonna say that if there is something else we can base this off of then we could definitely edit that.
+Hayley: Motion to table to next meeting: Eric Second
+Brooke: Table to later this meeting
+Farah: I have to go and I’d like to review it, next meeting would be preferred. 
+For: 12, Against: 0, Abstain: 5
+	Result
+Résultat
+	Tabled to next meeting
+	Title
+Titre
+	Recognition of the Computer Engineering Student Association (CEGSA) as a Sub-Association under the ESS
+	Mover
+Proposé
+	President
+	Seconder
+	VP Phil
+	WHEREAS the Computer Engineering program at the University of Ottawa currently lacks a dedicated student association that focuses exclusively on the academic, professional, and community needs of Computer Engineering students;
+WHEREAS the proposed Computer Engineering Student Association (CEGSA) has established an initial executive team composed of students across multiple years of study, and has drafted a constitution outlining its objectives, governance, and alignment with ESS bylaws;
+BE IT RESOLVED THAT the Engineering Student Society (ESS) formally recognize CEGSA as an official sub-association under the ESS, representing Computer Engineering students;
+BE IT FURTHER RESOLVED THAT CEGSA be granted the rights and privileges afforded to all recognized sub-associations, including participation in ESS council meetings, access to funding opportunities, and involvement in engineering-wide initiatives.
+	Discussion
+	Brooke: I’ve known about this for a while, I think it’s a great idea for student environment in computer engineering, I did a class talk and got a lot of good reception, the professor like it for the computer engineering community, currently we have IEEE but they cover 4 programs and you can get a little lost, it would be good for running events exclusive to computer engineering. It doesn’t detract, no bad things other than being separate from IEEE, still getting good events to people, they’re really invested and it could go a long way to building the computer engineering community.
+Farah: Does this include comp tech students.
+Hayley (CEGSA): Current scope is Comp eng, but comp tech can attend events. 
+Cyrus: I want to clarify if they would start receiving levies in the winter? 
+Eric: I think they would receive once they show they meet compliance then timeline depends on that. 
+Jad: I’m Jad the IEEE uOttawa Student Branch Chair, we didn’t know about this motion ahead of time, I don’t want to come across as against it, however I think there’s better ways to go about it. We first heard about it from a previous IEEE executive. We discussed possibilities, we tried multiple times to host meetings with the people starting the initiative however there was no clear goal to meet. We had an idea to have a sub sub association like WIE, which hosts large events and operate almost fully independently, they plan their own meetings, events, logistics, comms, outreach. We share levies, grants, and EEF funding. The only thing we ask of WIE is the chair and vice chair come to our meetings, as well as share funding and transparency. If we did this with CEGSA, we can offer support, we’ve been around since at least 1958, and can really help out CEGSA, and have been helping out ELG, SEG, CEG, BMDES and comp tech students. So why are all these grouped together, it’s because theyr’e so grouped together in the faculty and industry. In uOttawa we’re called the school off EECS, to bring the programs under the same umbrella, even at open house and recognized by the faculty all the programs are grouped together. It shows that all these programs are very combined. You could never combine chemical and mechanical which is why there’s ChESS and MESS, for ELG and CEG we can run events and programs about microcontrollers and etc… It’s not even a performance issue, hosted dozens of events, have more than 30 members attending meetings, and had 45 applicants for new roles. The community is thriving too, even the SITE discord is the 3rd biggest discord in the school, even the new IEEE discord is active during finals and top 20 at the school. For CEG, we’re hosting a dozen events (listed names to come), not counting academic events like cookies and cram, every year students come back year after year. We have more CEG students on our team than other representation. For funding, EEF is not unlimited, this semester alone, EEF alone had to cut over 100k to all programs. Some people had to postpone events, luckily we received full funding through EEF based on previous years of trust and return on investment. Instead of expanding applicants to EEF, focusing more on the directed resources. Instead of splitting across two initiatives, the events would be split and have weaker events, instead of focused on one event and having a good one. At the end of the day, a new subassociation would not be guaranteed funding, they would be fighting everyone. Even with the new UOSU rule of 300 clubs. Bringing a new sub in would take a long time, with the constitution, audit, and all the paperwork, rather than what students want which is events and academic help. What we’re offering is cutting the paperwork, it’s not about cutting voices it’s about protecting them. We’re one of the most active chapters in the country. We need to focus on collaboration and not competition. Thank you for listening. 
+Farah: I want to clarify the affinity group, because they’d be recognized by Canada IEEE
+Jad: We could implement them as a official computer society recognized globally. We could implement at just uOttawa then bring it to Ottawa Chapter.
+Ashna: I am wondering because you mentioned this group would be similar to WIE, would this be a temporary solution until they have more foundation? Or is this a more permanent thing?
+Jad: I hope it’ll be a permanent thing as the CEG levies alone aren’t a lot, however as a pool it helps, from the grant, levies and EEF.
+CEGSA: IEEE cannot just make branches without breaking your constitution
+Jad: Not branches, clubs. 
+CEGSA: It would need to be established by IEEE.
+Jad: we get recognition, but you would be recognized through us.
+Farah: I want clarity in how that would change our constitution and IEEE internally.
+Jad: we have a representative for every program, it allows for insights within each program, not sure if we would remove the position but that would be our own internal discussion. 
+CEGSA: I’m the chairman of CEGSA, our sole focus is CEG for and by the students, we’re not here to replace, just filling the gap. Instead of fragmenting the community, like if civil engineering students association fragments the community which it doesn’t it highlights the specific program. IEEE members are paying. CEGSA offers social, academic support, our scope is exclusive CEG students, IEEE targets everyone. We’ere by and for the CEG student, IEEE has local and national and global policies they must follow. IEEE is more spread on professional development. If CEG students are engaging higher than other programs shouldn’t it reflect reality. WE’re not asking to defund IEEE, we’re asking for resources proportional to the CEG students. Both students need professional development and community, IEEE focuses on the first we focus on the second. Students need both, it’s not competing needs it’s complementary. First year students don’t need industry connections they need support and community which we would offer. It’s the only program that branches software and hardware. A unique program needs unique representation, we have separate associations for chemical, mechanical, and civil, other programs have that already. 
+Jad: I want to clarify, our events are not paid this is damaging, our membership is anyone in the field of STEM, you don’t need to pay anything for our own events, the only things you do have to pay for is our external events. SPAC isn’t free because it’s a whole day with venue, and it’s cheap.
+FARAH: we have a lot of non professional events, we had the paint night, we have a lot of non professional planned coming up, we have first year reps. We aren’t just professional development
+Eric: Software isn’t represented as a group
+CEGSA: We want to talk about sub-sub-associations, we want our own sub-association we believe it’s more meaningful if we’re directly under ESS rather than IEEE. Having events that don’t meet student needs, what’s the point of having events. IEEE plans a career training workshop, how many CEG does it attract. Our CEG plan would allow friendships and community to form organically with biweekly events. A CEG student should attend IEEE workshops if they’re going for professional work, however for friends and community CEGSA works better, having CEG specific events, hackathons and workshops are more targeted to 
+Jad: I don’t appreciate the attacking behaviour, we don’t believe there was arguments made with research. If you google our website it would make a better argument, our events are not paid. You made a point about civil subassociation, it was claimed it would not benefit them, they don’t have other options though. We host fun and professional events bringing community together, especially CEG students, we do track how many students per program, we have over 200 CEG in our discord which is the highest. The resource allocation, is less than it’s being shown by IEEE, we have engagement from ESS, there’s more than 80 students I don’t think it’s a lack of student engagement. It’s claimed it’s not defunding IEEE, which is not true we loose that money, the claim for Civil was that there was no funds to take away from any sub. We host specific first year classes to help with their first year classes, we have big eng little eng for mentorship, to help them get involved on campus. It was mentioned CEGSA is different because of planning events, and there was one event which looked like it was canceled with AI art and only english. It’s not about what the individual wants, it’s for all computer engineering students. IEEE benefits computer engineering students a lot, 13 of our execs are computer engineering students, which is higher than 33%, when we do microchips and dip, around 90% of students are CEG, hosted by a CEG student (member)? The community building, we’re not a professional society doing professional development only. We have academic events, and community events coming from a CEG student. The limited resource funding from ESS means we represent them by title which is what matters. The faculty knows us, allows us to participate at open house, they’re going to remember IEEE, we do everything that you’re aiming to but we’ve done it before. 
+Zoe: I’ve personally, as a comp tech student, felt represented by IEEE, I appreciate CEGSA, I recognize they should be their own community, I’m not sure what they feel they could do under ESS that they couldn’t do under IEEE. They would be working more closely under IEEE rather than that. Working with WIE I’ve never felt they think it’s a sub sub under ESS, but a strong presence under IEEE. THe only disadvantage would be not having the automatic spot on the board and not receiving levies the same way even with financial support regardless. 
+CEGSA: At the same time, we’ve recognized that joining IEEE adds another layer of restriction that limits flexibility and independence in how we represent and support Computer Engineering students. Our goal is to create a space that’s built by and for Comp Eng students, one that prioritizes inclusivity, bilingualism, and direct representation without the additional structural barriers that come with IEEE affiliation. This approach allows us to be more adaptive, student-focused, and aligned with the specific needs of our community.
+Brooke: I do support this team on CEGSA, they’re dedicated to building the community, I didn’t know about this offer from IEEE, and I think this may be what CEGSA is looking for. IEEE is well established, and being able to work under them is a great benefit. I know you’ve mentioned possible structural barriers, not sure what they would be, as Zoe said, WIE is independent under IEEE. Maybe having a meeting with IEEE would have a good way to move forward on this. Having our own space is very important, not sure why this space can’t be under IEEE, we want our own space, but we don’t want to be cutoff. Lots of people I’m friends with also have friends and are SEG, ELG, and CSI so it’s important to stay together as all our programs are very intertwined. Building a bigger community and finding a balance between both is a very important point. This team is dedicated to making the CEG life better, they would be given space to get them better. As a rep of computer engineering, this feels the more logical step forward.
+Sam: As a response, IEEE as Jad said before, a former exec member originally reached out to us to set up a meeting. From what I recall the meeting was never held due to scheduling conflicts. I’m sure this proposition would be brought up then. For the professional and industry exclusive events, IEEE hosts the most academic events on campus, or at least one of the most. It hosts events for programs helping the SEG, CEG, and ELG services. It’s dishonest to say that it doesn’t host academic events. 
+CEGSA: Cookies and cram are they bilingual
+Sam: If there is a bilingual mentor then we will host a bilingual session. This is the main barrier. CEG students have not had a lack of representation. Behind ELG, CEG has had the most representation in cookies and cram.
+Jayden: As a first year, with the freshest memory, when we go to campus and the club fair, as a student, I could not tell that WIE was apart of CEGSA, which is what I believe CEGSA is looking for. As a student, it looks like they function independently, not sure why the option wouldn’t be the same. 
+Maria: I think there’s a misunderstanding of how our subs function under  ESS, I think it would be better for CEGSA to function under IEEE because of events and logistics would be easier under them compared to ESS. 
+Eric: I don’t attendance stats are fair for either party, of course CEGSA would have 100% CEG, and IEEE would have lower rates.
+CEGSA: I have spoken to a dozen CEG students which didn’t realize that they were represented by IEEE, even a professor didn’t know, this highlights a gap between IEEE and students, they’re missing on academic help, additionally for the french speaking at our events, we’re putting an effort into bilingualism part of uOttawa’s unique identity. At cookies and cram most is only offered in english not allowing for french students to participate.
+Sam: We value bilingualism highly, many of our members are bilingual, or are trying to learn french. We always host office hours where at least someone there is bilingual. 
+Farah: What would be funding sources, the quality may be lower for CEGSA because funding would be less, what other sources would be available? If you’re in IEEE we have a lot, affinity groups get a lot of funding. you may get around $400 a year, which is around one event alone at IEEE. Working with partners, funding is diluted for sponsors, and UOSU will no longer provide funding. As a comp tech student I take a lot of comp eng courses, I may just go to IEEE events.
+CEGSA: It takes time, we’re thinking of contacting our own societies and companies to help us. A more direct way to get companies to students, more reaching out for specific events, like technical events to CEG students. We’re trying to build a model that’s self-sustaining, micro-grants, right now we’re talking small. For technical workshops the expensive parts are the hardware which we could get from companies, cost shifts to the partners. We’re hoping for 0 profit, and preorders for shirts, students pay first and they get it from us which is low risk. The goal is to design around low or no funding.
+Farah: Is the grants already done or to do, because rn the tech industry is very diluted. 
+CEGSA: We don’t have a number right now.
+Jad: We have to do justice to computer engineering students, we’re transparent with WIE, you can’t not want to be under IEEE to avoid rules, ESS has a huge policy now. For the professor not knowing about IEEE, I talked to him yesterday and I mentioned about this motion, and why the motion is going under ESS instead of IEEE. We have several professors who know and are directly involved with us. The dean came up to us, and she knew about IEEE already. How do we know that what you’re promising to CEG students will come true. All I know about the one event you we’re talking about being bilingual didn’t even have french in the post, for hardware we have plenty of supply that any student can come and pick up for free. 
+Somana: I’m the chair of WIE affinity group, I wanted to give my point of view as an affinity group. Not only am I the chair but I’ve been apart of it for the last four years, we have full control of the events. The chair and vice chair of WIE gets IEEE office hours and keys. If CEG wanted to join as an affinity group, they can come to office hours and learn more. We’ve done one event per month, and had a big flagship event. Our team is only 7 members, so one event per month is no easy feat. We ask students who come to our events what program they’re in and checking out statistics, 30% or more students are CEG coming to WIE events. If money is required, I know we have financial backing from IEEE, they will show up and support as well. I know there’s a lot of talk about affinity group and CEGSA joining, as the longest member of WIE. If CEGSA wants to truly help students, I don’t think them joining IEEE wouldn’t allow them to flourish. 
+CEGSA: IEEE mentioned they own the hardware
+Jad: The hardware in the office is ours. 
+CEGSA: I appreciate cookies and cram and quizmiee, what we’re doing is solving a wider problem. How we’re doing it differently is building a support pipeline, resume review, first years get more fundamentals, structure their lab reports. That’s computer engineering reality, it’s embedded, passing classes and midterms are important, however the fundamentals and input and projects are important. Shipping something that works is part of the program, and it directly improves the rate. When you first step in the chem lab, it’s tough, we’re addressing it directly to improve membership, accountability and membership. Helping with hands on work, we’re taking care of that, accessible planning, it’s not just about booking a room and giving out food. We’re planning something the faculty can be proud of, career lift and external opportunities, no people are building off engineers and helping with constraints. We’re helping on campus sessions to give out resume to people who will hire you. We are consistently building a network for student. Being the highest branch in Canada is impressive but it’s not impactful. What it doesn’t measure what happens with students in first year and first year student retention. Mental health and support. Our instagram is only AI and english, that’s not the end goal. It’s the easiest thing to get out of the door. We have english and french constitution, as well as merch. Having $7 worth of hardware is good for the community, but knowing how to use it is not the same thing. I can get any hardware, but idk how to use it. Do first years know how to use it? We’re building something years away, lining up sponsorships and support people weekly. We’re making it so our events are not cheap, brand visibility, and other work. 
+Samuel: If students were using cookies n cram to pass a final, that means they didnt use the course material who they paid for the course. It is not to pass the final, it is to do better on the final. It is not responsible academic behaviour.
+Rory: I am speaking as VP External of IEEE. The circular nature of this discussion is coming because we didn't have a meeting with CEGSA. The awareness of IEEE being a representative of CEG students is ___. WE have many events that represent them like bits bytes and/… The biggest event coming [SPAC]  up represents all engineering. It is not beneficial to create a new student group because you don't have anything to start. Coming from IEEE you would have much more grounds to start.
+Hayley: They do not currently follow ESS's values. None of CEGSA promotional material is bilingual, even though they claim to prioritize bilingualism. They also use AI for promotional material, which ESS is completely against and bans the use of AI within the team and our work. I don't think they adequately represent the ESS's values and should not be added as a sub-association at this time.
+Jad: I think this motion is getting circular. I want to stress that we have been through this over and over again. You need years to grow the CEG association. It is currently not a good time. Building events would not be consistent because it takes time. Can create designs for free with Canva not AI. I am proud of our team and what we do. We do the best we can to gear everything to the umbrella. Different discussion if talking to a dormant club. IEEE is more than well-equipped to handle taking on CEGSA.
+CEGSA: We have the same goal to represent students as ESS and IEEE but more specifically CEG students, I’ve been to many events, IEEE held the hackathon yesterday and it was fun and useful. Every year this is being proposed, and why is that. We need more knowledge, and help for first year students. If you’re hiring something for software you go to a software student, same with electrical, however computer engineering is somewhere in between. IEEE uOttawa operates with a separate mandate, being a uOttawa branch and their own club. As a result even if in IEEE they’re represented, there’s portions not fully represented by IEEE. Comparatively, one half of IEEE is not fully represented by a specific program. Even professors think they don’t think computer engineering is not properly represented. We have 94 signatures, which is approximately 20% of CEG students. I want to help students, I’m not opposed to joining IEEE personally, at the end of the day it’s about the students.
+Jad: The argument mentioned that CEG is in between SEG and ELG, that is exactly why we are here. I personally have had a job in all 3, as a CEG student. Most profs on campus know about us [IEEE]. Signatures, outside of student politics, nobody will know what it means to be under ESS. We have globally recognized names, we set many standards that everyone in the field knows IEEE. IEEE uOttawa is here to represent students. If you are looking to host events, we are happy to host.
+LAST POINT
+Cyrus: I handle levies for subs. Right now in policy, all subs get 15% of what we get from UOSU. Summer for example, that is about 3k. Of that 3k, IEEE gets 1.5k. Summer only had 202 CEG students. IEEE got 2.11 per student so for CEG students, that would have been 400. The whole year rounds out to be 2k per year, that is all from ESS. Events cost a lot, it is difficult to run off levies for the scale of events you may plan.
+	Result
+Résultat
+	For: 1, Against: 20, Abstain: 3 
+	Title
+Titre
+	Impeachment Appeal
+	Mover
+Proposé
+	Zoe
+	Seconder
+	Eric 
+	WHEREAS the impeachment of Daniel Thorp at the previous BoD meeting led to a very punitive result.
+WHEREAS the impeachment process was not handled in the correct way and should have been taken up with the VP Equity through the confidentiality form as there were claims of harassment.
+BE IT RESOLVED THAT the impeachment punishments for Daniel Thorp be reconsidered.
+BE IT FURTHER RESOLVED THAT the original motion be rescinded, the record be corrected, and acknowledgment that harassment allegations should have been handled confidentially.
+	Discussion
+	Eric: I’d like to table. Farah: Second
+Passes unanimously
+	Result
+Résultat
+	Tabled to next meeting
+	Jayden: Motion to go back and reopen elections due to Sofia Jadal missing for a midterm: Eric seconds
+Passes unanimously
+8. Executive Updates – Mises à jour de l'exécutif
+* Co-President – Présidente: Aiden McCooeye (he/him/il) & Eric Hagen (he/him/il)
+   * Processing reimbursements
+   * Ran byelections
+   * Officer meetings
+* VP External – Externe: Ashna Cheverlharan (she/her/elle)
+   * First-Year Integration Conference 2025:
+      * Scheduled delegate meeting on Friday
+   * Conference on Diversity in Engineering 2025:
+      * Shortlisted applicants with selection committee
+      * Conducting interviews with selection commissioner
+      * Delegate registration is due on October 26th
+      * Sending six delegates, including myself and Maria and travelling by car
+   * Fall External Awareness Night:
+      * Date: November 20th at 7pm
+      * Figuring out event plan and room booking with Rusafi
+      * Promo request coming soon!
+   * President’s Meeting 2027 Bid:
+      * Preparing a financial breakdown presentation to be presented at upcoming BoD
+      * Preparing the PM 2027 bid presentation for CALE 2025 if BoD approves
+* VPFA: Cyrus Choi (he/him/il)
+   * Planning to talk to Sydney regarding her budget
+   * Freezer is now installed in the office
+   * Working on EEF reimbursements for uOEC
+   * Ryn has been processing reimbursements for ESS
+   * Kristen has been working on acquiring Monsters, we got 16 cases for the next little while - working on new promo idea. 
+   * Acquiring uOEC materials shortly and keeping CnR happy
+      * Dakota: the monster thing… how are the stats?
+      * Cyrus: Yes, really showing we just got 60 cases. We are not allowed to sell.
+* VP Academic – Académique: Nick Mesquita (he/him/il)
+   * Held Coffee and Catch-up (thanks to everyone who showed up)
+   * Waiting on promo to go out for Summer Course Report form and OHRI field trip forms
+   * Got a little more info on Canmet trip, but still very in the works.
+* VP Communications: Hayley Jubinville (she/her/elle)
+   * working on physical promotions
+   * mailout coming out this week
+   * Instagram always in the works
+* VP Internal – Interne: Steffen Zylstra (he/him/il)
+   * Met with uOEC Committee on progress and next steps.
+   * Decorated office for halloween and have begun taking inventory for an office cleanup/reorganization.
+   * Started talks with subcommittee exec members about key targets for the remainder of the year, more formal meetings with sub-association presidents and design team leads to come.
+   * Started office hours and minute taking for officer meetings
+   * Advertised ESS through campaign class talks.
+* VP Services: Luke Ballinger (he/him/il)
+   * not a cult merch arrived
+   * ESS logo patches in transit
+   * equipment rentals going smoothly
+   * working on patch event with vp sustain
+   * planning to produce more patches
+   * CREO still needs to be paid, Cedrik still needs to be paid
+* VP Social: Magno Melo Martins (he/him/il)
+   * DUSTED almost locked in, just missing the final patch design to order
+   * Finalizing details for Iron Ring Ceremony After Party
+   * Gonna send out email to people coming to Saunders Fright Fest
+      * VPs coming will have to help out with check-ins
+   * Winter DUSTED refunds will be sent soon
+* VP Philanthropic – Philanthropique: Zoe Saunders (she/her/elle)
+   * Shine money paid 🙂
+   * Beer olympics set up for nov 22, in talks regarding our financial contribution
+      * Dakota: What is this?
+      * Zoe: Econ is hosting an event where we bus some students to a venue and they play beer games and drink all day as a fundraiser with different RSGs. Each one contributes a certain amount and all the money that goes into planning is for that. Ticket costs all go to charity for November.
+   * Reached out to other rsgs to set up a formal clothing drive in the new year since gala season will be starting (will be reaching out to free store & thrift stores as well)
+   * Eng ball set up for NAC on Feb 7th, on trajectory to break even
+* VP Equity – Équité: Maria Hal (she/her/elle)
+   * going to cde with ashna
+   * underspent on the event this sem and plant potting went okay !
+* VP Sustainability – Développement durable: Sydney Ruberto (she/her/elle)
+   * Became VP Sustainability
+   * I have a time for office hours now
+   * Still figuring out how everything works
+   * Planning to talk to Cyrus about having a budget next week
+   * Started reaching out to some sustainability clubs on campus
+* VP Francophone: Yann Giffaux (he/him/il)
+   * Completed onboarding
+   * Filled new office hours
+   * Brainstorming for this semester’s event and reviewing restrictions around events.
+   * Went to UOSU’s FRT on Friday
+   * Re-exploring franco classes being offered in Summer semesters
+9. Sub-association updates – Mise à jour des sous-associations
+* IEEE
+   *  Events since last meeting:
+      * Ciena Networking Night on Sept 29th, around 180 attendees
+      * IEEE Chaotic Canvas Swap - Fun lil social event
+      * IEEE Day 2025 - ELG x SEG x CEG Code + Circuit competition with a bunch of tech & giveaways
+      * Computer Chess AI Hackathon on October 25th
+      * Quiz MIEEE for GNG1105, GNG1106, and MAT1341
+   * Events planned for next month:
+      * IBM Quantum Hackathon
+      * Bits Bytes and Breadboard
+      * PCB Design
+      * PCB Milling with CEED
+      * Microchips and Dips x2
+      * Engineering Trivia Night
+      * Cyber Lab
+      * Winter Warm Up
+      * ROS2 Workshop
+      * WIE Industry Night
+      * WIEEE Code
+      * Cookies & Cram (Nov 29th-Dec…)
+   * Helped student with academic issues (ty Nick for your help)
+   * Open House on Saturday
+   * SPAC coming up next week, first flagship event of the year
+   * Meet the team post & reel went out! Also a bunch of reels for events
+* CESA
+   * In the process of finalizing audit
+   * Had general meeting yesterday
+   * Ikea build night happening this week
+   * Finalized plan for events in November
+* ChESS
+   * CSChE Conference: • 1st Place in the Hatch Plant Design Competition (Capstone Team) • 1st Place in the Reg Friesen Student Oral Paper Competition • 3rd Place in the Robert G. Auld Student Paper Competition
+   * Hosted the first event of the semester “Mic and karaoke+ game night)
+   * By-election completed for director positions, onboarding for newly elected directors is currently in progress
+   * Received (finally) EEF funds
+* MESS
+   * Matlab collab event happened and was successful
+   * New services will be offered this year at MESS (breadboard, clamps, ruler, calculator, etc… up for borrow - wait for a post on our instagram for that)
+   * AGM happened. New roles added to the team. Constitution updated. Ratified summer / fall hires. Voted on Kristen and Farah as BoD directors officially.
+   * Pool w/ profs and ikea build night underway this week.
+   * CESO collab posted and happening Nov 6th as our BME event for the fall. 
+10. UOSU BoD Updates – Mises à jour du CA du SÉUO
+* Sub-Association Club Status Update
+11. Varia
+   * 12. Notice of Motions – Avis de motion
+   * Tabled motions
+13. Adjournment – Ajournement
+With no further business, the meeting adjourned at 1:53 PM EDT.
+L'ordre du jour étant épuisé, la réunion est levée à 1h53 HAE.
+14. Next Meeting – Prochaine réunion
+The next Board of Directors meeting will be held on November 23rd at 11:00 AM EDT in CBY A04.
+La prochaine réunion du conseil d'administration se tiendra le 23 novembre à 11 h 00 HAE au CBY A04.

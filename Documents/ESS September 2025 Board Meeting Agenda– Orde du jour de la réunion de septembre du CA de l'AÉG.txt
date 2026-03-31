@@ -1,0 +1,579 @@
+﻿ESS September BoD Meeting Minutes – Procès verbal de la réunion de septembre du CA de l'AÉG
+1.  Call to Order – Appel à l'ordre
+Date: Sep 28, 2025 11:00 AM EDT
+Location – Lieu: CBY A04 & Google Meet
+The meeting was called to order at 11:05 AM EDT with Maya Benhamou as Chair and with Krystian as Secretary.
+La réunion est ouverte à 11h05 HAE, sous la présidence de Maya Benhamou et le secrétariat de Krystian.
+2. Land Acknowledgement – Reconnaissance des Terres
+We acknowledge that we are gathered on the traditional and unceded territory of the Algonquin Anishinaabe Nation. For generations, they have been the stewards of this land, and their deep connection to it continues to this day. We recognize the enduring presence and contributions of the Algonquin people to this region. We also acknowledge the painful history of colonization and the displacement of Indigenous communities from their ancestral lands. We commit ourselves to learning, understanding, and honoring the Algonquin Nation's history and culture. We recognize the importance of working collaboratively to create a more just and equitable future for all who call this land home.
+The National Day for Truth and Reconciliation is coming up on September 30th. “The day honours the children who never returned home and Survivors of residential schools, as well as their families and communities. Public commemoration of the tragic and painful history and ongoing impacts of residential schools is a vital component of the reconciliation process.” (Government of Canada). The day is also referred to as “orange shirt day” and encourages people to wear orange shirts to raise awareness for the day and what it represents. The phrase “every child matters” that often accompanies this reminds us that every child is important and cannot be forgotten. Remember to wear an orange shirt on Tuesday the 30th!
+________________
+
+
+Nous reconnaissons que nous sommes réunis sur le territoire traditionnel et non cédé de la nation algonquine anishinaabe. Depuis des générations, ils sont les gardiens de cette terre et le lien profond qui les unit à elle perdure encore aujourd'hui. Nous reconnaissons la présence et les contributions durables du peuple algonquin dans cette région. Nous reconnaissons également l'histoire douloureuse de la colonisation et du déplacement des communautés autochtones de leurs terres ancestrales. Nous nous engageons à apprendre, à comprendre et à honorer l'histoire et la culture de la nation algonquine. Nous reconnaissons l'importance de travailler en collaboration pour créer un avenir plus juste et plus équitable pour tous ceux qui vivent sur cette terre.
+3. Roll Call – Appel nominal
+Present – Présent.e.s: 
+* Co-President – Présidente: Aiden McCooeye (he/him/il)
+* Co-President – Présidente: Eric Hagen (he/him/il)
+* VP External – Externe: Ashna Cheverlharan (she/her/elle)
+* VP Communications: Hayley Jubinville (she/her/elle)
+* Interim VP Internal – Interne: Daniel Thorpe (he/him/il)
+* VP Services: Luke Ballinger (he/him/il)
+* VP Social: Magno Melo Martins (he/him/il)
+* VP Philanthropic – Philanthropique: Zoe Saunders (she/her/elle)
+* VP Equity – Équité: Maria Hal (she/her/elle)
+* IEEE: Jad Mghabghab (he/him/il)
+* CESA – AÉGCi: Claire Durand (she/her/elle)
+* CESA – AÉGCi: Rumony Chhom (she/her/elle)
+* ChESS – AÉGC: Nour Akremi (she/her/elle)
+* MESS – SÉGM: Farah El Siss (she/her/elle)
+* MESS – SÉGM: Kristen Wells (she/her/elle)
+* 2nd year Chemical – 2e année chimique: Emilia Wesolkowski (she/her/elle)
+* 2nd year Electrical – 2e année électrique: Rory McCulloch (he/him/il)
+* 2nd year Mechanical – 2e année mécanique: Rocco De Oliveira (he/him/il) - Late
+* 2nd year Computer – 2e année informatique: Pradyumna Uppalapati (she/her/elle)
+* 3rd year Mechanical – 3e année mécanique: Dakota Squires (he/him/il)
+* 3rd year Software – 3e année logiciel: Jamie Watson (she/her/elle)
+* 4th year Computer – 4e année informatique: Stuti Pandya (she/her/elle)
+* CO-OP Electrical – Électrique CO-OP: Samuel Li (he/him/il)
+* CO-OP Mechanical – Mécanique CO-OP: Conor Waldron (he/him/il)
+* CO-OP Computer – Informatique CO-OP: Brooke MacQuarrie (she/her/elle)
+* EEF Chair – Président du FdG: Mark Uchanski (he/him/il)*
+* UOSU BoD – CA du SÉUO: Matias Suxo-Salinas (he/him/il)*
+* Non-voting – Sans droit de vote
+Absent – Absent.e.s:
+* VP Academic – Académique: Nick Mesquita (he/him/il) - Excused
+* VPFA: Cyrus Choi (he/him/il) - Excused
+* 3rd year Computer – 3e année informatique: Somana Debnath (she/her/elle) - Excused
+* VP Sustainability – Développement durable: Leila Smaili (she/her/elle)
+* VP Francophone: Thomas Boyle (he/him/il)
+* 4th year Mechanical – 4e année mécanique: Giovanni Abbruzzo (he/him/il)
+* Multidisciplinary Design – Design multidisciplinaire: Abby Wilson (she/her/elle)
+
+
+4. Comments from the Chair – Commentaires de la présidence
+   * Robert’s Rules Overview – Aperçu des règles de procédure Robert
+Special Rules of Order
+1: New idea
+2: Replying to current idea
+p: Point of privilege, interrupts current discussion (ex: can't hear the microphone)
+c: Point of clarity, confused about current discussion and needs clarification, interrupts current discussion (ex what does an acronym mean)
+t: Requesting a translation
+5. Administrative Motions – Motions administratives
+   * Adoption of Agenda – Adoption de l'ordre du jour
+Title
+Titre
+	Adoption of Agenda
+Adoption de l'ordre du jour
+	Mover
+Proposé
+	Brooke
+	Seconder
+Appuyé
+	Aiden
+	BE IT RESOLVED THAT the agenda be adopted as presented.
+IL EST RÉSOLU QUE l'ordre du jour est adopté tel que présenté.
+	Discussion
+	 Aiden: Motion before updates 
+Passes unanimously
+Daniel: Wants the updates from uosu director move elections to after update sections
+Aiden: We know Uosu director is also here but there are more people here for elections then updates 
+For : 1 vote 
+Against: 8 votes
+Abstention: 7 votes
+Daniel: Add motion for bill 33 to end of agenda
+Aiden: Amending to add it as a discussion point (friendly) 
+
+
+	Result
+Résultat
+	Passes unanimously 
+	6. Elections – Élections
+   * Election of Year Representatives – Élection des représentants d'année
+Title
+Titre
+	Election of Year Representatives
+Élection des représentants d'année
+	Mover
+Proposé
+	President 
+	Seconder
+Appuyé
+	Brooke
+	Nominations
+	* Meltem Selin Çetin - French 2nd Year
+* Calvin Smith - GNG 1105 /b
+	WHEREAS several Year Representative positions are currently vacant;
+WHEREAS Year Representatives must be elected by ordinary resolution of the Members in accordance with Section 1.3.3.2 of the Policy and Procedure Manual;
+BE IT RESOLVED THAT the following Members be elected as Year Representatives for their respective programs and years, as detailed below:
+* 1st year
+   * GNG 1105 A: 
+   * GNG 1105 B: Calvin Smith
+   * GNG 1105 C
+   * GNG 1105 D: 
+   * GNG 1105 E: 
+   * GNG 1505 A
+   * GNG 1505 B
+   * SEG 2900: 
+   * PHY 1121/1521
+* 2nd year
+   * Civil:  
+   * Biomedical mechanical: 
+   * Software: 
+   * French: Meltem Selin Çetin
+* 3rd year
+   * Chemical: 
+   * Civil: 
+   * Electrical: 
+   * Biomedical mechanical: 
+   * French: 
+* 4th year or higher
+   * Chemical: 
+   * Civil: 
+   * Electrical: 
+   * Biomedical mechanical: 
+   * Software: 
+   * French: 
+* CO-OP
+   * Chemical: 
+   * Civil: 
+   * Biomedical mechanical: 
+   * Software: 
+* Student Academic Success Service (SASS):
+________________
+
+
+ATTENDU QUE plusieurs postes de représentants d'année sont actuellement vacants;
+ATTENDU QUE les représentants annuels doivent être élus par une résolution ordinaire des membres conformément à la section 1.3.3.2 du Manuel des politiques et procédures;
+IL EST RÉSOLU QUE les Membres suivants de la Société soient élus en tant que représentants annuels pour leurs programmes et années respectifs, comme détaillé ci-dessous: 
+* 1ère année
+   * GNG 1105 A: 
+   * GNG 1105 B: Calvin Smith
+   * GNG 1105 C
+   * GNG 1105 D: 
+   * GNG 1105 E: 
+   * GNG 1505 A
+   * GNG 1505 B
+   * SEG 2900: 
+   * PHY 1121/1521
+* 2ème année
+   * Génie civil: 
+   * Génie biomédical mécanique: 
+   * Génie logiciel: 
+   * Français: Meltem Selin Çetin
+* 3ème année
+   * Chimie: 
+   * Génie civil: 
+   * Génie électrique: 
+   * Génie biomédical mécanique: 
+   * Français: 
+* 4ème année ou plus
+   * Chimie: 
+   * Génie civil: 
+   * Génie électrique: 
+   * Génie biomédical mécanique: 
+   * Génie logiciel: 
+   * Français: 
+* CO-OP
+   * Chimie: 
+   * Génie civil: 
+   * Génie biomédical mécanique: 
+   * Génie logiciel: 
+* Service de réussite académique des étudiants (SASS): 
+	Questions
+	* Why are you interested for running for BoD?
+* Why do you think you are the best candidate for this position?
+* What is a Gee-gee wrong answers only
+	Answers
+Réponses
+	Calvin: Enjoyed 101 weeks and want to build peer connections. I was involved in student politics in high school and I really enjoyed that. I just want to get involved. 
+My experience on student council as a finance commissioner and other positions so I know how to read through agendas and things like that . I live on campus so I have time to spend on events. Going to as many events as possible is my goal for my first year and I'm very big into spirit. Already sewing patches on my covies 
+“Bird with a c*ck this big” or a slow horse
+
+
+Meltem: I want to join more student associations and clubs and this seemed like a good one to join. This also helps ESS make decisions on how to help.  // Je voulais participer dans plus d’associations et clubs. Je voulais faire partie de cette association pour aider les étudiants en génie 
+I am the only candidate for this position. I would put the work in and attend the meetings even if they are long. I will participate in them. // Je pense que mon francais suffit pour ce poste et je suis 
+It’s like a raven 
+	Discussion
+	Brooke: Why are you interested for running for BoD?
+Why do you think you are the best candidate for this position?
+2 minutes max each question and a silly question for 30 seconds
+Dakota: funny question, 30s, what is a Gee-gee wrong answers only (1)
+Farah: Funny question, do you like pickles, if so what type ? (2) 
+Daniel: Some candidates may want to speak in french. Do they get double the time or the same amount for both languages? 
+Brooke: 2 minutes max for EACH language 
+Funny questions: 
+1. 8 votes
+2. 7 votes
+Abstention: 1 vote
+
+
+Daniel: Do we know why they are running for the french role and not their program? They just didn’t say anything about what their connections are with the french community. So maybe they wouldn’t be the best for this position 
+Brooke: They could run for a different position but if they are running for the french then that’s what they want to go for. I don’t know why we would discourage them from going for a position 
+Jad: Same thing as Brooke. I think that we shouldn’t deter anyone from a role. 
+Dakota: I agree that her french may not be the best but we never really say no to a position. It is also uncontested so why do we really care 
+Daniel: They are a second year electrical and they are not studying in french. So it could be taking it away from a french student that may want to run 
+Dakota:  How did you get that information 
+Daniel: Checked the student list 
+Jad: She is taking 4 classes in french and in french immersion 
+Dakota: I think he was great and he seems to be the exact kind of person we are looking for. He seems to also be in it for the long run which is good 
+	Result
+Résultat
+	Calvin: 
+For: 12 votes
+Against: 0 votes
+Abstain: 2 votes
+
+
+Meltem: 
+For: 11 votes
+Against: 1 vote
+Abstain: 2 votes
+	________________
+7. Motions
+Title
+Titre
+	Motion for Removal of the Interim Vice President of Internal Affaires
+Motion de destitution de la Vice-présidente aux affaires internes
+	Mover
+Proposé
+	MESS
+	Seconder
+	ChESS
+	WHEREAS he has repeatedly miscommunicated important information during meetings;
+WHEREAS he undermined 101 Week programming by unilaterally removing the only event dedicated to introducing first-year students to sub-associations, without consultation or notice;
+WHEREAS he failed in his core responsibility to maintain clear and accurate communication with sub-associations, including altering the Sub-Association Trivia event to focus on external awareness and effectively cancelling the sub-association component without warning;
+WHEREAS he provided conflicting information during the drafting of the Sub-Association Policy to each stakeholder, creating confusion and delaying progress;
+WHEREAS he harassed executives within ESS and sub-associations, thereby creating a hostile and unprofessional working environment;
+WHEREAS he abused his position of power by repeatedly threatening to cut sub-association levies and using such threats as leverage to pressure executives;
+WHEREAS he falsely claimed that sub-associations must go through only ESS or himself to obtain funding, thereby misrepresenting his authority and discouraging sub-associations from exercising their independence to receive funding from UOSU;
+WHEREAS he attempted to override the democratic process by reintroducing failed motions to Council in order to force outcomes contrary to the will of Council;
+WHEREAS he explicitly stated that ESS votes outnumber those of the sub-associations, signalling an intent to dominate rather than collaborate in good faith;
+WHEREAS he is interfering with the proper formation of a  BMDES student body ( MDSA ) and harassing them if its not done his way ;
+BE IT RESOLVED THAT Daniel Thorp be immediately removed from his position as Interim Vice President Internal.
+________________
+
+
+ATTENDU QUE il a à plusieurs reprises mal communiqué des informations importantes lors des réunions;
+ATTENDU QU' il a compromis la programmation de la Semaine 101 en supprimant unilatéralement le seul événement dédié à l’introduction des étudiants de première année aux sous-associations, sans consultation ni préavis;
+ATTENDU QU’ il a failli à sa responsabilité fondamentale de maintenir une communication claire et exacte avec les sous-associations, notamment en modifiant l’événement « Trivia des sous-associations » afin de le centrer sur la sensibilisation externe, ce qui a effectivement annulé la composante liée aux sous-associations sans avertissement;
+ATTENDU QU' il a fourni des informations contradictoires lors de la rédaction de la politique des sous-associations à chacun des intervenants, créant ainsi de la confusion et retardant les progrès;
+ATTENDU QU’ il a harcelé des membres de l’exécutif au sein de l’AÉG et des sous-associations, créant ainsi un environnement de travail hostile et non professionnel;
+ATTENDU QU’ il a abusé de sa position de pouvoir en menaçant à plusieurs reprises de couper les cotisations des sous-associations et en utilisant de telles menaces comme levier pour faire pression sur des exécutifs;
+ATTENDU QU' il a faussement affirmé que les sous-associations devaient passer uniquement par l’AÉG ou par lui-même pour obtenir du financement, déformant ainsi son autorité et décourageant les sous-associations d’exercer leur indépendance afin de recevoir du financement du SÉUO;
+ATTENDU QU’ il a tenté de contourner le processus démocratique en réintroduisant des motions rejetées au Conseil dans le but de forcer des résultats contraires à la volonté du Conseil;
+ATTENDU QU’ il a explicitement déclaré que les votes de l’AÉG surpassent ceux des sous-associations, signalant ainsi une intention de dominer plutôt que de collaborer de bonne foi;
+ATTENDU QU' il interfère dans la bonne formation d’un corps étudiant en BMDes (AÉCM) et les harcèle si ce n’est pas fait selon sa manière;
+Il EST RÉSOLU QUE Daniel Thorp soit immédiatement destitué de son poste de vice-président interne intérimaire.
+	Discussion
+	Response to Removal Motion VP Internal ESS
+Matias (UOSU): animosity; reach out about conflicts to
+JMTS clubs would get denied most likely based on new rules; funding doesn’t come from UOSU; whoever will be in VP Int position should have meeting with UOSU; unfulfilled promises from UOSU
+JMTS clubs have insurance for funding; VEMS is also something that we will be working on ; considering ESS get lump sum that then gets distributed
+Rory: Matias’ statement that motion abt animosity is unfounded
+
+Matias: Cannot talk about someone’s character; willing to discuss further
+Jamie: last year many people quitting for mh reasons. What happens if no vp equity?
+Maya: would go to president or, if about president, to chair.
+Jad: Sub-associations don’t appreciate not being involved in discussions. VP Internal is supposed to involve sub-associations. Commissioners can be elected how they were. Elections for executives did not take place. Sub-associations do a lot of work for students.
+Sam: JMTS were revoked of club status without any heads-up, after applying for fund.
+Rory: clarification on harassment
+Maya: procedure that includes harassment is new and has not yet been implemented
+Farah: About sub-associations not being part of club status. Was on them since 2023, never notified until last week. A lot of pushback from VP Int in MESS. Is willing to share the chats regarding pushback. Would not ask VP Int questions that were never discussed.
+Matias: very overwhelming on the club side. Fully uosu’s fault. Last year most JMTS clubs were recognized as clubs. UOSU close to reaching club cap of 200; most likely new ones would get denied. Regarding harassment: present evidence. Sub-associations and clubs can contact uosu. matias.suxosalinas@seuo-uosu.com
+Brooke:old policy is poor regarding harassment. Harassment is a serious allegation. Should be confidential and even if ESS doesn’t have a process yet, UOSU does. But there is a lot of procedure that someone has to go through to call something harassment. The other points can be read in an accusatory way. I think there should be a document or evidence along with the motion. It should have been given to us before. But also it should have been confidential. I don’t think these allegations shouldn’t have been brought up to a public meeting 
+Farah: What would the wording be?
+Brooke: Abuse, harass may be accurate but are invoking certain emotions
+Farah: impeachment policy allows word abuse
+Brooke: shouldn’t be used in that manner without prior investigation. 
+Sam: regarding Matias: concern is about connection with reps, VP Int and constituents. Problems resulting form missing middle man (VP Int). No JMTS captain (to knowledge) that has met with VP Int.
+Dakota: VP Int Met with captains for 101 week; passionate. Everything seemed fair in document for sub-associations.
+Farah: VP Int did not meet with Baja. A lot of prep with trivia questions, only 8/45 were presented; sub-associations not given opportunity to introduce sub-associations. In motion, stated that the trivia event cancelled the sub-association component. Regarding abuse by cutting levies: will share document with evidence. Was told that VP Int stated ESS has more votes than sub-associations.
+Dakota: doesn’t know what happened as wasn’t present.
+Magno: by time joined, from personal point of view, Daniel seemed to try to take over event rather than having it sub-association focused.
+Jad: event was sub-association president, VP Ex and VP Int. Sub-associations had no presence; had to ask to have any involvement.
+Farah: Jake sent in statement – engineering trivia  games were schedule for friday so they could get 101ers involved. During summer VPX wanted exposure for VPX, offered second opportunity for VPX. Daniel seemed confused with event planning. Day of event, tidbits for sub-associations. In meeting with VP Int, sub-associations were told they would have a big opportunity to show their sub-associations.
+Zoe: other sub-associations presidents could add to evidence document
+Farah: would be easier if access to channel could be shared rather than screenshots
+Jad: a lot wasn’t said in chats and instead in meetings. Promises from VP Int to talk about problems later, however they were never discussed.
+Jad: Daniel did make sure sub-assoc presidents were there. Meeting was done in negative light, tiring.
+Brooke: how far back are the messages?
+Farah: start of summer. Look out for recaps after meetings to see request for agendas; talks regarding cutting levies
+Jad: relations with subassoc presidents were not better as a result of headache policies. VP Social, External are not at fault.
+Mark(chairman of endowment fund): in winter semester, had to remove Daniel for repeated abuse of conflict of interest policies – would refuse to recuse himself from debate on policies. Would not implement constitution. Had to get dean involved to force him to follow endowment fund rules. A lot of previous discussion focused on semantics rather than content.
+Hayley: if at least 3 subassoc have problems, very telling of situation. Daniel just wants to argue about things. 
+Farah: cannot give evidence about things discussed in person. Helped host conference on behalf of IEEE, Daniel would come to argue about French involvement in the conference and threaten cutting levies.
+Jad: was vice-chair last year; Daniel would come to previous chair’s and other executives’ office hours to bring up issues that were not relevant for others. Daniel sent very long email to UOSU and others about lies and constructions. Daniel’s demeanor and tone are unprofessional. 
+Magno: guides and VPs came with issues about Daniel’s bothering  behaviour and overstepping boundaries to point that had to intervene to drop tension. Unneeded tension. 
+Aiden: in meeting with uosu commissioner, cutting funding would have a long-term plan; meeting made it seem like funding cuts wouldn’t happen without getting things back. Based on what VP Int has done and said, seems like everything solely about policy.
+Jad: Daniel aggressively said IEEE shouldn’t apply for UOSU, even though IEEE has applied for years. IEEE stripped of VEMS. 
+Farah: Zero conversation about these problems. Daniel’s role as middle man not done, even though in mandate.
+Claire: Not much money. Working with Daniel is a hostile work environment. Daniel mentioned in passing that minutes were not up to par; poor communication from him.
+Farah: (regarding MESS) no mentions of requirements for levies from Daniel. Budget was just mislabeled and Daniel said the levies will be cut. Daniel tried changing the way it was done for many past years and would repeatedly give new opinions on the constitution.
+Aiden: (UOSU status) Daniel reached out mid July. 6 days ago sent email to student committee wanting to call emergency meeting; many emails to try to get subassocs what they want. 
+Abby: (part speaking abt new regarding Multidisciplinary Design) VP Int reached out in August regarding signatures. Daniel would go to UOSU to prevent it from becoming independent club. Daniel edited original text and original is not available regarding independent club status. 
+Maria: long texts / speeches associated with neurodivergency
+Abby: did not want to discriminate
+Aiden: Motion to do this as a secret ballot Seconder: Hayley
+Pass unanimously 
+	Result
+Résultat
+	For: 14 votes
+Against: 3 votes
+Abstain: 4 votes
+	Title
+Titre
+	Motion for Removal of the Vice President of Sustainable Initiatives
+Motion de destitution de la Vice-présidente aux initiatives durables
+	Mover
+Proposé
+	Jamie
+	Seconder
+	Hayley
+	WHEREAS the Vice President of Sustainable Initiatives has not attended or submitted updates for any Officer or Board meetings since the beginning of the current mandate;
+WHEREAS Executives are expected to fulfill both their Executive and Director responsibilities, including attendance and regular updates at Officer and Board meetings;
+WHEREAS the Vice President of Sustainable Initiatives has not communicated any reasons for their repeated absences, nor requested to be excused or provided justification after the fact, despite multiple opportunities to do so;
+WHEREAS the Vice President of Sustainable Initiatives has failed to demonstrate any meaningful progress on the responsibilities outlined in their mandate, including but not limited to establishing or maintaining ties with sustainability-related organizations at the University of Ottawa, supporting internal sustainability-related events and affairs, consulting on relevant initiatives, or conducting any visible work under the sustainability portfolio;
+WHEREAS the Society recently adopted a Special Rule on attendance expectations that, while not retroactive, clarifies longstanding expectations around participation, and the repeated unexcused absences fall outside any reasonable interpretation of acceptable engagement;
+WHEREAS such conduct constitutes a “failure to follow the regulations of the Constitution without just cause,” as defined under the Removal from Office Policy;
+WHEREAS continued inaction and disengagement in the role serves neither the Society nor its membership, and undermines the expectations of accountability and responsibility in holding an Executive and Director position;
+BE IT RESOLVED THAT Leila Smaili be removed from the position of Vice President of Sustainable Initiatives in accordance with the Removal from Office Policy.
+________________
+
+
+ATTENDU QUE la Vice-présidente aux initiatives durables n’a assisté à aucune réunion du Conseil d’administration ni de l’exécutif, et n’a soumis aucun rapport depuis le début de son mandat;
+ATTENDU QUE les membres de l'exécutif doivent assumer leurs responsabilités en tant qu’exécutifs et administrateurs, ce qui inclut la participation aux réunions et la transmission régulière de mises à jour;
+ATTENDU QUE la Vice-présidente aux initiatives durables n’a fourni aucune raison pour ses absences répétées, ni demandé d’excuse ni fourni de justification après coup, et ce malgré plusieurs occasions de le faire;
+ATTENDU QUE la Vice-présidente aux initiatives durables n’a démontré aucun progrès significatif dans l’accomplissement de ses responsabilités, notamment en ce qui concerne l’établissement ou le maintien de liens avec les groupes et initiatives durables de l’Université d’Ottawa, le soutien aux événements internes liés à la durabilité, la consultation sur les initiatives pertinentes, ou toute autre contribution visible à son portefeuille;
+ATTENDU QUE l’Association a récemment adopté une règle spéciale concernant les attentes en matière d’assiduité, qui, bien que non rétroactive, confirme les attentes déjà en place en matière d’engagement, et que ces absences répétées et injustifiées ne respectent pas ces attentes;
+ATTENDU QUE cette conduite constitue un « manquement au respect des règlements de la Constitution sans motif valable », tel que défini dans la Politique de destitution;
+ATTENDU QUE l’inaction persistante et le désengagement dans ce rôle nuisent au bon fonctionnement de la Société et compromettent les attentes de responsabilité et de rendement associées aux postes d’exécutif et d’administratrice;
+IL EST RÉSOLU QUE Leila Smaili soit destituée de son poste de Vice-présidente aux initiatives durables, conformément à la Politique de destitution.
+	Discussion
+	Aiden: MIA. That’s it. 
+Aiden: Motion to secret ballot Seconder: Hayley 
+Passes unanimously 
+
+
+	Result
+Résultat
+	For: 10 votes 
+Against: 0 votes 
+Abstain: 4 votes
+	Title
+Titre
+	Chief Electoral Officer Funding
+Financement du directeur général des élections
+	Mover
+Proposé
+	President
+	Seconder
+	Hayley
+	WHEREAS the current funding for Chief Electoral Officer is one of the highest, if not, the highest rate on campus.
+WHEREAS the current compensation of $150 for byelections and $300 for regular elections is unsustainable.
+BE IT RESOLVED THAT the policy and procedure manual be updated such that the Chief Electoral Officer will be compensated $50 for byelections and $150 for regular elections.
+________________
+
+
+ATTENDU QUE le financement actuel du directeur général des élections est l'un des plus élevés, sinon le plus élevé, sur le campus.
+ATTENDU QUE la rémunération actuelle de 150 $ pour les élections partielles et de 300 $ pour les élections régulières n'est pas viable.
+IL EST RÉSOLU QUE le manuel des politiques et procédures soit mis à jour de manière à ce que le directeur général des élections soit rémunéré 50 $ pour les élections partielles et 150 $ pour les élections régulières.
+	Discussion
+	
+
+	Result
+Résultat
+	For: 16 votes
+Against: 0 votes
+Abstain: 1 vote
+	Title
+Titre
+	Amend the Budget to Add a Line Item for Office Painting
+Modifier le budget afin d’ajouter une ligne pour la peinture du bureau
+	Mover
+Proposé
+	Aiden
+	Seconder
+	Magno
+	WHEREAS the ESS office in CBY A05 is a central hub for services, merchandise sales, ticketing, meetings, and student engagement;
+WHEREAS the office walls have deteriorated over time due to high traffic and now require repainting to restore the space to a professional and welcoming standard;
+WHEREAS, in accordance with university policy, all painting must be carried out by Facilities Management of the Faculty of Engineering, which has provided an estimate of $1,500 including all labour and materials;
+BE IT RESOLVED THAT the Board of Directors amend the Internal Budget to add a new line item under “Office” titled “Painting (Facilities)” in the amount of $1,500, to be paid to Facilities Management upon invoicing.
+________________
+
+
+ATTENDU QUE le bureau de l'AÉG situé à CBY A05 est un centre névralgique pour les services, la vente de marchandises, la billetterie, les réunions et l’engagement étudiant;
+ATTENDU QUE les murs du bureau se sont détériorés avec le temps en raison d’un fort achalandage et nécessitent maintenant une nouvelle couche de peinture afin de restaurer l’espace à une norme professionnelle et accueillante;
+ATTENDU QUE, conformément aux politiques universitaires, tous les travaux de peinture doivent être effectués par la Gestion des installations de la Faculté de génie, laquelle a fourni une estimation de 1 500 $ incluant toute la main-d’œuvre et le matériel;
+IL EST RÉSOLU QUE le conseil d’administration modifie le budget interne afin d’ajouter une nouvelle ligne sous « Bureau » intitulée « Peinture (Installations) » pour un montant de 1 500 $, lequel sera versé à la Gestion des installations sur réception de la facture.
+	Discussion
+	Hayley: unnecessary use of funds. Better used for new furniture etc. 
+Dakota: question abt clarification on paint
+Hayley: paint would be pure white, based on university standards
+Magno: doesn’t office have asbestos? Shouldn’t that be prioritised
+Aiden: The faculty should pay for that. There should be a decal on the shutter or something to increase engagement.
+
+
+	Result
+Résultat
+	For: 0
+Against: 13
+Abstain: 4 
+	Title
+Titre
+	Motion to Move Fall W&C Money
+Motion visant à déplacer les fonds W&C de l'automne
+	Mover
+Proposé
+	VPFA
+	Seconded
+	VP Academic
+	WHEREAS Fall 2024 W&C did not distinguish where the $10 000 went for Conventions and Reservations.
+WHEREAS Fall W&C ended up spending $4000 of the C&R budget line towards food.
+BE IT RESOLVED THAT we distinguish budget lines based on C&R fees and catering (external). 
+BE IT FURTHER RESOLVED THAT catering (external), will be a total of $6500
+BE IT FURTHER RESOLVED THAT C&R fees, will be a total of $5000
+________________
+
+
+ATTENDU QUE le budget vin & fromage de l'automne 2024 ne précisait pas comment les 10 000 dollars alloués aux congrès et réservations (C&R) avaient été dépensés ;
+ATTENDU QUE 4 000 $ de la ligne budgétaire C&R ont finalement été utilisés pour couvrir les frais de restauration ;
+IL EST RÉSOLU QUE les lignes budgétaires soient révisées afin de distinguer les frais liés aux congrès et réservations des frais de restauration externe, 6 500 $ étant alloués à la restauration externe et 5 000 $ aux frais liés aux congrès et réservations.
+	Discussion
+	
+
+	Result
+Résultat
+	For: 9
+Against: 0
+Abstain: 8 
+	8. Executive Updates – Mises à jour de l'exécutif
+* Co-President – Présidente: Aiden McCooeye (he/him/il) & Eric Hagen (he/him/il)
+   * Paying off 101 week
+   * By-elections started
+   * Getting Cyrus on the bank
+   * Assisted EEF meeting logistics
+   * Started biweekly officer meetings
+   * Working on summer report
+      * Actually finished, ESS President Report Summer 2025.pdf
+   * Sending out team metrics end of month
+* VP External – Externe: Ashna Cheverlharan (she/her/elle)
+   * Attended SDES with Hayley
+   * Proposed a motion for academic accommodations at ESSCO TC
+   * FYIC: applications closed, finalizing delegates with selection committee
+   * Working on application post for CDE
+   * Helping Rusafi plan external awareness night (STM 117 booked for October 23rd already)
+   * Seeking clarity with VP Services of ESSCO and CFES about our bidding situation
+   * Working on conference take back reports
+   * Informative posts on external account coming soon
+* VPFA: Cyrus Choi (he/him/il)
+   * Finalizing 101 Week payments with the presidents
+   * Summer levies have been sent out and received last Tuesday
+   * Updated version of the budget: Budgets 2025-2026 [MASTER]
+   * Received contracts to sell JDG and uOttawa EngiQueers through our Zeffy with written discretion that all money earned will be sent to them thereafter
+   * We took a healthy hit (<$5k) for 101 Week expenses
+  
+
+* VP Academic – Académique: Nick Mesquita (he/him/il)
+   * Started planning Fall W&C (Current choice for catering choice is Osmows, but suggestions are welcome)
+   * VEMS request is done, EEF presentation happened sept 20th, waiting for them to get back to me
+   * Once EEF is decided and I know how much money I have I'll get on ordering food and going back and forth with C&R on how much they want to overcharge me
+   * Trying to plan field trip to Natural Resources Canada, still very in the works
+* VP Communications: Hayley Jubinville (she/her/elle)
+   * Created the weekly post format, gives an easy overview of the week ahead from all activities across engineering, posted first 3 weeks
+   * created and posted accessibility icons, good feedback, starting to be used on posts (Equity event, DUSTED promo)
+   * Working a ton with UOEC to try to organize their comms
+   * Created a repost groupchat for all our clubs, teams, subs to streamline reposting and promoting other events
+   * Sent out first 2 mailouts with the free coffee promotions
+   * Attended SDES and gave my notes to ashna
+   * created and posted , with lots of help from Conall, tons of posts and stories
+* Interim VP Internal – Interne: Daniel Thorpe (he/him/il)
+   * Participated in 101 Week as a guide and attended most events
+      * Ran the Engineering Jeopardy event with Ashna
+      * Coordinated the clubs fair tabling and helped with uOEC/CIuO posters
+      * Oversaw Messy Day cleanup
+   * Worked on cleaning the office throughout 101 Week and completed a major cleanup after and put stuff in storage and arranged storage
+   * Spoke with facilities and IT on installing a new TV in A04 to display ESS/AÉG ads
+      * Submitted and presented an EEF/FdG funding application for the Ontario Engineering Competition
+   * Delivered class presentations to promote the University of Ottawa Engineering Competition
+   * Attended, contributed, and oversaw the uOEC/CIuO committee
+   * Met with the Vice-Dean, Programs regarding accreditation of experiential learning (JMTS, uOEC/CIuO, etc.)
+   * Reached out to the Ontario CFES/FCÉG ambassador about multidisciplinary design eligibility for CEC/CCI
+   * Refactored and upgraded the ESS website from Gatsby v2 to v5 and hosted it on Cloudflare Workers, overhauled/updated the uOEC page, and other fixes
+   * Coordinated and designed the office hours schedule
+   * Changed the ESS office code and arranged for a new key
+   * Answered questions and met with groups interested in becoming Sub-Associations
+   * Working with UOSU regarding Sub-Association recognition and funding for engineering clubs
+   * Drafting Sub-Association Assessments
+   * Provided EEF/FdG governance suggestions
+   * Created a Community Engagement Navigator posting (#259) to record 101 Week volunteer hours
+* VP Services: Luke Ballinger (he/him/il)
+   * Jacket fitting Oct 6 11-4 a04
+   * Exec merch here
+   * Ordered not a cult hoodies
+* VP Social: Magno Melo Martins (he/him/il)
+   * Did 101 week
+   * Ordered Summer DUSTED patches
+   * Planning Fall DUSTED (venue, patches, bus, etc.)
+   * Helping plan Fright Fest w/ SASA
+      * Changed to being with SSA, 46 tickets @ 40$ on the 28th of October
+   * Will start planning Iron Ring After Party soon
+   * Helping sub-associations VP Socials
+* VP Philanthropic – Philanthropique: Zoe Saunders (she/her/elle)
+   * ran shine day, very successful year w/ $1600 raised!
+   * discussed fall campaign events w/ C&R, in the process of getting confirmation from rescue
+      * C&R roughly said no but we are looking for off campus 
+      * If it doesn’t happen will replace event
+   * eng ball sponsorship package complete + outreach started
+   * Met with ex-VPFA to resolve square problems
+* VP Equity – Équité: Maria Hal (she/her/elle)
+   * Planning my fall event
+      * Trying to figure out a local business to get succulents 
+   * Figure out Equity Round Table
+* VP Sustainability – Développement durable: Leila Smaili (she/her/elle)
+   * * VP Francophone: Thomas Boyle (he/him/il)
+   * 9. Sub-association updates – Mise à jour des sous-associations
+* IEEE
+   * hosted our first event, karaoke and game night (thanks for everyone who helped setup and sang). Had around 70 attendees
+   * ran by-elections, we’re a big team now as we added roles, still working through some logistical stuff for ratification
+   * office hours finalized, posting soon
+   * applied and presented Fall EEF
+   * Onboarded entire new team
+   * Event calendar set up for the semester
+   * Attended IEEE CSYPC in Toronto last weekend
+   * moved to weekly meetings, since we’re planning even more event and team is bigger
+   * fixed bank issues
+   * SPAC is October 31st and working to making it cheaper 
+      * Goodie bags! 
+      * 10 companies have signed up 
+* CESA
+   * Hosted Welcome to Civil Eng Night
+   * Office hours have been set
+   * Beginning to sell merch again soon
+   * Finalizing event/social media plan for the Fall semester
+* ChESS
+   * Finished planning for the conference
+   * Currently working on director hiring
+   * Received $2.3k advance from ESS, used for conference expenses
+   * Applied and presented for EEF
+* MESS
+   * Hiring happening 
+   * Y2K night went well
+   * CESO event under way 
+      * Beginning Nov 
+   * Merch underway 
+   * Gm scheduled  for Oct 19th
+10. UOSU BoD Updates – Mises à jour du CA du SÉUO
+* Sub-Association Club Status Update
+11. Varia
+   * Bill 33 
+Daniel: Students should stand up to the faculty and university to fulfil role of ESS of representing students. Can be done collaboratively, but if others are taking decisions that are bad for students, still need to stick up for students. Saying the minimal amount is the bare minimum. The message is not too political as it is the base level.
+   12. Notice of Motions – Avis de motion
+   * Position policy changes
+   * Inclusivity policy change
+   13. Adjournment – Ajournement
+With no further business, the meeting adjourned at 2:50 PM EDT.
+L'ordre du jour étant épuisé, la réunion est levée à 2h50 PM HAE.
+   14. Next Meeting – Prochaine réunion
+The next Board of Directors meeting will be held on October 26th at 11:00 AM EDT in CBY A04.
+La prochaine réunion du conseil d'administration se tiendra le 26 octobre à 11 h 00 HAE au CBY A04.

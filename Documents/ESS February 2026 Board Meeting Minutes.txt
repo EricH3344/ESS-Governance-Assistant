@@ -1,0 +1,680 @@
+﻿ESS February BoD Meeting Minutes – Procès verbal de la réunion de février du CA de l'AÉG
+1. Call to Order – Appel à l'ordre
+Date: Mar 1, 2026 11:00 AM
+Location – Lieu: CBY A707 & Google Meet
+The meeting was called to order at 11:05 am with Maya Benhamou as Chair and with Krystian as Secretary.
+La réunion est ouverte à 11h05 , sous la présidence de Maya Benhamou et le secrétariat de Krystian.
+2. Land Acknowledgement – Reconnaissance des Terres
+We acknowledge that we are gathered on the traditional and unceded territory of the Algonquin Anishinaabe Nation. For generations, they have been the stewards of this land, and their deep connection to it continues to this day. We recognize the enduring presence and contributions of the Algonquin people to this region. We also acknowledge the painful history of colonization and the displacement of Indigenous communities from their ancestral lands. We commit ourselves to learning, understanding, and honoring the Algonquin Nation's history and culture. We recognize the importance of working collaboratively to create a more just and equitable future for all who call this land home.
+________________
+
+
+Nous reconnaissons que nous sommes réunis sur le territoire traditionnel et non cédé de la nation algonquine anishinaabe. Depuis des générations, ils sont les gardiens de cette terre et le lien profond qui les unit à elle perdure encore aujourd'hui. Nous reconnaissons la présence et les contributions durables du peuple algonquin dans cette région. Nous reconnaissons également l'histoire douloureuse de la colonisation et du déplacement des communautés autochtones de leurs terres ancestrales. Nous nous engageons à apprendre, à comprendre et à honorer l'histoire et la culture de la nation algonquine. Nous reconnaissons l'importance de travailler en collaboration pour créer un avenir plus juste et plus équitable pour tous ceux qui vivent sur cette terre.
+3. Roll Call – Appel nominal
+Present – Présent.e.s: 
+* Co-President – Présidente: Aiden McCooeye (he/him/il)
+* Co-President – Présidente: Eric Hagen (he/him/il)
+* VP External – Externe: Ashna Cheverlharan (she/her/elle)
+* VPFA: Cyrus Choi (he/him/il)
+* VP Academic – Académique: Nick Mesquita (he/him/il)
+* VP Internal – Interne: Steffen Zylstra (he/him/il) - Excused
+* VP Services: Luke Ballinger (he/him/il)
+* VP Social: Magno Melo Martins (he/him/il)
+* VP Philanthropic – Philanthropique: Zoe Saunders (she/her/elle)
+* VP Equity – Équité: Maria Hal (she/her/elle)
+* VP Sustainability – Développement durable: Sydney Ruberto (she/her/elle) - Excused
+* VP Francophone: Yann Giffaux (he/him/il)
+* IEEE: Jad Mghabghab (he/him/il)
+* CESA – AÉGCi: Claire Durand (she/her/elle)
+* ChESS – AÉGC: Nour Akremi (she/her/elle)
+* MESS – SÉGM: Farah El Siss (she/her/elle)
+* MESS – SÉGM: Ryan Langley (he/him/il)
+* GNG 1105 A: Jayden Ireland (he/him/il)
+* GNG 1105 B: Calvin Smith (he/him/il)
+* GNG 1105 D: Katelyn Saper (she/her/elle)
+* GNG 1505 B: Sofia Jadal (she/her/elle)
+* 2nd year Chemical – 2e année chimique: Emilia Wesolkowski (she/her/elle)
+* 2nd year Electrical – 2e année électrique: Rory McCulloch (he/him/il)
+* 2nd year Mechanical – 2e année mécanique: Rocco De Oliveira (he/him/il)
+* 2nd year Computer – 2e année informatique: Pradyumna Uppalapati (she/her/elle)
+* 2nd year French – 2e année français: Meltem Selin Çetin (she/her/elle)
+* 3rd year Electrical – 3e année électrique: Aditya Baindur (he/him/il)
+* 3rd year Mechanical – 3e année mécanique: Dakota Squires (he/him/il)
+* 3rd year Software – 3e année logiciel: Jamie Watson (she/her/elle)
+* 3rd year Computer – 3e année informatique: Somana Debnath (she/her/elle)
+* 4th year Mechanical – 4e année mécanique: Giovanni Abbruzzo (he/him/il)
+* 4th year Computer – 4e année informatique: Stuti Pandya (she/her/elle)
+* CO-OP Chemical – Chimique CO-OP: Rayan Ben Kadi (he/him/il)
+* CO-OP Electrical – Électrique CO-OP: Samuel Li (he/him/il)
+* CO-OP Computer – Informatique CO-OP: Brooke MacQuarrie (she/her/elle)
+Absent – Absent.e.s:
+* VP Communications: Hayley Jubinville (she/her/elle)
+* CESA – AÉGCi: Rumony Chhom (she/her/elle)
+* CO-OP Mechanical – Mécanique CO-OP: Conor Waldron (he/him/il)
+* * * Non-voting – Sans droit de vote
+4. Comments from the Chair – Commentaires de la présidence
+   1. Robert’s Rules Overview – Aperçu des règles de procédure Robert
+Special Rules of Order
+1: New idea
+2: Replying to current idea
+p: Point of privilege, interrupts current discussion (ex: can't hear the microphone)
+c: Point of clarity, confused about current discussion and needs clarification, interrupts current discussion (ex what does an acronym mean)
+t: Requesting a translation 
+   2. Notes
+      * Communication is KEY. There should be an open line of communication at all times! 
+      * Proxies! Best if they are part of the student population that you represent not just a friend 
+5. Administrative Motions – Motions administratives
+Title
+Titre
+	Adoption of Agenda
+Adoption de l'ordre du jour
+	Mover
+Proposé
+	Calvin
+	Seconder
+Appuyé
+	Aiden
+	BE IT RESOLVED THAT the agenda be adopted as presented.
+IL EST RÉSOLU QUE l'ordre du jour est adopté tel que présenté.
+	Discussion
+	Ashna: Include motion for CSE invoice. Got an email from VPFA about the invoice as the previous VPFA did not pay. Already overdue.
+Seconded Calvin 
+For: 13 
+Against:
+Abstain: 1
+Dakota: Motion to move Exec updates to after motions 
+Seconded by Calvin 
+For: 14
+Against: 0
+Abstain: 0
+	Result
+Résultat
+	Passes unanimously
+	6. Elections – Élections
+Title
+Titre
+	Election of Year Representatives 
+Élection des représentants d'année
+	Mover
+Proposé
+	Calvin
+	Seconder
+Appuyé
+	Aiden
+	Nominations
+	* GNG 1505 A: Jocelyn Mbagwu
+* 2nd year Biomedical mechanical: Natalie Parker
+* 4th year Biomedical mechanical: Nicholas Lam
+* Co-Op Biomedical mechanical: Toshio Woo
+* SASS Rep - Amira Hammoud
+	WHEREAS several Year Representative positions are currently vacant;
+WHEREAS Year Representatives must be elected by ordinary resolution of the Members in accordance with Section 1.3.3.2 of the Policy and Procedure Manual;
+BE IT RESOLVED THAT the following Members be elected as Year Representatives for their respective programs and years, as detailed below:
+* 1st year
+   * GNG 1105 C: 
+   * GNG 1105 D: 
+   * GNG 1505 A: Jocelyn Mbagwu
+   * SEG 2900: 
+   * PHY 1121/1521
+* 2nd year
+   * Civil:  
+   * Biomedical mechanical: Natalie Parker
+   * Software: 
+* 3rd year
+   * Chemical: 
+   * Civil: 
+   * Biomedical mechanical: 
+   * French: 
+* 4th year or higher
+   * Chemical: 
+   * Civil: 
+   * Electrical: 
+   * Biomedical mechanical: Nicholas Lam
+   * Software: 
+   * French: 
+* CO-OP
+   * Civil: 
+   * Biomedical mechanical: Toshio Woo
+   * Software: 
+* Student Academic Success Service (SASS): Amira Hammoud
+________________
+
+
+ATTENDU QUE plusieurs postes de représentants d'année sont actuellement vacants;
+ATTENDU QUE les représentants annuels doivent être élus par une résolution ordinaire des membres conformément à la section 1.3.3.2 du Manuel des politiques et procédures;
+IL EST RÉSOLU QUE les Membres suivants de la Société soient élus en tant que représentants annuels pour leurs programmes et années respectifs, comme détaillé ci-dessous: 
+* 1ère année
+   * GNG 1105 C
+   * GNG 1105 D: 
+   * GNG 1505 A
+   * SEG 2900: 
+   * PHY 1121/1521
+* 2ème année
+   * Génie civil: 
+   * Génie biomédical mécanique: 
+   * Génie logiciel: 
+* 3ème année
+   * Chimie: 
+   * Génie civil: 
+   * Génie biomédical mécanique: 
+   * Français: 
+* 4ème année ou plus
+   * Chimie: 
+   * Génie civil: 
+   * Génie électrique: 
+   * Génie biomédical mécanique: 
+   * Génie logiciel: 
+   * Français: 
+* CO-OP
+   * Génie civil: 
+   * Génie biomédical mécanique: 
+   * Génie logiciel: 
+* Service de réussite académique des étudiants (SASS): 
+	Questions
+	Calvin: We should do the same format as last time: Regular (30 sec) – Why they want to join BOD; Silly (sec) – Favourite study spot on campus
+
+
+	Answers
+Réponses
+	Jocelyn Mbagwu: 1. I want to know more about the inner workings of ESS and represent first year interests. 2. I’ve been really liking SITE with all the big tables cuz I can study with all of my friends, also Math Help Center.
+Natalie Parker: 1. From what the people I know have been telling me about how great ESS is,  I want to be more involved in the engineering community. 2. It would have to be SITE balcony, specifically in the winter as it gets hot in the summer and it has chargers.
+Nicholas Lam: 1. I’ve seen BOD on instagram and I want to see how it works and get more involved in the engineering community, and meet more people in upper and lower years to help the lower years. 2. Half floor in SITE as I live right next to it. SITE in general, I study there a lot.
+Toshio Woo: 1. I’d like to join because I want to help make a difference in the engineering community and I think there are a lot of fun events that ESS plans. I want to do some work on BOD as well. I really like the STEM mentoring center as there is a lot of light and you can see people walking between their classes and a lot of spots available usually. 
+Amira Hammoud: 1. I’m interested because recently this semester I’ve been getting more involved in the engineering community. I got involved in MESS and feel like bod is a good way to continue that. 2. Education Library in Lamoureux. It’s quiet, they got puppets on the wall, and it’s close to Tim Hortons.
+	Discussion
+	Dakota: All are uncontested?
+Maya: yes
+Dakota: all were good candidates
+Conor: conflict of interest with big vote for MESS. Morally wrong and not helpful for the engineering community for people to try to join ESS to further goals of subassociation. I’m more than open for the people to joining MESS but the timing is suspicious. 
+Jamie: I also had this thought  . is there a way to discuss this without MESS people being in the call?
+Maya: We can ask them to leave. If there is a conflict of interest please state it.
+Farah: I am MESS copres. I understand that this does seem like a conflict of interest and as such I will not be voting on these elections. I can’t state on behalf of those who are running their intentions. 
+Rocco: If the problematic part is that MESS would be voting for the big motions, can we vote that people not on subassociations cannot vote on the motion?
+Chair: No
+Calvin: It’s fine that they are on MESS as many people on ESS are not just part of ESS. Might as well give them the chance.
+Conor: I agree with Farah. I have noticed it as well, there are a lot of members of ESS that would be affiliated with a certain group and only show up when that group is being discussed in the motions. I think this is a flaw with how BOD is run and there there should be a motion to prohibit people from voting when they have conflict of interests. This would have to be dealt with at AGM with constitution. We get coalitions that vote together on certain issues and this is improper. BOD should be people voting their own way.
+Jamie: I agree with what Conor said, but we cannot change the constitution right now. I don’t think other people doing bad to be a reason for why we should be doing it now. 
+Samuel: I’d like to thank Conor for pointing that out. From what I know with my conflict of interest, most subassociations are on board with the motion in the agenda. Moving forward, conflict of interests should be taken more seriously.
+Brooke: I’m hearing a lot of people saying we shouldn't have reps. THe whole point of reps is that we have different people from different perspectives, as well as people speaking for their subassociation . I agree it’s not great for many people of one subassociation joining at one time. I don’t think it would make sense to not lalow them solely for them being MESS. If there is a specific issue with this specific vote we could make them unable to vote for that motion or this specific meeting.
+Farah: I am a bit offended that I am being accused that I am trying to rig a vote. I did not say that just because others did something bad, we should do something bad too. Other people have made people join for a vote. We noticed there were a lot of biomech students missing, so we advertised this to them. 
+Jayden: To clarify, I don’t think htat there are reps, the problem is that if we are concerned about people only showing up when it matters for their team, I think it is a problem with our interviews and who we allow to join. If we try to avoid bias from subassociations, we would lose a lot of people. 
+Conor: I just wanted to make sure that everyone lets cooler heads prevail. We are all working towards the same goal.I have been told that the big vote is a difference of fifty bucks,  which is fairly insignificant for burning bridges. To come to the defense of people who shared my opinion that I first talked about, I don’t want to come across as accusatory to anyone. From our point of view, if it looks like a duck, walks like a duck and quacks like a duck most likely it’s a duck. I am just doing what I think is right for the engineering student body. 
+Jayden: From my point of view, I have been part of discussions with MESS but I don’t see it being a big problem. As for people from subassociations being on the board, this will likely continue. A lot of these issues would be fixed by having a more scrutinized application process.
+Aiden: I think it is a good idea to have an attendance requirement to continue to be on BOD. There are a lot of people missing on these board meeting who have been missing for months, not voting, etc. 
+Eric: This is a good opportunity to see how we structure BOD. Maybe people who already are here from their subassociations are the reps. We could restructure such that every subassociation has like three voting members.
+Zoe: I wanted to say it seems like, based on intent, it just happened that the BOD account dmed Farah. It is something we want to address at AGM. CIRCULAR
+
+
+	Result
+Résultat
+	For: 13
+Against: 1
+Abstain: 7; Notably: Farah & Rocco
+	
+
+7. (After Motions) Executive Updates – Mises à jour de l'exécutif
+* Co-Presidents – Coprésidents: Aiden McCooeye (he/him/il) & Eric Hagen (he/him/il)
+   * VP elections complete
+   * Room bookings
+   * Attended PRT and brought up team questions
+   * Officer meetings ongoing
+   * Organizing the constitution review (March 8th in CBY A707)
+* VP External – Externe: Ashna Cheverlharan (she/her/elle) 
+   * CALE: Happened February 5-8, attended with 4 delegates, delegate take-backs presented later, PM bid with Steffen got approved
+   * CSE:  Happened February 27-March 2, coordinated travel bookings and delegate meeting for 4 delegates, Sydney went as head delegate
+   * Bug Push: Happening on March 27-28 at TMU, post out, working with Zoe to coordinate people and transportation
+   * Carleton x UOttawa Hockey Game: Happening on March 20, team registration post out, ice booked, jerseys ordered, promo for ticket sales happening soon with Carleton
+   * Winter External Awareness Night: Happening on March 19, promo out soon, planning with external awareness team, room booked
+   * ESSCO Merchandise Giveaway: Coordinated Instagram giveaway with external awareness team on external account  to promote ESSCO
+   * Started working on my end-of-year reports as conferences are done and early transition would be beneficial
+* VPFA: Cyrus Choi (he/him/il)
+   * Charity ball expenses have all been reimbursed
+   * Supporting other events financially
+   * Completed CFES Financial Membership Headcount Survey for the 2024-2025 year
+   * February budget update:
+  
+
+* VP Academic – Académique: Nick Mesquita (he/him/il) 
+   * Going to put out the Academic Inquisition form very soon, keep an eye out for that (many thanks to Brooke for that, amazing work)
+   * Working on Wine and Cheese still, food will look a little different this semester but still feeding people
+* VP Communications: Hayley Jubinville (she/her/elle)
+   * Not sent
+* VP Internal – Interne:  Steffen Zylstra (he/him/il)
+   * Working on NEM events
+      * March 9, 2:30 - 6:00: Mechanical Engineering Industry Panel, STM 117
+      * March 11, 6:30 - 9:30: Civil Engineering Industry Panel, STM 117
+      * March 14, 2:00-4:00: Pie Day Celebration with Science Students' Association, Marion Basement
+      * March 14, 7:00 - 10:00 (pm): Francophone Karaoke Night, NOX Eatery
+      * March 20, 5:30 - 7:30: CEED Iron-On Patch Making, STM 117/Makerspace
+      * March 26, 1:00-4:00: Cyber Range Simulation, Cyber Hub
+   * Office renovations are continuing, feedback appreciated
+   * New office chairs on way, floors mopped/waxed and existing chairs cleaned
+   * Met with sub-association directors
+* VP Services: Luke Ballinger (he/him/il)
+   * Not sent
+* VP Social: Magno Melo Martins (he/him/il)  
+   * Welcomed Spirit Commissioner to the team, introducing Spirit Challenges for 101 week team to continue competing throughout the year
+   * STAGED details finalized, set for March 4th, doors open at 6:30PM
+   * Trivia Event with CSSA  on the 26th, went good or bad (I'm writing this ahead of time)
+   * Mont-Tremblant Ski Trip 2 happening on March 8th
+   * Trying to finalize last details for DUSTED, confirmed for March 21st.
+* VP Philanthropic – Philanthropique: Zoe Saunders (she/her/elle)
+   * eng ball done !
+   * bake sale for egale done
+   * donations for both will be sent out soon, final numbers TBD
+   * march event in the works
+   * ski event additional donations to be given to st. joes!
+   * bug push in the works
+* VP Equity – Équité: Maria Hal (she/her/elle)
+   * bake sale with VP Phil done, raised 200+
+   * hosting staged wednesday
+   * working on a community building event with SSA geo rep
+   * finished on the report for the fall term
+* VP Sustainability – Développement durable: Sydney Ruberto (she/her/elle)
+   * Attending CSE this weekend
+   * Looking into more collabs with sustainable clubs
+* VP Francophone: Yann Giffaux (he/him/il) 
+   * Reported the Champions League Watchparty for the next stage of the competition, March 16-18, due to not finding an available room last minute.
+   * Will help organize a franco party event with UOSU for Mois de la Francophonie March 28, first meeting is tonight.
+   * Helping Steffen’s initiative to do a Franco Karaoke with profs at Nox.
+   * Considering a redo of Franco Raclette after multiple demands of a re-run.
+8. Sub-association updates –  Mise à jour des sous-associations
+* IEEE
+   * Wine & Cheese 17: Great success! Best one yet for suree. Our Dean of EDI attended and loved it (even made a linkedin post )
+   * Capture the Flag with HTB: Hosted CyberSec event, more to come, had a lot of intersted for more of them.
+   * RF Engineering workshop with Rhodes & Schwarz: R&S brought really advanced tech and taught students, had to reject some application so mabe we'll host a part 2 next year
+   * STM & FreeRTOS workshop: Last-minute workshop held for Real Time Systems students, also had to reject some attendees since we couldn't fill any more. The course is lacking lab help, so a lot of students requested this
+   * Resume Roast: Roasted some students' resumes,  good 1-1s with them, and learned lots of lessons if we'll do it again next year!
+   * CEGSC QNX Workshop: Full room workshop and QNX ended up giving everybody free raspberry pi 5s!
+   * Battle Royale started on Friday 🎮
+   * Our next big event is WIPS, started marketing on that:
+      * Nominate yourself or your team for an awards (and get a free ticket)! https://forms.gle/FFQFYKGJhPiDXmNi8
+   * General Election Nominations happening right now
+   * Survey for preffered workshops: https://forms.gle/zrLL8s3ezhC47cHt8
+      * We want to see what workshops students are more interested in, to plan our next events. Fill it out if you're interested in any!
+   * Had a chat with faculty about computer engineering course feedback, and would love some feedback from ess. If you hear anything about a program we represent, let me know, and we'll bring it up to the faculty!
+* CESA
+   * sub association volleyball happening now
+   * Industry Night: March 11th - will have a panel, post went up Wednesday
+   * Attended CSCE event at Carleton, maintaining relations with CSCE Ottawa Chapter
+   * Election process starts March 4th, elections officer chosen
+   * GM date to be decided soon to ratify and do constitution review
+   * Talking with Carleton about bridge competition, might be a next year thing
+   * CWRA team is up and running
+* CHESS
+   * The AGM was successfully held on Feb, 1st.
+   * Resume review event was hosted on Feb, 24th
+   * Our special edition merch is releasing on Feb 26th
+   * The Volleyball Showdown will take place on March 1st, in collaboration with IEEE, CESA and MESS
+   * 3 new stickers have been released. These were funded by the department and will be free to all Chem Eng students during events
+   * We worked with the department to address course concerns. Students wanted to have more fall courses during summer. The department agreed to offer CHG 3316 – Transport Phenomena this summer
+   * We’re bringing back the Graduate Mural tradition after 8 years. The department has been informed and is fully supportive.
+* MESS
+   * shoot your shot night was amazing! Great vibes, couples were made! Sold out tickets, 50 more on the wait list. Bar almost drank dry.
+   * Galentines networking night was fire. Decorations really popped off. Partnered companies/ individuals are happy.
+   * hot cocoa with mess has been a great recurring event for students.
+   * merch coming March 6th. Limited drop!
+   * sub association vollyball event (happening at the same time as BOD). We have been coordinating that with IEEE, CESA, ChESS.
+   * elections are dropping March 10th for MESS. GM to ratify and final edits of constitution this sem on April 1st. Elections person chosen — does not go to uottawa, knows no mech.
+   * working on the 2nd year mech/biomech exam schedule issue with the faculty.
+   * events this upcoming March: sub vollyball showdown (March 1), Nordion Q&A (March 2), industry hours(March 9th), Pool with profs(March 18th), Cookies and CAD(March 23), Game show with profs(March 26)
+   * new fun patches coming out soon.
+9. Motions
+Title
+Titre
+	Motion to Return Missed Summer 2024 Levies
+Motion visant à rembourser les cotisations non perçues pour l'été 2024
+	Mover
+Proposé
+	VPFA
+	Seconder
+	Calvin
+	WHEREAS the previous VP Finance had calculated sub-association levies with the ratio of 0-100
+WHEREAS these levies should be calculated with the previous VP Finance’s method in mind, as they were supposed to be distributed during the Summer 2024 term. 
+WHEREAS because the new sub-association policy and formula was set thereafter Summer 2024, we return what it owed to the sub-association from Summer 2024. 
+BE IT RESOLVED the sub-associations apart from CESA, be transferred the amount they were owed based on the 100-0 ratio.
+________________
+
+
+ATTENDU QUE l'ancien vice-président aux finances avait calculé les cotisations des sous-associations selon un ratio de 0 à 100
+ATTENDU QUE ces cotisations devraient être calculées selon la méthode de l'ancien vice-président aux finances, car elles devaient être distribuées pendant la période estivale 2024. 
+ATTENDU QUE la nouvelle politique et la nouvelle formule relatives aux sous-associations ont été établies après l'été 2024, nous remboursons ce qui était dû à la sous-association à partir de l'été 2024. 
+IL EST RÉSOLU que les sous-associations autres que la AEGCI se voient transférer le montant qui leur était dû sur la base du ratio 100-0.
+	Documents
+	  
+
+	Discussion
+	Eric: Whether they do or do not get money it does not affect anyone else’s funding.
+Ryn: Right now we are talking about 80:20 or 100:0. This will be discussed afterwards.
+Jayden: Where would the money be going if it is not redistributed?
+Maya: We just keep it
+Eric: It wouldn’t have been in the net expenses for that year. The money does not have to be in a budget line. 
+Conor: All the stuff will be discussed in the next motion. Whatever Dom did, we are going along with that.
+Magno: I agree with Conor, if MESS are owed X amount, we should give them what they are owed. 
+Eric: For the sake of time, if no one has to say, we should vote
+Farah: If we are going to do a different split, we are setting a precedent to alter amounts after they are set.
+
+
+
+
+	Result
+Résultat
+	For 24 votes
+Against 0 
+Abstain 0 
+	Title
+Titre
+	Motion to Determine CESA’s Cut for Summer 2024 Levy Distribution
+Motion visant à déterminer la part de la AEGCI dans la répartition des prélèvements pour l'été 2024
+	Mover
+Proposé
+	VPFA
+	Seconder
+	Calvin
+	WHEREAS CESA was not an established sub-association until the middle of the Summer 2024 term
+WHEREAS because of no official recognition as a sub-association, they are not entitled to levies until the following term (Fall 2024)
+BE IT RESOLVED that we backdate CESA’s levies to consider them 100% established and we pay out 100% of their expected portion from the Summer 2024 student list.
+________________
+ATTENDU QUE la AEGCI n'était pas une sous-association établie avant le milieu du semestre d'été 2024
+ATTENDU QUE, n'étant pas officiellement reconnue comme sous-association, elle n'a pas droit à des prélèvements avant le semestre suivant (automne 2024)
+IL EST RÉSOLU que nous datons les prélèvements de la CESA afin de les considérer comme établis à 50 % et que nous leur versons 50 % de leur part prévue à partir de la liste des étudiants de l'été 2024.
+	Discussion
+	Claire: I think it would be helpful to use the moey that should have been allocated to the civil students to be used for it. Even if we weren’t established that money should still, if only partly, be used towards the sub-association and not to all the students that ESS represents 
+Dakota: How much money are we talking about? 300 ish $
+Jayden: Was the money supposed to go to CESA? It would be in bad faith to take that away for them 
+Aiden: There weren’t any events per say it was just an idea in the making with signatures and making teams 
+Claire: Most subassociations don’t really plan any events over the summer since we do get less money 
+Farah: There are a lot more expenses then just events 
+Jayden: Were there any expenses? 
+Claire: No but we tried to do it for free so we didn’t have any expenses since we didn’t have the policy that was as clear as it is now to create a new sub association 
+Rocco: What about EEF money? And can Sub associations ask for more money if they need it? 
+EEF is a reimbursement basis and advancement policy is now in plain 
+
+
+Jayden: Current discussion is about 50% cut and we are here to talk about the best interest. What are we doing with the money we aren’t paying to them. 
+Cyrus: We are reallocating 
+Eric: It’s already been budgeted for. This money has already been distributed we are just taking money that is in our bank account and giving it because this money was from past budgets 
+Rocco: ESS events are a lot bigger scope, need more money. CESA could do a lot more with the money solely because of the scope.
+Jayden: Are you saying it’s better for CESA to have the money as they could do more with the money than ESS?
+Rocco: Yes
+Farah: We had a colab with CESA before where we could have done more if they had more money.
+Jayden: If we are taking the 50% from CESA, we are having an effect on what they could provide to their students. We should have a good argument for this.
+Rocco: Do we have a startup grant for subassociations?
+Chair: No as it does not happen often enough.
+Claire: Can I motion to amend the motion?
+Chair: Yes
+Claire: Could I motion to consider 100%?
+VPFA: Friendly
+
+
+	Result
+Résultat
+	For: 18 votes
+Against: 0
+Abstain: 2 votes
+	Title
+Titre
+	Motion to Pay CALE 2025 Invoice
+Motion visant à payer la facture de CPLI 2025
+	Mover
+Proposé
+	VP X
+	Seconder
+	Calvin
+	WHEREAS the invoice for the CALE 2025 delegation has not yet been paid due to the organizing committee of CALE 2025 sending out invoices 2 months after conference. 
+WHEREAS the co-chairs of CALE 2025 reached out to the uOttawa VPX requesting this invoice be paid as it is now more than a year past due
+WHEREAS the invoice totals to $1200
+WHEREAS the VPX was unaware that the CALE 2025 invoice was not paid when preparing the initial budget
+BE IT RESOLVED THAT an additional budget line titled "CALE 2025 invoice" is added to the VP External budget and an amount of $1200 is allocated towards that line
+________________
+
+
+ATTENDU QUE la facture de la délégation CPLI 2025 n'a pas encore été payée, car le comité organisateur de CPLI 2025 a envoyé les factures deux mois après la conférence. 
+ATTENDU QUE les coprésidents de CPLI 2025 ont contacté la vice-présidente aux affaires externes de l'Université d'Ottawa pour demander le paiement de cette facture, qui est désormais impayée depuis plus d'un an
+ATTENDU QUE le montant total de la facture s'élève à 1200 $
+ATTENDU QUE la vice-présidente aux affaires externes n'était pas au courant que la facture de CPLI 2025 n'avait pas été payée lorsqu'il a préparé le budget initial
+IL EST RÉSOLU QU'une ligne budgétaire supplémentaire intitulée « Facture CPLI 2025 » soit ajoutée au budget de la vice-présidente aux affaires externes et qu'un montant de 1 200 $ soit alloué à cette ligne.
+	Discussion
+	
+
+	Result
+Résultat
+	Passes Unanimously
+	Title
+Titre
+	Motion to add JMTS Representative position
+Motion d'ajouter la position de représentant ECJM
+	Mover
+Proposé
+	3rd year MCG
+	Seconder
+	Calvin
+	WHEREAS the John McEntyre Team Space (JMTS) teams are a unique coherent of students (approximately 200) with different needs from the general engineering student body
+WHEREAS ESS has been trying to extend our impact with the JMTS teams through the VP Internal
+BE IT RESOLVED THAT a representative position be added to the ESS Board of Directors to have more direct communicate with the JMTS teams
+________________
+
+
+ATTENDU QUE les équipes d'Espace de collaboration John McEntyre (ECJM) sont un groupe d'étudiant(e)s unique (approximativement 200) avec des besoins différents que ceux du corps étudiant de génie général
+ATTENDU QUE l'AÉG a essayé d'étendre notre impact avec les équipes de ECJM par la VP Internale
+IL EST RÉSOLU QU'une position représentante soit ajoutée au conseil d'administration d'AÉG pour avoir le communication plus directe avec les équipes d'ECJS
+	Discussion
+	Calvin: In JMTS teams there are students that are non-engineering students. Maybe add a clause saying that they must be engineering students
+Dakota: Not Friendly
+Jayden: I could see that rationale behind making it engineering students, but many teams have science leads. A good person could represent them without necessarily being in enigneeing.
+Aiden: I disagree as all of our money comes from engineering students and thus we are accountable to engineering students. We shouldn’t be accountable to a non-engineering student. 
+Dakota: Realistically, mostly all engineering students, some CS students, maybe a few science and Telfer students. 
+Motion of added clause: 
+For: 16 votes
+Against: 1 vote
+Abstain: Dakota
+	Result
+Résultat
+	For: 13 votes
+Against: 0 votes
+Abstain: 4 votes: Notably; Dakota
+	Title
+Titre
+	Motion for Purchasing Hockey Jerseys for Carleton Hockey Game
+Motion visant l'achat de maillots de hockey pour le match de hockey de Carleton
+	Mover
+Proposé
+	VPFA
+	Seconder
+	Calvin
+	WHEREAS the engineering hockey game is happening on March 20th against Carleton
+WHEREAS we need to look professional and have a sense of uniformity when we beat Carleton
+WHEREAS the Carleton Hockey jerseys line currently has $300 (through previous officer-only budget-vote)
+BE IT RESOLVED that another $200 is added to the Carleton Hockey jerseys line in the VP External budget to allow us to spend money on the jerseys and customizations
+BE IT FURTHER RESOLVED that the Carleton Hockey jersey line now has a  total of $500 to spend on jerseys and customizations
+________________
+
+
+ATTENDU QUE le match de hockey contre Carleton aura lieu le 20 mars
+ATTENDU QUE nous devons avoir une apparence professionnelle et uniforme lorsque nous battrons Carleton
+ATTENDU QUE la ligne de maillots de hockey Carleton dispose actuellement d'un budget de 300 $ (approuvé lors d'un vote réservé aux dirigeants)
+IL EST RÉSOLU qu'un montant supplémentaire de 200 $ soit ajouté à la ligne budgétaire consacrée aux maillots de hockey de Carleton dans le budget du vice-président aux relations externe afin de nous permettre de dépenser de l'argent pour les maillots et les personnalisations.
+IL EST DE PLUS RÉSOLU que la ligne de maillots de hockey Carleton dispose désormais d'un budget total de 500 $ à consacrer à l'achat de maillots et à leur personnalisation. 
+	Discussion
+	Aiden: What money has already been spent? 
+Cyrus: 16 jerseys for 450$ 
+Rocco: I am confused did this not pass
+It wasn’t unanimous 
+Magno: Who is gonna wash the jerseys? 
+Cyrus: Us? At a Laudramat 
+Ashna: I think Internal should wash it. There was concern about whether the jerseys would be reusable, and if we went to reach out to intramurals. We did check with them and checked the dungeon, but couldn’t find anything. 
+Rocco: I am confused about Aiden said there was already money spent. How did we spend it if we didn’t allocate it?
+Cyrus: Because of the time constraint the jerseys have been purchased. This is something of a necessity for the team. 
+Rocco: What would the outcome be if it doesn't pass?
+Chair: The money would then be out of pocket.
+Ashna: The outcome would be returning them. We did spend the money as they would have gotten more expensive if we would have waited and we did need jerseys for the game.
+Yann: Is it possible to look at adding something to the constitution so that future VPX make this an annual thing if this does go through? My worry is that this expense does not make sense if this is a one time occurrence. 
+Eric: With the assumption that this is a recurring event, this is a negligible expense.
+Ashna: If this goes well, we do want to make this an annual thing. I don’t know if it is a good idea to mandate this. I can add this to my transition document for whoever is the next VPX. It would foster collaboration with Carleton’s EngSoc as we currently do not have any events with them.
+
+
+	Result
+Résultat
+	For: 14
+Against: 0
+Abstain: 4; Notably VPX
+
+
+Passes
+	Title
+Titre
+	Motion to Fund Mont-Tremblant Ski Trip 2
+Motion pour Financer le voyage de ski de Mont-Tremblant 2
+	Mover
+Proposé
+	VP Social
+	Seconder
+	Calvin
+	WHEREAS VP Social still has 2,850$ extra in the budget from Iron Ring After Party
+WHEREAS Tremblant Ski Trip’s expenses as estimated to be around ~$1,500
+BE IT RESOLVED THAT we use the remaining $2,850 to fund Mont-Tremblant Ski Trip 2 (and there will be leftover for any extra expenses in future events)
+________________
+
+
+ATTENDU QUE VP Social a encore 2 850 $ supplémentaires dans le budget d'Iron Ring After Party
+TANT QUE Les dépenses de Tremblant Ski Trip sont estimées à environ ~1 500 $
+QU'IL SOIT RÉSOLU QUE nous utilisons les 2 850 $ restants pour financer Mont-Tremblant Ski Trip 2 (et il y aura des restes pour toute dépense supplémentaire dans les événements futurs) 
+	Discussion
+	Magno: I did have the money but it was written under other events. In the spirit of transparency I decided to motion for it. Nothing has been paid for. If for any reason this is voted against we can cancel and not go through with the event. First ski trip was a success.
+Rocco: Is there going to be enough snow?
+Magno: According to the ski club, yes.
+Cyrus: They are running buses until April 12, so it should be fine.
+	Result
+Résultat
+	For: 16
+Against: 
+Abstain: Magno
+	Title
+Titre
+	Motion to generalize NEM budget
+Motion visant à généraliser le budget NEM
+	Mover
+Proposé
+	VPFA
+	Seconder
+	Calvin
+	WHEREAS the VP Internal NEM budget is currently split: (See attached)
+WHEREAS this NEM budget was created by the previous VP Internal and does not reflect current plans for the month.   
+BE IT RESOLVED that the NEM Budget line is transformed into a single $1810 budget line titled “National Engineering Month Supplies and Events”, the sum of all the above lines.
+
+
+Events: 
+March 9, 2:30 - 6:00: Mechanical Engineering Industry Panel, STM 117
+March 11, 6:30 - 9:30: Civil Engineering Industry Panel, STM 117
+March 14, 2:00-4:00: Pie Day Celebration with Science Students' Association, Marion Basement
+March 14, 7:00 - 10:00 (pm): Francophone Karaoke Night, NOX Eatery
+March 20, 5:30 - 7:30: CEED Iron-On Patch Making, STM 117/Makerspace
+March 26, 1:00-4:00: Cyber Range Simulation, Cyber Hub
+________________
+
+
+ATTENDU QUE le budget du vice-président interne NEM est actuellement divisé : (voir pièce jointe)
+ATTENDU QUE ce budget NEM a été créé par le précédent vice-président interne et ne reflète pas les plans actuels pour le mois. 
+IL EST RÉSOLU que la ligne budgétaire NEM soit transformée en une seule ligne budgétaire de 1 810 $ intitulée « Fournitures et événements du Mois national de l'ingénierie », soit la somme de toutes les lignes ci-dessus.. 
+
+
+Évènement: 
+March 9, 2:30 - 6:00: Mechanical Engineering Industry Panel, STM 117
+March 11, 6:30 - 9:30: Civil Engineering Industry Panel, STM 117
+March 14, 2:00-4:00: Pie Day Celebration with Science Students' Association, Marion Basement
+March 14, 7:00 - 10:00 (pm): Francophone Karaoke Night, NOX Eatery
+March 20, 5:30 - 7:30: CEED Iron-On Patch Making, STM 117/Makerspace
+March 26, 1:00-4:00: Cyber Range Simulation, Cyber Hub
+
+
+	Documents
+	  
+
+	Discussion
+	Cyrus: Can I amend this to show the event?
+Chair: Yes
+Cyrus: He will be spending it on patches, food for karaoke, pies in collaboration with math reps on SSA. This is easier as a lump sum. The NEM patches do not have a year on them.
+Aiden: Could we use last year’s patches to save money?
+
+
+	Result
+Résultat
+	Passes unanimously
+	Title
+Titre
+	Motion for Purchasing Franco Merch as compensation for Anglophone only merch
+Motion pour l’achat de Marchandise Franco comme compensation pour la Marchandise seulement Anglophone
+	Mover
+Proposé
+	VP Franco
+	Seconder
+	Calvin
+	WHEREAS the new patch for Dusted is only in english without consultation of the bilingual instances of ESS. 
+WHEREAS the “Eng is not a cult” merch is only in english without consultation of the bilingual instances of ESS.
+WHEREAS the constitution clearly cites that all merch must be bilingual (see 2.3.8b of the constitution), and needs to be verified by VP Francophone, Manager of Translation or VP Communication (see 13.3.1 of the constitution).
+WHEREAS the university holds up bilingual standards by having an English version and a French version of the merch.
+BE IT RESOLVED that VP Social and VP Services each do a francophone only line of merch of their choice as compensation.
+BE IT FURTHER RESOLVED a new line be added to each of their budget called Franco Merch with a total budget of 600 $.
+________________
+
+
+ATTENDU QUE le nouvel écusson pour Dusted est seulement en anglais sans avoir consulté les instances bilingues de ESS avant l’achat. 
+ATTENDU QUE les cottons ouatés « Eng is not a cult » sont seulement en anglais sans avoir consulté les instances bilingues de ESS avant l’achat.
+ATTENDU QUE la constitution dicte clairement que toute marchandise doit être bilingue (voir 2.3.8b de la constitution) et qu’elle nécessite vérification par le VP Francophone, Manageur des Traduction ou VP Communication (voir 13.3.1 de la constitution)
+ATTENDU QUE l’université maintient le standard de bilinguisme en ayant une version française et anglaise de la marchandise.
+IL EST RÉSOLU que le VP Social et VP Services produise chacun une ligne francophone de marchandise comme compensation.
+IL EST ÉGALEMENT RÉSOLU qu’une ligne soit ajoutée à chaque de leur budget nommée « Franco Merch » avec un budget total de 600 $. 
+	Documents
+	Ordered:    Will be ordered:  
+	Discussion
+	Cyrus: As proxy for Magno, he want me to show everyone a sample of the Winter Dusted patch.
+Calvin: Do we know if Magno has ordered the patch that says 2025 for Dusted?
+Cyrus: This is a draft. On the actual patch it says 2026.
+Ryn: With the Dusted patches, we typically have them stick around for quite a long time. 
+Dakota: The two things that we are fixing are the Not a CUlt sweater and the which patch?
+Chair: The Winter Dusted
+Yann: I already talked to Yann about this. I don’t want the same amount to be ordered since we have fewer Francophone students. The idea would be to order less in French to match the interest.
+
+
+	Result
+Résultat
+	
+
+	Title
+Titre
+	Motion to Pay CSE 2025 Invoice
+Motion visant à payer la facture de CDDI 2025
+	Mover
+Proposé
+	VP X
+	Seconder
+	Calvin
+	WHEREAS the former VP Finance did not make the payment for the CSE 2025 delegation invoice 
+WHEREAS the VPFA of the CFES reached out to the uOttawa VPX requesting this invoice be paid as it is now more than a year past due
+WHEREAS the invoice totals to $762.75
+WHEREAS the VPX was unaware that the CSE 2025 invoice was not paid when preparing the initial budget
+BE IT RESOLVED THAT an additional budget line titled "CSE invoice" is added to the VP External budget and an amount of $762.75 is allocated towards that line
+________________
+
+
+ATTENDU QUE l'ancien vice-président aux finances n'a pas effectué le paiement de la facture de la délégation CDDI 2025 
+ATTENDU QUE le vice-président aux finances et à l'administration de la FCEG a contacté le vice-président aux affaires externes de l'Université d'Ottawa pour lui demander de régler cette facture, qui est en souffrance depuis plus d'un an
+ATTENDU QUE le montant total de la facture s'élève à 762,75 $
+ATTENDU QUE le vice-président aux affaires externes n'était pas au courant que la facture de CDDI 2025 n'avait pas été payée lorsqu'il a préparé le budget initial
+IL EST RÉSOLU QU'une ligne budgétaire supplémentaire intitulée « CSE invoice » soit ajoutée au budget du vice-président aux affaires externes et qu'un montant de 762,75 $ soit alloué à cette ligne
+	Discussion
+	
+
+	Result
+Résultat
+	Passes unanimously
+	10. UOSU BoD Updates – Mises à jour du CA du SÉUO
+* 11. Varia
+* CALE Takebacks - VP X 
+12. Notice of Motions – Avis de motion
+13. Adjournment – Ajournement
+With no further business, the meeting adjourned at 1:36 PM EDT.
+L'ordre du jour étant épuisé, la réunion est levée à 13h36 PM HAE.
+14. Next Meeting – Prochaine réunion
+The next Board meeting will be scheduled for March 29th 2026 at 8:30 AM. 
+La prochaine réunion du conseil d'administration sera programmée le 29 mars à 8h30.

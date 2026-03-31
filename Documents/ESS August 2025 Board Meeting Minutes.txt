@@ -1,0 +1,415 @@
+﻿ESS August BoD Meeting Minutes – Procès verbal de la réunion d’août du CA de l'AÉG
+1. Call to Order – Appel à l'ordre
+Date: Aug 24, 2025 11:00 AM
+Location – Lieu: STM 117 & Google Meet
+The meeting was called to order at 11:06 am with Maya Benhamou as Chair.
+La réunion est ouverte à 11h06 , sous la présidence de Maya Benhamou.
+2. Land Acknowledgement – Reconnaissance des Terres
+We acknowledge that we are gathered on the traditional and unceded territory of the Algonquin Anishinaabe Nation. For generations, they have been the stewards of this land, and their deep connection to it continues to this day. We recognize the enduring presence and contributions of the Algonquin people to this region. We also acknowledge the painful history of colonization and the displacement of Indigenous communities from their ancestral lands. We commit ourselves to learning, understanding, and honoring the Algonquin Nation's history and culture. We recognize the importance of working collaboratively to create a more just and equitable future for all who call this land home.
+________________
+
+
+Nous reconnaissons que nous sommes réunis sur le territoire traditionnel et non cédé de la nation algonquine anishinaabe. Depuis des générations, ils sont les gardiens de cette terre et le lien profond qui les unit à elle perdure encore aujourd'hui. Nous reconnaissons la présence et les contributions durables du peuple algonquin dans cette région. Nous reconnaissons également l'histoire douloureuse de la colonisation et du déplacement des communautés autochtones de leurs terres ancestrales. Nous nous engageons à apprendre, à comprendre et à honorer l'histoire et la culture de la nation algonquine. Nous reconnaissons l'importance de travailler en collaboration pour créer un avenir plus juste et plus équitable pour tous ceux qui vivent sur cette terre.
+3. Roll Call – Appel nominal
+Present – Présent.e.s: 
+* Co-President – Présidente: Aiden McCooeye (he/him/il)
+* VP External – Externe: Ashna Cheverlharan (she/her/elle)
+* Interim VP Internal – Interne: Daniel Thorpe (he/him/il)
+* VP Services: Luke Ballinger (he/him/il)
+* VP Social: Magno Melo Martins (he/him/il)
+* VP Philanthropic – Philanthropique: Zoe Saunders (she/her/elle)
+* IEEE: Jad Mghabghab (he/him/il)
+* ChESS – AÉGC: Nour Akremi (she/her/elle)
+* MESS – SÉGM: Kristen Wells (she/her/elle) - late
+* 2nd year Computer – 2e année informatique: Pradyumna Uppalapati (she/her/elle)
+* 3rd year Software – 3e année logiciel: Jamie Watson (she/her/elle)
+* CO-OP Computer – Informatique CO-OP: Brooke MacQuarrie (she/her/elle)
+* 2nd year Mechanical – 2e année mécanique: Rocco De Oliveira (he/him/il)
+* Absent – Absent.e.s:
+* VPFA: Cyrus Choi (he/him/il) - Excused
+* 3rd year Mechanical – 3e année mécanique: Dakota Squires (he/him/il) - Excused
+* Co-President – Présidente: Eric Hagen (he/him/il) - Excused
+* VP Academic – Académique: Nick Mesquita (he/him/il) - Excused
+* VP Equity – Équité: Maria Hal (she/her/elle) - Excused
+* 3rd year Computer – 3e année informatique: Somana Debnath (she/her/elle) - Excused
+* CESA – AÉGCi: Claire Durand (she/her/elle) - Excused
+* CESA – AÉGCi: Rumony Chhom (she/her/elle) - Excused
+* 2nd year Electrical – 2e année électrique: Rory McCulloch (he/him/il) - Excused
+* CO-OP Electrical – Électrique CO-OP: Samuel Li (he/him/il) - Excused
+* CO-OP Mechanical – Mécanique CO-OP: Conor Waldron (he/him/il) - Excused
+* Multidisciplinary Design – Design multidisciplinaire: Abby Wilson (she/her/elle) - Excused
+* VP Sustainability – Développement durable: Leila Smaili (she/her/elle)
+* VP Communications: Hayley Jubinville (she/her/elle)
+* VP Francophone: Thomas Boyle (he/him/il)
+* MESS – SÉGM: Farah El Siss (she/her/elle) - excused
+*  2nd year Chemical – 2e année chimique: Emilia Wesolkowski (she/her/elle)
+* 4th year Mechanical – 4e année mécanique: Giovanni Abbruzzo (he/him/il)
+* 4th year Computer – 4e année informatique: Stuti Pandya (she/her/elle)
+* * Non-voting – Sans droit de vote
+4. Comments from the Chair – Commentaires de la présidence
+   1. Robert’s Rules Overview – Aperçu des règles de procédure Robert
+Special Rules of Order
+1: New idea
+2: Replying to current idea
+p: Point of privilege, interrupts current discussion (ex: can't hear the microphone)
+c: Point of clarity, confused about current discussion and needs clarification, interrupts current discussion (ex what does an acronym mean)
+t: Requesting a translation 
+   2. Notes
+      * Communication is KEY. There should be an open line of communication at all times! 
+      * Proxies! Best if they are part of the student population that you represent not just a friend 
+5. Administrative Motions – Motions administratives
+Title
+Titre
+	Adoption of Agenda
+Adoption de l'ordre du jour
+	Mover
+Proposé
+	VP External
+	Seconder
+Appuyé
+	Daniel
+	BE IT RESOLVED THAT the agenda be adopted as presented.
+IL EST RÉSOLU QUE l'ordre du jour est adopté tel que présenté.
+	Discussion
+	-no discussion
+	Result
+Résultat
+	Passes unanimously
+	6. Elections – Élections
+Title
+Titre
+	Election of Year Representatives 
+Élection des représentants d'année
+	Mover
+Proposé
+	
+
+	Seconder
+Appuyé
+	
+
+	Nominations
+	* 	WHEREAS Year Representatives must be elected by ordinary resolution of the Members in accordance with Section 1.3.3.2 of the Policy and Procedure Manual;
+BE IT RESOLVED THAT the following Members be elected as Year Representatives for their respective programs and years, as detailed below:
+* 2nd year
+   * Civil:  
+   * Biomedical mechanical: 
+   * Software: 
+   * French: 
+* 3rd year
+   * Chemical: 
+   * Civil: 
+   * Electrical: 
+   * Biomedical mechanical: 
+   * French: 
+* 4th year or higher
+   * Chemical: 
+   * Civil: 
+   * Electrical: 
+   * Biomedical mechanical: 
+   * Software: 
+   * French: 
+* CO-OP
+   * Chemical: 
+   * Civil: 
+   * Biomedical mechanical: 
+   * Software: 
+* Student Academic Success Service (SASS):
+________________
+
+
+ATTENDU QUE les représentants annuels doivent être élus par une résolution ordinaire des membres conformément à la section 1.3.3.2 du Manuel des politiques et procédures;
+ATTENDU QUE la motion à cet effet a été reportée lors de l'Assemblée générale annuelle tenue le 7 avril;
+IL EST RÉSOLU QUE les Membres suivants de la Société soient élus en tant que représentants annuels pour leurs programmes et années respectifs, comme détaillé ci-dessous: 
+* 2ème année
+   * Génie civil: 
+   * Génie électrique: 
+   * Génie biomédical mécanique: 
+   * Génie logiciel: 
+   * Français: 
+* 3ème année
+   * Chimie: 
+   * Génie civil: 
+   * Génie électrique: 
+   * Génie biomédical mécanique: 
+   * Français: 
+* 4ème année ou plus
+   * Chimie: 
+   * Génie civil: 
+   * Génie électrique: 
+   * Génie biomédical mécanique: 
+   * Génie logiciel: 
+   * Français: 
+* CO-OP
+   * Chimie: 
+   * Génie civil: 
+   * Génie biomédical mécanique: 
+   * Génie logiciel: 
+* Service de réussite académique des étudiants (SASS): 
+	Questions
+	
+
+	Answers
+Réponses
+	
+
+	Discussion
+	
+
+	Result
+Résultat
+	
+
+	
+
+7. Executive Updates – Mises à jour de l'exécutif
+* Co-Presidents – Coprésidents: Aiden McCooeye (he/him/il) & Eric Hagen (he/him/il)
+   * Helping out with 101 week things
+   * Helped plan DUSTED
+   * Attended faculty meeting about 101 week
+   * Sent out banking reimbursements
+* VP External – Externe: Ashna Cheverlharan (she/her/elle)
+   * Coordinating engineering jeopardy event for 101 week with Daniel, Magno, Dakota and Rusafi
+   * Working with Rusafi on a few posts: why go to conferences, selection committee hiring, peo-sc application
+   * Did pre-registration for FYIC
+   * Assisted with DUSTED last weekend
+* VPFA: Cyrus Choi (he/him/il)
+   * 101 week payments are being processed, please see public budget for up to date spending
+   * summer levies should be arriving in the next 2 weeks
+   * Summer DUSTED payments are all processed, made +$600
+   * August financial update:
+(PW Leapard kits will be added shortly and presenting at next BOD)
+  
+
+* VP Academic – Académique: Nick Mesquita (he/him/il)
+   * met with Ashna and Mehar to discuss W&C
+* VP Communications: Hayley (she/her/elle)
+   * Handbook submitted for printing
+   * Multiple posts gone out
+   * Prepping mailout delivery.
+* Interim VP Internal – Interne: Daniel Thorp (he/him/il)
+   * Overseeing uOEC/CIuO planning
+      * Dates: October 25th and 26th
+      * Rooms are booked
+      * Committee agreed on challenges for all categories
+   * Clarified OEC/CIO competitor eligibility with Monica (OEC/CIO '26 Co-Chair & ESSCO/CAÉGO PC/CP) and shared ESSCO/CAÉGO policy change recommedation
+      * Flagged potential concern for Bachelor of Multidisciplinary Design elgibility to attend CEC/CCI
+   * Communicating with uOttawa to finalize Community Engagement Navigator postings
+   * Met with Sub-Associations to discuss 101 Week jeopardy event, review the new Sub-Association policy, and I provided Sub-Associations with an early notice of upcoming deliverables
+   * Met with the team planning the 101 Week jeopardy event
+   * Secured a table at the Faculty clubs fair
+   * Granted access to the 101 Week contracts portal and improved search functionality
+* VP Services: Luke Ballinger (he/him/il)
+   * 101 week merch all done
+   * pw leopard shipment already here (psych boxes also in office)
+   * exec merch in progress (proofs coming)
+   * cult merch in early stages of production
+* VP Social: Magno Melo Martins (he/him/il)  
+   * Ironing out last logistic details for 101
+   * Finishing up event details for 101
+   * Trying to get access to canal for messy day
+   * Going to start purchasing items from budget for the week
+   * Preparing guide training on the 29th
+* VP Philanthropic – Philanthropique: Zoe Saunders (she/her/elle)
+   * Attending PhilRTs
+   * Coordinating shine garage sale event hosted by CSSA & SSA
+   * Coordinating fall event schedule for cat rescue campaign + meeting with volunteers
+   * Chose eng ball charity + reaching out to and negotiating with venues - details will come by September BoD
+   * Acquired product donations for shine breakfast & finalized locations w/ SSA Phil
+* VP Equity – Équité: Maria Hal (she/her/elle)
+   * no updates
+* VP Sustainability – Développement durable: Leila Smaili (she/her/elle)
+   * * VP Francophone: Thomas Boyle (he/him/il)
+   * 8. Sub-association updates –  Mise à jour des sous-associations
+* IEEE
+   * Ordered merch, to come before 101 week
+   * Big prepping for the start of the semester, scheduling meetings and office hours
+   * scheduling Fall GM soon
+   * by elections around mid September
+   * Starting planning for ciena networking night, and SPAC going strong
+* CESA
+   * ordered patches and stickers to hand out to civil 101ers
+   * started planning a CESA event for the week after 101 week
+* CHESS
+   * The Design team representing us at the Hatch Plant Design competition during the CSChE has been selected
+   * We’ve shared an insta post about the conference to select students for the other competitions (there are 3 left)
+   * Currently working on patches for the Sub-Association Games (hoping we get them ASAP) as well as keychains
+* MESS
+   * submitted 101 week trivia questions
+   * onboarded and hired 2 more people on the team. reposting more available positions as one person resigned on the team. Once full team is hired/interim positions filled, will send Maya a full list of execs.
+   * 2024-2025 last sem budget updated to reflect actual finances.
+   * CHEO/CESO event planning is  progressing
+   * merch order coming soon
+   * preparing to start the year ( event planning, finances, etc )
+9. Motions
+
+
+Title
+Titre
+	Motion for Removal of the Vice President of Sustainable Initiatives
+Motion de destitution de la Vice-présidente aux initiatives durables
+	Mover
+Proposé
+	VP Internal
+	Seconder
+	VP Phil
+	WHEREAS the Vice President of Sustainable Initiatives has not attended or submitted updates for any Officer or Board meetings since the beginning of the current mandate;
+WHEREAS Executives are expected to fulfill both their Executive and Director responsibilities, including attendance and regular updates at Officer and Board meetings;
+WHEREAS the Vice President of Sustainable Initiatives has not communicated any reasons for their repeated absences, nor requested to be excused or provided justification after the fact, despite multiple opportunities to do so;
+WHEREAS the Vice President of Sustainable Initiatives has failed to demonstrate any meaningful progress on the responsibilities outlined in their mandate, including but not limited to establishing or maintaining ties with sustainability-related organizations at the University of Ottawa, supporting internal sustainability-related events and affairs, consulting on relevant initiatives, or conducting any visible work under the sustainability portfolio;
+WHEREAS the Society recently adopted a Special Rule on attendance expectations that, while not retroactive, clarifies longstanding expectations around participation, and the repeated unexcused absences fall outside any reasonable interpretation of acceptable engagement;
+WHEREAS such conduct constitutes a “failure to follow the regulations of the Constitution without just cause,” as defined under the Removal from Office Policy;
+WHEREAS continued inaction and disengagement in the role serves neither the Society nor its membership, and undermines the expectations of accountability and responsibility in holding an Executive and Director position;
+BE IT RESOLVED THAT Leila Smaili be removed from the position of Vice President of Sustainable Initiatives in accordance with the Removal from Office Policy.
+________________
+
+
+ATTENDU QUE la Vice-présidente aux initiatives durables n’a assisté à aucune réunion du Conseil d’administration ni de l’exécutif, et n’a soumis aucun rapport depuis le début de son mandat;
+ATTENDU QUE les membres de l'exécutif doivent assumer leurs responsabilités en tant qu’exécutifs et administrateurs, ce qui inclut la participation aux réunions et la transmission régulière de mises à jour;
+ATTENDU QUE la Vice-présidente aux initiatives durables n’a fourni aucune raison pour ses absences répétées, ni demandé d’excuse ni fourni de justification après coup, et ce malgré plusieurs occasions de le faire;
+ATTENDU QUE la Vice-présidente aux initiatives durables n’a démontré aucun progrès significatif dans l’accomplissement de ses responsabilités, notamment en ce qui concerne l’établissement ou le maintien de liens avec les groupes et initiatives durables de l’Université d’Ottawa, le soutien aux événements internes liés à la durabilité, la consultation sur les initiatives pertinentes, ou toute autre contribution visible à son portefeuille;
+ATTENDU QUE l’Association a récemment adopté une règle spéciale concernant les attentes en matière d’assiduité, qui, bien que non rétroactive, confirme les attentes déjà en place en matière d’engagement, et que ces absences répétées et injustifiées ne respectent pas ces attentes;
+ATTENDU QUE cette conduite constitue un « manquement au respect des règlements de la Constitution sans motif valable », tel que défini dans la Politique de destitution;
+ATTENDU QUE l’inaction persistante et le désengagement dans ce rôle nuisent au bon fonctionnement de la Société et compromettent les attentes de responsabilité et de rendement associées aux postes d’exécutif et d’administratrice;
+IL EST RÉSOLU QUE Leila Smaili soit destituée de son poste de Vice-présidente aux initiatives durables, conformément à la Politique de destitution.
+	Discussion
+	Daniel:
+BIRT Move towards a closed session for purpose of discussing this toping confidentially. 
+BIRT Once out of closed session, have a secret ballot
+Zoe Seconded 
+Jamie: These are good points to have and a conversation to have but it does not seem that we have quorum on people who are actually listening. I don’t think we should have this conversation if only 8 ish people 
+Brooke: I just don’t think we should have this motion without here. My thought would be at least if we wait until september to have her here to explain 
+Jad: To promote transparency I don’t think we should be going into a closed session. Especially since leila isn’t here to defend herself. 
+Daniel: I want to go forward to make sure that everyone feels comfortable to speak freely but you also have a very good point. Especially with what happened earlier in this meeting. 
+For: 4
+Against: 1
+Abstain: 3
+
+
+	Result
+Résultat
+	For: 4 Votes 
+Against: 3 votes 
+Abstain: 5 votes
+	
+
+Title
+Titre
+	Motion to alter patch sewing event
+Motion visant à modifier l'événement de couture d'écussons
+	Mover
+Proposé
+	VP Services
+	Seconder
+Appuyé
+	VP Social
+	WHEREAS the current Vice President of Services mandate requires a patch sewing event to be hosted by the VP every semester.
+BE IT RESOLVED that the Vice President of services instead be mandated to host a patch related event of any type, such as a patch trading or patch design event, subject to their discretion and planning
+BE IT RESOLVED that the wording be changed in section 2.3.8(h) of the Executive Member Policy from "hold one (1) event per semester for patch sewing" to "hold one (1) patch related event to:" 
+________________
+ATTENDU QUE le mandat actuel du vice-président aux services exige qu'un événement de couture d'écussons soit organisé par le vice-président chaque semestre.
+IL EST RÉSOLU que le vice-président aux services soit désormais mandaté pour organiser un événement lié aux écussons, quel qu'il soit, tel qu'un événement d'échange ou de conception d'écussons, à sa discrétion et selon les modalités de planification.
+IL EST RÉSOLU que la formulation de l'article 2.3.8(h) de la Politique relative aux membres exécutifs soit modifiée de « organiser un (1) événement par semestre pour la couture d'écussons » à « organiser un (1) événement lié aux écussons pour :
+	Discussion
+	Daniel: This event was not held last term before it was put forth to change. There was also no patch event held. Do we want to put forth that if someone doesn’t approve with a certain part of the policy they don’t do it and then change the policy later on. I don’t have anything against the change but I do think we need something for patch sewing. I am a little confused on what the goal of it is. Ideally this would have happened last term. If someone is mandated to do something I would say do it proactively 
+Zoe: This isn’t changing the mandate because of not wanting to do it. This type of change just opens up the potential of doing things. Most engineering students would have their own sewing kits and this would just add variety to our events 
+Luke: Patch sewing isn’t going away. We have two events during and before 101. It just opens up the scope of what we can do 
+Ashna: There is more to patches then just sewing like patch trading and there is more to be explored. 
+	Result
+Résultat
+	For: 10 votes
+Against: 0 votes
+Abstaining: 1 vote
+Motion passes
+	
+
+Title
+Titre
+	SDES CFES transportation cost
+Frais de transport SDES CFES
+	Mover
+Proposé
+	VP External
+	Seconder
+	VP Social
+	WHEREAS the plane tickets for CFES SDES were above the original transportation budget because due to delay in budget approval for the 2025/26 year
+WHEREAS Flight ticket prices went over the initial cost estimate of $2000 to now $2702 for two delegates to travel to CFES SDES, leading to $702 in difference
+BE IT RESOLVED THAT the 2025-2026 fiscal year budget is amended to decrease budget line 41 for "Fall External Night" under the VP External budget by $100 for a total of $100.
+BE IT FURTHER RESOLVED THAT the 2025-2026 fiscal year budget is amended to decrease budget line 41 for "Winter External Night" under the VP External budget by $100 for a total of $100.
+BE IT FURTHER RESOLVED THAT the 2025-2026 fiscal year budget is amended to increase budget line 10 for "CFES SDES Transportation" under the VP External budget by $702 for a total of $2702.
+________________
+
+
+ATTENDU QUE les billets d'avion pour le CFES SDES ont dépassé le budget de transport initial en raison d'un retard dans l'approbation du budget pour l'exercice 2025-2026.
+ATTENDU QUE le prix des billets d'avion on dépassé l'estimation initiale de 2 000 $ pour atteindre 2 702 $ pour le voyage de deux délégués au CFES SDES, ce qui entraîne une différence de 702 $.
+IL EST RÉSOLU QUE le budget de l'exercice 2025-2026 soit modifié afin de réduire de 100 $ la ligne budgétaire 41 « Soirée externe d'automne » du budget externe VP, pour un total de 100 $.
+IL EST ÉGALEMENT RÉSOLU QUE le budget de l'exercice 2025-2026 soit modifié afin de réduire de 100 $ la ligne budgétaire 41 « Soirée externe d'hiver » du budget externe VP, pour un total de 100 $.
+IL EST EN OUTRE RÉSOLU QUE le budget de l'exercice 2025-2026 soit modifié pour augmenter la ligne budgétaire 10 pour « CFES SDES Transportation » dans le cadre du budget externe du VP de 702 $ pour un total de 2 702 $.
+	Discussion
+	Daniel: What would happen if it isn’t approved? 
+Ashna: Well the tickets are already paid for 
+Daniel: This is only a certain amount of money but is very reminiscent of the past. This is not financially responsible. You could have done an emergency board meeting or a virtual ballot that we can do. We could’ve approved this in advance to avoid this issue. There were solutions instead of doing this. Budgets should be approved before we spend that money. I don’t think we need to add to the budget after it’s been spent and just have that discrepancy in the budget. I just want to know why you put this motion forward 
+Ashna: This exceeds the 300$ amount. I’m not saying this is the best part of doing this. It was an error on my end. Before bod it was under budget and after it was above it. I am not sure what happens if this motion doesn’t pass. I did talk to VPFA about it as well. I bought the tickets about a week after july bod and when the budget was approved. By the time if I had waited for an emergency BOD the tickets could’ve been even more expensive 
+Daniel: Reading the policy, there is something about it for these situations. The clauses do say that officers would have to have been approved by the officers first and then ratified by bod after. And the new virtual ballot that was adopted would have been done rather quickly compared to waiting. I think this is just a good learning experiences. We have clear options now, emergency board meeting, virtual ballots or have officer accept. 
+Ashna: I was not fully aware of the options. I underestimated how much we would be losing. If there were any other options i would have looked into it. I was not aware and it was urgent. I figured that the quicker I paid for the less money I would have to spend. I was desperate and I didn’t want to delay it further. The other options could have been considered but I don’t know how much it would have differed. I did what I thought was best in this situation. 
+	Result
+Résultat
+	For: 8
+Against: 1
+Abstain: 1
+Motion passes
+	
+
+Title
+Titre
+	Budget Line Change
+	Mover
+Proposé
+	President
+	Seconder
+	VP External
+	WHEREAS the jeux de génie (JDG) club was unable to sell tickets for their event due to banking issues. 
+WHEREAS the ESS used our zeffy to help facilitate their sales.
+WHEREAS the JDG assisted in promoting DUSTED, resulting in a net profit, benefiting our society. 
+BE IT RESOLVED THAT a new event under the VP Social budget be added called "Kornfest". This event will have two lines, "Revenue" for $812, and "Expenses" for -$812, as we will have deposited the money in our bank account.
+________________
+
+
+	Discussion
+	
+
+	Result
+Résultat
+	
+
+	
+
+10. UOSU BoD Updates – Mises à jour du CA du SÉUO
+* 11. Varia
+* VP Ex: Selection Committee
+   * 28th latest please let me know 
+* VP Internal: Sustainability VP Motion 
+   * Question towards the board of why the motion wasn’t seconded and if there is any insight on the future. Just want to have a VP Sustainability to be doing their mandate. Currently it doesn’t seem like that since the motion didn’t get seconded. What can we do to have sustainability things be done? 
+   * Ashna: Can you give more context on what you aren’t happy about? What they have been doing or not been doing? It is a new role but there isn’t much context asides from what’s written in the motion. What extent of the mandate isn’t complete?
+   * Daniel: Nothing has been done. How can we talk about the specifics if nothing has been done. They havent’ attended any meetings which is a big part of the role. Unless it’s been done without our knowledge nothing has been done. I don’t think it’s normal for an ESS exec to spend 4 months not doing anything of their mandate. We can look at workshopping the mandate but even if they weren’t, they should still show up to meetings and participating. Budget wasn’t done and not sure if we’ll see them during 101 week. Being an ESS exec is more than just doing their mandate. I can’t think of any redeemable factors. There isn’t much worst then this situation asides from going against the inclusivity policy 
+   * Zoe: I agree that this is the worst situation. Some may have a personal connection but at least from me I didn’t have any contact with her in the last four months. It may be that nobody that no one else wanted to be the “bad guy” and have their name connected with having her step down. Knowing that we should be doing this if it does re open then I would not be happy but I would be able to second 
+   * Ashna: This is the first time I have seen it and wanted to know if a notice was sent out 
+      * Yes 
+   * Daniel: It seems that there is confusion. I would like to motion to reconsider that motion. 
+      * For:  4 votes
+      * Against: 0
+      * Abstain: 5 votes
+* Vp Internal: What are we doing about this now? 
+   * Zoe: I think this discussion can be postponed until we have a conversation with leila and if we do call an emergency meeting. Since her duties would have to be separated within the execs that are willing. So until she’s out of her position not sure what we can do 
+   * Daniel: We are not clear on if we are doing an emergency meeting. I could take on some stuff and have been attending out of own interest the UOSU sustainability caucus. Anything related to 101 week hasn’t really been done. I don’t know if anyone can do an audit of sorts and summer evaluation of our sustainability practices and working with the faculty. The big one being the sustainability practices evaluation. A document will be sent to the officers chat. 
+   * Zoe: Next step is to bring it up at our next officer meeting which is this thursday. Whether or not we need to call an emergency meeting will be even clearer. By then it will be general meeting. Should we motion if we want to call an emergency meeting 
+   * Brooke: We can talk about it then 
+
+
+12. Notice of Motions – Avis de motion
+13. Adjournment – Ajournement
+With no further business, the meeting adjourned at 1:33 PM EDT.
+L'ordre du jour étant épuisé, la réunion est levée à 13h33 PM HAE.
+14. Next Meeting – Prochaine réunion
+The next General meeting will be scheduled for September 28th 2025 at 11 AM. 
+La prochaine réunion du conseil d'administration sera programmée le 25 septembre à 11h00.

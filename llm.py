@@ -3,10 +3,17 @@ from torch import dtype
 from retrieval import retrieve, get_meeting_index, resolve_meeting_date, detect_document_type
 
 # ---------------------------------------------------------
-# 1. Build context from retrieved chunks
+# Build the context from retrieved chunks
+#
+# Function: format the retrieved chunks into a single 
+# context string for the LLM, including metadata for each chunk
+# 
+# Returns: a formatted context string that combines the content 
+# and metadata of the retrieved chunks
 # ---------------------------------------------------------
 def build_context(chunks: list[dict]) -> str:
     parts = []
+    # Create a labeled section with metadata for each chunk
     for c in chunks:
         meta = c["metadata"]
         date = meta.get("meeting_date", "")
@@ -22,14 +29,13 @@ def build_context(chunks: list[dict]) -> str:
             f"CONTENT:\n{c['content']}\n"
         )
         parts.append(label)
+    # Join all parts with clear separators
     return "\n\n====================\n\n".join(parts)
 
 
-# ---------------------------------------------------------
-# 2. Build the LLM prompt
-# ---------------------------------------------------------
+# System prompt for the LLM
 SYSTEM_PROMPT = """\
-You are a governance assistant for the Engineering Students' Society (ESS). 
+You are a governance assistant for the University of Ottawa Engineering Students' Society (ESS). 
 Your task is to answer the user's question using ONLY the provided CONTEXT.
 
 Rules:
@@ -46,13 +52,24 @@ Rules:
 6. NO INTRODUCTIONS. Output only the answer.
 7. If multiple points exist, present them as bullet points.
 8. NEVER state that information is "not explicitly mentioned" or "not available" if there is relevant data in the CONTEXT.
-9. Do not assume acronyms or abbreviations unless they are explicitly defined in the CONTEXT.
+9. NEVER assume acronyms or abbreviations unless they are explicitly defined in the CONTEXT.
 10. NO INTRODUCTIONS or FILLER. Get straight to the details.
 11. Names and accents are strict: "Zoe" and "Zoé" are different people.
 12. Map abbreviations: "VP COMMS" -> "VP Communications", etc.
+13. If the question does not include a specific document type, look for the best match across all document types. If the question is about a specific document type, only use that type for answering.
+14. ALWAYS respond in English, unless the prompt is in French, then respond in French. Do not switch languages in the same response.
+15. If the user prompt contains a date, convert it to ISO format (YYYY-MM-DD), assuming the current year, and use it to find relevant chunks.
 """
 
-
+# ---------------------------------------------------------
+# Build the final prompt for the LLM
+#
+# Function: combine the user query with the retrieved 
+# context to create a final prompt for the LLM
+# 
+# Returns: a string that includes instructions, 
+# the context, and the user query
+# ---------------------------------------------------------
 def build_prompt(query: str, context: str) -> str:
     return (
         f"Use the following CONTEXT to answer the QUERY.\n"
@@ -61,6 +78,15 @@ def build_prompt(query: str, context: str) -> str:
         f"QUERY: {query}"
     )
 
+# ---------------------------------------------------------
+# Merge the retrieved chunks
+#
+# Function: combine and deduplicate the retrieved chunks from 
+# both the hyde and original query retrievals, and sort 
+# them by relevance score
+# 
+# Returns: a list of chunks sorted by relevance score
+# ---------------------------------------------------------
 def merge_chunks(chunks_a: list[dict], chunks_b: list[dict], k: int) -> list[dict]:
     seen = {}
     for c in chunks_a + chunks_b:
@@ -69,39 +95,56 @@ def merge_chunks(chunks_a: list[dict], chunks_b: list[dict], k: int) -> list[dic
             seen[cid] = c
     return sorted(seen.values(), key=lambda x: x["score"])[:k]
 
-
-def choose_best_chunks(query: str, hyde: str, detected_doc_type: str | None, meeting_date: str | None, detected_doc_subtype: str | None, k: int) -> tuple[list[dict], str | None]:
-    # If the query appears to be about policy or bylaws, restrict retrieval to that document type.
+# ---------------------------------------------------------
+# Choose the best chunks
+#
+# Function: based on the detected document type and meeting date, 
+# choose the most relevant chunks for answering the query, with 
+# a fallback to broader retrieval if needed
+# 
+# Returns: a tuple of (list of relevant chunks, detected document type)
+# ---------------------------------------------------------
+def choose_best_chunks(query: str, hyde: str | None, detected_doc_type: str | None, meeting_date: str | None, detected_doc_subtype: str | None, k: int, role: str | None = None) -> tuple[list[dict], str | None]:
+    # If the query appears to be about policy or bylaws, restrict retrieval to that document type
     if detected_doc_type in ("policy", "bylaws"):
         return (
             merge_chunks(
-                retrieve(hyde, k=k, document_type=detected_doc_type),
-                retrieve(query, k=k, document_type=detected_doc_type),
+                retrieve(hyde or query, k=k, document_type=detected_doc_type, role=role),
+                retrieve(query, k=k, document_type=detected_doc_type, role=role),
                 k,
             ),
             detected_doc_type,
         )
 
-    # If the query is about a specific meeting or meeting subtype, restrict retrieval to minutes.
+    # If the query is about a specific meeting or meeting subtype, restrict retrieval to minutes
     if meeting_date or detected_doc_subtype:
         return (
             merge_chunks(
-                retrieve(hyde, k=k, document_type="minutes", document_subtype=detected_doc_subtype, meeting_date=meeting_date),
-                retrieve(query, k=k, document_type="minutes", document_subtype=detected_doc_subtype, meeting_date=meeting_date),
+                retrieve(hyde or query, k=k, document_type="minutes", document_subtype=detected_doc_subtype, meeting_date=meeting_date, role=role),
+                retrieve(query, k=k, document_type="minutes", document_subtype=detected_doc_subtype, meeting_date=meeting_date, role=role),
                 k,
             ),
             "minutes",
         )
 
-    # Otherwise, search across all document types and choose the best result.
+    # Otherwise, search across all document types and choose the best result
     candidates = {}
     for doc_type in ["policy", "bylaws", "minutes"]:
         candidates[doc_type] = merge_chunks(
-            retrieve(hyde, k=k, document_type=doc_type),
+            retrieve(hyde or query, k=k, document_type=doc_type),
             retrieve(query, k=k, document_type=doc_type),
             k,
         )
 
+    # ---------------------------------------------------------
+    # Quality function
+    #
+    # Function: define a quality metric for the retrieved chunks 
+    # based on the best score and number of chunks
+    # 
+    # Returns: a string that includes the content and 
+    # metadata for better retrieval relevance
+    # ---------------------------------------------------------
     def quality(chunks: list[dict]) -> tuple[float, int]:
         if not chunks:
             return float("inf"), 0
@@ -122,7 +165,11 @@ def choose_best_chunks(query: str, hyde: str, detected_doc_type: str | None, mee
 
 
 # ---------------------------------------------------------
-# 3. Call the local LLM
+# Call the LLM
+#
+# Function: send the final prompt to the LLM and return the response
+# 
+# Returns: the LLM's answer to the user's query
 # ---------------------------------------------------------
 def call_llm(prompt: str, model: str = "llama3") -> str:
     url = "http://localhost:11434/v1/chat/completions"
@@ -140,7 +187,15 @@ def call_llm(prompt: str, model: str = "llama3") -> str:
     response.raise_for_status()
     return response.json()["choices"][0]["message"]["content"]
 
-
+# ---------------------------------------------------------
+# Hypothetical Answer Generation (HyDE)
+#
+# Function: generate a hypothetical answer to the user's 
+# query to improve retrieval
+# 
+# Returns: a short, plausible answer to the prompt based on
+# the document type 
+# ---------------------------------------------------------
 def hypothetical_answer(query: str, model: str, doc_type: str = None) -> str:
     if doc_type and doc_type.lower() != "unknown":
         context_prefix = f" regarding the {doc_type.replace('_', ' ')}"
@@ -165,24 +220,29 @@ def hypothetical_answer(query: str, model: str, doc_type: str = None) -> str:
 
 
 # ---------------------------------------------------------
-# 4. Main RAG answer function
+# Answer the question
+#
+# Function: main function to answer the user's question by 
+# detecting the document type, retrieving relevant chunks, 
+# and calling the LLM with the appropriate context
+# 
+# Returns: the final answer to the user's question
 # ---------------------------------------------------------
-def answer_question(
-    query: str,
-    k: int = 20,
-    model: str = "llama3.1:8b",
-) -> str:
-    # 1. Detect document types (policy/bylaws vs meetings) using LLM
-    detected_doc_type = detect_document_type(query, model=model)
+def answer_question(query: str, k: int = 10, model: str = "llama3.1:8b", document_type: str | None = None, role: str | None = None) -> str:
+    detected_doc_type = detect_document_type(query)
     meeting_date, detected_doc_subtype = resolve_meeting_date(query)
 
-    # 2. Determine search depth based on whether a specific date was found
+    if not detected_doc_type and document_type:
+        detected_doc_type = document_type
+
+    # Set a higher k for meeting queries since they are more sparse and to give the model more to work with
     effective_k = 50 if meeting_date else k
 
-    # 3. Generate HyDE (Hypothetical Document Embeddings) answer for better retrieval
-    hyde = hypothetical_answer(query, model, doc_type=detected_doc_type or detected_doc_subtype)
+    # Only use HyDE if there is no clear document type or meeting date
+    hyde = None
+    if not detected_doc_type and not meeting_date and not detected_doc_subtype:
+        hyde = hypothetical_answer(query, model, doc_type=None)
 
-    # 4. Retrieve the best chunks from the appropriate document type
     final_chunks, selected_doc_type = choose_best_chunks(
         query,
         hyde,
@@ -190,14 +250,13 @@ def answer_question(
         meeting_date,
         detected_doc_subtype,
         effective_k,
+        role=role,
     )
 
-    # 5. If a policy document was selected, use the top two policy chunks
-    # so the model gets both the section heading and the actual content.
+    # If the query is about policies/bylaws, restrict to those chunks only
     if selected_doc_type == "policy" or selected_doc_type == "bylaws":
-        final_chunks = final_chunks[:10]
+        final_chunks = final_chunks[:effective_k]
 
-    # 6. If no chunks were found for a policy/bylaws query, avoid broadening to unrelated minutes.
     if not final_chunks:
         if detected_doc_type in ("policy", "bylaws"):
             return "I couldn't find relevant policy/bylaw sections for that question. Could you provide more detail or specify which governance area you mean?"
@@ -211,17 +270,12 @@ def answer_question(
     if not final_chunks:
         return "No relevant documents found. Could you provide more detail?"
 
-    # 7. Check confidence threshold — reject only if we got a BAD match (high distance score)
+    # Score threshold check
     best_score = final_chunks[0]["score"]
-    print(f"DEBUG: best_score: {best_score}")
-
-    if best_score > 0.4:
+    if best_score > 0.44:
         return "I'm not confident I found the right information. Could you provide more detail?"
 
-    # 8. Generate final response
+    # Generate the context and call the LLM
     context = build_context(final_chunks)
     prompt = build_prompt(query, context)
-
-    print(final_chunks)
-
     return call_llm(prompt, model=model)

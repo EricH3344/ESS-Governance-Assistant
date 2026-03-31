@@ -3,34 +3,45 @@ import chromadb
 from sentence_transformers import SentenceTransformer
 import re
 
-# ---------------------------------------------------------
-# 1. Load vector DB
-# ---------------------------------------------------------
+# Load vector DB
 BASE_DIR = Path(__file__).resolve().parent
 VECTORDB_DIR = BASE_DIR / "vectordb"
 
 client = chromadb.PersistentClient(path=str(VECTORDB_DIR))
 collection = client.get_collection("governance")
 
-# ---------------------------------------------------------
-# 2. Load embedding model
-# ---------------------------------------------------------
+# Load embedding model
 model = SentenceTransformer("BAAI/bge-small-en-v1.5")
 
 # ---------------------------------------------------------
-# 3. Meeting index + date resolution
+# Utility functions for retrieval
+#
+# Function: detect document type and meeting date from query, 
+# build ChromaDB filters, and perform retrieval
+# 
+# Returns: a list of retrieved chunks with metadata 
+# based on the query and detected context
 # ---------------------------------------------------------
-
 def get_meeting_index(doc_subtype_filter: str = None) -> list[str]:
-    """Return a sorted list of known meeting ISO dates, most recent first."""
-    # include=["metadatas"] is correct, but let's ensure we filter strictly
+    # Retrieve all meeting dates from the collection
     results = collection.get(include=["metadatas"])
 
     seen = set()
     for meta in results["metadatas"]:
-        # CRITICAL: If the user wants BoD, only look at BoD dates
+        if meta.get("document_type", "").lower() != "minutes":
+            continue
+
+        # Apply document subtype filter if specified
         if doc_subtype_filter:
-            if doc_subtype_filter not in meta.get("document_subtype", "").lower():
+            subtype = (meta.get("document_subtype") or "").lower()
+            source = (meta.get("source") or "").lower()
+            if doc_subtype_filter == "bod":
+                if "bod" not in subtype and "bod" not in source and "board" not in source and "board" not in subtype:
+                    continue
+            elif doc_subtype_filter == "officer":
+                if "officer" not in subtype and "officer" not in source and "executive" not in subtype and "executive" not in source:
+                    continue
+            elif doc_subtype_filter not in subtype and doc_subtype_filter not in source:
                 continue
 
         iso = meta.get("meeting_date", "")
@@ -39,68 +50,57 @@ def get_meeting_index(doc_subtype_filter: str = None) -> list[str]:
 
     return sorted(seen, reverse=True)
 
-
-def detect_document_type(query: str, model: str = "llama3.1:8b") -> str | None:
-    """Detect if query is about policy, bylaws, or meeting types using LLM classification."""
+# ---------------------------------------------------------
+# Detect document type
+#
+# Function: analyze the query to determine if it's asking 
+# about policies, bylaws, or meetings
+# 
+# Returns: a string indicating the detected document type 
+# or None if not clear
+# ---------------------------------------------------------
+def detect_document_type(query: str) -> str | None:
     lower = query.lower()
 
-    # Explicit keyword checks first (most confident)
     if "policy" in lower or "procedure" in lower:
         return "policy"
     if "bylaw" in lower or "by-law" in lower or "constitution" in lower:
         return "bylaws"
 
-    # Use LLM to classify implicit governance vs. meeting questions
-    import requests
-    payload = {
-        "model": model,
-        "messages": [{
-            "role": "user",
-            "content": (
-                "Classify this question as either 'governance' (asking about rules, procedures, responsibilities, "
-                "authority, approvals, quorum, voting procedures, etc.) or 'meeting' (asking what happened in a specific "
-                "meeting). Reply with only the word 'governance' or 'meeting'.\n\n"
-                f"Question: {query}"
-            ),
-        }],
-        "temperature": 0.0,
-    }
-
-    try:
-        response = requests.post("http://localhost:11434/v1/chat/completions", json=payload, timeout=10)
-        response.raise_for_status()
-        classification = response.json()["choices"][0]["message"]["content"].strip().lower()
-
-        if "governance" in classification:
-            return "policy"
-        # For "meeting" or other, return None (let other logic handle)
-    except Exception:
-        pass
-
     return None
 
-
+# ---------------------------------------------------------
+# Resolve meeting date from query
+#
+# Function: analyze the query for references to meetings 
+# and use the meeting index to find the most relevant date
+# 
+# Returns: a tuple of meeting_date and document_subtype
+# ---------------------------------------------------------
 def resolve_meeting_date(query: str) -> tuple[str | None, str | None]:
     lower = query.lower()
     doc_subtype = None
 
-    # Identify which "lane" we are in
     if "bod" in lower or "board" in lower:
         doc_subtype = "bod"
     elif "officer" in lower:
         doc_subtype = "officer"
 
-    # Get dates ONLY for that specific type
     dates = get_meeting_index(doc_subtype)
 
+    # Helper function for common probable prompts
     if ("last" in lower or "recent" in lower) and dates:
-        # This now returns the last BOD date if doc_subtype is bod
         return dates[0], doc_subtype
 
     return None, doc_subtype
 
 # ---------------------------------------------------------
-# 4. Build valid Chroma filters
+# Build ChromaDB filters
+#
+# Function: build a filter dictionary for ChromaDB queries 
+# based on the detected document type, subtype, role, and meeting date
+# 
+# Returns: a filter dictionary to be used in ChromaDB queries
 # ---------------------------------------------------------
 def build_filters(document_type=None, document_subtype=None, role=None, meeting_date=None):
     clauses = []
@@ -126,7 +126,12 @@ def build_filters(document_type=None, document_subtype=None, role=None, meeting_
 
 
 # ---------------------------------------------------------
-# 5. Retrieval function
+# Retrieval function
+#
+# Function: perform a retrieval from ChromaDB based on the 
+# query and detected context, using the appropriate filters
+# 
+# Returns: a list of retrieved documents
 # ---------------------------------------------------------
 def retrieve(query: str, k: int = 20, document_type: str = None, document_subtype: str = None, role: str = None, meeting_date: str = None) -> list:
     filters = build_filters(document_type, document_subtype, role, meeting_date)
@@ -139,14 +144,23 @@ def retrieve(query: str, k: int = 20, document_type: str = None, document_subtyp
         "n_results": k
     }
 
+    # Query filtered documents
     if filters:
         query_args["where"] = filters
 
     results = collection.query(**query_args)
 
+    # If no results are found with the document subtype filter, try without
+    if (not results["ids"] or len(results["ids"][0]) == 0) and document_subtype:
+        fallback_filters = build_filters(document_type=document_type, document_subtype=None, role=role, meeting_date=meeting_date)
+        if fallback_filters is not None:
+            query_args["where"] = fallback_filters
+            results = collection.query(**query_args)
+
     if not results["ids"] or len(results["ids"][0]) == 0:
         return []
 
+    # Format results into a list of dictionaries with id, score, content, and metadata
     output = []
     for i in range(len(results["ids"][0])):
         output.append({

@@ -1,1577 +1,1088 @@
 [
   {
-    "type": "doc_start",
+    "section_type": "doc_start",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
     "role": "N/A",
     "person": "N/A",
-    "content": "﻿Logo.png\n________________\nESS Officer Meeting Minutes – Procès-verbal de la réunion des dirigeants de l'AÉG\nDate: September 30th 2025 7pm\nLocation + Link - Lieu et lien: CBY A05 + Virtual, Google Meet\nDiscussions lead by Aiden McCooeye (he/him/il) and Eric Hagen (he/him/il).",
-    "sentences": [
-      "﻿Logo.png\n________________",
-      "ESS Officer Meeting Minutes – Procès-verbal de la réunion des dirigeants de l'AÉG\nDate: September 30th 2025 7pm\nLocation + Link - Lieu et lien: CBY A05 + Virtual, Google Meet\nDiscussions lead by Aiden McCooeye (he/him/il) and Eric Hagen (he/him/il)."
-    ],
-    "entities": [
-      {
-        "text": "September 30th 2025 7",
-        "label": "DATE"
-      },
-      {
-        "text": "lien",
-        "label": "PERSON"
-      },
-      {
-        "text": "Google Meet\nDiscussions",
-        "label": "FAC"
-      },
-      {
-        "text": "Aiden McCooeye",
-        "label": "ORG"
-      },
-      {
-        "text": "Eric Hagen",
-        "label": "PERSON"
-      }
-    ],
+    "content": "﻿Logo.png\n________________",
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "land_ack",
+    "section_type": "doc_start",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
     "role": "N/A",
     "person": "N/A",
-    "content": "* [Recognize Truth and Reconciliation Day] We acknowledge that we are gathered on the traditional and unceded territory of the Algonquin Anishinaabe Nation. For generations, they have been the stewards of this land, and their deep connection to it continues to this day. We recognize the enduring presence and contributions of the Algonquin people to this region. We also acknowledge the painful history of colonization and the displacement of Indigenous communities from their ancestral lands. We commit ourselves to learning, understanding, and honoring the Algonquin Nation's history and culture. We recognize the importance of working collaboratively to create a more just and equitable future for all who call this land home.\n________________",
-    "sentences": [
-      "*",
-      "[Recognize Truth and Reconciliation Day] We acknowledge that we are gathered on the traditional and unceded territory of the Algonquin Anishinaabe Nation.",
-      "For generations, they have been the stewards of this land, and their deep connection to it continues to this day.",
-      "We recognize the enduring presence and contributions of the Algonquin people to this region.",
-      "We also acknowledge the painful history of colonization and the displacement of Indigenous communities from their ancestral lands.",
-      "We commit ourselves to learning, understanding, and honoring the Algonquin Nation's history and culture.",
-      "We recognize the importance of working collaboratively to create a more just and equitable future for all who call this land home.\n________________"
-    ],
-    "entities": [
-      {
-        "text": "Recognize Truth",
-        "label": "ORG"
-      },
-      {
-        "text": "the Algonquin Anishinaabe Nation",
-        "label": "ORG"
-      },
-      {
-        "text": "this day",
-        "label": "DATE"
-      },
-      {
-        "text": "Indigenous",
-        "label": "ORG"
-      },
-      {
-        "text": "the Algonquin Nation's",
-        "label": "ORG"
-      }
-    ],
+    "content": "ESS Officer Meeting Minutes – Procès-verbal de la réunion des dirigeants de l'AÉG\nDate: September 30th 2025 7pm\nLocation + Link - Lieu et lien: CBY A05 + Virtual, Google Meet\nDiscussions lead by Aiden McCooeye (he/him/il) and Eric Hagen (he/him/il).",
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "land_ack",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "[Recognize Truth and Reconciliation Day] We acknowledge that we are gathered on the traditional and unceded territory of the Algonquin Anishinaabe Nation.",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "land_ack",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "For generations, they have been the stewards of this land, and their deep connection to it continues to this day.",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "land_ack",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "We recognize the enduring presence and contributions of the Algonquin people to this region.",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "land_ack",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "We also acknowledge the painful history of colonization and the displacement of Indigenous communities from their ancestral lands.",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "land_ack",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "We commit ourselves to learning, understanding, and honoring the Algonquin Nation's history and culture.",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "land_ack",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "We recognize the importance of working collaboratively to create a more just and equitable future for all who call this land home.\n________________",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
     "role": "President",
     "person": "Aiden, Eric",
-    "content": "* By-elections\n* Reminder to not slate/slander during campaigns\n* Summer report complete, waiting for translation\n* Preparing for internal transitions",
-    "sentences": [
-      "* By-elections\n* Reminder to not slate/slander during campaigns\n* Summer report complete, waiting for translation\n*",
-      "Preparing for internal transitions"
-    ],
-    "entities": [],
+    "content": "* By-elections\n* Reminder to not slate/slander during campaigns\n* Summer report complete, waiting for translation\n*",
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "President",
+    "person": "Aiden, Eric",
+    "content": "Preparing for internal transitions",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
     "role": "VP External",
     "person": "Ashna",
-    "content": "* SDES: attended with Hayley, great experience!\n* ESSCO: proposed a motion for academic accommodations at the September TC\n* FYIC: selection committee meeting today, interviews and delegate selection throughout the week with the selection commissioner, delegate registration by October 6th\n* CDE: working on application post, promo request made\n* PEO-SC: conference this weekend at Guelph, had the delegate meeting\n* Had a meeting with Rusafi to plan logistics for external awareness night\n* Conference bidding: got clarity with VP Services of ESSCO and CFES about our situation (discussion point later)\n* Working on conference take-back reports",
-    "sentences": [
-      "* SDES: attended with Hayley, great experience!",
-      "* ESSCO: proposed a motion for academic accommodations at the September TC\n* FYIC: selection committee meeting today, interviews and delegate selection throughout the week with the selection commissioner, delegate registration by October 6th\n* CDE: working on application post, promo request made\n* PEO-SC: conference this weekend at Guelph, had the delegate meeting\n*",
-      "Had a meeting with Rusafi to plan logistics for external awareness night\n* Conference bidding: got clarity with VP Services of ESSCO and CFES about our situation (discussion point later)\n* Working on conference take-back reports"
-    ],
-    "entities": [
-      {
-        "text": "Hayley",
-        "label": "PERSON"
-      },
-      {
-        "text": "September",
-        "label": "DATE"
-      },
-      {
-        "text": "today",
-        "label": "DATE"
-      },
-      {
-        "text": "the week",
-        "label": "DATE"
-      },
-      {
-        "text": "October 6th",
-        "label": "DATE"
-      },
-      {
-        "text": "PEO-SC",
-        "label": "ORG"
-      },
-      {
-        "text": "this weekend",
-        "label": "DATE"
-      },
-      {
-        "text": "Guelph",
-        "label": "ORG"
-      },
-      {
-        "text": "Rusafi",
-        "label": "PERSON"
-      },
-      {
-        "text": "night",
-        "label": "TIME"
-      },
-      {
-        "text": "VP Services of ESSCO",
-        "label": "ORG"
-      }
-    ],
+    "content": "* SDES: attended with Hayley, great experience!",
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "VP External",
+    "person": "Ashna",
+    "content": "* ESSCO: proposed a motion for academic accommodations at the September TC\n* FYIC: selection committee meeting today, interviews and delegate selection throughout the week with the selection commissioner, delegate registration by October 6th\n* CDE: working on application post, promo request made\n* PEO-SC: conference this weekend at Guelph, had the delegate meeting\n*",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "VP External",
+    "person": "Ashna",
+    "content": "Had a meeting with Rusafi to plan logistics for external awareness night\n* Conference bidding: got clarity with VP Services of ESSCO and CFES about our situation (discussion point later)\n* Working on conference take-back reports",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
     "role": "Manager of Sports",
     "person": "Alper",
     "content": "* Invoices sent to the Intramural Soccer Team players\n* 2/[a]2 wins, we keep going",
-    "sentences": [
-      "* Invoices sent to the Intramural Soccer Team players\n* 2/[a]2 wins, we keep going"
-    ],
-    "entities": [
-      {
-        "text": "2/[a]2",
-        "label": "CARDINAL"
-      }
-    ],
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
     "role": "Manager of External Awareness",
     "person": "Rusafi",
-    "content": "* Started to work on the External Awareness Night planning and logistics\n* Upcoming ESSCO and CFES post next week",
-    "sentences": [
-      "* Started to work on the External Awareness Night planning and logistics\n*",
-      "Upcoming ESSCO and CFES post next week"
-    ],
-    "entities": [
-      {
-        "text": "the External Awareness Night",
-        "label": "ORG"
-      },
-      {
-        "text": "next week",
-        "label": "DATE"
-      }
-    ],
+    "content": "* Started to work on the External Awareness Night planning and logistics\n*",
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "Manager of External Awareness",
+    "person": "Rusafi",
+    "content": "Upcoming ESSCO and CFES post next week",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
     "role": "VP Finance & Administration",
     "person": "Cyrus",
-    "content": "* Continued to process reimbursements\n* Assisted with W&C financials\n* Going to BBQ for UOEC lunch (show up for free food hotdogs and burgers - November 15-16)\n* Made Fright Fest Zeffy, waiting on info from Magno\n* Counted hoodie stock\n* Printing prices (over 20 pages): B&W $1.00 (min. 10 pages, increments of 10 pages) | Colour $1.25 (min. 5 pages, increments of 5 pages) - you can charge people under school supplies",
-    "sentences": [
-      "* Continued to process reimbursements\n*",
-      "Assisted with W&C financials\n* Going to BBQ for UOEC lunch (show up for free food hotdogs and burgers - November 15-16)\n* Made Fright Fest Zeffy, waiting on info from Magno\n* Counted hoodie stock\n* Printing prices (over 20 pages):",
-      "B&W $1.00 (min. 10 pages, increments of 10 pages)",
-      "| Colour $1.25 (min. 5 pages, increments of 5 pages)",
-      "- you can charge people under school supplies"
-    ],
-    "entities": [
-      {
-        "text": "W&C",
-        "label": "ORG"
-      },
-      {
-        "text": "UOEC",
-        "label": "ORG"
-      },
-      {
-        "text": "November 15-16",
-        "label": "DATE"
-      },
-      {
-        "text": "Magno",
-        "label": "PERSON"
-      },
-      {
-        "text": "20",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "B&W",
-        "label": "ORG"
-      },
-      {
-        "text": "1.00",
-        "label": "MONEY"
-      },
-      {
-        "text": "10",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "10",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "1.25",
-        "label": "MONEY"
-      },
-      {
-        "text": "5",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "5",
-        "label": "CARDINAL"
-      }
-    ],
+    "content": "* Continued to process reimbursements\n*",
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "VP Finance & Administration",
+    "person": "Cyrus",
+    "content": "Assisted with W&C financials\n* Going to BBQ for UOEC lunch (show up for free food hotdogs and burgers - November 15-16)\n* Made Fright Fest Zeffy, waiting on info from Magno\n* Counted hoodie stock\n* Printing prices (over 20 pages):",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "VP Finance & Administration",
+    "person": "Cyrus",
+    "content": "B&W $1.00 (min. 10 pages, increments of 10 pages)",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "VP Finance & Administration",
+    "person": "Cyrus",
+    "content": "| Colour $1.25 (min. 5 pages, increments of 5 pages)",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "VP Finance & Administration",
+    "person": "Cyrus",
+    "content": "- you can charge people under school supplies",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
     "role": "Manager of Sponsorship",
     "person": "Henri",
-    "content": "* Starting to get sponsors for ESS in general and specific events: spreadsheet will be kept updated as much as possible :) link. If you want me to reach out to anyone specifically let me know.\n* Still working with Amani to get a good base started for ERTW\n* Would like more info to share to sponsors about industry night if possible, not sure who to reach out to.",
-    "sentences": [
-      "* Starting to get sponsors for ESS in general and specific events: spreadsheet will be kept updated as much as possible :) link.",
-      "If you want me to reach out to anyone specifically let me know.",
-      "* Still working with Amani to get a good base started for ERTW\n*",
-      "Would like more info to share to sponsors about industry night if possible, not sure who to reach out to."
-    ],
-    "entities": [
-      {
-        "text": "Amani",
-        "label": "PERSON"
-      }
-    ],
+    "content": "* Starting to get sponsors for ESS in general and specific events: spreadsheet will be kept updated as much as possible :) link.",
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "ERTW Commissioner",
-    "person": "Amani Mohamed",
-    "content": "*",
-    "sentences": [
-      "*"
-    ],
-    "entities": [],
+    "role": "Manager of Sponsorship",
+    "person": "Henri",
+    "content": "If you want me to reach out to anyone specifically let me know.",
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "Manager of Sponsorship",
+    "person": "Henri",
+    "content": "* Still working with Amani to get a good base started for ERTW\n*",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "Manager of Sponsorship",
+    "person": "Henri",
+    "content": "Would like more info to share to sponsors about industry night if possible, not sure who to reach out to.",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
     "role": "Sponsorship Liaison Commissioner",
-    "person": "Kristen Wells for Fall Semester",
-    "content": "* Restocked monsters\n* Created week 4 questions",
-    "sentences": [
-      "* Restocked monsters\n*",
-      "Created week 4 questions"
-    ],
-    "entities": [
-      {
-        "text": "week 4",
-        "label": "DATE"
-      }
-    ],
+    "person": "Kristen Wells",
+    "content": "* Restocked monsters\n*",
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "Sponsorship Liaison Commissioner",
+    "person": "Kristen Wells",
+    "content": "Created week 4 questions",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
     "role": "Finance Commissioner",
     "person": "Ryn",
-    "content": "* Finalized amounts for levies after hearing back from UOSU on reason for extra amount sent",
-    "sentences": [
-      "*",
-      "Finalized amounts for levies after hearing back from UOSU on reason for extra amount sent"
-    ],
-    "entities": [
-      {
-        "text": "UOSU",
-        "label": "ORG"
-      }
-    ],
+    "content": "Finalized amounts for levies after hearing back from UOSU on reason for extra amount sent",
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
     "role": "VP Academic",
     "person": "Nick",
-    "content": "* Waiting on faculty to approve A04 booking to continue with Coffee and Catch-up\n* Also waiting to hear back from Natural Resources to try to get field trip set up\n* Got EEF money for W&C $13k\n* Going to be putting out Summer feedback form soon!",
-    "sentences": [
-      "* Waiting on faculty to approve A04 booking to continue with Coffee and Catch-up\n* Also waiting to hear back from Natural Resources to try to get field trip set up\n*",
-      "Got EEF money for W&C $13k\n* Going to be putting out Summer feedback form soon!"
-    ],
-    "entities": [
-      {
-        "text": "A04",
-        "label": "ORG"
-      },
-      {
-        "text": "Coffee",
-        "label": "ORG"
-      },
-      {
-        "text": "Natural Resources",
-        "label": "ORG"
-      },
-      {
-        "text": "EEF",
-        "label": "ORG"
-      },
-      {
-        "text": "13k",
-        "label": "MONEY"
-      },
-      {
-        "text": "Summer",
-        "label": "DATE"
-      }
-    ],
+    "content": "* Waiting on faculty to approve A04 booking to continue with Coffee and Catch-up\n* Also waiting to hear back from Natural Resources to try to get field trip set up\n*",
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "VP Academic",
+    "person": "Nick",
+    "content": "Got EEF money for W&C $13k\n* Going to be putting out Summer feedback form soon!",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
     "role": "Wine and Cheese Coordinator",
     "person": "Mehar",
-    "content": "* Hassan has been reached out to for photography, waiting for response, Maria might also be a good option as well depending on availability and rates for Hassan\n* EEF presentation was completed\n* Should hear back from Eliane about this terms number of eligible students in early October\n* CNR updates?\n* French representative needed for day of\n* Next steps: Reach out to casual band and Osmows for catering,decide on photographer, set up volunteer form, fill out promo request and prepare slide for info session closer to the date",
-    "sentences": [
-      "* Hassan has been reached out to for photography, waiting for response, Maria might also be a good option as well depending on availability and rates for Hassan\n* EEF presentation was completed\n* Should hear back from Eliane about this terms number of eligible students in early October\n* CNR updates?",
-      "* French representative needed for day of\n*",
-      "Next steps: Reach out to casual band and Osmows for catering,decide on photographer, set up volunteer form, fill out promo request and prepare slide for info session closer to the date"
-    ],
-    "entities": [
-      {
-        "text": "Hassan",
-        "label": "PERSON"
-      },
-      {
-        "text": "Maria",
-        "label": "PERSON"
-      },
-      {
-        "text": "Hassan",
-        "label": "PERSON"
-      },
-      {
-        "text": "early October",
-        "label": "DATE"
-      },
-      {
-        "text": "CNR",
-        "label": "ORG"
-      },
-      {
-        "text": "French",
-        "label": "NORP"
-      },
-      {
-        "text": "day",
-        "label": "DATE"
-      },
-      {
-        "text": "Osmows",
-        "label": "PERSON"
-      }
-    ],
+    "content": "* Hassan has been reached out to for photography, waiting for response, Maria might also be a good option as well depending on availability and rates for Hassan\n* EEF presentation was completed\n* Should hear back from Eliane about this terms number of eligible students in early October\n* CNR updates?",
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "Wine and Cheese Coordinator",
+    "person": "Mehar",
+    "content": "* French representative needed for day of\n*",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "Wine and Cheese Coordinator",
+    "person": "Mehar",
+    "content": "Next steps: Reach out to casual band and Osmows for catering,decide on photographer, set up volunteer form, fill out promo request and prepare slide for info session closer to the date",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
     "role": "Manager of Student Advocacy",
-    "person": "Brooke for Fall Semester",
-    "content": "* Worked on inclusion policy, should be mostly finalized but will always take more feedback.\n* Sent out an email for accreditation for faculty council; no one got back to me and also there aren't meeting minutes online yet.",
-    "sentences": [
-      "* Worked on inclusion policy, should be mostly finalized but will always take more feedback.",
-      "* Sent out an email for accreditation for faculty council; no one got back to me and also there aren't meeting minutes online yet."
-    ],
-    "entities": [
-      {
-        "text": "minutes",
-        "label": "TIME"
-      }
-    ],
+    "person": "Brooke",
+    "content": "* Worked on inclusion policy, should be mostly finalized but will always take more feedback.",
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "Manager of Student Advocacy",
+    "person": "Brooke",
+    "content": "* Sent out an email for accreditation for faculty council; no one got back to me and also there aren't meeting minutes online yet.",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
     "role": "VP Communications",
     "person": "Hayley",
-    "content": "* Attended SDES, gave my notes to Ashna\n* Mailouts and posts always being worked on\n* Updated linktree design\n* Updating lintree resources\n* Got access to the website",
-    "sentences": [
-      "*",
-      "Attended SDES, gave my notes to Ashna\n* Mailouts and posts always being worked on\n* Updated linktree design\n*",
-      "Updating lintree resources\n*",
-      "Got access to the website"
-    ],
-    "entities": [],
+    "content": "Attended SDES, gave my notes to Ashna\n* Mailouts and posts always being worked on\n* Updated linktree design\n*",
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "VP Communications",
+    "person": "Hayley",
+    "content": "Updating lintree resources\n*",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "VP Communications",
+    "person": "Hayley",
+    "content": "Got access to the website",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
     "role": "Manager of Social Media",
     "person": "Conall",
-    "content": "* Leather Jacket fitting post will be uploaded later this week (friday)\n* Plants for Mental Health post will be uploaded next week\n* CDE 2025 Applications post will be uploaded later this week (friday)\n* Assuming the info gets set in stone, Fright Fest post should be posted on the 10th",
-    "sentences": [
-      "* Leather Jacket fitting post will be uploaded later this week (friday)\n* Plants for Mental Health post will be uploaded next week",
-      "* CDE 2025 Applications post will be uploaded later this week (friday)\n*",
-      "Assuming the info gets set in stone, Fright Fest post should be posted on the 10th"
-    ],
-    "entities": [
-      {
-        "text": "later this week",
-        "label": "DATE"
-      },
-      {
-        "text": "friday",
-        "label": "DATE"
-      },
-      {
-        "text": "Mental Health",
-        "label": "ORG"
-      },
-      {
-        "text": "next week",
-        "label": "DATE"
-      },
-      {
-        "text": "CDE",
-        "label": "ORG"
-      },
-      {
-        "text": "2025",
-        "label": "DATE"
-      },
-      {
-        "text": "later this week",
-        "label": "DATE"
-      },
-      {
-        "text": "friday",
-        "label": "DATE"
-      },
-      {
-        "text": "Fright Fest",
-        "label": "ORG"
-      },
-      {
-        "text": "10th",
-        "label": "ORDINAL"
-      }
-    ],
+    "content": "* Leather Jacket fitting post will be uploaded later this week (friday)\n* Plants for Mental Health post will be uploaded next week",
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "Manager of Social Media",
+    "person": "Conall",
+    "content": "* CDE 2025 Applications post will be uploaded later this week (friday)\n*",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "Manager of Social Media",
+    "person": "Conall",
+    "content": "Assuming the info gets set in stone, Fright Fest post should be posted on the 10th",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
     "role": "Manager of IT",
     "person": "Adi",
     "content": "* New store page\n* Check in via Zeffy sale link for online orders\n* Admin side: ESS Payment Admin Side",
-    "sentences": [
-      "* New store page\n* Check in via Zeffy sale link for online orders\n* Admin side: ESS Payment Admin Side"
-    ],
-    "entities": [],
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "VP Internal",
-    "person": "Vacant",
-    "content": "* Vacant",
-    "sentences": [
-      "* Vacant"
-    ],
-    "entities": [],
+    "role": "Manager of Marketing",
+    "person": "Krish",
+    "content": "* VP Internal:\n* Vacant",
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
     "role": "uOEC Commissioner",
     "person": "Reema",
-    "content": "* Rather than catering lunches for 2 days, we will be bbq’ing (ty for volunteering Cyrus)\n* Need to figure out the logistics for storing propane tanks over the weekend\n* SSA to allow us to store with them, giving us a key near the bioscience building. Mark which one we own.\n* We can buy some supplies from SSA, the rest (eg, alternatives for diet restrictions) we will do a costco/walmart run for closer to the date\n* We will be ordering patches very soon, just waiting to hear back on the final update as to the design\n* Ordering committee merch soon too, though not a high priority yet. Also making the volunteer merch/t-shirts just in case\n* Volunteer shirts to be ordered closer to the event date so we can get a clearer picture of how many will be attending\n* Logo sent in the discord",
-    "sentences": [
-      "* Rather than catering lunches for 2 days, we will be bbq’ing (ty for volunteering Cyrus)\n* Need to figure out the logistics for storing propane tanks over the weekend\n*",
-      "SSA to allow us to store with them, giving us a key near the bioscience building.",
-      "Mark which one we own.",
-      "*",
-      "We can buy some supplies from SSA, the rest (eg, alternatives for diet restrictions)",
-      "we will do a costco/walmart run for closer to the date\n*",
-      "We will be ordering patches very soon, just waiting to hear back on the final update as to the design\n*",
-      "Ordering committee merch soon too, though not a high priority yet.",
-      "Also making the volunteer merch/t-shirts just in case\n* Volunteer shirts to be ordered closer to the event date so we can get a clearer picture of how many will be attending\n*",
-      "Logo sent in the discord"
-    ],
-    "entities": [
-      {
-        "text": "2 days",
-        "label": "DATE"
-      },
-      {
-        "text": "Cyrus",
-        "label": "PERSON"
-      },
-      {
-        "text": "the weekend",
-        "label": "DATE"
-      },
-      {
-        "text": "Mark",
-        "label": "PERSON"
-      },
-      {
-        "text": "SSA",
-        "label": "ORG"
-      }
-    ],
+    "content": "* Rather than catering lunches for 2 days, we will be bbq’ing (ty for volunteering Cyrus)\n* Need to figure out the logistics for storing propane tanks over the weekend\n*",
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "uOEC Commissioner",
+    "person": "Reema",
+    "content": "SSA to allow us to store with them, giving us a key near the bioscience building.",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "uOEC Commissioner",
+    "person": "Reema",
+    "content": "Mark which one we own.",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "uOEC Commissioner",
+    "person": "Reema",
+    "content": "We can buy some supplies from SSA, the rest (eg, alternatives for diet restrictions)",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "uOEC Commissioner",
+    "person": "Reema",
+    "content": "we will do a costco/walmart run for closer to the date\n*",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "uOEC Commissioner",
+    "person": "Reema",
+    "content": "We will be ordering patches very soon, just waiting to hear back on the final update as to the design\n*",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "uOEC Commissioner",
+    "person": "Reema",
+    "content": "Ordering committee merch soon too, though not a high priority yet.",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "uOEC Commissioner",
+    "person": "Reema",
+    "content": "Also making the volunteer merch/t-shirts just in case\n* Volunteer shirts to be ordered closer to the event date so we can get a clearer picture of how many will be attending\n*",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "uOEC Commissioner",
+    "person": "Reema",
+    "content": "Logo sent in the discord",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
     "role": "VP Services",
     "person": "Luke",
     "content": "* Ordered new merch\n* Received exec merch, waiting for invoice\n* Waiting for invoice on the rest of 101 week items…\n* Made promo request for jacket fitting on Oct 6 11am-4pm",
-    "sentences": [
-      "* Ordered new merch\n* Received exec merch, waiting for invoice\n* Waiting for invoice on the rest of 101 week items…\n* Made promo request for jacket fitting on Oct 6 11am-4pm"
-    ],
-    "entities": [
-      {
-        "text": "101 week",
-        "label": "DATE"
-      },
-      {
-        "text": "Oct 6 11am-4pm",
-        "label": "DATE"
-      }
-    ],
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
     "role": "VP Social",
     "person": "Magno",
-    "content": "* Fright Fest w/SSA\n* Saunders Farm has been booked (came out to 9041.40$)\n* Capping tickets at 45 with a waitlist option, sold for 40$\n* Gotta book busses but SSA is taking charge of that\n* We’re covering a third of the costs (since we got one bus and they got 2)\n* Promo will have to be separate since our prices are different, will ask to just copy SSA’s post if VP Comms would like so it’s less work for her\n* Fall DUSTED\n* Planned for November 15th instead of the 1st\n* Venue is good for and contract is signed\n* Shrek theme!! Time to get shreked\n* Asked Meriem to design patch, will order 150 as soon as the design is ready\n* Quotes for buses arrived today ($1,396.68), will confirm tonight\n* Will start planning Iron Ring After Party soon for Nov 8\n* Going over Winter DUSTED refunds",
-    "sentences": [
-      "* Fright Fest w/SSA\n* Saunders Farm has been booked (came out to 9041.40$)\n* Capping tickets at 45 with a waitlist option, sold for 40$\n*",
-      "Gotta book busses but SSA is taking charge of that\n*",
-      "We’re covering a third of the costs (since we got one bus and they got 2)",
-      "* Promo will have to be separate since our prices are different, will ask to just copy SSA’s post if VP Comms would like so it’s less work for her\n*",
-      "Fall DUSTED\n*",
-      "Planned for November 15th instead of the 1st\n*",
-      "Venue is good for and contract is signed\n*",
-      "Shrek theme!!",
-      "Time to get shreked\n*",
-      "Asked Meriem to design patch, will order 150 as soon as the design is ready\n* Quotes for buses arrived today ($1,396.68), will confirm tonight\n*",
-      "Will start planning Iron Ring After Party soon for Nov 8\n* Going over Winter DUSTED refunds"
-    ],
-    "entities": [
-      {
-        "text": "Saunders Farm",
-        "label": "ORG"
-      },
-      {
-        "text": "9041.40$",
-        "label": "MONEY"
-      },
-      {
-        "text": "45",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "40$\n*",
-        "label": "MONEY"
-      },
-      {
-        "text": "SSA",
-        "label": "ORG"
-      },
-      {
-        "text": "a third",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "one",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "2",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "SSA",
-        "label": "ORG"
-      },
-      {
-        "text": "VP Comms",
-        "label": "ORG"
-      },
-      {
-        "text": "November 15th",
-        "label": "DATE"
-      },
-      {
-        "text": "the 1st",
-        "label": "DATE"
-      },
-      {
-        "text": "150",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "today",
-        "label": "DATE"
-      },
-      {
-        "text": "1,396.68",
-        "label": "MONEY"
-      },
-      {
-        "text": "tonight",
-        "label": "TIME"
-      },
-      {
-        "text": "Iron Ring After Party",
-        "label": "PERSON"
-      },
-      {
-        "text": "Nov 8",
-        "label": "DATE"
-      },
-      {
-        "text": "Winter",
-        "label": "DATE"
-      }
-    ],
+    "content": "* Fright Fest w/SSA\n* Saunders Farm has been booked (came out to 9041.40$)\n* Capping tickets at 45 with a waitlist option, sold for 40$\n*",
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "101 Week Coordinator",
-    "person": "Dakota - Term Over",
-    "content": "* Term Over",
-    "sentences": [
-      "* Term Over"
-    ],
-    "entities": [],
+    "role": "VP Social",
+    "person": "Magno",
+    "content": "Gotta book busses but SSA is taking charge of that\n*",
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "VP Social",
+    "person": "Magno",
+    "content": "We’re covering a third of the costs (since we got one bus and they got 2)",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "VP Social",
+    "person": "Magno",
+    "content": "* Promo will have to be separate since our prices are different, will ask to just copy SSA’s post if VP Comms would like so it’s less work for her\n*",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "VP Social",
+    "person": "Magno",
+    "content": "Planned for November 15th instead of the 1st\n*",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "VP Social",
+    "person": "Magno",
+    "content": "Venue is good for and contract is signed\n*",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "VP Social",
+    "person": "Magno",
+    "content": "Time to get shreked\n*",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "VP Social",
+    "person": "Magno",
+    "content": "Asked Meriem to design patch, will order 150 as soon as the design is ready\n* Quotes for buses arrived today ($1,396.68), will confirm tonight\n*",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "VP Social",
+    "person": "Magno",
+    "content": "Will start planning Iron Ring After Party soon for Nov 8\n* Going over Winter DUSTED refunds",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
     "role": "VP Philanthropic",
     "person": "Zoe",
-    "content": "* Meeting w dom happened\n* Sent out 101 week thank you emails for shine sponsors (also would like to get shine money cashed soon if possible <3 )\n* C&R rejected cat cafe :( looking for other options but other events will still happen (promo rqs for these will come in soon!)\n* Sent in info for charity committee hiring\n* ESA reached out about beer olympics - meeting soon about that\n* Meeting with mysterious studio 44 people about eng ball, not sure what to leave to them yet though since planning is alr in progress",
-    "sentences": [
-      "* Meeting w dom happened\n*",
-      "Sent out 101 week thank you emails for shine sponsors (also would like to get shine money cashed soon if possible <3 )",
-      "* C&R rejected cat cafe :( looking for other options but other events will still happen (promo rqs for these will come in soon!)",
-      "* Sent in info for charity committee hiring\n* ESA reached out about beer olympics - meeting soon about that\n*",
-      "Meeting with mysterious studio 44 people about eng ball, not sure what to leave to them yet though since planning is alr in progress"
-    ],
-    "entities": [
-      {
-        "text": "101 week",
-        "label": "DATE"
-      },
-      {
-        "text": "C&R",
-        "label": "ORG"
-      },
-      {
-        "text": "ESA",
-        "label": "ORG"
-      },
-      {
-        "text": "44",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "eng ball",
-        "label": "PERSON"
-      }
-    ],
+    "content": "* Meeting w dom happened\n*",
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "Charity Commissioner",
-    "person": "Zoé",
-    "content": "* No updates",
-    "sentences": [
-      "*",
-      "No updates"
-    ],
-    "entities": [],
+    "role": "VP Philanthropic",
+    "person": "Zoe",
+    "content": "Sent out 101 week thank you emails for shine sponsors (also would like to get shine money cashed soon if possible <3 )",
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "VP Philanthropic",
+    "person": "Zoe",
+    "content": "* C&R rejected cat cafe :( looking for other options but other events will still happen (promo rqs for these will come in soon!)",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "VP Philanthropic",
+    "person": "Zoe",
+    "content": "* Sent in info for charity committee hiring\n* ESA reached out about beer olympics - meeting soon about that\n*",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "VP Philanthropic",
+    "person": "Zoe",
+    "content": "Meeting with mysterious studio 44 people about eng ball, not sure what to leave to them yet though since planning is alr in progress",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
     "role": "VP Equity",
     "person": "Maria",
-    "content": "* Working on getting stuff for [plant] plotting event\n* Ideas on small businesses for the plants ???\n* Have to reschedule anti oppression meeting sorry :p",
-    "sentences": [
-      "* Working on getting stuff for [plant] plotting event\n* Ideas on small businesses for the plants ???",
-      "* Have to reschedule anti oppression meeting sorry :p"
-    ],
-    "entities": [],
+    "content": "* Working on getting stuff for [plant] plotting event\n* Ideas on small businesses for the plants ???",
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "VP Equity",
+    "person": "Maria",
+    "content": "* Have to reschedule anti oppression meeting sorry :p",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
     "role": "VP Francophone",
     "person": "Thomas",
     "content": "* Cooking fall event 😛😛",
-    "sentences": [
-      "* Cooking fall event 😛😛"
-    ],
-    "entities": [],
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
     "role": "Manager of Translations",
     "person": "Hayden",
     "content": "* Translated a few requests",
-    "sentences": [
-      "* Translated a few requests"
-    ],
-    "entities": [],
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "minutes_update",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "VP Sustainability",
-    "person": "Vacant",
-    "content": "* Vacant",
-    "sentences": [
-      "* Vacant"
-    ],
-    "entities": [],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "minutes_update",
-    "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
     "role": "Chair of the Board",
-    "person": "Maya for Fall Semester",
-    "content": "* BoD happened! Thank you to everyone who showed up and participated\n* Please keep it throughout the rest of the year\n* The next one is Oct 26th! Please be there! Have updates in! Let me know if you can’t make it!",
-    "sentences": [
-      "* BoD happened!",
-      "Thank you to everyone who showed up and participated\n*",
-      "Please keep it throughout the rest of the year\n*",
-      "The next one is Oct 26th!",
-      "Please be there!",
-      "Have updates in!",
-      "Let me know if you can’t make it!"
-    ],
-    "entities": [
-      {
-        "text": "the year",
-        "label": "DATE"
-      },
-      {
-        "text": "Oct 26th",
-        "label": "PERSON"
-      }
-    ],
+    "person": "Maya",
+    "content": "Thank you to everyone who showed up and participated\n*",
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "discussion",
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "Chair of the Board",
+    "person": "Maya",
+    "content": "Please keep it throughout the rest of the year\n*",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "Chair of the Board",
+    "person": "Maya",
+    "content": "The next one is Oct 26th!",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "minutes_update",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "Chair of the Board",
+    "person": "Maya",
+    "content": "Let me know if you can’t make it!",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "discussion",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
     "role": "N/A",
     "person": "N/A",
     "content": "* Comms: What do we want for elections\n* Aiden: Starts monday, need story for debate and post for results. Will do a promo request for results / complete the whole team.\n* Magno: Is debate for everyone?\n* Aiden: Everyone running will debate (question period).\n* Cyrus: When is it?\n* Aiden: Saturday 4th",
-    "sentences": [
-      "* Comms: What do we want for elections\n*",
-      "Aiden: Starts monday, need story for debate and post for results.",
-      "Will do a promo request for results / complete the whole team.",
-      "* Magno: Is debate for everyone?",
-      "* Aiden: Everyone running will debate (question period).",
-      "*",
-      "Cyrus: When is it?",
-      "* Aiden: Saturday 4th"
-    ],
-    "entities": [
-      {
-        "text": "monday",
-        "label": "DATE"
-      },
-      {
-        "text": "Magno",
-        "label": "PERSON"
-      },
-      {
-        "text": "Saturday",
-        "label": "DATE"
-      },
-      {
-        "text": "4th",
-        "label": "ORDINAL"
-      }
-    ],
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "discussion",
+    "section_type": "discussion",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "VP External",
-    "person": "Ashna",
-    "content": "* Ashna: uOttawa has to bid for both ESSCO and CFES conferences every so often. VP Services of ESSCO/CFES says we are not due to bid until next year. I talked to them and think it is good to bid for the above which is good for us. We could wait, but don’t want to be left with a larger conference that is harder to do, especially if I am no longer around. SDES is larger (National), leading me to choose ESSCO (Ontario) PM.\n* Hayley: I worry that…\n* Cyrus: Is there money involved?\n* Ashna: There is a budget required in the bid but a portion is covered by the ESSCO/CFES and some would be applied for from EEF.\n* Cyrus: Sponsors? C&R? VEMS?\n* Ashna: We can chat about logistics later. ESSCO PM is an ESSCO Conference out of 2 coming up. We can bid for ESSCO PM at FYIC or CALE. I think CALE is better as there isn’t much time to prepare for FYIC.\n* Aiden: Third time is a charm!\n* Eric: Gonna ask bod? Just need to get votes as it involves society finances.\n* Ashna: Okay. For the bid I have to prepare a template for the organizing committee. If you are interested in joining let me know.",
-    "sentences": [
-      "* Ashna: uOttawa has to bid for both ESSCO and CFES conferences every so often.",
-      "VP Services of ESSCO/CFES says we are not due to bid until next year.",
-      "I talked to them and think it is good to bid for the above which is good for us.",
-      "We could wait, but don’t want to be left with a larger conference that is harder to do, especially if I am no longer around.",
-      "SDES is larger (National), leading me to choose ESSCO (Ontario) PM.",
-      "*",
-      "Hayley: I worry that…\n* Cyrus: Is there money involved?",
-      "* Ashna: There is a budget required in the bid but a portion is covered by the ESSCO/CFES and some would be applied for from EEF.",
-      "* Cyrus: Sponsors?",
-      "C&R? VEMS?",
-      "* Ashna: We can chat about logistics later.",
-      "ESSCO PM is an ESSCO Conference out of 2 coming up.",
-      "We can bid for ESSCO PM at FYIC or CALE.",
-      "I think CALE is better as there isn’t much time to prepare for FYIC.",
-      "*",
-      "Aiden: Third time is a charm!",
-      "*",
-      "Eric: Gonna ask bod?",
-      "Just need to get votes as it involves society finances.",
-      "* Ashna: Okay.",
-      "For the bid I have to prepare a template for the organizing committee.",
-      "If you are interested in joining let me know."
-    ],
-    "entities": [
-      {
-        "text": "uOttawa",
-        "label": "ORG"
-      },
-      {
-        "text": "VP Services of ESSCO/CFES",
-        "label": "ORG"
-      },
-      {
-        "text": "next year",
-        "label": "DATE"
-      },
-      {
-        "text": "EEF",
-        "label": "ORG"
-      },
-      {
-        "text": "C&R",
-        "label": "ORG"
-      },
-      {
-        "text": "2",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "FYIC",
-        "label": "ORG"
-      },
-      {
-        "text": "CALE",
-        "label": "ORG"
-      },
-      {
-        "text": "CALE",
-        "label": "ORG"
-      },
-      {
-        "text": "FYIC",
-        "label": "ORG"
-      },
-      {
-        "text": "Third",
-        "label": "ORDINAL"
-      }
-    ],
+    "role": "N/A",
+    "person": "N/A",
+    "content": "* VP External: Bid for ESSCO PM 2027\n* Ashna: uOttawa has to bid for both ESSCO and CFES conferences every so often. VP Services of ESSCO/CFES says we are not due to bid until next year. I talked to them and think it is good to bid for the above which is good for us. We could wait, but don’t want to be left with a larger conference that is harder to do, especially if I am no longer around. SDES is larger (National), leading me to choose ESSCO (Ontario) PM.\n* Hayley: I worry that…\n* Cyrus: Is there money involved?\n* Ashna: There is a budget required in the bid but a portion is covered by the ESSCO/CFES and some would be applied for from EEF.\n* Cyrus: Sponsors? C&R? VEMS?\n* Ashna: We can chat about logistics later. ESSCO PM is an ESSCO Conference out of 2 coming up. We can bid for ESSCO PM at FYIC or CALE. I think CALE is better as there isn’t much time to prepare for FYIC.\n* Aiden: Third time is a charm!\n* Eric: Gonna ask bod? Just need to get votes as it involves society finances.\n* Ashna: Okay. For the bid I have to prepare a template for the organizing committee. If you are interested in joining let me know.\n* VP External: Carleton hockey fundraiser\n* Hayley: Carleton reached out and they wanted to do something like they did in the past with Telfer.\n* Ashna: Me and Alper chatted but we don’t have much info. Emailed (organizer?) and wants to set up a meeting. I wanted to know logistics like dates etc. Want to see if this is something we want to do???\n* Hayley: If this is a fundraiser then we shouldn't incur cost.\n* Ashna: We have past costs and shou\n* Hayley: IMO, if only 300 estimated to be made, seems like a lot of work unless logistics are already done.\n* Eric: If it is a fundraising event, involve Zoe.\n* Cyrus: Is there interest in hockey?\n* Alper: Yes, we have people reaching out.\n* Hayley: Use money for jerseys to keep each year. Pay to watch not pay to play.\n* Ashna: Worried because I am being told I would need to pay for SDES. Alper and I will have a convo. Leaving Zoe out as this is not a fundraiser for external organizations.\n* Cyrus: Option to purchase and keep jersey?\n* Hayley: Keep them year round, ESS branded\n* VPFA: October Monster: Covies4Monster?? Thoughts??\n* Cyrus: Switch it up for October from Math. Similar to WWWC??\n* Hayley: Improve WWWC and add Monster to it as well.\n* Conall: Halloween costume for Monster.\n* Hayley: For 3 weeks do WWWC. Last week and leading to DUSTED, do costumes.\n* VP Academic: W&C email simplifications?\n* Nick: There are 4 can we cut that down?\n* Hayley: Are they not linked?\n* Nick: No.\n* Hayley: Let’s just link them.\n* Adi: I will make sure all emails that have secondaries will be linked\n* VPFA: Does anyone know if Luke has been cutting locks? (Who knows?)\n* Cyrus: We have sold 99. One person bought winter??\n* Nobody Knows…\n* VP Social : Weekly Wednesday at Nostalgica??\n* Magno: Somebody contacted about missing a midweek gathering. Weekly Wednesday’s at Nostalgica???\n* Hayley: The only question was “Let me know if you have a couple students to help with the soft launch” which was weird. I don’t know what it has to do with us and how it benefits us.\n* Adi: Signup form?\n* Cyrus: No\n* Hayley: It is a mess. The guy is weird. (paraphrased)\n* NOT FROM BAR DIRECTLY\n* Hayley: Respond with no, but if it goes well reach out and we can promote. Generally weak sell from them.\n* Magno: Everyone knows about karaoke at FNS.",
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   },
   {
-    "type": "discussion",
+    "section_type": "varia",
+    "type": "minutes_chunk",
     "document_type": "minutes",
+    "document_subtype": "officer",
     "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "VP External",
-    "person": "Ashna",
-    "content": "* Hayley: Carleton reached out and they wanted to do something like they did in the past with Telfer.\n* Ashna: Me and Alper chatted but we don’t have much info. Emailed (organizer?) and wants to set up a meeting. I wanted to know logistics like dates etc. Want to see if this is something we want to do???\n* Hayley: If this is a fundraiser then we shouldn't incur cost.\n* Ashna: We have past costs and shou\n* Hayley: IMO, if only 300 estimated to be made, seems like a lot of work unless logistics are already done.\n* Eric: If it is a fundraising event, involve Zoe.\n* Cyrus: Is there interest in hockey?\n* Alper: Yes, we have people reaching out.\n* Hayley: Use money for jerseys to keep each year. Pay to watch not pay to play.\n* Ashna: Worried because I am being told I would need to pay for SDES. Alper and I will have a convo. Leaving Zoe out as this is not a fundraiser for external organizations.\n* Cyrus: Option to purchase and keep jersey?\n* Hayley: Keep them year round, ESS branded\n* VPFA: October Monster: Covies4Monster?? Thoughts??\n* Cyrus: Switch it up for October from Math. Similar to WWWC??\n* Hayley: Improve WWWC and add Monster to it as well.\n* Conall: Halloween costume for Monster.\n* Hayley: For 3 weeks do WWWC. Last week and leading to DUSTED, do costumes.",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "* VP COMMS: Please stop making your own threads in the promo request channel, just submit the form and have patience - it’s how me and Conall keep track of who’s started what.\n* VPFA: Please stop sending me receipts and invoices via discord, use the Reimbursement google form setup for the process. If you need to get reimbursed, complete the F1 form, then attach the receipt/invoice BELOW the aforementioned document. Ryn will be taking care of reimbursements for the next few weeks. Reach out to them for any clarifications.\n* President: Read this if you are interested and so that I didn’t miss anything you guys did! ESS President Report Summer 2025",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "reminders",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "* President: NO SLATING / SLANDERING DURING ELECTIONS\n* President: IN PERSON ZEFFY SALES MUST BE DONE ONLINE THROUGH THE LINKS FOR INVENTORY (pinned in OH channel)\n* President: Reach out if you need anything 🙂\n* President: As much as all work is appreciated, please stay within your mandate!",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "reminders",
+    "type": "minutes_chunk",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "If you need to push your managers then do so\n* Comms: Promo request form is pinned in the social media channel on discord, please submit as far in advance as possible\n* Finance/Services: See exec perks page for free lockers\n________________\nPage  of\n[a]1 total reaction\nCyrus Choi reacted with 💜 at 2025-09-30 21:49 PM",
+    "meeting_date": "2025-09-30",
+    "meeting_date_display": "September 30th 2025 7pm"
+  },
+  {
+    "section_type": "attendance",
+    "type": "attendance_summary",
+    "document_type": "minutes",
+    "document_subtype": "officer",
+    "source_file": "September 30 _ Officer Meeting.txt",
+    "role": "N/A",
+    "person": "N/A",
+    "content": "From the meeting attendance, the officers include:\nAiden is the Co-President.\nEric is the Co-President.\nAiden is the President.\nEric is the President.\nAshna is the VP External.\nMagno is the VP Social.\nCyrus is the VP Finance & Administration.\nHayley is the VP Communications.\nNick is the VP Academic.\nZoe is the VP Philanthropic.\nAlper is the Manager of Sports.\nConall is the Manager of Social Media.\nAdi is the Manager of IT.\nHayden is the Manager of Translations.\nMehar is the Wine and Cheese Coordinator.\nRusafi is the Manager of External Awareness.\nZoé is the Charity Commissioner.\nRyn is the Finance Commissioner.\nVictoria is the Francophone Outreach Commissioner.\nDakota is the 101 Week Coordinator.\nBrooke is the Manager of Student Advocacy.\nKristen Wells is the Sponsorship Liaison Commissioner.\nMaya is the Chair of the Board.\nVacant is the VP Sustainability.\nVacant is the VP Internal.\nLuke is the VP Services.\nMaria is the VP Equity.\nThomas is the VP Francophone.\nKrish is the Manager of Marketing.\nHenri is the Manager of Sponsorship.\nAmani Mohamed is the ERTW Commissioner.\nReema is the uOEC Commissioner.",
     "sentences": [
-      "* Hayley: Carleton reached out and they wanted to do something like they did in the past with Telfer.",
-      "* Ashna: Me and Alper chatted but we don’t have much info.",
-      "Emailed (organizer?) and wants to set up a meeting.",
-      "I wanted to know logistics like dates etc. Want to see if this is something we want to do???",
-      "* Hayley:",
-      "If this is a fundraiser then we shouldn't incur cost.",
-      "* Ashna: We have past costs and shou\n* Hayley: IMO, if only 300 estimated to be made, seems like a lot of work unless logistics are already done.",
-      "*",
-      "Eric: If it is a fundraising event, involve Zoe.",
-      "*",
-      "Cyrus: Is there interest in hockey?",
-      "* Alper:",
-      "Yes, we have people reaching out.",
-      "*",
-      "Hayley: Use money for jerseys to keep each year.",
-      "Pay to watch not pay to play.",
-      "* Ashna: Worried because I am being told I would need to pay for SDES.",
-      "Alper and I will have a convo.",
-      "Leaving Zoe out as this is not a fundraiser for external organizations.",
-      "*",
-      "Cyrus: Option to purchase and keep jersey?",
-      "* Hayley:",
-      "Keep them year round, ESS branded\n* VPFA: October Monster: Covies4Monster??",
-      "Thoughts??",
-      "* Cyrus: Switch it up for October from Math.",
-      "Similar to WWWC??",
-      "* Hayley: Improve WWWC and add Monster to it as well.",
-      "*",
-      "Conall: Halloween costume for Monster.",
-      "*",
-      "Hayley:",
-      "For 3 weeks do WWWC.",
-      "Last week and leading to DUSTED, do costumes."
+      "From the meeting attendance, the officers include:\nAiden is the Co-President.",
+      "Eric is the Co-President.",
+      "Aiden is the President.",
+      "Eric is the President.",
+      "Ashna is the VP External.",
+      "Magno is the VP Social.",
+      "Cyrus is the VP Finance & Administration.",
+      "Hayley is the VP Communications.",
+      "Nick is the VP Academic.",
+      "Zoe is the VP Philanthropic.",
+      "Alper is the Manager of Sports.",
+      "Conall is the Manager of Social Media.",
+      "Adi is the Manager of IT.",
+      "Hayden is the Manager of Translations.",
+      "Mehar is the Wine and Cheese Coordinator.",
+      "Rusafi is the Manager of External Awareness.",
+      "Zoé is the Charity Commissioner.",
+      "Ryn is the Finance Commissioner.",
+      "Victoria is the Francophone Outreach Commissioner.",
+      "Dakota is the 101 Week Coordinator.",
+      "Brooke is the Manager of Student Advocacy.",
+      "Kristen Wells is the Sponsorship Liaison Commissioner.",
+      "Maya is the Chair of the Board.",
+      "Vacant is the VP Sustainability.",
+      "Vacant is the VP Internal.",
+      "Luke is the VP Services.",
+      "Maria is the VP Equity.",
+      "Thomas is the VP Francophone.",
+      "Krish is the Manager of Marketing.",
+      "Henri is the Manager of Sponsorship.",
+      "Amani Mohamed is the ERTW Commissioner.",
+      "Reema is the uOEC Commissioner."
     ],
     "entities": [
       {
-        "text": "Carleton",
+        "text": "Aiden",
         "label": "PERSON"
-      },
-      {
-        "text": "Telfer",
-        "label": "PERSON"
-      },
-      {
-        "text": "shou",
-        "label": "GPE"
-      },
-      {
-        "text": "only 300",
-        "label": "CARDINAL"
       },
       {
         "text": "Eric",
         "label": "PERSON"
       },
       {
+        "text": "Aiden",
+        "label": "PERSON"
+      },
+      {
+        "text": "Eric",
+        "label": "PERSON"
+      },
+      {
+        "text": "Ashna",
+        "label": "PERSON"
+      },
+      {
+        "text": "the VP External",
+        "label": "ORG"
+      },
+      {
+        "text": "Magno",
+        "label": "PERSON"
+      },
+      {
+        "text": "the VP Social",
+        "label": "ORG"
+      },
+      {
+        "text": "the VP Finance & Administration",
+        "label": "ORG"
+      },
+      {
+        "text": "Hayley",
+        "label": "PERSON"
+      },
+      {
+        "text": "the VP Communications",
+        "label": "ORG"
+      },
+      {
+        "text": "Nick",
+        "label": "PERSON"
+      },
+      {
+        "text": "the VP Academic",
+        "label": "ORG"
+      },
+      {
         "text": "Zoe",
-        "label": "ORG"
-      },
-      {
-        "text": "each year",
-        "label": "DATE"
-      },
-      {
-        "text": "Leaving Zoe",
         "label": "PERSON"
       },
       {
-        "text": "October",
-        "label": "DATE"
-      },
-      {
-        "text": "Monster",
-        "label": "GPE"
-      },
-      {
-        "text": "Halloween",
-        "label": "DATE"
-      },
-      {
-        "text": "Monster",
-        "label": "GPE"
-      },
-      {
-        "text": "3 weeks",
-        "label": "DATE"
-      },
-      {
-        "text": "WWWC",
+        "text": "the VP Philanthropic",
         "label": "ORG"
       },
-      {
-        "text": "Last week",
-        "label": "DATE"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "discussion",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "VP Academic",
-    "person": "Nick",
-    "content": "* Nick: There are 4 can we cut that down?\n* Hayley: Are they not linked?\n* Nick: No.\n* Hayley: Let’s just link them.\n* Adi: I will make sure all emails that have secondaries will be linked\n* VPFA: Does anyone know if Luke has been cutting locks? (Who knows?)\n* Cyrus: We have sold 99. One person bought winter??\n* Nobody Knows…",
-    "sentences": [
-      "*",
-      "Nick: There are 4 can we cut that down?",
-      "* Hayley:",
-      "Are they not linked?",
-      "* Nick: No.\n*",
-      "Hayley: Let’s just link them.",
-      "* Adi: I will make sure all emails that have secondaries will be linked\n* VPFA: Does anyone know if Luke has been cutting locks?",
-      "(Who knows?)",
-      "* Cyrus: We have sold 99.",
-      "One person bought winter??",
-      "* Nobody Knows…"
-    ],
-    "entities": [
-      {
-        "text": "4",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "Luke",
-        "label": "PERSON"
-      },
-      {
-        "text": "99",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "One",
-        "label": "CARDINAL"
-      },
-      {
-        "text": "winter",
-        "label": "DATE"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "discussion",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "VP Social",
-    "person": "Magno",
-    "content": "* Magno: Somebody contacted about missing a midweek gathering. Weekly Wednesday’s at Nostalgica???\n* Hayley: The only question was “Let me know if you have a couple students to help with the soft launch” which was weird. I don’t know what it has to do with us and how it benefits us.\n* Adi: Signup form?\n* Cyrus: No\n* Hayley: It is a mess. The guy is weird. (paraphrased)\n* NOT FROM BAR DIRECTLY\n* Hayley: Respond with no, but if it goes well reach out and we can promote. Generally weak sell from them.\n* Magno: Everyone knows about karaoke at FNS.",
-    "sentences": [
-      "* Magno: Somebody contacted about missing a midweek gathering.",
-      "Weekly Wednesday’s at Nostalgica???",
-      "* Hayley:",
-      "The only question was “Let me know if you have a couple students to help with the soft launch” which was weird.",
-      "I don’t know what it has to do with us and how it benefits us.",
-      "* Adi: Signup form?",
-      "* Cyrus: No\n* Hayley:",
-      "It is a mess.",
-      "The guy is weird.",
-      "(paraphrased)\n* NOT FROM BAR DIRECTLY\n*",
-      "Hayley: Respond with no, but if it goes well reach out and we can promote.",
-      "Generally weak sell from them.",
-      "* Magno: Everyone knows about karaoke at FNS."
-    ],
-    "entities": [
-      {
-        "text": "Wednesday",
-        "label": "DATE"
-      },
-      {
-        "text": "Nostalgica",
-        "label": "PERSON"
-      },
-      {
-        "text": "BAR",
-        "label": "ORG"
-      },
-      {
-        "text": "FNS",
-        "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "motion",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "N/A",
-    "person": "N/A",
-    "content": "*",
-    "sentences": [
-      "*"
-    ],
-    "entities": [],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "varia",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "N/A",
-    "person": "N/A",
-    "content": "* VP COMMS: Please stop making your own threads in the promo request channel, just submit the form and have patience - it’s how me and Conall keep track of who’s started what.\n* VPFA: Please stop sending me receipts and invoices via discord, use the Reimbursement google form setup for the process. If you need to get reimbursed, complete the F1 form, then attach the receipt/invoice BELOW the aforementioned document. Ryn will be taking care of reimbursements for the next few weeks. Reach out to them for any clarifications.",
-    "sentences": [
-      "* VP COMMS: Please stop making your own threads in the promo request channel, just submit the form and have patience - it’s how me and Conall keep track of who’s started what.",
-      "* VPFA: Please stop sending me receipts and invoices via discord, use the Reimbursement google form setup for the process.",
-      "If you need to get reimbursed, complete the F1 form, then attach the receipt/invoice BELOW the aforementioned document.",
-      "Ryn will be taking care of reimbursements for the next few weeks.",
-      "Reach out to them for any clarifications."
-    ],
-    "entities": [
       {
         "text": "Conall",
         "label": "PERSON"
       },
       {
-        "text": "Reimbursement",
-        "label": "ORG"
-      },
-      {
-        "text": "F1",
-        "label": "GPE"
-      },
-      {
-        "text": "the next few weeks",
-        "label": "DATE"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "minutes_update",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "President",
-    "person": "Aiden, Eric",
-    "content": "* Comms: Promo request form is pinned in the social media channel on discord, please submit as far in advance as possible",
-    "sentences": [
-      "* Comms:",
-      "Promo request form is pinned in the social media channel on discord, please submit as far in advance as possible"
-    ],
-    "entities": [],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "minutes_update",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "Finance Commissioner",
-    "person": "Ryn",
-    "content": "________________\nPage  of\n[a]1 total reaction\nCyrus Choi reacted with 💜 at 2025-09-30 21:49 PM",
-    "sentences": [
-      "________________",
-      "Page  of\n[a]1 total reaction\nCyrus Choi reacted with 💜 at 2025-09-30 21:49 PM"
-    ],
-    "entities": [
-      {
-        "text": "Cyrus Choi",
-        "label": "PERSON"
-      },
-      {
-        "text": "2025-09-30",
-        "label": "DATE"
-      },
-      {
-        "text": "21:49 PM",
-        "label": "TIME"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "Co-President",
-    "person": "Aiden",
-    "content": "Aiden holds the role of Co-President.",
-    "sentences": [
-      "Aiden holds the role of Co-President."
-    ],
-    "entities": [],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "Co-President",
-    "person": "Eric",
-    "content": "Eric holds the role of Co-President.",
-    "sentences": [
-      "Eric holds the role of Co-President."
-    ],
-    "entities": [
-      {
-        "text": "Eric",
-        "label": "PERSON"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "President",
-    "person": "Aiden",
-    "content": "Aiden holds the role of President.",
-    "sentences": [
-      "Aiden holds the role of President."
-    ],
-    "entities": [],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "President",
-    "person": "Eric",
-    "content": "Eric holds the role of President.",
-    "sentences": [
-      "Eric holds the role of President."
-    ],
-    "entities": [
-      {
-        "text": "Eric",
-        "label": "PERSON"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "VP External",
-    "person": "Ashna",
-    "content": "Ashna holds the role of VP External.",
-    "sentences": [
-      "Ashna holds the role of VP External."
-    ],
-    "entities": [
-      {
-        "text": "VP External",
-        "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "VP Social",
-    "person": "Magno",
-    "content": "Magno holds the role of VP Social.",
-    "sentences": [
-      "Magno holds the role of VP Social."
-    ],
-    "entities": [
-      {
-        "text": "Magno",
-        "label": "PERSON"
-      },
-      {
-        "text": "VP Social",
-        "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "VP Finance & Administration",
-    "person": "Cyrus",
-    "content": "Cyrus holds the role of VP Finance & Administration.",
-    "sentences": [
-      "Cyrus holds the role of VP Finance & Administration."
-    ],
-    "entities": [
-      {
-        "text": "VP Finance & Administration",
-        "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "VP Communications",
-    "person": "Hayley",
-    "content": "Hayley holds the role of VP Communications.",
-    "sentences": [
-      "Hayley holds the role of VP Communications."
-    ],
-    "entities": [
-      {
-        "text": "Hayley",
-        "label": "PERSON"
-      },
-      {
-        "text": "VP Communications",
-        "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "VP Academic",
-    "person": "Nick",
-    "content": "Nick holds the role of VP Academic.",
-    "sentences": [
-      "Nick holds the role of VP Academic."
-    ],
-    "entities": [
-      {
-        "text": "Nick",
-        "label": "ORG"
-      },
-      {
-        "text": "VP Academic",
-        "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "VP Philanthropic",
-    "person": "Zoe",
-    "content": "Zoe holds the role of VP Philanthropic.",
-    "sentences": [
-      "Zoe holds the role of VP Philanthropic."
-    ],
-    "entities": [
-      {
-        "text": "Zoe",
-        "label": "ORG"
-      },
-      {
-        "text": "VP Philanthropic",
-        "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "Manager of Sports",
-    "person": "Alper",
-    "content": "Alper holds the role of Manager of Sports.",
-    "sentences": [
-      "Alper holds the role of Manager of Sports."
-    ],
-    "entities": [],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "Manager of Social Media",
-    "person": "Conall",
-    "content": "Conall holds the role of Manager of Social Media.",
-    "sentences": [
-      "Conall holds the role of Manager of Social Media."
-    ],
-    "entities": [
-      {
         "text": "Social Media",
         "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "Manager of IT",
-    "person": "Adi",
-    "content": "Adi holds the role of Manager of IT.",
-    "sentences": [
-      "Adi holds the role of Manager of IT."
-    ],
-    "entities": [
+      },
       {
         "text": "Adi",
-        "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "Manager of Translations",
-    "person": "Hayden",
-    "content": "Hayden holds the role of Manager of Translations.",
-    "sentences": [
-      "Hayden holds the role of Manager of Translations."
-    ],
-    "entities": [],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "Wine and Cheese Coordinator",
-    "person": "Mehar",
-    "content": "Mehar holds the role of Wine and Cheese Coordinator.",
-    "sentences": [
-      "Mehar holds the role of Wine and Cheese Coordinator."
-    ],
-    "entities": [
+        "label": "PERSON"
+      },
+      {
+        "text": "Hayden",
+        "label": "PERSON"
+      },
       {
         "text": "Mehar",
         "label": "PERSON"
       },
-      {
-        "text": "Wine and Cheese Coordinator",
-        "label": "WORK_OF_ART"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "Manager of External Awareness",
-    "person": "Rusafi",
-    "content": "Rusafi holds the role of Manager of External Awareness.",
-    "sentences": [
-      "Rusafi holds the role of Manager of External Awareness."
-    ],
-    "entities": [
       {
         "text": "Rusafi",
         "label": "PERSON"
@@ -1579,328 +1090,85 @@
       {
         "text": "External Awareness",
         "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "Charity Commissioner",
-    "person": "Zoé",
-    "content": "Zoé holds the role of Charity Commissioner.",
-    "sentences": [
-      "Zoé holds the role of Charity Commissioner."
-    ],
-    "entities": [],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "Finance Commissioner",
-    "person": "Ryn",
-    "content": "Ryn holds the role of Finance Commissioner.",
-    "sentences": [
-      "Ryn holds the role of Finance Commissioner."
-    ],
-    "entities": [
+      },
       {
         "text": "Finance",
-        "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "Francophone Outreach Commissioner",
-    "person": "Victoria",
-    "content": "Victoria holds the role of Francophone Outreach Commissioner.",
-    "sentences": [
-      "Victoria holds the role of Francophone Outreach Commissioner."
-    ],
-    "entities": [
-      {
-        "text": "Victoria",
         "label": "ORG"
       },
       {
         "text": "Francophone",
         "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "101 Week Coordinator",
-    "person": "Dakota - Term Over",
-    "content": "Dakota - Term Over holds the role of 101 Week Coordinator.",
-    "sentences": [
-      "Dakota - Term Over holds the role of 101 Week Coordinator."
-    ],
-    "entities": [
+      },
       {
-        "text": "101 Week Coordinator",
+        "text": "Dakota",
+        "label": "GPE"
+      },
+      {
+        "text": "the 101 Week Coordinator",
         "label": "EVENT"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "Manager of Student Advocacy",
-    "person": "Brooke for Fall Semester",
-    "content": "Brooke for Fall Semester holds the role of Manager of Student Advocacy.",
-    "sentences": [
-      "Brooke for Fall Semester holds the role of Manager of Student Advocacy."
-    ],
-    "entities": [
+      },
       {
-        "text": "Brooke for Fall Semester",
-        "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "Sponsorship Liaison Commissioner",
-    "person": "Kristen Wells for Fall Semester",
-    "content": "Kristen Wells for Fall Semester holds the role of Sponsorship Liaison Commissioner.",
-    "sentences": [
-      "Kristen Wells for Fall Semester holds the role of Sponsorship Liaison Commissioner."
-    ],
-    "entities": [
+        "text": "Brooke",
+        "label": "GPE"
+      },
       {
         "text": "Kristen Wells",
         "label": "PERSON"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "Chair of the Board",
-    "person": "Maya for Fall Semester",
-    "content": "Maya for Fall Semester holds the role of Chair of the Board.",
-    "sentences": [
-      "Maya for Fall Semester holds the role of Chair of the Board."
-    ],
-    "entities": [
+      },
       {
-        "text": "Maya for Fall Semester",
+        "text": "Maya",
+        "label": "PERSON"
+      },
+      {
+        "text": "the VP Sustainability",
         "label": "ORG"
       },
       {
-        "text": "Chair of the Board",
+        "text": "the VP Internal",
         "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "VP Sustainability",
-    "person": "Vacant",
-    "content": "Vacant holds the role of VP Sustainability.",
-    "sentences": [
-      "Vacant holds the role of VP Sustainability."
-    ],
-    "entities": [
-      {
-        "text": "VP Sustainability",
-        "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "VP Internal",
-    "person": "Vacant",
-    "content": "Vacant holds the role of VP Internal.",
-    "sentences": [
-      "Vacant holds the role of VP Internal."
-    ],
-    "entities": [
-      {
-        "text": "VP Internal",
-        "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "VP Services",
-    "person": "Luke",
-    "content": "Luke holds the role of VP Services.",
-    "sentences": [
-      "Luke holds the role of VP Services."
-    ],
-    "entities": [
+      },
       {
         "text": "Luke",
         "label": "PERSON"
       },
       {
-        "text": "VP Services",
-        "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "VP Equity",
-    "person": "Maria",
-    "content": "Maria holds the role of VP Equity.",
-    "sentences": [
-      "Maria holds the role of VP Equity."
-    ],
-    "entities": [
-      {
-        "text": "Maria",
+        "text": "the VP Services",
         "label": "ORG"
       },
       {
-        "text": "VP Equity",
+        "text": "Maria",
+        "label": "PERSON"
+      },
+      {
+        "text": "the VP Equity",
         "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "VP Francophone",
-    "person": "Thomas",
-    "content": "Thomas holds the role of VP Francophone.",
-    "sentences": [
-      "Thomas holds the role of VP Francophone."
-    ],
-    "entities": [
+      },
       {
         "text": "Thomas",
         "label": "PERSON"
       },
       {
-        "text": "VP Francophone",
+        "text": "the VP Francophone",
         "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "Manager of Marketing",
-    "person": "Krish",
-    "content": "Krish holds the role of Manager of Marketing.",
-    "sentences": [
-      "Krish holds the role of Manager of Marketing."
-    ],
-    "entities": [
+      },
       {
         "text": "Krish",
         "label": "NORP"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "Manager of Sponsorship",
-    "person": "Henri",
-    "content": "Henri holds the role of Manager of Sponsorship.",
-    "sentences": [
-      "Henri holds the role of Manager of Sponsorship."
-    ],
-    "entities": [
+      },
       {
         "text": "Henri",
         "label": "ORG"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "ERTW Commissioner",
-    "person": "Amani Mohamed",
-    "content": "Amani Mohamed holds the role of ERTW Commissioner.",
-    "sentences": [
-      "Amani Mohamed holds the role of ERTW Commissioner."
-    ],
-    "entities": [
+      },
       {
         "text": "Amani Mohamed",
         "label": "PERSON"
-      }
-    ],
-    "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
-  },
-  {
-    "type": "attendance",
-    "document_type": "minutes",
-    "source_file": "September 30 _ Officer Meeting.txt",
-    "role": "uOEC Commissioner",
-    "person": "Reema",
-    "content": "Reema holds the role of uOEC Commissioner.",
-    "sentences": [
-      "Reema holds the role of uOEC Commissioner."
-    ],
-    "entities": [
+      },
       {
         "text": "Reema",
         "label": "PERSON"
       }
     ],
     "meeting_date": "2025-09-30",
-    "meeting_date_display": "September 30, 2025"
+    "meeting_date_display": "September 30th 2025 7pm"
   }
 ]

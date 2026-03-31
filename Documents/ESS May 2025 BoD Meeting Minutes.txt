@@ -1,0 +1,706 @@
+﻿ESS May BoD Meeting Minutes – Procès verbal de la réunion de mai du CA de l'AÉG
+1. Call to Order – Appel à l'ordre
+Date: Jun 1, 2025 11:00 AM
+Location – Lieu: STM 117 & Google Meet
+The meeting was called to order at 11:10 am with Maya Benhamou as Chair.
+La réunion est ouverte à 11h10, sous la présidence de Maya Benhamou.
+2. Land Acknowledgement – Reconnaissance des Terres
+We acknowledge that we are gathered on the traditional and unceded territory of the Algonquin Anishinaabe Nation. For generations, they have been the stewards of this land, and their deep connection to it continues to this day. We recognize the enduring presence and contributions of the Algonquin people to this region. We also acknowledge the painful history of colonization and the displacement of Indigenous communities from their ancestral lands. We commit ourselves to learning, understanding, and honoring the Algonquin Nation's history and culture. We recognize the importance of working collaboratively to create a more just and equitable future for all who call this land home.
+________________
+
+
+Nous reconnaissons que nous sommes réunis sur le territoire traditionnel et non cédé de la nation algonquine anishinaabe. Depuis des générations, ils sont les gardiens de cette terre et le lien profond qui les unit à elle perdure encore aujourd'hui. Nous reconnaissons la présence et les contributions durables du peuple algonquin dans cette région. Nous reconnaissons également l'histoire douloureuse de la colonisation et du déplacement des communautés autochtones de leurs terres ancestrales. Nous nous engageons à apprendre, à comprendre et à honorer l'histoire et la culture de la nation algonquine. Nous reconnaissons l'importance de travailler en collaboration pour créer un avenir plus juste et plus équitable pour tous ceux qui vivent sur cette terre.
+3. Roll Call – Appel nominal
+Present – Présent.e.s: 
+* Co-President – Présidente: Aiden McCooeye (he/him/il)
+* Co-President – Présidente: Eric Hagen (he/him/il)
+* VP External – Externe: Ashna Cheverlharan (she/her/elle)
+* VP Communications: Hayley (she/her/elle)
+* VP Philanthropic – Philanthropique: Zoe Saunders (she/her/elle)
+* VP Services: Luke Ballinger (he/him/il)
+* VP Academic – Académique: Nick Mesquita (he/him/il)
+* Interim VP Internal – Interne: Daniel Thorp (he/him/il)
+* CESA – AÉGCi: Claire Durand (she/her/elle) & Rumony Chhom (she/her/elle)
+* MESS – SÉGM: Kristen & Farah El Siss (she/her/elle)
+* ChESS : Nour
+* 2nd year Mechanical – 2e année mécanique: Rocco (he/him/il)
+* 3rd year Mechanical – 3e année mécanique: Dakota Squires (he/him/il)
+* CO-OP Mechanical – Mécanique CO-OP: Conor Waldron (he/him/il)
+* CO-OP Computer – Informatique CO-OP: Brooke MacQuarrie (she/her/elle)
+Absent – Absent.e.s:
+* VP Social: Jake Mol (he/him/il) - Excused
+* 3rd year Software – 3e année logiciel: Jamie Watson (she/her/elle) - Excused
+* VPFA: Cyrus Choi (he/him/il) - Excused
+* 4th year Mechanical – 4e année mécanique: Giovanni (he/him/il)
+* VP Equity – Équité: Maria Hal (she/her/elle)
+* VP Sustainability – Développement durable: Leila Smaili (she/her/elle)
+* EEF Chair – Président du FdG: Mark Uchanski (he/him/il)*
+* UOSU BoD – CA du SÉUO: Matias Suxo-Salinas (he/him/il)*
+* Non-voting – Sans droit de vote
+4. Comments from the Chair – Commentaires de la présidence
+   1. Robert’s Rules Overview – Aperçu des règles de procédure Robert
+1: New idea
+2: Replying to current idea
+p: Point of privilege, interrupts current discussion (ex: can't hear the microphone)
+c: Point of clarity, confused about current discussion and needs clarification, interrupts current discussion (ex what does an acronym mean)
+t: Requesting a translation 
+(Y’all me two years ago made this. Some things are a little out of date like mandates and things but overall is a great thing to refer back to if needed Welcome_to_BOD.pdf )
+   2. Notes
+      * Communication is KEY. There should be an open line of communication at all times! 
+      * Proxies! Best if they are part of the student population that you represent not just a friend 
+      * Sub-Association Pres/Directors I would like to have a meeting in the near future so please reach out so we can schedule it! 
+      * If you haven’t answered the Google Form or joined the Discord please let us know!
+5. Administrative Motions – Motions administratives
+Title
+Titre
+	Adoption of Agenda
+Adoption de l'ordre du jour
+	Mover
+Proposé
+	Aiden
+	Seconder
+Appuyé
+	Hayley
+	BE IT RESOLVED THAT the agenda be adopted as presented.
+IL EST RÉSOLU QUE l'ordre du jour est adopté tel que présenté.
+	Discussion
+	* Move Varia before elections
+   * 1 against        
+	Result
+Résultat
+	13 votes for; 1 vote against; 1 abstention 
+	
+
+Title
+Titre
+	Approval of the minutes of the March 9th AGM
+Approbation du procès-verbal de l'AGA du 9 mars
+	Mover
+Proposé
+	Aiden
+	Seconder
+Appuyé
+	Zoe
+	BE IT RESOLVED THAT the meeting minutes of the March 23rd be approved.
+IL EST RÉSOLU QUE le procès-verbal de la rencontre du 23 mars soit approuvé.
+	Discussion
+	* ESS March BoD Meeting Minutes – Procès verbal de la réunion de mars du CA de l'AÉG
+Daniel: Motions to reconsider. Seconder: Presidents
+	Result
+Résultat
+	Passes unanimously / Passes unanimously
+	
+
+Title
+Titre
+	Setting of Regular Meetings of the Board
+	Mover
+Proposé
+	Aiden
+	Seconder
+Appuyé
+	Ashna
+	WHEREAS §6.03 of the By-laws permits the Board to set a recurring schedule for regular meetings without requiring additional notice beyond the initial resolution;
+WHEREAS setting regular meetings improves planning, transparency, and participation among Directors and Members of the Society;
+BE IT RESOLVED THAT regular meetings of the Board of Directors be scheduled for the last Sunday of each month at 11:00 AM;
+BE IT FURTHER RESOLVED THAT this schedule remain in effect until amended or repealed by a future resolution of the Board.
+	Discussion
+	Farah: Meeting invites in the calendar 
+	Result
+Résultat
+	Passes Unanimously
+	6. Varia
+* President: CEED Feedback Discussion
+Justine: CEED/Makerspace want to get the ball rolling on getting feedback from students. Getting feedback on what they should add or change. Collaborations? Main student bodies are mechanical and electrical engineers but want to hear more from all kind of students.How better can they serve students? 
+Daniel: Adoption of the CEED referendum. There was a commitment done privately that we would have a student representative at the management level. Will that be followed? 
+Justine: Has not been worked on yet. Will be worked on and maybe implemented in the fall. We have 4 managers of the spaces but we cannot run the spaces without our student employees. We do not do much without the input of our student employees
+Conor: Embroidery workshop needs to be workshopped. I did it with a couple friends but the machines weren’t really working and kept having to go ask more senior employees 
+Justine: Yes we know the machines are very finicky. We are working on them and get them maintained. We are aware of that one. 
+Justine: Do we need more of something? Ie embroidery workshops. Are there things that we don’t have that could be interesting? Do civil students want to have more hands-on experience with concrete? Do we want a collaboration with the structure labs? 
+Brooke: I’m a computer engineering. I have heard that you are doing very well. Good job on everything. 
+Aiden: I like the idea of civil workshops. We do have two courses about hands on. But maybe auto-cad workshops. Or solidworks. We only have one class on it and a lot of people would want 
+Justine: At this point there are limits but right now we are trying to explore that
+Dakota: I know mechanical students that want to learn auto-cad but we don’t have it in class
+Conor: Can’t make it to workshops. It would be at times during class because they would be at the same time every week. Having Feedback about timing of the workshops
+Justine: We always try to change the time/schedule. It could have been a fluke but we do try. 
+Daniel: Learning softwares to help software students that may not do it on their own. Game dev software? 
+Justine: Basics of Git? Would that help? 
+Daniel: We have classes on them. It would have to be a little bit more complex than that. 
+Zoe: For eng students who aren’t in comp tech or computer or software may actually enjoy and benefit from the basics like Git or softwares used in the work space
+Farah: Is it possible to maybe have a set of mentor contacts sent to maybe MESS bc we host solid works and matlab workshops per semester. It gets hard to find mentors at times. 
+Or even advertising our workshops on CEED platforms can be helpful.
+Justine: There are things we can do but also collaborate with MESS. We wouldn’t want to redo it but we would love to support it. We’ve talked about workshops but are there any machines or physicals that would be helpful? 
+7. Elections – Élections
+Title
+Titre
+	Election of Year Representatives & Interim VP Franco
+Élection des représentants d'année
+	Mover
+Proposé
+	Brooke
+	Seconder
+Appuyé
+	Aiden
+	Nominations
+	* VP Franco: Thomas Boyle 
+* VP Franco: Victoria Doré
+	WHEREAS Year Representatives must be elected by ordinary resolution of the Members in accordance with Section 1.3.3.2 of the Policy and Procedure Manual;
+BE IT RESOLVED THAT the following Members be elected as Year Representatives for their respective programs and years, as detailed below:
+* 2nd year
+   * Chemical: 
+   * Civil: 
+   * Electrical: 
+   * Biomedical mechanical: 
+   * Software: 
+   * Computer: 
+   * French: 
+* 3rd year
+   * Chemical: 
+   * Civil: 
+   * Electrical: 
+   * Biomedical mechanical: 
+   * Computer: 
+   * French: 
+* 4th year or higher
+   * Chemical: 
+   * Civil: 
+   * Electrical: 
+   * Biomedical mechanical: 
+   * Software: 
+   * Computer: 
+   * French: 
+* CO-OP
+   * Chemical: 
+   * Civil: 
+   * Electrical: 
+   * Biomedical mechanical: 
+   * Software: 
+* Multidisciplinary Design: 
+* Student Academic Success Service (SASS):
+* Interim VP Franco:
+________________
+
+
+ATTENDU QUE les représentants annuels doivent être élus par une résolution ordinaire des membres conformément à la section 1.3.3.2 du Manuel des politiques et procédures;
+ATTENDU QUE la motion à cet effet a été reportée lors de l'Assemblée générale annuelle tenue le 7 avril;
+IL EST RÉSOLU QUE les Membres suivants de la Société soient élus en tant que représentants annuels pour leurs programmes et années respectifs, comme détaillé ci-dessous: 
+* 2ème année
+   * Chimie: 
+   * Génie civil: 
+   * Génie électrique: 
+   * Génie biomédical mécanique: 
+   * Génie logiciel: 
+   * Génie informatique: 
+   * Français: 
+* 3ème année
+   * Chimie: 
+   * Génie civil: 
+   * Génie électrique: 
+   * Génie biomédical mécanique: 
+   * Génie informatique: 
+   * Français: 
+* 4ème année ou plus
+   * Chimie: 
+   * Génie civil: 
+   * Génie électrique: 
+   * Génie biomédical mécanique: 
+   * Génie logiciel: 
+   * Génie informatique: 
+   * Français: 
+* CO-OP
+   * Chimie: 
+   * Génie civil: 
+   * Génie électrique: 
+   * Génie biomédical mécanique: 
+   * Génie logiciel: 
+* Conception multidisciplinaire: 
+* Service de réussite académique des étudiants (SASS): 
+* VP Franco 
+	Questions
+	Describe the position as best you understand it and what its duties are.
+What do you want to accomplish in your role?
+French Question; Qu’est qui vous donne le sentiment que vous pouvez représenter la communauté francophone à l’université d’Ottawa 
+Funniest/Worst Translation mistake that you have heard
+	Answers
+Réponses
+	* VP Franco: Thomas Boyle 
+* VP Franco: Victoria Doré
+	Discussion
+	* Both passed the language test and are bilingual in both French and English
+Dakota: Why do you want to run in these elections and not before? (1)
+Conor: Describe the position as best you understand it and what its duties are. (2) 
+Dakota: What do you want to accomplish in your role? (3)
+Daniel: Format: 3 serious questions of 45 seconds per language and a 30 second funny question. One of the serious questions being asked in french. All three have to be answered in french and in english
+Brooke: Could we ask them to answer in french and in english because some people cannot understand french
+Daniel: French Question; Qu’est qui vous donne le sentiment que vous pouvez représenter la communauté francophone à l’université d’Ottawa (4)
+Dakota: Why is french better then english (Wrong answers only) (1)
+Rocco: Funniest/Worst Translation mistake that you have heard (2)
+Serious Question to remove: 
+1. 9 votes
+2. 0 votes
+3. 3 votes
+4. 0 votes
+Funny Question: 
+1. 0 votes
+2. 8 votes
+Passes Unanimously
+
+
+Dakota: I personally like Victoria better. 1. French was a little better as someone who understands french. 2. Already started the report with Carolina. 3. Mentioned activities and cultural significance.
+Hayley: I liked Thomas platform. Being franco-ontarien helps since a big population of students have that duality and it could help a lot to understand it 
+Conor: I really like Thomas. His history of governance is appealing. He also spoke well in french. Dakota point is valid but the post is representing the franco community. And that representation is mostly done in english. Thomas having good english and a good french “francais familier”. Well spoken and elaborate in both language. Victoria working on one report with Carolina should not be held as high standard. 
+Daniel: Echo Hayley. Felt like Thomas had more of advocacy platform. And different dialects of french are just as valid and Carolina said they were both great so that endorsement 
+Rocco: Acknowledge conflict of inflict. I know him and he would very strongly defend and get his voice heard. We do also have a manager of translations to deal with the difference of dialect if that was an issue. 
+	Result
+Résultat
+	* VP Franco: Thomas Boyle (11 votes)
+* VP Franco: Victoria Doré (1 vote)
+2 Abstained - Rocco De Oliveira
+	8. Motions
+Title
+Titre
+	Establish a Separate Coordinator Policy
+	Mover
+Proposé
+	Dakota
+	Seconder
+	Daniel
+	WHEREAS the current Policy and Procedure Manual includes “Coordinators” under the Manager Policy, despite the fact that Coordinators are distinct in mandate, duration, and function;
+WHEREAS Coordinators are typically responsible for planning and executing time-limited projects or major events, and do not require the same year-long operational oversight as Managers;
+WHEREAS distinguishing Coordinators in a separate policy section will clarify expectations, improve organizational structure, and support consistent appointment processes;
+BE IT RESOLVED THAT a new section titled §4.0 Coordinator Policy be added to the Policy and Procedure Manual, following §3.0 Manager Policy and before §5.0 Commissioner Policy;
+BE IT FURTHER RESOLVED THAT the following subsections be included in the new Coordinator Policy:
+4.1 Purpose
+The Coordinator Policy shall outline the responsibilities and structure of Coordinator roles within the Society, which are designed to support time-bound or event-specific mandates.
+4.2 Scope
+This policy shall apply to all Coordinators appointed to organize specific events, projects, or services under the supervision of a designated Executive.
+4.3 Policy
+4.3.1 Appointment
+Coordinators shall be appointed by the Officers of the Society, upon recommendation by the relevant Executive.
+4.3.2 Eligibility
+Any active Member of the Society may become a Coordinator provided that the Member is in good standing with the faculty.
+4.3.3 Term
+Coordinators shall serve for the duration of the event, project, or term as outlined in their mandate, or until they are otherwise removed or replaced by the Officers.
+4.3.4 Roles of the 101 Week Coordinator
+The 101 Week Coordinator of the Society shall:
+1. form and lead the 101 Week Committee;
+2. hold office until the conclusion of 101 Week;
+3. report to the VP Social with 101 Week related events throughout the summer;
+   1. assist the VP Philanthropic with the organization of the philanthropic event during 101 Week;
+4. assist in the coordination of 101 Week events throughout the week.
+4.3.4.1 Eligibility of the 101 Week Coordinator
+To be appointed as 101 Week Coordinator, an active Member must:
+1. reside in Ottawa during the summer.
+4.3.5 Roles of the Wine and Cheese Coordinator
+The Wine and Cheese Coordinator of the Society shall:
+1. report to the VP Academic; and
+2. help to plan and run one (1) Wine and Cheese in both the Fall and Winter semesters.
+BE IT FURTHER RESOLVED THAT the 101 Week Coordinator and Wine and Cheese Coordinator be removed from the Manager Policy (formerly §3.3.12 and §3.3.13);
+BE IT FURTHER RESOLVED THAT §3.3.3 of the Manager Policy be amended to remove “with the exception of the Manager of 101 week whose duration of their mandate is defined in section ‎f”.
+	Discussion
+	Luke: Passing it unanimously can skew it towards
+	Result
+Résultat
+	12 votes for; 0 votes against; 3 abstentions - Dakota
+	
+
+Title
+Titre
+	Rename and Update the Role of Returning Officer/Godparent to Accountability Officer
+	Mover
+Proposé
+	Aiden
+	Seconder
+	Ashna
+	WHEREAS the current role of Returning Officer/Godparent is titled in a way that lacks clarity and consistency with the Society’s professional governance framework;
+WHEREAS the responsibilities of this role should include broader accountability, institutional continuity, and conflict resolution functions;
+WHEREAS the Society seeks to strengthen governance and oversight by ensuring this Officer supports both the Chair of the Board and the Executive in maintaining transparency and integrity;
+WHEREAS the current placement of the role under the Commissioner Policy does not reflect its governance oversight purpose;
+WHEREAS the current wording of §1.01(k) of the By-laws is ambiguous as to whether the Returning Officer/Godparent has voting rights;
+BE IT RESOLVED THAT all references to “Returning Officer” in the Policy and Procedure Manual be replaced with “Accountability Officer”;
+BE IT FURTHER RESOLVED THAT the Accountability Officer be removed from §4.3.6 of the Commissioner Policy;
+BE IT FURTHER RESOLVED THAT the following be inserted as §1.3.3 of the Board Member Policy:
+1.3.3 Accountability Officer
+The Accountability Officer shall:
+1. report to both the Chair of the Board and the Vice President of Equity;
+2. act as a neutral advisor to the Executive and Board by providing institutional context and supporting continuity across terms;
+3. assist the Chair of the Board in upholding governance best practices, procedural fairness, and ethical conduct;
+4. assist the Chair of the Board in monitoring the fulfillment of executive and director mandates;
+5. act as an unbiased mediator for internal conflicts when requested;
+6. support or conduct preliminary reviews of alleged policy violations or conflicts when authorized by the Chair or a majority vote of the Board;
+7. maintain confidentiality and impartiality in all proceedings and may submit recommendations to the Board as needed; and
+8. receive governance-related concerns from Members and advise them on appropriate processes or escalation pathways.
+1.3.3.1 Eligibility for Accountability Officer
+To be appointed as Accountability Officer, an active Member must:
+1. have previously served as an Executive or Chair of the Board.
+BE IT FURTHER RESOLVED THAT §1.01(k) of the By-laws be amended to read:
+“Officers” means Executives, Managers, Commissioners, Coordinators, and the Accountability Officer. The Chair of the Board, Secretaries, and the Accountability Officer shall not have voting rights.
+	Discussion
+	Dakota: Are we replacing or having both? 
+Daniel: The other position will be removed and this will take it’s place with a few other roles
+Dakota: Is there someone in this role? 
+Chair: no
+	Result
+Résultat
+	17 votes for; 0 votes against; 0 abstentions
+	
+
+Conor: Motion to Unanimous vote. It’s an added time
+Brooke: We need to be voting because they need to be done by special resolutions
+Luke: Most time is in the discussion so it makes sense to take time 
+Connor: Retracting motion
+Title
+Titre
+	Optional Office Hours for the Chair of the Board
+	Mover
+Proposé
+	Brooke
+	Seconder
+	Dakota
+	WHEREAS the Chair of the Board holds an important leadership and communication role within the Society, including oversight of Board meetings, accountability, and governance practices;
+WHEREAS providing the Chair with the option to hold office hours may improve transparency, accessibility, and availability to Members, without making it a mandatory responsibility;
+WHEREAS this practice is consistent with similar provisions granted to other Officers in the Society;
+BE IT RESOLVED THAT a new clause be added as §1.3.1(k) of the Board Member Policy, reading as follows:
+“As voted upon by the Executive, may hold availability in the office.”
+	Discussion
+	Luke: For the other VPs everyone can go to a certain vp for something specific. What does having Chair help with? 
+Daniel: Anything procedural. Availability to members. Also having office open more often and we can trust enough to hold the office hours. There is no reason why we would trust other people and not chair. Plus there are certain questions that they could answer
+Luke: Current office hours are optional. I think if we have it we should mandate it 
+Daniel: We could also have it like student advocacy and mandate it to have an hour and a half like Student advocacy
+unless otherwise voted upon by the Officers, hold at least one and a half (1.5) three (3) hours of availability in the office per week in the fall and winter semesters.
+Luke: Yes that would work
+Brooke: Yes it’s a good idea but what about exec voting? 
+Daniel: This is negation now. So instead of voting for, we are voting to remove 
+Luke: To clarify, not that the chair shouldn’t have office hours but more mandated to 
+Dakota: The chair holds an important and should have to do the three hours (friendly) 
+Hayley: Motion to put it back to 1.5 hours. They don’t sign up to do the three hours so we shouldn’t mandate them. If they want to stay more then that’s ok but shouldn’t be mandates (not friendly)
+Brooke: 1.5 hours is fine. Chair does a lot and adding more work is counter intuitive. Especially when we have people trouble running 
+Conor: We had 2 people run. We wouldn’t want to discourage them. They would be mandated and hours would be set 
+
+
+1.5 hours (10 votes)
+3 hours (1 vote)
+2 abstentions - Daniel notable 
+	Result
+Résultat
+	12 votes for; 0 votes against; 1 abstentions
+	
+
+Title
+Titre
+	Amendments to Purpose and Scope Clauses in All Policies
+	Mover
+Proposé
+	Daniel
+	Seconder
+	Dakota
+	WHEREAS the Society has undertaken a comprehensive review of its Policy and Procedure Manual to improve clarity, consistency, and alignment with good governance practices;
+WHEREAS several Purpose and Scope sections currently contain vague, inconsistent, or overly narrow language that does not reflect the actual function or application of the respective policies;
+WHEREAS clearly defined Purpose and Scope statements support transparency, ease of interpretation, and policy enforcement;
+BE IT RESOLVED THAT the Purpose and Scope clauses of the following policies in the Policy and Procedure Manual be amended as follows:
+Board Member Policy
+Purpose
+This policy outlines the responsibilities, expectations, and internal procedures of Board Members and Officers involved in the governance of the Society.
+Scope
+This policy applies to all individuals serving on the Board of Directors, including the Officers of the Board.
+Executive Member Policy
+Purpose
+This policy outlines the responsibilities, expectations, and structure of the Executives of the Society to ensure clarity and accountability in their roles.
+Scope
+This policy applies to all individuals serving as Executives of the Society.
+Manager Policy
+Purpose
+This policy outlines the roles, responsibilities, and expectations of Managers elected to assist Executives in carrying out operational tasks.
+Scope
+This policy applies to all individuals elected or appointed as Managers.
+Commissioner Policy
+Purpose
+This policy outlines the roles and responsibilities of Commissioners and the procedures for their appointment by the Society.
+Scope
+This policy applies to all individuals appointed as Commissioners by the Officers of the Society.
+Committee Policy
+Purpose
+This policy outlines the responsibilities and structure of Committees established by the Society to support designated mandates.
+Scope
+This policy applies to all Members appointed to serve on Committees.
+Removal from Office Policy
+Purpose
+This policy outlines the procedures and grounds for the removal of individuals from positions of responsibility within the Society, in order to uphold accountability, integrity, and a safe organizational environment.
+Scope
+This policy applies to all individuals serving as Officers or Directors of the Society.
+Financial Controls Policy
+Purpose
+This policy outlines the financial controls and procedures governing the use of Society funds, in order to ensure accountability, transparency, and proper stewardship of resources.
+Scope
+This policy applies to all Officers, Directors, and individuals authorized to handle or oversee the Society’s financial transactions.
+Transition Policy
+Purpose
+This policy outlines the responsibilities and procedures for outgoing Officers and Directors to ensure an effective and accountable transition of institutional knowledge and duties.
+Scope
+This policy applies to all individuals serving in elected or appointed leadership positions within the Society who are expected to transition their role to a successor.
+Locker Rental Policy
+Purpose
+This policy outlines the procedures, responsibilities, and rules governing the rental and use of Society-owned lockers.
+Scope
+This policy applies to all Members of the Society and any other university students authorized to use the Society’s locker rental services.
+Equipment Rental Policy
+Purpose
+This policy outlines the rules, procedures, and responsibilities related to the rental and use of equipment owned by the Society.
+Scope
+This policy applies to all Members of the Society and any individuals authorized to rent its equipment.
+Inclusivity Policy
+Purpose
+This policy establishes standards and expectations to promote inclusivity, equity, and safety at all Society-affiliated events, activities, and spaces.
+Scope
+This policy applies to all Society events, initiatives, and physical or virtual spaces under the authority of the Society.
+Procurement Policy
+Scope
+This policy applies to all Officers, Directors, committee members, and any individuals authorized to make or oversee purchases on behalf of the Society, including goods, services, rentals, leases, subscriptions, and contractual commitments.
+All procurement activities must comply with the Financial Controls Policy and align with the approved budget.
+	Discussion
+	
+
+	Result
+Résultat
+	12 votes for; 0 votes against; 2 abstentions
+	
+
+Title
+Titre
+	Correction to Certification Statement in the Policy and Procedure Manual
+	Mover
+Proposé
+	Brooke
+	Seconder
+	Daniel
+	WHEREAS the phrase “CERTIFIED to be By-Law No. 1” appears in the Policy and Procedure Manual, despite the fact that the Manual is not a by-law document;
+WHEREAS the Society seeks to ensure clarity, accuracy, and appropriate terminology in its official documents;
+BE IT RESOLVED THAT the phrase “CERTIFIED to be By-Law No. 1” be removed from the Policy and Procedure Manual and replaced with the following statement: “Certified as an official policy of the Engineering Students’ Society”.
+	Discussion
+	
+
+	Result
+Résultat
+	12 votes for; 0 votes against; 1 abstention 
+	
+
+Title
+Titre
+	Amendments to Manager and Commissioner Appointment Provisions
+	Mover
+Proposé
+	Dakota
+	Seconder
+	Daniel
+	WHEREAS the current Manager and Commissioner Policies contain redundant or outdated clauses regarding the creation and appointment of positions;
+WHEREAS clarification and consistency in appointment procedures promote transparency and align with current practices;
+WHEREAS the appointment of Managers should reflect democratic member engagement through election rather than appointment by resolution;
+BE IT RESOLVED THAT the clause titled “Definition and Creation of Managers” be removed from the Manager Policy;
+BE IT FURTHER RESOLVED THAT the clause stating “To create a Commissioner position, a list of the Commissioner’s responsibilities, including the officer to whom the Commissioner reports, shall be indicated” be removed from the appointment section of the Commissioner Policy;
+BE IT FURTHER RESOLVED THAT §3.3.3 of the Manager Policy be amended by replacing:
+“All Managers shall be appointed by resolution of the Members at the annual general meeting for a term of May 1st to April 30.”
+with:
+“All Managers shall be elected by the Members at the Annual General Meeting for a term of May 1st to April 30.”
+BE IT FURTHER RESOLVED THAT §7.02 of the By-laws be amended by removing the following sentence:
+“The Members, Directors or Officers, subject to the policy, shall appoint the Managers of the Society.”
+	Discussion
+	
+
+	Result
+Résultat
+	15 votes for; 0 votes against; 1 abstention
+	
+
+Title
+Titre
+	Amendment to the Appointment Process of the Chair of the Board
+	Mover
+Proposé
+	Zoe
+	Seconder
+	Daniel
+	WHEREAS the current By-laws state that the Members will appoint the Chair and elect the Directors, without clearly distinguishing the governance role of the Chair from general membership oversight;
+WHEREAS the Chair of the Board is expected to serve as a neutral facilitator and uphold governance best practices, and therefore should be selected by and accountable to the Board of Directors;
+WHEREAS best practices in nonprofit and corporate governance support Board-appointed Chairs to ensure effectiveness, independence, and alignment with Board dynamics;
+BE IT RESOLVED THAT the §5.03 of the By-laws be amended to read:
+“The Members shall elect the Directors at a meeting of the Members and at each succeeding meeting at which an election of Directors is required. All Directors shall, subject to the authority of the Board, have a term ending on April 30 of each year.
+The Chair of the Board shall be appointed elected by resolution of the Board of Directors from among its members at the first Board meeting following the Annual General Meeting. The Chair shall serve a term ending on April 30 or until a successor is appointed. The Board may, by two-thirds (⅔) resolution, remove and replace the Chair at any time.”
+	Discussion
+	Dakota: If they run for a year rep does that mean that position is vacant? 
+Daniel: Very similar to Canadian politics. There are quite a number of positions are open and would not be worried about. Would still be the rep but would lose their vote. They would have to act like the Chair 
+Aiden: Adds more restrictions to chair. We already struggle. More restrictions will lessen then amount of people going for the position 
+Daniel: Would be open to remove that. But think that it would make it more straight forward. Makes it that a year rep would have to stood up. 
+Conor: Would taking it out nullify ur point? 
+Daniel: Main purpose would make it much more just up to chair vs the annual general meeting. 
+Aiden: Would like to strike it (friendly) 
+Brooke: What would the benefits be? We all go to the AGM, it wouldn’t be bad to have members to also vote on it. I don’t see the benefit. 
+Daniel: This would avoid a chair elected at AGM that had people show up. The real reason I think it’s important is appointed vs elected. Clarification of appointing at AGM or elected. We need to change something. Appointment process doesn’t really happen at AGM. 
+Brooke: We’re saying we control who would be chair not the responsibility. Can we say that they are elected at AGM or would it work? 
+Daniel: That would change the intent so would not be friendly 
+Daniel: Very first motion of the first summer BOD meeting of the summer. 
+Conor: This would clarify. Moving the Chair election to the summer BoD is making it a little harder for. 
+	Result
+Résultat
+	2 votes for; 8 votes against; 1 abstention
+	
+
+Title
+Titre
+	Clarification of “Per Semester” Language
+	Mover
+Proposé
+	Aiden 
+	Seconder
+	Ashna
+	WHEREAS several provisions in the Policy and Procedure Manual require certain events or deliverables “per semester,” without specifying which semesters this obligation applies to;
+WHEREAS the intent of these requirements is to ensure meaningful engagement during both the Fall and Winter semesters, which comprise the primary academic terms;
+WHEREAS clear and specific language in the Policy and Procedure Manual promotes consistency, accountability, and ease of interpretation;
+BE IT RESOLVED THAT the following sections of the Executive Member Policy and Manager Policy be amended to replace the phrase “per semester” with “each Fall and Winter semester”, as follows:
+* Executive Member Policy
+   * §2.3.8(h): “hold one (1) event each Fall and Winter semester for patch sewing”
+   * §2.3.11(g): “host at least one (1) morale event each Fall and Winter semester”
+   * §2.3.11(h): “host at least one (1) diversity event each Fall and Winter semester”
+   * §2.3.12(g): “organize one (1) additional French-language event for Francophone engineering students each Fall and Winter semester”
+* Manager Policy
+   * §3.3.7(e): “host one (1) financial literacy and outreach event each Fall and Winter semester or organize the contracting of one”
+   * §3.3.11(d): “host at least one (1) external awareness event each Fall and Winter semester”
+	Discussion
+	Daniel: Remaining usages are specifically for all three school semesters 
+	Result
+Résultat
+	10 votes for; 0 votes against; 0 abstentions
+	
+
+Title
+Titre
+	Quorum Threshold and Procedural Integrity
+	Mover
+Proposé
+	Aiden
+	Seconder
+	Zoe
+	WHEREAS the current quorum threshold of 50% plus one can at times impede the Board’s ability to conduct regular business;
+WHEREAS reducing the quorum threshold to one-third (⅓) of Directors entitled to vote strikes a more practical balance between operational feasibility and governance legitimacy;
+WHEREAS the existing clause allowing meetings to continue after quorum is lost during the meeting undermines the legitimacy of decisions made without adequate voting representation;
+WHEREAS proxies are not entitled to vote and therefore should not be counted toward quorum, as quorum should reflect the presence of actual voting Directors;
+BE IT RESOLVED THAT §6.04 of the By-laws be amended to read as follows:
+“Quorum at any meeting of the Board shall be one-third (⅓) of the Directors entitled to vote at the meeting, or ten (10) Directors, whichever is greater.”
+	Discussion
+	Brooke: I like the idea of mandating quorum but we should keep 50%. It’s chosen to have the majority of representation. We should be mandating the people who ran for the meeting and not reducing the number 
+Daniel: We need to solve the issue of having the board being more filled during the summer. We could have a ⅓ or a certain amount. This was added in recently because of what I assume that meetings would end because they lost quorum. Having it lower will prevent frustration 
+Dakota: Summer numbers shouldn’t be considered. But having a minimum number is more reasonable 
+Brooke: When we make a decision we would want the majority of our board to be able to make decisions. Yes we need to coordinate but we also need to see why they aren’t showing and considering removing them 
+Daniel: Need to be more accountable. I did change it to having at least 10. I don’t think 50% is a majority or magic number. I think ⅓ is still legitimate. 
+Conor: I agree with Daniel about accountability. Removing will have to be another decision
+Chair: Current is after three meetings with no excuse then it will be brought up. 
+Daniel: Removal from office policy does not have anything about attendance 
+Brooke: Motion to amend to 50% + one Seconder: Thomas
+50%+1 (4 votes)
+⅓ (8 votes) 
+	Result
+Résultat
+	3 votes for; 2 votes against; 2 abstention 
+
+
+Aiden: Motions to revote. Seconder Hayley 
+Passes unanimously 
+8 votes for; 2 votes against: 2 abstention 
+	
+
+Title
+Titre
+	Adoption of Revised Sub-Association Policy
+	Mover
+Proposé
+	VP Internal
+	Seconder
+	Aiden
+	WHEREAS the Society recognizes the importance of establishing clear governance, financial, and operational standards for all Sub-Associations;
+WHEREAS the revised Sub-Association Policy was developed to promote consistency, accountability, and equitable support across all recognized Sub-Associations;
+BE IT RESOLVED THAT the Board of Directors hereby adopts the revised Sub-Association Policy, as presented, effective immediately.
+	Documents
+	Sub-Association Policy 2025 Revision
+	Discussion
+	Aiden: Investment policy 
+Farah: We had a meeting a week or so ago. None of this was mentioned and there are a lot of details that we would need to go over. Can we motion to table this to another meeting 
+Daniel: This was discussed or it came out of that discussion 
+Motion to table to the next meeting. Seconder Eric. 
+Passes unanimously 
+	Result
+Résultat
+	
+
+	9. Executive Updates – Mises à jour de l'exécutif
+* Co-Presidents – Coprésidents: Aiden McCooeye (he/him/il) & Eric Hagen (he/him/il)
+   * Making progress with bank signatory transition,
+   * Taking on the Manager of Sponsorships role until the position is filled
+      * Reaching out to sponsors and compiling a tracker of companies to reach out to for 101 Week,
+   * Attending PRT/TRP
+* VP External – Externe: Ashna Cheverlharan (she/her/elle)
+   * Transitioned Manager of Student Advocacy and Manager of Sports,
+   * Finalizing first posts for external awareness account, stay tuned for promo request
+   * Working on finalizing budget,
+   * ESSCO related work: membership fees, CALE preliminary communication, PM in June
+* VPFA: Cyrus Choi (he/him/il)
+   * Winter 2025 audit: Audit2_Parts2-9.pdf,
+   * Don’t have bank access, need to wait until I am back in Ottawa to go in person with Eric and Aiden,
+   * May Financial Report (see image):
+  
+
+   * To sub-associations, Daniel brought the miscalculation of levies issue to my attention as well as the missing Summer 2024 levy payment. I have sent an email to the Operations Commissioner on UOSU for ESS's previous audits and Engineering Student Lists to see how much we had sent you as levies to calculate the difference. Although I am unable to join this BoD meeting, feel free to message the ⁠sub-association-presidents with questions and I will answer them to the best of my ability. Daniel had mentioned that you wanted numbers and money by today but I will update you all as I get more information. I apologize for the miscalculation by my predecessors and look forward to working with all of you!
+* VP Academic – Académique: Nick Mesquita (he/him/il)
+   * No Updates
+* VP Communications: Hayley (she/her/elle)
+   * Rebranding instagram has started,
+   * starting to use Linkedin again,
+   * redoing website, entire comms team project, underway
+   * IT manager working on website organization, Marketing manager on website branding, Socials manager on IG branding, I'm working on the handbook
+* Interim VP Internal – Interne: Daniel Thorp (he/him/il)
+   * Hired uOEC/CIuO Commissioner and organizing committee
+   * Submitted EEF/FdG funding application for uOEC
+   * Finalized and submitted revised Sub-Association Policy for Board approval
+   * Held meetings with Sub-Association Presidents and JMTS teams
+   * Created and launched Manager/Commissioner/Committee hiring form
+   * Completed draft of VP Internal budget
+   * Provided French support during VP Franco vacancy
+   * Met with past ESS leaders to review governance history and context behind by-law and policy reforms
+* VP Services: Luke Ballinger (he/him/il)
+   * new merch design is complete and everything is ready with producer, only waiting for money to go through,
+   * 101 week shirt designs are complete and ready to go, waiting for confirmation on sponsorships before production can begin,
+   * waiting for monetary confirmation to buy bandanas and patches,
+   * working on events for 101 week with Jake
+* VP Social: Jake Mol (he/him/il)
+   * 101 week well underway, calendar mostly figured out and suppliers contacted + collab events,
+   * Well ahead of other RSGs
+   * finalizing budget for 101 week and other events 
+      * Be ready by next BOD Meeting
+* VP Philanthropic – Philanthropique: Zoe Saunders (she/her/elle)
+   * Finalizing tentative budget for the year + meeting with cyrus june 10th to discuss,
+   * Planning potential summer fundraising events (depends on charity commissioner application results)
+   * Planning Shinerama 
+   * Attending Phil Round Tables 
+* VP Equity – Équité: Maria Hal (she/her/elle)
+   * * VP Sustainability – Développement durable: Leila Smaili (she/her/elle)
+   * 10. Sub-association updates –  Mise à jour des sous-associations
+* IEEE
+   * Transitioning and onboarding,
+   * SPAC 2025 preparations under way,
+   * Applied for EEF Summer
+   * Attended IEEE Canada student lead trainings
+* CESA
+   * Completed VP transitions
+   * Working on budget/plan for the coming year
+* CHESS
+   * * MESS
+   * 11. UOSU BoD Updates – Mises à jour du CA du SÉUO
+* 12. Notice of Motions – Avis de motion
+ChESS is not completely compliant so may have a 15% levy deduction 
+Sub Association Policy 
+ESS Constitution 
+Changing language Test policy 
+13. Adjournment – Ajournement
+With no further business, the meeting adjourned at 2:54 PM EDT.
+L'ordre du jour étant épuisé, la réunion est levée à 2h54 PM HAE.
+14. Next Meeting – Prochaine réunion
+The next Board meeting will be scheduled for June 22nd 2025 at 11 AM. 
+La prochaine réunion du conseil d'administration sera programmée le 22 juin à 11h00.
