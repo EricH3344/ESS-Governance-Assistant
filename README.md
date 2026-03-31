@@ -97,7 +97,6 @@ streamlit run app.py
 ## Key Features
 
 - **HyDE (Hypothetical Document Embeddings):** For ambiguous queries, the LLM generates a plausible answer first, which is then used to improve retrieval.
-- **Bilingual support:** Responds in French when the query is in French.
 - **Role-aware chunking:** Attendance sections are parsed to associate content with specific officers.
 - **Score thresholding:** Returns a fallback message when no sufficiently relevant chunk is found (cosine distance > 0.44).
 - **Meeting index:** Resolves relative references like "last board meeting" to a specific ISO date.
