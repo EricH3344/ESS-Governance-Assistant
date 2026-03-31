@@ -1,5 +1,4 @@
 import requests
-from torch import dtype
 from retrieval import retrieve, get_meeting_index, resolve_meeting_date, detect_document_type
 
 # ---------------------------------------------------------
