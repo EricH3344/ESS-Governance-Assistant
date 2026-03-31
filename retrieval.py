@@ -8,7 +8,7 @@ BASE_DIR = Path(__file__).resolve().parent
 VECTORDB_DIR = BASE_DIR / "vectordb"
 
 client = chromadb.PersistentClient(path=str(VECTORDB_DIR))
-collection = client.get_collection("governance")
+collection = client.get_or_create_collection("governance")
 
 # Load embedding model
 model = SentenceTransformer("BAAI/bge-small-en-v1.5")
