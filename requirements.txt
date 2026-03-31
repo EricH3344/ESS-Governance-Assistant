@@ -1,0 +1,6 @@
+streamlit
+spacy
+python-dateutil
+chromadb
+sentence-transformers
+requests
